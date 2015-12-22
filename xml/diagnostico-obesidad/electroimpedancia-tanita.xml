@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Electroimpedancia Tanita Obesidad</es>
+			<en>TANITA Obesity bio-electrical impedance</en>
+			<de>Elektrische Impedanz Tanita Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>A través del TANITA Médico Advance evaluamos y cuantificamos los parámetros, para corregir, adaptar y personalizar el Plan Nutricional adecuado a cada obesidad</es>
+			<en>TANITA Médico Advance allows us to assess and quantify parametres to correct, adapt and personalise a Nutrition Plan suitable for each Obesity case</en>
+			<de>Durch TANITA Médico Advance bewerten und quantifizieren wir die Parameter, um den für die jeweilige Fettleibigkeit geeigneten Ernährungsplan zu korrigieren, anzupassen und zu personalisieren.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, diagnostico, plan, nutricional, clínica, instituto, metabolismo, grasa, corporal</es>
+			<en>obesity, treatment, diagnosis, plan, nutrition, clinic, institute, metabolism, fat, body</en>
+			<de>Fettleibigkeit, Behandlung, Diagnose, Plan, Ernährungs-, Klinik, Institut, Stoffwechsel, Körperfett</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>ELECTROIMPEDANCIA TANITA</es>
+				<en>TANITA Bio-electrical Impedance</en>
+				<de>Elektrische Impedanz TANITA</de>
+			</title>
+			<img>slider_tanita.jpg</img>
+			<alt>
+				<es>Asesoramiento médico para elegir el Tratamiento contra la Obesidad más adecuado y eficaz para ti</es>
+				<en></en>
+				<de></de>
+			</alt>
+		</slider>
+			
+	</sliders>
+	<messages>
+	
+	</messages>
+	<breadcrumbs>
+		<item>
+			<name>
+				<es>Volver Diagnóstico Obesidad</es>
+				<en>Obesity Diagnosis</en>
+				<de>Adipositas Diagnose</de>
+			</name>
+			<link>
+				<es>/diagnostico-obesidad</es>
+				<en>/obesity-diagnosis</en>
+				<de>/diagnose-fettleibigkeit</de>
+			</link>
+		</item>
+		<active>
+			<name>
+				<es>Electroimpedancia Tanita</es>
+				<en>TANITA Bio-electrical Impedance</en>
+				<de>Elektrische Impedanz TANITA</de>
+			</name>
+		</active>
+	</breadcrumbs>
+	<content>
+		<text>
+			<es>#b-#Electro Impedancia TANITA Médico Advance#/b-#</es>
+			<en>#b-#TANITA Médico Advance Bio-electrical Impedance#/b-#</en>
+			<de>#b-#Elektrische Impedanz TANITA Médico Advance#/b-#</de>
+		</text>
+		<text>
+			<es>A través del #b-#TANITA Médico Advance#/b-# podremos evaluar y cuantificar en cada consulta los siguientes parámetros, imprescindible para corregir, adaptar y personalizar el Plan Nutricional adecuado a cada paciente, cuyo objetivo principal se enfoque a mantener la masa muscular, promover la pérdida de grasa y mejorar el Índice de Tasa Metabólica.</es>
+			<en>#b-#TANITA Médico Advance#/b-# allows us to assess and quantify in each visit the following parametres, which are essential to correct, adapt and personalise a Nutrition Plan suitable for each patient, whose main goal it to maintain the muscle mass, foster weight loss and improve the Metabolic Rate Index.</en>
+			<de>Mit #b-#TANITA Médico Advance können#/b-# wir bei jeder Untersuchung die folgenden Parameter messen und bewerten, die unentbehrlich sind, um den angebrachten Ernährungsplan zu korrigieren, anzupassen und personalisieren, dessen Hauptziel darauf ausgerichtet ist,die Muskelmasse zu erhalten, Gewichtsverlust zu fördern und die Stoffwechselrate zu verbessern.</de>
+		</text>
+		<cards>
+			<card>
+				<title>
+					<es>Metabolismo Basal</es>
+					<en>Basal Metabolism</en>
+					<de>Basal-Stoffwechsel</de>
+				</title>
+				<text>
+					<es>Que nos indicará nuestro consumo calórico en reposo.</es>
+					<en>Indicating our caloric expenditure at rest.</en>
+					<de>Er zeigt uns den Kalorienverbrauch im entspannten Zustand an.</de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Composición Corporal</es>
+					<en>Body Composition</en>
+					<de>Körperzusammensetzung</de>
+				</title>
+				<text>
+					<es>Desglosando nuestro peso total en gramos de agua, grasa, músculo y hueso para evaluar realmente cuantos kilos debo perder.</es>
+					<en>Breaking down our total weight in grammes of water, fat, muscle and bone to determine how many kilogrammes patients really need to lose.</en>
+					<de>Unser Gewicht von Wasser, Fett, Muskel und Knochen in Gramm wird aufgeschlüsselt, um auszuwerten wie viele Kilo wir wirklich verlieren sollten.</de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Índice de Grasa Visceral</es>
+					<en>Visceral Adiposity Index</en>
+					<de>Index für viszerales Bauchfett</de>
+				</title>
+				<text>
+					<es>0 de grasa acumulada detrás de la pared abdominal. Nos indicará un factor importante de riesgo cardiovascular.</es>
+					<en>0 fat accumulated behind the abdominal wall. It will indicate an important cardiovascular-risk factor.</en>
+					<de>Kein Fett, das sich hinter der Bauchdecke ansammelt. Ein wichtiger Faktor des kardiovaskulären Risikos.</de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Índice de Tasa Metabólica</es>
+					<en>Metabolic Rate Index</en>
+					<de>Index der Stoffwechselrate</de>
+				</title>
+				<text>
+					<es>Nos mostrará la capacidad del paciente para utilizar la grasa como fuente de energía, marcándonos un metabolismo lento o efectivo.</es>
+					<en>It will show patients’ ability to use fat as a source of energy, pinpointing a slow or efficient metabolism.</en>
+					<de>Zeigt uns die Fähigkeit des Patienten das Fett als Quelle der Energie zu nutzen, und ob der Stoffwechsel langsam oder effektiv ist.</de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Equilibrio del Agua</es>
+					<en>Water Balance</en>
+					<de>Wassergleichgewicht</de>
+				</title>
+				<text>
+					<es>Éste parámetro nos determina la hidratación celular, enfocándonos niveles de retención de líquidos y metabolismo celular para conseguir una pérdida de grasa eficaz.</es>
+					<en>This parametre determines cellular hydratation, highlighting levels of fluid retention and cellular metabolism in order to lose weight efficiently.</en>
+					<de>Dieser Parameter stellt die Flüssigkeitsversorgung der Zellen fest. Untersucht den Retentionsgrad der Körperflüssigkeit und den Zellstoffwechsel, um effektiv Fett zu verlieren.</de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Distribución Corporal</es>
+					<en>Body Distribution</en>
+					<de>Körperverteilung</de>
+				</title>
+				<text>
+					<es>Un balance que nos muestra las zonas donde almacenamos grasa y donde nuestra masa muscular es más abundante.</es>
+					<en>A balance that shows areas where fat is stored and where muscle mass is more abundant.</en>
+					<de>Bilanz, die uns anzeigt in welchen Bereichen wir Fett ansammeln und wo wir mehr Muskelmasse haben.</de>
+				</text>
+			</card>
+		</cards>
+	</content>
+</page>

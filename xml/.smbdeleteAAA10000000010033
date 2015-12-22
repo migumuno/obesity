@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<sliders>
+		<slider>
+			<img>slider_madridsalud1.jpg</img>
+			<alt>
+				<es>Asesoramiento médico para elegir el  
+Tratamiento contra la Obesidad
+más adecuado y eficaz para ti
+</es>
+				<en></en>
+				<de></de>
+			</alt>
+		</slider>
+		<slider>
+			<img>slider_madridsalud2.jpg</img>
+			<alt>
+				<es>Asesoramiento médico para elegir el  
+Tratamiento contra la Obesidad
+más adecuado y eficaz para ti
+</es>
+				<en></en>
+				<de></de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#La mejor sanidad a tu alcance#/div-#</es>
+				<en></en>
+				<de></de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en></en>
+				<de></de>
+			</text>
+			
+		</message>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#Madrid te está esperando#/div-#</es>
+				<en></en>
+				<de></de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en></en>
+				<de></de>
+			</text>
+			
+		</message>
+	</messages>
+	<content>
+		<left>
+			<text>
+				<es>#b-#La sanidad española es considerada como una de las mejores del mundo.#/b-# La organización Mundial de la Salud (OMS) la sitúa en la 7ª posición de salud en el mundo. La OMS en este Informe señala que el pueblo español se clasifica SEGUNDO, en relación con su grado de satisfacción con la calidad que reciben de su sistema sanitario. La revista Newsweek la coloca en 3ª posición.</es>
+				<en></en>
+				<de></de>
+			</text>
+			<text>
+				<es>#b-#Los médicos españoles se forman durante 6 a 7 años#/b-# antes de obtener su cualificación y recibir su licenciatura. Las especializaciones, como es el caso de los cirujanos, implican más años de estudio y formación antes de recibir su licenciatura.</es>
+				<en></en>
+				<de></de>
+			</text>
+			<text>
+				<es>#b-#España es un país sumamente respetado en la comunidad médica europea#/b-# por su alta calidad de vida como demuestra el hecho de que los españoles son considerados unas de las personas más sanas del mundo ya que tienen el promedio más alto de vida en la Unión Europea (80 años para mujeres y 74 para los hombres)</es>
+				<en></en>
+				<de></de>
+			</text>
+		</left>
+		<right>
+			<text>
+				<es>#b-#ESPAÑA es la 2º potencia turística mundial con infraestructuras turísticas de alto nivel#/b-#, la mejor oferta de compras, historia, cultura, gastronomía, un clima excelente, parajes maravillosos y "fiesta".</es>
+				<en></en>
+				<de></de>
+			</text>
+			<text>
+				<es>#b-#Madrid, la capital de España, situada en el centro geográfico del país y con acceso a cualquier punto del país#/b-# en menos de hora y media por avión o tres horas en Tren de Alta Velocidad ofrece a sus visitantes la mejor oferta turística de compras, cultural, deportiva, de ocio, espectáculos y gastronomía de toda España.</es>
+				<en></en>
+				<de></de>
+			</text>
+		</right>
+		<cards>
+			<card>
+				<title>
+					<es>Alojamiento</es>
+					<en></en>
+					<de></de>
+				</title>
+				<img>img_madrid1.jpg</img>
+				<alt>
+					<es>alojamiento madrid</es>
+					<en></en>
+					<de></de>
+				</alt>
+				<text>
+					<es>Madrid es #b-#una de las ciudades más acogedoras y amables con los turistas de todo el mundo.#/b-# Personas abiertas, cercanas y acostumbradas a tratar a los turistas con el máximo cariño y respeto.</es>
+					<en></en>
+					<de></de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Museos</es>
+					<en></en>
+					<de></de>
+				</title>
+				<img>img_madrid2.jpg</img>
+				<alt>
+					<es>museos madrid</es>
+					<en></en>
+					<de></de>
+				</alt>
+				<text>
+					<es>Actualmente Madrid cuenta con #b-#más de 123 museos#/b-# entre los que se encuentran 3 de las mejores pinacotecas del mundo.</es>
+					<en></en>
+					<de></de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Compras</es>
+					<en></en>
+					<de></de>
+				</title>
+				<img>img_madrid3.jpg</img>
+				<alt>
+					<es>compras madrid</es>
+					<en></en>
+					<de></de>
+				</alt>
+				<text>
+					<es>#b-#Madrid es actualmente la Capital de las Compras en Europa.#/b-# En sus calles podrás encontrar desde las más prestigiosas tiendas de lujo internacionales, a mercados de arte, mercadillos al aire libre hasta comercios centenarios.</es>
+					<en></en>
+					<de></de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Espectáculos</es>
+					<en></en>
+					<de></de>
+				</title>
+				<img>img_madrid4.jpg</img>
+				<alt>
+					<es>espectáculos madrid</es>
+					<en></en>
+					<de></de>
+				</alt>
+				<text>
+					<es>Disfruta durante tu estancia en Madrid de los mejores espectáculos internacionales y de espectáculos exclusivos solamente posibles en nuestra ciudad.</es>
+					<en></en>
+					<de></de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Eventos y Ferias</es>
+					<en></en>
+					<de></de>
+				</title>
+				<img>img_madrid5.jpg</img>
+				<alt>
+					<es>eventos y ferias madrid</es>
+					<en></en>
+					<de></de>
+				</alt>
+				<text>
+					<es>Madrid tiene actualmente #b-#una de las economías más pujantes de todas las regiones de Europa#/b-# y en ella se concentran los más prestigiosos eventos y ferias a nivel internacional.</es>
+					<en></en>
+					<de></de>
+				</text>
+			</card>
+		</cards>
+	</content>
+</page>

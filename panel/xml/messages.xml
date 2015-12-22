@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+	<title>
+		<es>Mensajes</es>
+		<en>Mailbox</en>
+		<de></de>
+	</title>
+	<text>
+		<es>Mensaje</es>
+		<en>Message</en>
+		<de></de>
+	</text>
+	<new_msg>
+		<es>Nuevo mensaje</es>
+		<en>New message</en>
+		<de></de>
+	</new_msg>
+	<subject>
+		<es>Asunto</es>
+		<en>Subject</en>
+		<de></de>
+	</subject>
+	<inbox>
+		<es>Recibidos</es>
+		<en>Inbox</en>
+		<de></de>
+	</inbox>
+	<sent>
+		<es>Enviados</es>
+		<en>Sent</en>
+		<de></de>
+	</sent>
+	<read>
+		<es>Leídos</es>
+		<en>Read</en>
+		<de></de>
+	</read>
+	<filters>
+		<es>Filtros</es>
+		<en>Filters</en>
+		<de></de>
+	</filters>
+	<unread>
+		<es>No leídos</es>
+		<en>Unread</en>
+		<de></de>
+	</unread>
+	<removed>
+		<es>Eliminados</es>
+		<en>Deleted</en>
+		<de></de>
+	</removed>
+	<to>
+		<es>Para</es>
+		<en>To</en>
+		<de></de>
+	</to>
+	<send>
+		<es>Enviar</es>
+		<en>Send</en>
+		<de></de>
+	</send>
+	<reply>
+		<es>Responder</es>
+		<en>Reply</en>
+		<de></de>
+	</reply>
+	<mark_unread>
+		<es>Marcar como no leído</es>
+		<en>Mark as unread</en>
+		<de></de>
+	</mark_unread>
+	<unerase>
+		<es>Recuperar mensaje</es>
+		<en>Recover message</en>
+		<de></de>
+	</unerase>
+	<delete>
+		<es>Borrar este mensaje</es>
+		<en>Delete this message</en>
+		<de></de>
+	</delete>
+</messages>

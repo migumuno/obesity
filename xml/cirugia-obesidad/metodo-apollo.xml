@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Método Endo-Sleeve Apollo</es>
+			<en>Apollo Endo-Sleeve Method</en>
+			<de>Apollo-Methode: Endoskopische Magensleeve-Resektion</de>
+		</title>
+		<description>
+			<es>Método Endo-Sleeve con Sutura Apollo, reducción de estómago por endoscopia sin cirugía, para perder de 15 a 45 kilos, sin incisiones externas</es>
+			<en>Apollo Endo-Sleeve Method with Suturing, stomach reduction by endoscopy without external incisions to lose between 15 and 45 kilogrammes</en>
+			<de>Methode der endoskopischen Magensleeve-Resektion mit Apollo-Naht, Magenverkleinerung durch Endoskopie ohne Chirurgie, zum Verlieren von 15 bis 45 Kilo, ohne äußere Einschnitte.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, endo-sleeve, apollo, sutura, endoscopia, ciruga, incisiones, reduccion, estomago</es>
+			<en>obesity, treatment, method, endo-sleeve, apollo, suture, endoscopy, surgery, incisions, reduction, stomach</en>
+			<de>Fettleibigkeit, Behandlung, Methode, Magensleeve-Resektion, Apollo, Naht, Endoskopie, Chirurgie, Einschnitte, Verkleinerung, Magen</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>Método Apollo Endo-Sleeve</es>
+				<en>Apollo Endo-Sleeve Method with Suturing</en>
+				<de>Endoskopische Magensleeve-Resektion mit Darmnaht Apollo</de>
+			</title>
+			<img>slider_generico1.jpg</img>
+		</slider>
+		<slider>
+			<title>
+				<es>Método Apollo Endo-Sleeve</es>
+				<en>Apollo Endo-Sleeve Method with Suturing</en>
+				<de>Endoskopische Magensleeve-Resektion mit Darmnaht Apollo</de>
+			</title>
+			<img>slider_generico2.jpg</img>
+		</slider>
+	</sliders>
+	<messages>
+			<message>
+			<img>
+				<es>pastilla_endosleeve1.png</es>
+				<en>pastilla_endosleeve1_en.png</en>
+				<de>pastilla_endosleeve1_de.png</de>
+			</img>
+			<alt>
+				<es>Endo-Sleeve Apollo</es>
+				<en>Apollo Endo-Sleeve</en>
+				<de>Endoskopische Magensleeve-Resektion</de>
+			</alt>
+		</message>
+				<message>
+			<img>
+				<es>pastilla_endosleeve2.png</es>
+				<en>pastilla_endosleeve2_en.png</en>
+				<de>pastilla_endosleeve2_de.png</de>
+			</img>
+			<alt>
+				<es>Endo-Sleeve Apollo</es>
+				<en>Apollo Endo-Sleeve</en>
+				<de>Endoskopische Magensleeve-Resektion</de>
+			</alt>
+		</message>
+	</messages>
+	<content>
+		<img>
+			<name>metodo2.jpg</name>
+			<alt>
+				<es>Metodo apollo endo-sleeve emio</es>
+				<en>Obesity Apollo Endo-Sleeve Method emio</en>
+				<de>Fettleibigkeit Methode Endoskopische Magensleeve-Resektion Apollo emio</de>
+			</alt>
+		</img>
+		<description>
+			<text>
+				<es>#div class="titulo_metodo"-#Reducción de estómago sin incisiones externas#/div-#</es>
+				<en>#div class="titulo_metodo"-#Stomach reduction without external incisions#/div-#</en>
+				<de>#div class="titulo_metodo"-#Endoskopische  Magensleeve-Resektion  mit Darmnaht Apollo#/div-#</de>
+			</text>
+			<text>
+				<es>Traemos de EEUU el último avance en Reducción de Estómago por Endoscopia, intervención mínimamente invasiva sin incisiones externas.</es>
+				<en>We bring in the lastest developments from the United States in Endoscopic Stomach Reduction, which is a minimally invasive operation without external incisions.</en>
+				<de>Wir wenden den modernsten Ansatz für Magenverkleinerung mit  Endoskopie aus den USA an, Eingriff minimal invasiv ohne externe Einschnitte.</de>
+			</text>
+			<text>
+				<es>Destinada para aquellos que necesiten perder entre 15Kg y 35Kg describan un exceso de apetito y hayan fracasado en otros tratamientos no quirúrgicos.</es>
+				<en>Designed for those who need to lose between 15 Kg and 35 Kg, have an excessive appetite and have failed with other non-surgical treatments.</en>
+				<de>Vorgesehen für jene, die einen Gewichtsverlust zwischen 15kg und 35kg erreichen müssen, exzessiven Appetit haben und bei anderen, nicht chirurgischen Behandlungen, gescheitert sind.</de>
+			</text>
+		</description>
+		<treatment>
+			<title>
+				<es>Tratamiento Completo Método ENDO-SLEEVE</es>
+				<en>Complete ENDO-SLEEVE Method Treatment</en>
+				<de>Vollständige Behandlung  – Methode der ENDOSKOPISCHEN MAGENSLEEVE-RESEKTION</de>
+			</title>
+			<duration>
+				<es>24 MESES</es>
+				<en>24 months</en>
+				<de>24 Monate</de>
+			</duration>
+			<text>
+				<es>#u-#Intervención y seguimiento#/u-#</es>
+				<en>#u-#Surgery and follow-up#/u-#</en>
+				<de>#u-#Intervention und Nachbeobachtung#/u-#</de>
+				<ul>
+					<li>
+						<es>Intervención de Método ENDO-SLEEVE, con todos las gastos incluidos, pruebas preoperatorias, honorarios médico y hospitalarios, preanestesia...</es>
+						<en>ENDO-SLEEVE Method operation, with all costs included (pre-operative testing, medical and hospital fees, pre-anaesthesia, etc.)</en>
+						<de>Intervention der ENDOSKOPISCHEN MAGENSLEEVE-RESEKTION, inklusive allen Kosten, einschließlich der Untersuchungen vor der Operation, Arzthonorar, Krankenhauskosten, Vorbetäubung...</de>
+					</li>
+					<li>
+						<es>Las Consultas de Nutrición Online que necesite durante los 24 meses de su tratamiento</es>
+						<en>All the Online Nutrition Visits you need during your 24-month treatment</en>
+						<de>24 Monate Online Beratung über Ernährung die Sie während Ihrer Behandlung brauchen.</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#u-#Evaluación metabólica inicial#/u-#</es>
+				<en>#u-#Initial metabolic assessment#/u-#</en>
+				<de>#u-#Erste Bewertung des Stoffwechsels#/u-#</de>
+				<ul>
+					<li>
+						<es>#b-#Estudio Metabólico y de Composición Corporal TANITA Médico Advance#/b-#</es>
+						<en>#b-#Metabolic and Body-composition Assessment TANITA Médico Advance#/b-#</en>
+						<de>#b-#Studie des Stoffwechsels und Körperzusammensetzung TANITA Médico Advance#/b-#</de>
+						<ul>
+							<li>
+								<es>Composición en masa muscular, grasa y agua</es>
+								<en>Composition according to muscle mass, fat and water</en>
+								<de>Zusammensetzung von Muskelmasse, Fett und Wasser</de>
+							</li>
+							<li>
+								<es>Tasa metabólica y efectividad del metabolismo</es>
+								<en>Metabolic rate and efficiency</en>
+								<de>Stoffwechselrate und Effektivität des Stoffwechsels</de>
+							</li>
+							<li>
+								<es>Grasa visceral de riesgo cardiovascular</es>
+								<en>Visceral adiposity causing cardiovascular risk</en>
+								<de>Viszerales Bauchfett mit kardiovaskulärem Risiko</de>
+							</li>
+							<li>
+								<es>Distribución de la composición corporal</es>
+								<en>Body-composition distribution</en>
+								<de>Verteilung der Körperzusammensetzung</de>
+							</li>
+							<li>
+								<es>Retención de líquidos</es>
+								<en>Fluid retention</en>
+								<de>Retention der Körperflüssigkeit</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analizador Intersticial EIS#/b-#</es>
+						<en>#b-#EIS Interstitial Scanner#/b-#</en>
+						<de>#b-#Interstitieller Analysator (EIS)#/b-#</de>
+						<ul>
+							<li>
+								<es>Niveles de ansiedad y estrés (Cortisol-Serotonina)</es>
+								<en>Anxiety and stress levels (Cortisol-Serotonin)</en>
+								<de>Niveau von innerer Unruhe und Stress. (Kortisol-Serotonin)</de>
+							</li>
+							<li>
+								<es>Sensación de hambre (Leptina)</es>
+								<en>Sense of hunger (Leptine)</en>
+								<de>Hungergefühl (Leptin)</de>
+							</li>
+							<li>
+								<es>Niveles de felicidad y autosatisfacción (Dopamina)</es>
+								<en>Happiness and self-satisfaction levels (Dopamine)</en>
+								<de>Niveaus von Glück und Selbstzufriedenheit. (Dopamin)</de>
+							</li>
+							<li>
+								<es>Metabolismo Hormonal (Tiroides y Adrenales)</es>
+								<en>Hormonal metabolism (Thyroid and Adrenal Glands)</en>
+								<de></de>
+							</li>
+							<li>
+								<es>Capacidad de respuestas (Adrenalina-Noradrenalina)</es>
+								<en>Response capacity (Adrenaline-Noradrenaline)</en>
+								<de>Hormoneller Stoffwechsel (Schilddrüse und Nebenniere)</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analítica específica#/b-# de Bioquímica y Tiroides</es>
+						<en>#b-#Specific#/b-# Biochemistry and Thyroid tests</en>
+						<de>#b-#Spezifische Analyse#/b-# der Biochemie und Schilddrüsen</de>
+					</li>
+					<li>
+						<es>#b-#Estudio de Intolerancias Alimenticias#/b-# por Sistema de Biorresonancia MedTronik</es>
+						<en>#b-#Food Intolerance Study#/b-# via MED-Tronik Bioresonance System</en>
+						<de>#b-#Studie der Nahrungsmittelintoleranz#/b-# mit der MedTronik-Bioresonanztherapie</de>
+					</li>
+				</ul>
+			</text>
+		</treatment>
+		<cards>
+			<item>
+				<title>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS </en>
+					<de>ANGABEN</de>
+				</title>
+				<img>icono_metodo1.png</img>
+				<alt>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS </en>
+					<de>ANGABEN</de>
+				</alt>
+				<text>
+					<es>Pacientes que necesiten perder entre 15 kg. y 35 kg. describan un exceso de apetito y hayan fracasado en otros tratamientos no quirúrgicos.</es>
+					<en>Patients who need to lose between 15 Kg and 35 Kg, have an excessive appetite and have failed with other non-surgical treatments.</en>
+					<de>Patienten, die einen Gewichtsverlust zwischen 15kg und 35kg erreichen müssen, exzessiven Appetit haben und bei anderen, nicht chirurgischen Behandlungen, gescheitert sind.</de>
+				</text>
+				<text>
+					<es>Pacientes que necesiten una reducción de estómago pero sientan miedo hacia esta intervención invasiva.</es>
+					<en>Patients who need a stomach reduction, but are afraid of this invasive operation.</en>
+					<de>Patienten die eine Magenverkleinerung brauchen, aber Angst vor einem invasiven Eingriff haben.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</title>
+				<img>icono_metodo2.png</img>
+				<alt>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Analítica preoperatoria</es>
+					<en>Pre-operative testing</en>
+					<de>Analyse vor der Operation</de>
+				</text>
+				<text>
+					<es>Electrocardiograma</es>
+					<en>Electrocardiogram (EKG)</en>
+					<de>Elektrokardiogramm</de>
+				</text>
+				<text>
+					<es>Consulta preoperatoria</es>
+					<en>Pre-operative visit</en>
+					<de>Sprechstunde vor der Operation</de>
+				</text>
+				<text>
+					<es>Dieta líquida las 24 horas anteriores a la intervención</es>
+					<en>Liquid diet 24 hours before surgery</en>
+					<de>Flüssige Nahrung 24 Stunden vor der Operation</de>
+				</text>
+				<text>
+					<es>En ayunas 8 horas antes de la intervención</es>
+					<en>Fasting 8 hours before surgery</en>
+					<de>8 Stunden nüchtern vor der Operation</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Hospitalización</es>
+					<en>HOSPITAL STAY</en>
+					<de>EINWEISUNG IN DAS KRANKENHAUS</de>
+				</title>
+				<img>icono_metodo3.png</img>
+				<alt>
+					<es>Hospitalización</es>
+					<en>HOSPITAL STAY</en>
+					<de>EINWEISUNG IN DAS KRANKENHAUS</de>
+				</alt>
+				<text>
+					<es>Una sola noche de hospitalización</es>
+					<en>A one-night hospital stay only</en>
+					<de>Nur eine einzige Nacht im Krankenhaus</de>
+				</text>
+				<text>
+					<es>Alta a las 24 horas aproximadamente desde la intervención</es>
+					<en>Discharge approximately 24 hours after the operation</en>
+					<de>Entlassung ungefähr 24 Stunden nach der Intervention</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Intervención</es>
+					<en>SURGERY</en>
+					<de>INTERVENTION</de>
+				</title>
+				<img>icono_metodo4.png</img>
+				<alt>
+					<es>Intervención</es>
+					<en>SURGERY</en>
+					<de>INTERVENTION</de>
+				</alt>
+				<text>
+					<es>El Método ENDO-SLEEVE (gastroplastia restrictiva endoscópica) consiste en reducir el estómago por vía endoscópica sin necesidad de hacer incisiones externas, en la que a través de un endoscopio (tubo flexible que se introduce por la boca), se realizan pliegues mediante suturas internas para reducir su tamaño, consiguiendo: ralentizar la digestión en cada ingesta, provocando saciedad precoz, retrasando la aparición de la sensación de hambre.</es>
+					<en>The ENDO-SLEEVE Method (endoscopic restrictive gastroplasty) consists of reducing the stomach size endoscopically without the need of external incisions. An endoscope (flexible tube inserted through the mouth) is used to fold the stomach with internal sutures in order to reduce its size, achieving the following: slowing down the digestion of each intake, causing early satiety, delaying the sense of hunger.</en>
+					<de>Die Methode der ENDOSKOPISCHEN MAGEN SLEEVE-RESEKTION (gastroplastik, restriktiv, endoskopisch) dient zur Magenverkleinerung mit Endoskopie, ohne externe Einschnitte mit dem Endoskop (ein flexibler Schlauch der durch den Mund eingeführt wird). Es werden Falten durch innere Nähte erzeugt, die zur Reduzierung der Größe des Magens beitragen.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Anestesia</es>
+					<en>ANAESTHESIA</en>
+					<de>ANÄSTHESIE</de>
+				</title>
+				<img>icono_metodo5.png</img>
+				<alt>
+					<es>Anestesia</es>
+					<en>ANAESTHESIA</en>
+					<de>ANÄSTHESIE</de>
+				</alt>
+				<text>
+					<es>General</es>
+					<en>General anaesthesia</en>
+					<de>Vollnarkose</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Duración Intervención</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DER INTERVENTION</de>
+				</title>
+				<img>icono_metodo6.png</img>
+				<alt>
+					<es>Duración Intervención</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DER INTERVENTION</de>
+				</alt>
+				<text>
+					<es>Alrededor de 50 minutos</es>
+					<en>Approximately 50 minutes</en>
+					<de>Ungefähr 50 Minuten</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Incisiones</es>
+					<en>INCISIONS</en>
+					<de>EINSCHNITTE</de>
+				</title>
+				<img>icono_metodo7.png</img>
+				<alt>
+					<es>Incisiones</es>
+					<en>INCISIONS</en>
+					<de>EINSCHNITTE</de>
+				</alt>
+				<text>
+					<es>Sin incisiones externas</es>
+					<en>Without external incisions</en>
+					<de>Ohne äußerliche Einschnitte</de>
+				</text>
+				<text>
+					<es>Pliegues internos mediante suturas Apollo</es>
+					<en>Internal folds through Apollo sutures</en>
+					<de>Innere Falten mit Darmnaht Apollo</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE</en>
+					<de>NACH DER OPERATION</de>
+				</title>
+				<img>icono_metodo8.png</img>
+				<alt>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE</en>
+					<de>NACH DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Habitualmente rápida recuperación</es>
+					<en>Normally quick recovery</en>
+					<de>Normalerweise schnelle Erholung</de>
+				</text>
+				<text>
+					<es>En la mayoría de los casos se puede realizar vida normal transcurridas 24 horas</es>
+					<en>In most cases, patients can conduct a normal life after 24 hours</en>
+					<de>In den meisten Fällen kann man nach 24 Stunden wieder ein normales Leben führen.</de>
+				</text>
+			</item>
+		</cards>
+		<results>
+			<title>
+				<es>Resultados</es>
+				<en>RESULTS</en>
+				<de>ERGEBNISSE</de>
+			</title>
+			<text>
+				<es>El Método ENDO-SLEEVE es un gran aliado como sistema de ayuda para perder peso y mantenerlo en el tiempo.</es>
+				<en>The ENDO-SLEEVE Method is a great ally as a help system to lose weight and maintain it in the long-run.</en>
+				<de>Die Methode der ENDOSKOPISCHEN MAGENSLEEVE-RESEKTION ist ein großer Bündnispartner als Hilfssystem, um Gewicht zu verlieren und im Laufe der Zeit konstant zu halten.</de>
+			</text>
+			<text>
+				<es>Es imprescindible que en paralelo se planifique un seguimiento nutricional constante, y si fuera necesario apoyo psicológico.</es>
+				<en>It is essential to plan a constant nutritional follow-up at the same time, as well as a psychological support if needed.</en>
+				<de>Es ist absolut notwendig, parallel dazu eine Ernährungsüberwachung zu planen und falls notwendig, psychologische Unterstützung.</de>
+			</text>
+			<text>
+				<es>Los resultados en la gran mayoría de los casos son de una pérdida de peso constante y un mantenimiento posterior apoyándose en el efecto restrictivo del Método ENDO-SLEEVE y en los nuevos hábitos alimenticios adquiridos. </es>
+				<en>In most cases, results show a constant weight loss and afterwards weight maintenance thanks to the support of the ENDO-SLEEVE Method’s restrictive effect and the new eating habits.</en>
+				<de>In den meisten Fällen ist das Ergebnis ein stetiger Gewichtsverlust und danach das Erhalten des Gewichts, mit der Hilfe der restriktiven Wirkung der Methode der ENDOSKOPISCHEN MAGENSLEEVE-RESEKTION und den erworbenen Ernährungsgewohnheiten.</de>
+			</text>
+		</results>
+		<info>
+			<title>
+				<es>Solicita información del método Endo-Sleeve</es>
+				<en>Request information about Endo-Sleeve method</en>
+				<de>Mehr Information über die Endo-Sleeve Methode</de>
+			</title>
+		</info>
+	</content>
+</page>

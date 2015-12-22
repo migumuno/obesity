@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Intolerancias Alimenticias Obesidad</es>
+			<en>Food intolerances Obesity</en>
+			<de>Nahrungsmittel-intoleranz Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>El Estudio de Intolerancias Alimentarias Medtronik indica los alimentos que crean una reacción en nuestro Sistema Inmunitario, para tratamiento de la obesidad</es>
+			<en>MED-Tronik Food-Intolerance Study  shows which foodstuffs cause a reaction in our Immune System, for Obesity treatment</en>
+			<de>Die Untersuchung der Nahrungsmittelintoleranz MedTronik gibt für die Behandlung der Fettleibigkeit die Nahrungsmittel an, die eine Reaktion im Immunsystem auslösen.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, intolerancia, alimentaria, alimentos, sistema, inmunitario, medtronik, dianostico, nutrientes</es>
+			<en>obesity, treatment, intolerance, food, foodstuffs, system, immune, medtronik, diagnosis, nutrients</en>
+			<de>Fettleibigkeit, Behandlung, Intoleranz, Nahrungsmittel-, System. Immun-, Medtronik, Diagnose, Nährstoffe</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+		<title>
+			<es>INTOLERANCIAS ALIMENTARIAS MEDTRONIK</es>
+			<en>MED-Tronik Food Intolerances</en>
+			<de>Nahrungsmittelintoleranz MedTronik</de>
+		</title>
+			<img>slider_medtronik.jpg</img>
+			<alt>
+				<es></es>
+				<en></en>
+				<de></de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		
+	</messages>
+	<breadcrumbs>
+		<item>
+			<name>
+				<es>Volver Diagnóstico Obesidad</es>
+				<en>Obesity Diagnosis</en>
+				<de>Adipositas Diagnose</de>
+			</name>
+			<link>
+				<es>/diagnostico-obesidad</es>
+				<en>/obesity-diagnosis</en>
+				<de>/diagnose-fettleibigkeit</de>
+			</link>
+		</item>
+		<active>
+			<name>
+				<es>Intolerancias Alimentarias MEDTRONIK</es>
+				<en>Food Intolerances via MED-Tronik Bioresonance</en>
+				<de>Nahrungsmittelintoleranz mit MedTronik-Bioresonanztherapie</de>
+			</name>
+		</active>
+	</breadcrumbs>
+	<content>
+		<left>
+			<text>
+				<es>#b-#CERTIFICADO ISO 9001:2000 de la Directiva de Dispositivos Médicos ISO 13485:2003 de la CEE#/b-#</es>
+				<en>#b-#ISO 9001:2000 certification of the EEC Medical Device Directive ISO 13485:2003.#/b-#</en>
+				<de>#b-#ZERTIFIKAT ISO 9001:2000, Richtlinie Medizinprodukte ISO 13485:2003 der EWG#/b-#</de>
+			</text>
+			<text>
+				<es>Más que indicarnos los alimentos que “nos engordan más”, éste estudio nos indica los alimentos que crean una reacción en nuestro Sistema Inmunitario, con lo cual asimilaremos peor aprovechando menos sus nutrientes, creándonos digestiones pesadas y debilitando nuestras defensas si los tomamos de forma abundante.</es>
+				<en>Rather than indicating the “most fattening” foodstuffs, this study pinpoints those foods that create a reaction within our Immune System. Consequently, fewer nutrients will be used, digestion will become more complicated, weakening our defences in case of a significant intake of that specific food.</en>
+				<de>Anstatt uns die Lebensmittel anzuzeigen die „dicker machen“ informiert diese Studie uns über die Lebensmittel die eine Reaktion in unserem Immunsystem auslösen, durch die wir Nährstoffe schlechter aufnehmen, was zu schlechter Verdauung und Schwächung unserer Abwehrkräfte führt, wenn wir sie in großen Mengen konsumieren. </de>
+			</text>
+			<text>
+				<es>Esta técnica es especialmente efectiva en la detección de Alergias Ocultas o Intolerancias Alimentarias.</es>
+				<en>This technique is especially effective in detecting Hidden Allergies or Food Intolerances.</en>
+				<de>Diese Technik ist besonders nützlich für die Erkennung verborgener Allergien und Lebensmittelintoleranzen.</de>
+			</text>
+			<text>
+				<es>Cuando se produce una intolerancia alimentaria, el cuerpo no se halla en la disposición de transformar las frecuencias electromagnéticas del alérgeno. Nuestro cuerpo las almacenará obligatoriamente quedándose así adheridas al organismo, que se incrementarán con cada nueva ingesta del mismo alimento. Cuando esto ocurre en repetidas ocasiones, se produce un modelo de estrés que ocasionará el origen de una intolerancia, alergia o enfermedad relacionada.</es>
+				<en>In case of a food intolerance, the body cannot transform the allergen’s electromagnetic frequencies. Our body will be obliged to store them, and they will consequently remain attached to the organism and increase with every new intake of the food in question. When this happens several times, a stress model takes place causing an intolerance, allergy or related condition.</en>
+				<de>Im Fall einer Lebensmittelintoleranz ist der Körper nicht in der Lage, die elektromagnetischenFrequenzen des Allergens umzuwandeln. Unser Körper speichert sie automatisch, sie bleiben im Organismus und nehmen bei jeder Nahrungsaufnahme von demselben Lebensmittel zu. Wenn dies wiederholt passiert, entsteht eine Art Stress und damit der Beginn einer damit verbundenen Intoleranz, Allergie oder Krankheit.</de>
+			</text>
+		</left>
+		<right>
+			<text>
+				<es>Las alergias son unas de las mayores alteraciones del Sistema Inmunitario y uno de los mayores generadores de estrés, que consume muchos recursos y altera nuestro estado de salud.</es>
+				<en>Allergies are one of the Immune System’s main alterations and stressors, consuming many resources and affecting our state of health.</en>
+				<de>Allergien zählen zu den größten Veränderungen des Immunsystems und sind eine der Hauptursachen von Stress, der viele Ressourcen verbraucht und unseren Gesundheitszustand verändert.</de>
+			</text>
+			<text>
+				<es>Es común encontrar muchos ingredientes básicos que pueden causar alergias o intolerancias como pueden ser la leche, el gluten, las levaduras, la caseína, la cafeína, la teína…</es>
+				<en>Many basic ingredients can frequently cause allergies or intolerances, as in the case of milk, gluten, yeasts, caseine, caffeine, etc.</en>
+				<de>Es ist üblich, Grundnahrungsmittel zu finden deren Bestandteile Allergien oder Intoleranzen verursachen können, z.B Milch, Gluten, Hefe, Kasein, Koffein, Teein...</de>
+			</text>
+			<text>
+				<es>Conocerlas e incorporarlas en las modificaciones de nuestros hábitos de vida alimentarios, es recomendable para prevenir problemas de salud a medio y largo plazo.</es>
+				<en>It is recommendable to know them and consequently modify our eating habits in order to avoid medium- and long-term health issues.</en>
+				<de>Sie zu erkennen und sie in unsere Veränderung der Nahrungsgewohnheiten einzubringen ist empfehlenswert, um Gesundheitsproblemen mittel- bis langfristig vorzubeugen.</de>
+			</text>
+		</right>
+	</content>
+</page>

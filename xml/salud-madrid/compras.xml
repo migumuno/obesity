@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Eliminamos tu obesidad</es>
+			<en>We solve your obesity</en>
+			<de>Wir beseitigen Ihre Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>Elimina tu obesidad en Madrid, la Capital de las Compras en Europa; tiendas de lujo, mercados de arte, mercadillos al aire libre y comercios centenarios</es>
+			<en>Solve your obesity in Madrid , Europe’s shopping city; luxury boutiques, art and open-air markets and centuries-old shops.</en>
+			<de>Beseitigen Sie Ihre Fettleibigkeit in Madrid, der Einkaufshauptstadt Europas: Luxusläden, Kunstmärkte, Freiluft-Flohmärkte und hundertjährige Geschäfte.</de>
+		</description>
+		<keywords>
+			<es>obesidad, madrid, españa, compra, tienda, lujo, mercado, mercadillo, comercio, turismo, viaje</es>
+			<en>obesity, madrid, spain, shopping, shop, luxury, market, store, tourism, trip</en>
+			<de>Fettleibigkeit, Madrid, Spanien, Einkauf, Laden, Luxus, Markt, Flohmarkt, Geschäft, Tourismus, Reise</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>EL PLACER DE IR DE COMPRAS EN MADRID</es>
+				<en>THE PLEASURE OF GOING SHOPPING IN MADRID</en>
+				<de>SHOPPINGVERGNÜGEN IN MADRID</de>
+			</title>
+			<img>slider_compras1.jpg</img>
+			<alt>
+				<es>Turismo de compras Madrid</es>
+				<en>Shopping tourism Madrid</en>
+				<de>Einkaufstourismus Madrid</de>
+			</alt>
+		</slider>
+			
+		<slider>
+		<title>
+				<es>MADRID, UN LUJO A TU ALCANCE </es>
+				<en>MADRID: A LUXURY AT YOUR FINGERTIPS</en>
+				<de>MADRID – LEISTBARER LUXUS </de>
+			</title>
+			<img>slider_compras2.jpg</img>
+			<alt>
+				<es>Turismo de compras Madrid</es>
+				<en>Shopping tourism Madrid</en>
+				<de>Einkaufstourismus Madrid</de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#El placer de ir de compras en Madrid#/div-#</es>
+				<en>#div class="title_slider_metodo"-#The pleasure of going shopping in Madrid#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Shoppingvergnügen in Madrid#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+		</message>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#Madrid, un lujo a tu alcance#/div-#</es>
+				<en>#div class="title_slider_metodo"-#Madrid: a luxury at your fingertips#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Madrid, leistbarber luxus#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+		</message>
+	</messages>
+	<breadcrumbs>
+		<item>
+			<name>
+				<es>Volver Madrid es Salud</es>
+				<en>Madrid means Health</en>
+				<de>Madrid ist Gesundheit</de>
+			</name>
+			<link>
+				<es>/salud-madrid</es>
+				<en>/madrid-healthcare</en>
+				<de>/gesundheit-madrid</de>
+			</link>
+		</item>
+		<active>
+			<name>
+				<es>Compras</es>
+				<en>Shopping</en>
+				<de>Shopping</de>
+			</name>
+		</active>
+	</breadcrumbs>
+	<content>
+		<left>
+			<text>
+				<es>#b-#Madrid es actualmente la Capital de las Compras en Europa.#/b-# En sus calles podrás encontrar desde las más prestigiosas tiendas de lujo internacionales, a mercados de arte, mercadillos al aire libre hasta comercios centenarios.</es>
+				<en>#b-#Madrid is currently Europe’s shopping capital.#/b-# On its streets you will find the most prestigious international luxury boutiques, art and open-air markets and even centuries-old shops.</en>
+				<de>#b-#Madrid gilt als die Shoppinghauptstadt Europas.#/b-# In den Straßen Madrids finden Sie Geschäfte der prestigeträchtigsten internationalen Luxusmarken ebenso wie Kunstmärkte, Märkte unter freiem Himmel bis hin zu Geschäften, die auf eine über hundertjährige Unternehmensgeschichte zurückblicken.</de>
+			</text>
+			<text>
+				<es>#b-#En la famosa Milla de Oro de Madrid#/b-#, located in the Salamanca neighbourhood, you will be able to visit #b-#las tiendas más exclusivas a nivel internacional y nacional#/b-#. En tan sólo 15 minutos paseando podrás visitar las tiendas de moda más exquisitas y las más prestigiosas joyerías.</es>
+				<en>#b-#In Madrid’s famous Milla de Oro (the Golden Mile)#/b-# , ubicada en el Barrio de Salamanca, se encuentran #b-#the most exclusive Spanish and international boutiques#/b-#. In only 15-minute walk, you will be able to pass by the most unique and prestigious jewellers.</en>
+				<de>#b-#In der berühmten Goldmeile von Madrid#/b-# im Stadtviertel Salamanca befinden sich #b-#die exklusivsten Geschäfte nationaler und internationaler Designer#/b-#. In nur 15 Minuten Entfernung können Sie auch die erlesensten und prestigeträchtigsten Juweliergeschäfte besuchen.</de>
+			</text>
+		</left>
+		<right>
+			<text>
+				<es>Algunos hoteles de la capital disponen del #b-#servicio de Personal Shopper#/b-#, para asesorarte durante tus compras. Entre ellos, encontramos el Hotel Villamagna, el Hotel AC Santo Mauro y AC Palacio del Retiro, el Hotel Orfila, el Hotel Único y el Hotel Oscar de la cadena Room Mate.</es>
+				<en>Some hotels in Madrid offer the #b-#Personal Shopper service#/b-#, to advise you on your purchases. Among them, we find Hotel Villamagna, Hotel AC Santo Mauro, Hotel AC Palacio del Retiro, Hotel Orfila, Hotel Único and Hotel Oscar of the Room Mate chain.</en>
+				<de>Einige Hotels der Hauptstadt verfügen über einen #b-#Personal Shopper#/b-#, der Sie gerne bei Ihren Einkäufen berät. Das Hotel Villamagna, das Hotel AC Santo Mauro und das Hotel AC Palacio del Retiro, das Hotel Orfila, das Hotel Único und das Hotel Oscar der Kette Room Mate bieten u.a. diesen einzigartigen Service.</de>
+			</text>
+			<text>
+				<es>Puedes encontrar más información sobre compras en Madrid #a href="http://www.esmadrid.com/compras-madrid/" target="_blank"-#aquí#/a-#</es>
+				<en>For further information about shopping in Madrid click #a href="http://www.esmadrid.com/compras-madrid/" target="_blank"-#here#/a-#</en>
+				<de>Für mehr Informationen rund um das Thema Shopping klicken Sie #a href="http://www.esmadrid.com/compras-madrid/" target="_blank"-#hier#/a-#</de>
+			</text>
+		</right>
+		<cards>
+			<card>
+				<title>
+					<es>Moda internacional</es>
+					<en>International fashion</en>
+					<de>Internationale Mode</de>
+				</title>
+				<img>compras1.jpg</img>
+				<alt>
+					<es>Turismo de compras Madrid</es>
+					<en>Shopping tourism Madrid</en>
+					<de>Einkaufstourismus Madrid</de>
+				</alt>
+				<text>
+					<es>Dior</es>
+					<en>Dior</en>
+					<de>Dior</de>
+				</text>
+				<text>
+					<es>Hèrmes</es>
+					<en>Hèrmes</en>
+					<de>Hèrmes</de>
+				</text>
+				<text>
+					<es>Dolce &#38; Gabanna</es>
+					<en>Dolce &#38; Gabanna</en>
+					<de>Dolce &#38; Gabanna</de>
+				</text>
+				<text>
+					<es>Chanel</es>
+					<en>Chanel</en>
+					<de>Chanel</de>
+				</text>
+				<text>
+					<es>Giorgio Armani</es>
+					<en>Giorgio Armani</en>
+					<de>Giorgio Armani</de>
+				</text>
+				<text>
+					<es>Louis Vuitton</es>
+					<en>Louis Vuitton</en>
+					<de>Louis Vuitton</de>
+				</text>
+				<text>
+					<es>Loewe</es>
+					<en>Loewe</en>
+					<de>Loewe</de>
+				</text>
+				<text>
+					<es>Gucci</es>
+					<en>Gucci</en>
+					<de>Gucci</de>
+				</text>
+				<text>
+					<es>Prada</es>
+					<en>Prada</en>
+					<de>Prada</de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Moda nacional</es>
+					<en>Spanish fashion</en>
+					<de>Spanische Mode</de>
+				</title>
+				<img>compras2.jpg</img>
+				<alt>
+					<es>Turismo de compras Madrid</es>
+					<en>Shopping tourism Madrid</en>
+					<de>Einkaufstourismus Madrid</de>
+				</alt>
+				<text>
+					<es>Agatha Ruíz de la Prada</es>
+					<en>Agatha Ruíz de la Prada</en>
+					<de>Agatha Ruíz de la Prada</de>
+				</text>
+				<text>
+					<es>Adolfo Domínguez</es>
+					<en>Adolfo Domínguez</en>
+					<de>Adolfo Domínguez</de>
+				</text>
+				<text>
+					<es>Roberto Verino</es>
+					<en>Roberto Verino</en>
+					<de>Roberto Verino</de>
+				</text>
+				<text>
+					<es>Caramelo</es>
+					<en>Caramelo</en>
+					<de>Caramelo</de>
+				</text>
+				<text>
+					<es>Elena Benarroch</es>
+					<en>Elena Benarroch</en>
+					<de>Elena Benarroch</de>
+				</text>
+				<text>
+					<es>Amaya Arzuaga</es>
+					<en>Amaya Arzuaga</en>
+					<de>Amaya Arzuaga</de>
+				</text>
+				<text>
+					<es>Elio Berhanyer</es>
+					<en>Elio Berhanyer</en>
+					<de>Elio Berhanyer</de>
+				</text>
+				<text>
+					<es>Hannibal Laguna</es>
+					<en>Hannibal Laguna</en>
+					<de>Hannibal Laguna</de>
+				</text>
+				<text>
+					<es>Josep Font</es>
+					<en>Josep Font</en>
+					<de>Josep Font</de>
+				</text>
+				<text>
+					<es>Ángel Schlesser</es>
+					<en>Ángel Schlesser</en>
+					<de>Ángel Schlesser</de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Zapatos</es>
+					<en>Shoes</en>
+					<de>Schuhe</de>
+				</title>
+				<img>compras3.jpg</img>
+				<alt>
+					<es>Turismo de compras Madrid</es>
+					<en>Shopping tourism Madrid</en>
+					<de>Einkaufstourismus Madrid</de>
+				</alt>
+				<text>
+					<es>Manolo Blahnik</es>
+					<en>Manolo Blahnik</en>
+					<de>Manolo Blahnik</de>
+				</text>
+				<text>
+					<es>Jimmy Choo</es>
+					<en>Jimmy Choo</en>
+					<de>Jimmy Choo</de>
+				</text>
+				<text>
+					<es>Tod's</es>
+					<en>Tod's</en>
+					<de>Tod's</de>
+				</text>
+				<text>
+					<es>Pretty Ballerinas</es>
+					<en>Pretty Ballerinas</en>
+					<de>Pretty Ballerinas</de>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Joyerías</es>
+					<en>Jewellery</en>
+					<de>Schmuck</de>
+				</title>
+				<img>compras4.jpg</img>
+				<alt>
+					<es>Turismo de compras Madrid</es>
+					<en>Shopping tourism Madrid</en>
+					<de>Einkaufstourismus Madrid</de>
+				</alt>
+				<text>
+					<es>Suárez</es>
+					<en>Suárez</en>
+					<de>Suárez</de>
+				</text>
+				<text>
+					<es>Brooking</es>
+					<en>Brooking</en>
+					<de>Brooking</de>
+				</text>
+				<text>
+					<es>Carrera y Carrera</es>
+					<en>Carrera y Carrera</en>
+					<de>Carrera y Carrera</de>
+				</text>
+				<text>
+					<es>Wempe</es>
+					<en>Wempe</en>
+					<de>Wempe</de>
+				</text>
+				<text>
+					<es>Cartier</es>
+					<en>Cartier</en>
+					<de>Cartier</de>
+				</text>
+				<text>
+					<es>Bvlgari</es>
+					<en>Bvlgari</en>
+					<de>Bvlgari</de>
+				</text>
+				<text>
+					<es>Tiffany</es>
+					<en>Tiffany</en>
+					<de>Tiffany</de>
+				</text>
+			</card>
+		</cards>
+	</content>
+</page>

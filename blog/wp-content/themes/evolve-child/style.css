@@ -1,0 +1,351 @@
+/*
+ Theme Name:   Evolve Child
+ Theme URI:    http://www.innovadigitalsolutions.es/
+ Description:  Evolve Child Theme
+ Author:       Miguel Ángel Muñoz Viejo
+ Author URI:   http://www.innovadigitalsolutions.es/
+ Template:     evolve
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  evolve-child
+*/
+@import url("../evolve/style.css");
+
+body {
+	background-color: #ebf1f1 !important;
+	color: #234852 !important;
+}
+
+.content {
+	background-color: #ebf1f1 !important;
+}
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15
+{
+    position: relative !important;
+    min-height: 1px !important;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+}
+ 
+.col-xs-15
+{
+    width: 20% !important;
+    float: left !important;
+}
+ 
+@media (min-width: 768px)
+{
+    .col-sm-15
+    {
+        width: 20% !important;
+        float: left !important;
+    }
+}
+ 
+@media (min-width: 992px)
+{
+     .col-md-15
+     {
+        width: 20% !important;
+        float: left !important;
+    }
+}
+ 
+@media (min-width: 1200px)
+{
+    .col-lg-15
+    {
+        width: 20% !important;
+        float: left !important;
+    }
+}
+
+.header {
+	padding: 10px !important;
+	border-top: none;
+	background-color: #fff;
+}
+
+.menu-header {
+	background: #00a0ac !important;
+	box-shadow: none;
+	border: none;
+}
+
+.menu-item a {
+	color: #fff !important;
+	text-shadow: none !important;
+}
+
+.sub-menu .menu-item a {
+	color: #696969 !important;
+}
+
+.menu-header::after {
+	background: #f8f8f8;
+}
+
+.carousel-caption {
+	background: rgba(255,255,255,0.5);
+	color: #234852 !important;
+	text-shadow: none !important;
+	padding-bottom: 0 !important;
+}
+
+#bootstrap-slider .carousel-caption h2 {
+	background: rgba(255,255,255,0.5);
+	margin-bottom: 0 !important;
+}
+
+.footer {
+	color: #fff !important;
+}
+
+ul, ul ul, ul ul ul  {
+	list-style: none !important;
+	list-style-image: none !important;
+}
+
+.container.container-footer ul li .row {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+}
+
+.container.container-footer ul li {
+	font-size: 12px;
+}
+
+.footer a {
+	color: #fff;
+}
+
+.footer a:hover {
+	color: #fff;
+	text-decoration: underline !important;
+}.item_footer {
+	border-left: 1px solid #1a525f;
+	border-right: 1px solid #1a525f;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 17px;
+}
+
+.item_footer ul {
+	margin: 0;
+	padding: 0;
+	margin-top: 10px;
+	text-transform: uppercase;
+	font-size: 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.item_footer ul li {
+	list-style: none;
+	margin-bottom: 3px;
+}
+
+.item_footer_logo {
+	border-left: 1px solid #1a525f;
+	border-right: 1px solid #1a525f;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 17px;
+}
+
+.item_footer_logo ul {
+	margin: 0;
+	padding: 0;
+	margin-top: 10px;
+	font-size: 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.item_footer_logo ul li {
+	list-style: none;
+	margin-bottom: 15px;
+}
+
+.titulo {
+	color: #00a0ac;
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+	font-size: 13px;
+	font-weight: 900;
+}
+
+.item_footer ul {
+    font-family: "Open Sans",sans-serif;
+    font-size: 10px;
+    margin: 10px 0 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.creditos {
+	background-color: #e8f1f0;
+	padding-right: 40px;	
+	padding-left: 40px;
+}
+
+.item_creditos {
+	border-left: 1px solid #f8f9fb;
+	border-right: 1px solid #cbd1d1;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.legal {
+	color: #fff;
+	background-color: #00a0ac;
+	padding-top: 10px;
+	padding-right: 40px;
+	padding-left: 40px;
+	font-size: 10px;
+	font-family: 'Lato', sans-serif;
+}
+
+.legal a {
+	color: #fff;
+}
+
+.legal ul li {
+	list-style: none;
+	display: inline;
+	padding-right: 5px;
+	padding-left: 5px;
+	font-size: 10px;
+}
+
+.legal_li {
+	border-right: 1px solid #fff;
+}
+
+.legal_right {
+	text-align: right;
+}
+
+.thumbnail-post-single img {
+	width: 100%;
+}
+
+.lang {
+	background-color: #ebf1f1;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.lang a {
+	color: #234852;
+}
+
+.lang small {
+	color: #234852;
+	font-family: "Lato",sans-serif;
+    font-weight: 700;
+}
+
+.lang img {
+	width: 29px;
+}
+
+.lang_right {
+	text-align: right;
+	color: #234852;
+}
+
+.lang_left {
+	text-align: left;
+	padding: 5px;
+	color: #234852;
+}
+
+.lang_left img {
+	width: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.lang ul li {
+	list-style: none;
+	display: inline;
+}
+
+.lang ul {
+	margin-bottom: 0;
+	padding-left: 0;
+}
+
+.boton_admin {
+	background-color: #ccd7d7 !important;
+	border: none;
+	padding: 4px;
+	text-transform: uppercase;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-family: "Lato",sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.boton_admin img {
+	width: 20px;
+	padding: 5px;
+}
+
+.boton_admin input[type="submit"], button, .button, input#submit, .da-slide .da-link {
+	background: none;
+	box-shadow: none;
+	color: #234852 !important;
+	text-shadow: none;
+}
+
+.cabecera {
+	color: #c1d1d0;
+	text-align: right;
+	font-size: 40px;
+	padding-top: 20px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	line-height: 50px;
+}
+
+.widget-content {
+	background: #fff;
+}
+
+#SkypeButton_Call_ObesityHealthSpain_1_paraElement img {
+	margin: 0 !important;
+	padding-top: 3px;
+	vertical-align: 0 !important;
+	font-size: 0px !important;
+}
+
+#SkypeButton_Call_ObesityHealthSpain_1 p {
+	margin: 0 !important;
+}
+
+#SkypeButton_Call_ObesityHealthSpain_2_paraElement img {
+	margin: 0 !important;
+	padding-top: 3px;
+	vertical-align: 0 !important;
+	font-size: 0px !important;
+}
+
+#SkypeButton_Call_ObesityHealthSpain_2 p {
+	margin: 0 !important;
+}
+
+.skype {
+	background-color: #ebf1f1;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+.btn-left:before {
+	max-width: 50%;
+	overflow: hidden;
+}

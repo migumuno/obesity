@@ -1,0 +1,150 @@
+<section id="content">
+          <section class="vbox">
+              <section class="scrollable">
+                <section class="hbox">
+                  <!-- .aside -->
+                  <aside class="aside-lg bg-primary">
+                    <!-- Formulario -->
+                    <div ng-show="calendarWindow == 0" id="myEvents" class="panel bg-primary">
+                      <header ng-if="calendarWindowMode == 'edit'"  class="header dker">
+                      	<span class="pull-right"><a class="btn btn-sm" ng-click="changeCalendarWindow(3)"><i class="fa fa-reply"></i></a></span>
+	                  	<i class="i i-plus i-2x text-white" style="position: relative; top: 3px;"></i>
+	                  	<p class="h4 text-white">&nbsp;&nbsp;{{calendario.edit_event[lang]}}</p>
+	                  </header>
+                      <header ng-if="calendarWindowMode == 'create'"  class="header dker">
+	                  	<i class="i i-plus i-2x text-white" style="position: relative; top: 3px;"></i>
+	                  	<p class="h4 text-white">&nbsp;&nbsp;{{calendario.add_event[lang]}}</p>
+	                  </header>
+                      <div class="panel-body">
+                      	<form role="form" name="add_event" novalidate>
+                      		<span ng-if="user.type != 0 && calendarWindowMode == 'create'">
+	                      		<div class="form-group">
+		                      		<label>{{calendario.form.patient[lang]}}*</label>
+		                      		<input class="form-control" type="text" ng-change="setDestinatario()" name="aux" ng-model="temp.aux" required list="people_list" autocomplete="off">
+		                      		<datalist id="people_list">
+										<option value="{{$index}}" ng-repeat="name in people">{{name.nombre}}</option>
+									</datalist>
+		                      		<div ng-show="add_event.aux.$touched && !add_event.$pristine">
+										<span ng-show="add_event.aux.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+									</div>
+		                      	</div>
+		                    </span>
+                      		<div class="form-group">
+	                      		<label>{{calendario.form.title[lang]}}*</label>
+	                      		<input class="form-control" type="text" name="titulo" ng-model="calendar.titulo" required>
+	                      		<div ng-show="add_event.titulo.$touched && !add_event.$pristine">
+									<span ng-show="add_event.titulo.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+								</div>
+	                      	</div>
+	                      	<span ng-if="user.type != 0">
+		                      	<div class="form-group">
+		                      		<label>{{calendario.form.comment[lang]}}</label>
+		                      		<textarea class="form-control" rows="7" name="comentario" ng-model="calendar.comentario"></textarea>
+		                      	</div>
+		                    </span>
+	                      	<div id="datetimepicker" class="input-append date">
+		                      	<div class="input-group">
+		                      		<label>{{calendario.form.start_date[lang]}}*</label>
+									<input id="fecha_entrada" ng-model="calendar.fecha" class="form-control" placeholder="yyyy-mm-dd hh:mm:ss" type="text" name="fecha">
+									<span class="input-group-btn add-on">
+								      <i class="i i-calendar" data-time-icon="fa fa-clock-o" data-date-icon="fa fa-calendar"></i>
+								    </span>
+								</div>
+							</div><br>
+							<span ng-if="user.type != 0 && calendarWindowMode == 'create'">
+		                      	<div class="form-group">
+		                      		<label>{{calendario.form.type[lang]}}*</label>
+		                      		<select name="tipo" ng-model="temp.tipo" class="form-control m-b" required>
+		                      			<option value="cita" selected>{{calendario.form.quote[lang]}}</option>
+		                      			<option value="recordatorio">{{calendario.form.reminder[lang]}}</option>
+		                      		</select>
+		                      	</div>
+		                    </span>
+		                    <div class="form-group">
+	                      		<label>{{calendario.form.text[lang]}}</label>
+	                      		<textarea class="form-control" rows="7" name="texto" ng-model="calendar.texto"></textarea>
+	                      	</div>
+                      		<span ng-if="calendarWindowMode == 'create'">
+                      			<input class="btn btn-sm btn-default" type="submit" ng-click="createEvent()" value="{{calendario.form.button[lang]}}" ng-disabled="!add_event.$valid">
+                      		</span>
+                      		<span ng-if="calendarWindowMode == 'edit'">
+                      			<input class="btn btn-sm btn-default" type="submit" ng-click="editEvent()" value="{{calendario.form.button_edit[lang]}}" ng-disabled="!add_event.$valid">
+                      		</span>
+                      	</form>
+                      </div>
+                   </div>
+                   <!-- Fin formulario -->
+                   
+                   <!-- Ficha Evento -->
+                   <div ng-show="calendarWindow == 1" class="panel b-a bg-light">
+                   	  <div class="panel-heading bg-white">
+                      <span class="pull-right"><a class="btn btn-sm" ng-click="changeCalendarWindow(0)"><i class="fa fa-reply"></i></a></span>
+                      {{calendario.ficha[lang]}}
+                    </div>
+                    <div class="panel-body">
+                    	<span ng-if="user.type != 0">
+	                    	<h3>{{calendario.form.patient_name[lang]}}</h3>
+	                    	<p>{{ficha.name_patient}}</p>
+	                    </span>
+                    	<h3>{{calendario.form.title[lang]}}</h3>
+                    	<p>{{ficha.titulo}}</p>
+                    	<span ng-if="user.type != 0">
+	                    	<h3>{{calendario.form.comment[lang]}}</h3>
+	                    	<p>{{ficha.comentario}}</p>
+	                    </span>
+                    	<h3>{{calendario.form.text[lang]}}</h3>
+                    	<p>{{ficha.texto}}</p>
+                    	<span ng-if="user.type != 0 || ficha.tipo != 0">
+	                    	<button class="btn btn-sm btn-bg btn-default" data-title="Edit" data-placement="bottom" ng-click="changeCalendarWindow(2)" data-toggle="tooltip"><i class="fa fa-pencil-square-o"></i></button>
+	                    	<button class="btn btn-sm btn-bg btn-default" data-title="Edit" data-placement="bottom" ng-click="eraseEvent()" data-toggle="tooltip"><i class="fa fa-trash-o"></i></button>
+	                    </span>
+                    </div>
+                   </div>
+                   <!-- Fin ficha evento -->
+                      
+                  </aside>
+                  <!-- /.aside -->    
+                  <!-- .aside -->
+                  <aside>
+                    <section class="panel no-border bg-light">
+                      <header class="panel-heading bg-primary clearfix">
+                        <div class="btn-group pull-right" data-toggle="buttons">
+                          <label class="btn btn-sm btn-bg btn-default active" id="monthview">
+                            <input type="radio" name="options">{{calendario.month[lang]}}
+                          </label>
+                          <label class="btn btn-sm btn-bg btn-default" id="weekview">
+                            <input type="radio" name="options">{{calendario.week[lang]}}
+                          </label>
+                          <label class="btn btn-sm btn-bg btn-default" id="dayview">
+                            <input type="radio" name="options">{{calendario.day[lang]}}
+                          </label>
+                        </div>
+                        <i style="position: relative; top: 3px;" class="i i-calendar i-2x text-white"></i>
+                        <span class="m-t-xs inline text-white">
+                          &nbsp;&nbsp;{{calendario.title[lang]}}
+                        </span>
+                      </header>
+                      <div class="calendar" id="calendar">
+                      </div>
+                    </section>
+                  </aside>
+                  <!-- /.aside -->
+                </section>
+              </section>          
+            </section>
+          <a href="#" class="hide nav-off-screen-block" data-toggle="class:nav-off-screen" data-target="#nav"></a>
+        </section>
+        
+        <script>
+        	function openEvent (index) {
+        		var scope = angular.element($("#controller")).scope();
+        	    scope.$apply(function(){
+        	        scope.numEvent = index;
+        	    })
+        	}
+        </script>
+        
+        <script src="js/jquery.ui.touch-punch.min.js"></script>
+		<script src="js/jquery-ui-1.10.3.custom.min.js"></script>
+		<script src="js/fullcalendar/fullcalendar.min.js"></script>
+		<!-- <script src="js/fullcalendar/demo.js"></script> -->

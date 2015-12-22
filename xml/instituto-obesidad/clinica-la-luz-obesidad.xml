@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Clínica Obesidad</es>
+			<en>Obesity Clinic</en>
+			<de>Klinik Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>En EMIO las intervenciones quirúrgicas contra la obesidad las realizamos en el hospital La Clínica La Luz uno de los más modernos complejos clínicos de Europa</es>
+			<en>All EMIO’s surgical interventions against obesity are carried out at the hospital La Clínica La Luz, one of the most modern medical facilities in Europe</en>
+			<de>Im EMIO führen wir die chirurgischen Eingriffe gegen Fettleibigkeit im Spital La Clínica La Luz durch, einem der modernsten Klinikkomplexe Europas.</de>
+		</description>
+		<keywords>
+			<es>obesidad, hospital, clinica, intervencion, tratamiento, cirugía, europa, madrid, privada, operacion</es>
+			<en>obesity, hospital, clinic, intervention, treatment, surgery, europe, madrid, private, procedure</en>
+			<de>Fettleibigkeit, Spital, Klinik, Eingriff, Behandlung, Chirurgie, Europa, Madrid, privat, Operation</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+		<title>
+			<es>PORQUE TU SEGURIDAD ES LO PRIMERO</es>
+			<en>BECAUSE YOUR SAFETY IS OUR PRIORITY</en>
+			<de>WEIL DEINE SICHERHEIT DAS WICHTIGSTE IST</de>
+		</title>
+			<img>slider_clinicaluz1.jpg</img>
+			<alt>
+				<es>Clinica Obesidad Madrid</es>
+				<en>Obesity Clinic Madrid</en>
+				<de>Fettleibigkeit Chirurgie Madrid</de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+	
+		</message>
+	</messages>
+	<content>
+		<img>clinicaluz1.jpg</img>
+		<alt>
+			<es>Clinica Obesidad</es>
+			<en>Obesity Clinic</en>
+			<de>Klinik Fettleibigkeit</de>
+		</alt>
+		<right>
+			<text>
+				<es>Todas las intervenciones quirúrgicas contra la obesidad las llevamos a cabo en el prestigioso hospital  La Clínica La Luz.</es>
+				<en>All our obesity surgeries are carried out at the prestigious hospital, La Clínica La Luz.</en>
+				<de>Sämtliche chirurgische Eingriffe bei Adipositas werden inder angesehenen Clinica La Luz durchgeführt.</de>
+			</text>
+			<text>
+				<es> La Clínica La Luz es uno de los más modernos complejos clínicos europeos y el centro asistencial privado más grande de Madrid.</es>
+				<en>La Clínica La Luz is one the most modern European clinics and the biggest private healthcare centre in Madrid.</en>
+				<de>Die Clinica La Luz ist eine der modernsten Klinikanlagen Europas und das größte Privatzentrum von Madrid.</de>
+			</text>
+			<text>
+				<es>Desde su creación, en 1978, #b-#La Luz considera al paciente el eje central de una asistencia sanitaria basada en el uso de la última tecnología médica por parte de profesionales de reconocido prestigio.#/b-#</es>
+				<en>Since its foundation in 1978, #b-#La Luz has always considered its patients to be the central axis of a health assistance based on the use of state-of-the-art medical technology and renowned professionals.#/b-# </en>
+				<de>Seit seiner Gründung 1978 #b-#steht bei LaLuz der Patient der Mittelpunkt  der gesundheitlichen Behandlung, die auf der neuesten medizinischen Technologie beruht, angewendet von anerkannten Fachkräften.#/b-#</de>
+			</text>
+			<text>
+				<es>En este sentido, La Luz es uno de los centros mejor dotados del ámbito asistencial privado y cuenta con más de cien especialistas de primer nivel, repartidos en una treintena de unidades y servicios. Todos ellos, junto al personal de enfermería y el resto de la plantilla, trabajan día a día para ofrecer a los pacientes una asistencia de la máxima calidad, sumando a la asistencia médica propiamente dicha los máximos niveles de confort.</es>
+				<en>In this sense, La Luz is one of the most equipped private healthcare centres with more than 100 top specialists divided in approximately 30 units and departments. Together with nurses and the rest of the staff, they work day after day to provide patients with a highest quality assistance and comfort.</en>
+				<de>In diesem Sinn ist LaLuz eine der am besten ausgerüsteten Privatzentren, mit mehr als hundert erstklassigen Spezialisten, verteilt auf dreißig Stationen und Dienste. Sie alle arbeiten gemeinsam mit dem Pflegepersonal und restlichen Angestellten, täglich daran, den Patienten zusätzlich zur ärztlichen Betreuung optimale Pflege, mit einem Worthöchsten Komfort, zu bieten.</de>
+			</text>
+		</right>
+		<text>
+			<es>La Luz es una de las clínicas privadas mejor dotadas de Europa, como lo demuestran las siguientes cifras:</es>
+			<en>La Luz is one of the most equipped European private clinics, as shown by the following figures:</en>
+			<de>La Luz ist eine der am besten ausgestatteten Privatkliniken Europas. Dies belegen die folgenden Zahlen:</de>
+		</text>
+		<list>
+			<left>
+				<ul>
+					<li>
+						<es>20.000 m2 de superficie sanitaria</es>
+						<en>20,000 square metres of healthcare facilities</en>
+						<de>Sanitäre Anlage auf 20.000 m2</de>
+					</li>
+					<li>
+						<es>3 plantas de Consultas Externas (de la primera a la tercera planta)</es>
+						<en>3 floors for Outpatient Visits (from the first to the third floor)</en>
+						<de>3 Stockwerke für ambulante Sprechstunden (erster bis dritter Stock)</de>
+					</li>
+					<li>
+						<es>Banco de Sangre y Análisis Clínicos</es>
+						<en>Blood Bank and Clinical Analyses</en>
+						<de>Blutbank und klinische Analyse</de>
+					</li>
+					<li>
+						<es>Unidad de Endoscopia Digestiva</es>
+						<en>Digestive Endoscopy Unit</en>
+						<de>Station für digestive Endoskopie</de>
+					</li>
+					<li>
+						<es>11 quirófanos de última generación (cirugía mayor y ambulante)</es>
+						<en>11 state-of-the-art operating theatres (outpatient and major surgery)</en>
+						<de>11 Operationssäle mit modernster Technologie (größere Eingriffe und ambulant)</de>
+					</li>
+					<li>
+						<es>Servicios de Urgencias Generales</es>
+						<en>General Emergency Departments</en>
+						<de>Allgemeine Notdienstpraxis</de>
+					</li>
+					<li>
+						<es>Urgencia Cardiológica integrada</es>
+						<en>Integrated Cardiology Emergency Department</en>
+						<de>Integrierte kardiologische Notaufnahme</de>
+					</li>
+					<li>
+						<es>196 habitaciones individuales distribuidas en seis plantas con cama de acompañante, televisión y aseos de movilidad completa.</es>
+						<en>196 single rooms, distributed in six floors, with companion bed, television and full mobility toilets.</en>
+						<de>196 Einzelzimmer, verteilt auf sechs Stockwerke, mit Bett für eine Begleitperson, Fernseher und mobilem WC-Raum.</de>
+					</li>
+					<li>
+						<es>9 suites</es>
+						<en>9 suites</en>
+						<de>9 Suiten</de>
+					</li>
+					<li>
+						<es>12 camas de atención UVI</es>
+						<en>12 ICU beds</en>
+						<de>12 Betten auf der Intensivstation</de>
+					</li>
+					<li>
+						<es>8 camas en la Unidad Coronaria</es>
+						<en>8 beds in the Coronary Unit</en>
+						<de>8 Betten auf der Koronarstation</de>
+					</li>
+					<li>
+						<es>Radioterapia y Braquiterapia</es>
+						<en>Radiotherapy and Brachytherapy</en>
+						<de>Strahlenbehandlung und Brachytherapie</de>
+					</li>
+				</ul>
+			</left>
+			<right>
+				<ul>
+					<li>
+						<es>Radiología</es>
+						<en>Radiology</en>
+						<de>Radiologie</de>
+					</li>
+					<li>
+						<es>Unidad de Litotricia Renal</es>
+						<en>Renal Lithotripsy Unit</en>
+						<de>Abteilung der Extrakorporalen Stoßwellen Lithotripsieanlage (ESWL)</de>
+					</li>
+					<li>
+						<es>Farmacia</es>
+						<en>Pharmacy</en>
+						<de>Apotheke</de>
+					</li>
+					<li>
+						<es>Servicios generales</es>
+						<en>General departments</en>
+						<de>Allgemeine Dienstleistungen</de>
+					</li>
+					<li>
+						<es>Unidad de PET-TAC</es>
+						<en>PET/CT Unit</en>
+						<de>Station für Positronen-Emissions-Tomografie (PET)</de>
+					</li>
+					<li>
+						<es>Área general WIFI en todas las plantas de hospitalización</es>
+						<en>General Wi-Fi area on all the hospital floors</en>
+						<de>Allgemeiner Wi-Fi-Bereich auf allen Etagen für stationäre Patienten</de>
+					</li>
+					<li>
+						<es>2 habitaciones preparadas para realización de estudios de Sueño (Servicio de Neurología)</es>
+						<en>2 rooms designed for sleep studies (Neurology Department)</en>
+						<de>2 Zimmer für Schlafforschung (Dienstleistung Neurologie)</de>
+					</li>
+					<li>
+						<es>2 habitaciones preparadas para realización Estudios de Apnea del Sueño (Servicio de Neumología)</es>
+						<en>2 rooms designed for sleep apnea studies (Pneumology Department)</en>
+						<de>2 Zimmer für die Untersuchung von Schlafapnoe (Dienstleistung Pneumologie)</de>
+					</li>
+					<li>
+						<es>Urgencias</es>
+						<en>Radiology</en>
+						<de>Radiologie</de>
+					</li>
+					<li>
+						<es>Capilla</es>
+						<en>Chapel</en>
+						<de>Kapelle</de>
+					</li>
+					<li>
+						<es>Área de Recepción de Pacientes y Atención al Público.</es>
+						<en>Patient Reception Area and Customer Care.</en>
+						<de>Rezeptionsbereich und Kundenservice.</de>
+					</li>
+				</ul>
+			</right>
+		</list>
+	</content>
+</page>

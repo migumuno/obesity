@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Obesidad Madrid</es>
+			<en>Obesity Madrid</en>
+			<de>Fettleibigkeit Madrid</de>
+		</title>
+		<description>
+			<es>Con EMIO aprovecha tu viaje de negocios a Madrid y elimina tu problema de obesidad en 24 horas. Contamos con los tratamientos más novedosos y eficaces de Europa</es>
+			<en>Take your business trip to Madrid to solve your obesity problem in 24 hours with EMIO. We offer Europe’s most effective and state-of-the art treatments</en>
+			<de>Mit dem EMIO nutzen Sie Ihre Geschäftsreise nach Madrid und beseitigen Sie Ihre Fettleibigkeit in 24 Stunden. Wir verfügen über die neuartigsten und wirksamsten Behandlungsmethoden Europas.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, problema, elimina, madrid, negocio, viaje, feria, evento</es>
+			<en>obesity, treatment, method, problem, eliminate, madrid, business, trip, fair, event</en>
+			<de>Fettleibigkeit, Behandlung, Methode, Problem, beseitigen, Madrid, Geschäft, Reise, Messe, Event</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>LA CIUDAD DE LOS NEGOCIOS</es>
+				<en>THE CITY OF BUSINESS</en>
+				<de>DIE GESCHÄFTSSTADT SCHLECHTHIN</de>
+			</title>
+			<img>slider_eventos1.jpg</img>
+			<alt>
+				<es>Eventos y Ferias Madrid</es>
+				<en>Madrid Events and Fairs</en>
+				<de>Madrid Events und Messen</de>
+			</alt>
+		</slider>
+		<slider>
+			<title>
+				<es>LA MEJOR FORMA DE HACER NEGOCIOS</es>
+				<en>THE BEST WAY OF DOING BUSINESS</en>
+				<de>DIE BESTE ART, UM GESCHÄFTE ZU MACHEN</de>
+			</title>
+			<img>slider_eventos2.jpg</img>
+			<alt>
+				<es>Eventos y Ferias Madrid</es>
+				<en>Madrid Events and Fairs</en>
+				<de>Madrid Events und Messen</de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#La ciudad de los negocios#/div-#</es>
+				<en>#div class="title_slider_metodo"-#The city of business#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Die geschäftsstadt schlechthin#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+		</message>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#La mejor forma de hacer negocios#/div-#</es>
+				<en>#div class="title_slider_metodo"-#The best way of doing business#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Die beste art, um geschäfte zu machen#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+		</message>
+	</messages>
+	<breadcrumbs>
+		<item>
+			<name>
+				<es>Volver Madrid es Salud</es>
+				<en>Madrid means Health</en>
+				<de>Madrid ist Gesundheit</de>
+			</name>
+			<link>
+				<es>/salud-madrid</es>
+				<en>/madrid-healthcare</en>
+				<de>/gesundheit-madrid</de>
+			</link>
+		</item>
+		<active>
+			<name>
+				<es>Eventos y Ferias</es>
+				<en>Events and Fairs</en>
+				<de>Events und Messen</de>
+			</name>
+		</active>
+	</breadcrumbs>
+	<content>
+		<img>eventos1.jpg</img>
+		<alt>
+			<es>Eventos y Ferias Madrid</es>
+			<en>Madrid Events and Fairs</en>
+			<de>Madrid Events und Messen</de>
+		</alt>
+		<text>
+			<es>Madrid tiene actualmente #b-#una de las economías más pujantes de todas las regiones de Europa#/b-# y en ella se concentran los más prestigiosos eventos y ferias a nivel internacional.</es>
+			<en>Madrid has currently #b-#one the most vibrant economies in Europe#/b-# and there you can find the most prestigious international events and fairs.</en>
+			<de>Madrids #b-#Wirtschaft zählt zu den aufstrebenden und stärksten Wirtschaften ganz Europas#/b-# und so ist es auch nicht verwunderlich, dass Madrid Schauplatz zahlreicher prestigeträchtiger Veranstaltungen und international anerkannter Fachmessen ist.</de>
+		</text>
+		<text>
+			<es>Madrid disfruta de una excepcional oferta de equipamientos para la celebración de ferias, congresos y exposiciones, ya que cuenta con dos palacios de congresos y dos recintos feriales. Dotados con #b-#las más modernas infraestructuras de servicios#/b-#, su capacidad y calidad hacen que más de cinco millones de profesionales visiten nuestra ciudad para asistir a las más diversas convocatorias.</es>
+			<en>Madrid is equipped with a great number of facilities for fairs, congresses and exhibitions, since it has two conference centres and two fair venues. Thanks to its modern service infrastructure, as well as its capacity and quality, more than five million professionals visit Madrid to attend different kinds of meeting.</en>
+			<de>Madrid ist mit einer ausgezeichneten Infrastruktur für die Abhaltung von Messen, Kongressen und Ausstellungen ausgestattet, da es über zwei Kongresshallen und zwei Messegelände verfügt. Die Gebäude sind mit den #b-#modernsten Service-Einrichtungen#/b-# versehen und die Qualität sowie optimale Organisation dieser Veranstaltungen locken fünf Millionen Spitzenkräfte an, die sich bei verschiedenen Ausschreibungen bewerben.</de>
+		</text>
+		<text>
+			<es>En el IFEMA – Feria de Madrid se celebran anualmente alrededor de 80 certámenes altamente especializados, que ocupan una posición muy relevante en los calendarios feriales internacionales, entre los que caben destacar FITUR la Feria Internacional de Turismo más importante del mundo, la Pasarela de Moda Mercedes-Benz Fashion Week Madrid o el  World Travel &#38; Tourism Council (WTTC) The Global Summit.</es>
+			<en>IFEMA, Madrid’s fair, hosts every year  about 80 highly specialised events that are very relevant in the international fair calendars, among which it is worth mentioning FITUR, the most important International Tourism Fair in the world, the Mercedes-Benz fashion show during Madrid’s Fashion Week and the World Travel &#38; Tourism Council (WTTC) The Global Summit.</en>
+			<de>Auf dem Messegelände IFEMA – Feria de Madrid finden jährlich rund 80 Fachmessen statt, die eine bedeutende Stellung im internationalen Messekalender einnehmen. Darunter zu nennen sind die weltweit bedeutendste Internationale Tourismusmesse FITUR, die Modeschau Mercedes-Benz Fashion Week Madrid oder das internationale Gipfeltreffen des Weltreise- und Tourismusrats (WTTC).</de>
+		</text>
+		<text>
+			<es>Si deseas acceder al calendario de ferias y eventos de IFEMA accede #div class="boton_diagnostico"-##a href="http://www.ifema.es/" target="_blank"-##button class="boton"-#Visitar#/button-##/a-##/div-#</es>
+			<en>If you want to check IFEMA’s calendar of fairs and events, click here #div class="boton_diagnostico"-##a href="http://www.ifema.es/Institucional_06/" target="_blank"-##button class="boton"-#Visit#/button-##/a-##/div-#</en>
+			<de>Wenn Sie sich näher über den Messe- und Veranstaltungskalender der IFEMA informieren möchten, klicken Sie hier #div class="boton_diagnostico"-##a href="http://www.ifema.es/Institucional_06/" target="_blank"-##button class="boton"-#Visit (Englisch)#/button-##/a-##/div-#</de>
+		</text>
+		<text>
+			<es>A tan sólo cinco minutos del centro de la capital, se encuentra El Recinto Ferial de la Casa de Campo, situado en el Parque urbano más grande de Madrid.</es>
+			<en>The Casa de Campo Trade Fair Park is located in Madrid’s biggest city park and is only five minutes away from the centre of the capital.</en>
+			<de>Das Messegelände Casa de Campo befindet sich inmitten der größten städtischen Parkanlage Madrids und ist in fünf Minuten vom Stadtzentrum aus erreichbar.</de>
+		</text>
+		<text>
+			<es>Madrid cuenta además con eventos de índole cultural, gastronómicos y de ocio para todo tipo de público, sectores y ámbitos de interés que se celebran tanto en recintos generales como en hoteles.</es>
+			<en>In Madrid, you also will be able to find plenty of cultural, gastronomic and entertainment events for any kind of audience, sector and field of interest, which take place both in general facilities and hotels.</en>
+			<de>Dies ist jedoch noch nicht alles, was Madrid zu bieten hat. Madrid ist auch Schauplatz kultureller, gastronomischer und anderer Unterhaltungsveranstaltungen, wobei das unterschiedlichste Publikum sowie verschiedenste Branchen und Interessen angesprochen werden. Diese Veranstaltungen finden sowohl auf den Messegeländen als auch in Hotels statt.</de>
+		</text>
+		<text>
+			<es>Consulta la agenda de Eventos y Ferias de Madrid #div class="boton_diagnostico"-##a href="http://www.esmadrid.com/agenda-ferias-y-congresos-madrid/" target="_blank"-##button class="boton"-#Visitar#/button-##/a-##/div-#</es>
+			<en>Check Madrid’s schedule of Events and Fairs here #div class="boton_diagnostico"-##a href="http://www.esmadrid.com/en/whats-on-congresses-and-trade-shows-madrid/" target="_blank"-##button class="boton"-#Visit#/button-##/a-##/div-#</en>
+			<de>Klicken Sie bitte hier, um zum Veranstaltungs- und Messekalender der Stadt Madrid zu gelangen. #div class="boton_diagnostico"-##a href="http://www.esmadrid.com/en/whats-on-congresses-and-trade-shows-madrid/" target="_blank"-##button class="boton"-#Visit (Englisch)#/button-##/a-##/div-#</de>
+		</text>
+	</content>
+</page>

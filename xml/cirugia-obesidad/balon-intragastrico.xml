@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Balón Intragástrico iBalón 1 año</es>
+			<en>1-year Intragastric Balloon iBalloon</en>
+			<de>Magenballon iBallon 1 Jahr</de>
+		</title>
+		<description>
+			<es>Tratamiento sin cirugía iBalón de EMIO de 1+1 año, Balón Intragástrico para pérdida de peso entre 25 y 35 Kilos. 1 año implantado y 2 años de seguimiento</es>
+			<en>EMIO’s 1 + 1 year iBalloon treatment without surgery, Intragastric Balloon to lose between 25 Kg and 35 Kg. 1 year implants and 2 years of follow-ups</en>
+			<de>Behandlung ohne Chirurgie, iBallon von EMIO für 1+1 Jahr, Magenballon für Gewichtsverlust zwischen 25 und 35 Kilo. 1 Jahr implantiert und 2 Jahre Nachbeobachtung </de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, balon, intragastrico, sin, cirugia, cicatrices, ibalon, estomago, reduccion</es>
+			<en>obesity, treatment, method, balloon, intragastric, without, surgery, scars, iballoon, stomach, reduction</en>
+			<de>Fettleibigkeit, Behandlung, Methode, Magenballon, ohne, Chirurgie, Narben, iBallon, Magen, Verkleinerung</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>Tratamiento iBalón de EMIO 1 + 1 AÑO</es>
+				<en>1 + 1 year iBalloon Treatment</en>
+				<de>Behandlung iBallon 1 + 1 Jahr</de>
+			</title>
+			<img>slider_generico1.jpg</img>
+		</slider>
+		<slider>
+			<title>
+				<es>Tratamiento iBalón de EMIO 1 + 1 AÑO</es>
+				<en>1 + 1 year iBalloon Treatment</en>
+				<de>Behandlung iBallon1 + 1 Jahr</de>
+			</title>
+			<img>slider_generico2.jpg</img>
+		</slider>
+	</sliders>
+	<messages>
+			<message>
+			<img>
+				<es>pastilla_ibalon12_1.png</es>
+				<en>pastilla_ibalon12_1_en.png</en>
+				<de>pastilla_ibalon12_1_de.png</de>
+			</img>
+			<alt>
+				<es>Balón Intragastrico 12 meses</es>
+				<en>12-month Intragastric Balloon</en>
+				<de>zwölf Monate Magenballon</de>
+			</alt>
+		</message>
+		<message>
+			<img>
+				<es>pastilla_ibalon12_2.png</es>
+				<en>pastilla_ibalon12_2_en.png</en>
+				<de>pastilla_ibalon12_2_de.png</de>
+			</img>
+			<alt>
+				<es>Balón Intragastrico 12 meses</es>
+				<en>12-month Intragastric Balloon</en>
+				<de>zwölf Monate Magenballon</de>
+			</alt>
+		</message>
+	</messages>
+	<content>
+		<img>
+			<name>ibalon1.jpg</name>
+			<alt>
+				<es>Balon Intragastrico 1 año</es>
+				<en>Intragastric Balloon 1 year</en>
+				<de>Magenballon 1 Jahr</de>
+			</alt>
+		</img>
+		<description>
+			<text>
+				<es>#div class="titulo_metodo"-#Un año con el iBalón + un año adicional de seguimiento#/div-#</es>
+				<en>#div class="titulo_metodo"-#One year with the iBalloon + one additional year of follow-ups#/div-#</en>
+				<de>#div class="titulo_metodo"-#Ein Jahr mit dem iBallon + ein weiteres Jahr zur Nachbeobachtung#/div-#</de>
+			</text>
+			<text>
+				<es>#img title="Balon Intragastrico" alt="Balon Intragastrico" src="/img/ibalon.png"-#</es>
+				<en>#img title="Intragastric Balloon" alt="Intragastric Balloon" src="/img/ibalon_en.png"-#</en>
+				<de>#img title="Magenballon" alt="Magenballon" src="/img/ibalon_de.png"-#</de>
+			</text>
+			<text>
+				<es>Desde el European Medical Institute of Obesity EMIO, te ofrecemos el último avance de tratamiento por Balón Intragástrico, el tratamiento iBalón de EMIO de 1+1 año.</es>
+				<en>The European Medical Institute of Obesity (EMIO) offers you the most advanced Intragastric Balloon treatment: EMIO’s 1 + 1 year iBalloon treatment</en>
+				<de>Wir vom European Medical Institute of Obesity (EMIO) bieten Ihnen die neueste Behandlungsmöglichkeit durch einen Magenballon: die iBallon-Behandlung von EMIO für 1+1 Jahr.</de>
+			</text>
+			<text>
+				<es>#div class="titulo_metodo"-#Pérdida de peso estimada entre 25Kg y 35Kg.#/div-#</es>
+				<en>#div class="titulo_metodo"-#For estimated weight loss between 25 Kg and 35 Kg.#/div-#</en>
+				<de>#div class="titulo_metodo"-#Erwarteter Gewichtsverlust zwischen 25 und 35 kg.#/div-#</de>
+			</text>
+			<text>
+				<es>Tratamiento destinado para 5 tipos de pacientes:</es>
+				<en>Treatment designed for 5 types of patients:</en>
+				<de>Behandlung geeignet für 5 Arten von Patienten:</de>
+				<ul>
+					<li>
+						<es>Exceso de peso de 20 a 25Kg por CAMBIO HORMONAL EN LA MENOPAUSIA.</es>
+						<en>Overweight between 20 and 25 Kg due to a HORMONAL CHANGE AT MENOPAUSE</en>
+						<de>Übergewicht von 20 bis 25 kg wegen der HORMONELLEN UMSTELLUNG IN DER MENOPAUSE.</de>
+					</li>
+					<li>
+						<es>Sobrepeso entre 20 a 30Kg provocado por EMBARAZO y POSTPARTO.</es>
+						<en>Overweight between 20 and 30 kg due to PREGNANCY and POSTPARTUM.</en>
+						<de>Übergewicht zwischen 20 und 30 kg, das auf eine SCHWANGERSCHAFT und die ZEIT NACH DER ENTBINDUNG zurückzuführen ist.</de>
+					</li>
+					<li>
+						<es>Desajuste alimenticio derivado de DEPRESIÓN, ANSIEDAD O PROBLEMA EMOCIONAL, que conlleva aumento de peso de entre 25 a 35Kg.</es>
+						<en>Eating imbalance due to DEPRESSION, ANXIETY OR EMOTIONAL PROBLEMS, leading to a weight gain between 25 and 35 kg.</en>
+						<de>Ernährungsungleichgewicht wegen DEPRESSION, ANGSTZUSTÄNDEN ODER EMOTIONALE PROBLEME, die zu einer Gewichtszunahme von 25 bis 35 kg geführt haben.</de>
+					</li>
+					<li>
+						<es>LESION DEPORTIVA O ACCIDENTE CON REPOSO, que debido a la inactividad y disminución del gasto calórico se aumenta entre 20 y 30Kg.</es>
+						<en>SPORTS INJURY OR ACCIDENT REQUIRING REST, which due to the reduced caloric expenditure and inactivity lead to a weight gain between 20 and 30 kg.</en>
+						<de>SPORTVERLETZUNG ODER UNFALL MIT REGENERATIONSPHASE, aufgrund der Untätigkeit und des geringeren Kalorienverbrauchs kam es zu einer Gewichtszunahme zwischen 20 und 30 kg. </de>
+					</li>
+					<li>
+						<es>ESTRÉS, ANSIEDAD Y DESAJUSTE ALIMENTICIO, unido a la falta de movilidad, reposo e inactividad prolongada, incurren en un exceso de peso de entre 20 a 30Kg.</es>
+						<en>STRESS, ANXIETY AND EATING IMBALANCE, combined with lack of mobility, rest and prolonged inactivity, lead to an overweight between 20 and 30 kg.</en>
+						<de>STRESS, ANGSTZUSTÄNDE UND ERNÄHRUNGSUNGLEICHGEWICHT gemeinsam mit Bewegungsmangel, längeren Ruhe- und Untätigkeitsphasen, die zu einem Übergewicht von 20 bis 30 kg geführt haben.</de>
+					</li>
+				</ul>
+			</text>
+		</description>
+		<treatment>
+			<title>
+				<es>Tratamiento Completo iBalón de EMIO 1 + 1 AÑO</es>
+				<en>EMIO’s 1 + 1 YEAR iBalloon complete treatment</en>
+				<de>Umfassende Behandlung mit dem iBallon von EMIO 1+1 JAHR</de>
+			</title>
+			<duration>
+				<es>12 meses con el iBalón de EMIO + 12 meses adicionales de seguimiento.</es>
+				<en>12 months with EMIO’s iBalloon + 12 additional months of follow-ups</en>
+				<de>12 Monate mit dem iBallon von EMIO + 12 weitere Monate der Nachbeobachtung</de>
+			</duration>
+			<text>
+				<es>El Tratamiento Completo de iBalón de EMIO incluye 2 años de seguimiento, pues nuestra experiencia nos demuestra que es tan importante el primer año con el iBalon implantado, como el año siguiente para afianzar el mantenimiento del peso perdido.</es>
+				<en>EMIO’s iBalloon complete treatment includes a 2 years of follow-ups. As a matter of fact, our experience shows that the first year with the implanted iBalloon is as important as the following year in order to consolidate the maintenance of the lost weight.</en>
+				<de>Die vollständige Behandlung mit dem iBallon von EMIO umfasst ebenso die Nachbeobachtung des Patienten während 2 Jahren, denn unsere Erfahrung hat gezeigt, dass das erste Jahre mit dem implantierten iBallon genauso wichtig ist wie das Folgejahr, um sicherzustellen, dass das geringere Gewicht gehalten wird.</de>
+			</text>
+			<text>
+				<es>Implantación, retirada y seguimiento.</es>
+				<en>Implantation, removal and follow-up</en>
+				<de>Implantation, Entfernung und Nachbeobachtung</de>
+			</text>
+			<text>
+				<es>#b-#TODO INCLUIDO#/b-#</es>
+				<en>ALL INCLUSIVE</en>
+				<de>ALLES INKLUSIVE</de>
+				<ul>
+					<li>
+						<es>Implantación del iBalón de EMIO, con todos los gastos incluidos, pruebas preoperatorios, honorarios médicos, honorarios hospitalarios, anestesista…</es>
+						<en>Implantation of EMIO’s iBalloon, with all costs included (pre-operative testing, medical and hospital fees, anaesthesia, etc.)</en>
+						<de>Implantation des iBallons von EMIO, inkl. aller Kosten, präoperativen Untersuchungen, Arzt- und Krankenhausgebühren, Kosten für die Anästhesie…</de>
+					</li>
+					<li>
+						<es>Las Consultas de Nutrición ONLINE que necesite durante los 2 años de tratamiento.</es>
+						<en>All the Online Nutrition Visits you need during the 2 years of treatment.</en>
+						<de>ONLINE-Ernährungsberatung, die Sie 2 Jahre lang im Rahmen Ihrer Behandlung begleitet.</de>
+					</li>
+					<li>
+						<es>Retirada del iBalón de EMIO, con todos los gastos incluidos, pruebas preoperatorios, honorarios médicos, honorarios hospitalarios, anestesista…</es>
+						<en>Removal of EMIO’s iBalloon, with all costs included (pre-operative testing, medical and hospital fees, anaesthesia, etc.)</en>
+						<de>Entfernung des iBallons von EMIO, inkl. aller Kosten, präoperativen Untersuchungen, Arzt- und Krankenhausgebühren, Kosten für die Anästhesie…</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#u-#Evaluación metabólica inicial#/u-#</es>
+				<en>#u-#Initial metabolic assessment#/u-#</en>
+				<de>#u-#Ursprüngliche Bewertung des Stoffwechsels#/u-#</de>
+				<ul>
+					<li>
+						<es>#b-#Estudio Metabólico y de Composición Corporal TANITA Médico Advance#/b-#</es>
+						<en>#b-#TANITA Médico Advance Metabolic and Body-composition Assessment#/b-#</en>
+						<de>#b-#Untersuchung des Stoffwechsels und der Körperzusammensetzung TANITA Médico Advance#/b-#</de>
+						<ul>
+							<li>
+								<es>Composición en masa muscular, grasa y agua</es>
+								<en>Composition according to muscle mass, fat and water</en>
+								<de>Zusammensetzung aus Muskelmasse, Fett und Wasser</de>
+							</li>
+							<li>
+								<es>Tasa metabólica y efectividad del metabolismo</es>
+								<en>Metabolic rate and efficiency</en>
+								<de>Stoffwechselrate und Wirkung des Stoffwechsels</de>
+							</li>
+							<li>
+								<es>Grasa visceral de riesgo cardiovascular</es>
+								<en>Visceral adiposity causing cardiovascular risk</en>
+								<de>Bauchfett (Viszeralfett), das ein kardiovaskuläres Risiko ist</de>
+							</li>
+							<li>
+								<es>Distribución de la composición corporal</es>
+								<en>Body-composition distribution</en>
+								<de>Verteilung der Körperzusammensetzung</de>
+							</li>
+							<li>
+								<es>Retención de líquidos</es>
+								<en>Fluid retention</en>
+								<de>Einlagerung von Flüssigkeiten</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analizador Intersticial EIS#/b-#</es>
+						<en>#b-#EIS Interstitial System#/b-#</en>
+						<de>#b-#Interstitieller Analysator EIS#/b-#</de>
+						<ul>
+							<li>
+								<es>Niveles de ansiedad y estrés (Cortisol-Serotonina)</es>
+								<en>Anxiety and stress levels (Cortisol-Serotonin)</en>
+								<de>Angst- und Stressniveau (Cortisol-Serotonin)</de>
+							</li>
+							<li>
+								<es>Sensación de hambre (Leptina)</es>
+								<en>Sense of hunger (Leptine)</en>
+								<de>Hungergefühl (Leptin)</de>
+							</li>
+							<li>
+								<es>Niveles de felicidad y autosatisfacción (Dopamina)</es>
+								<en>Happiness and self-satisfaction levels (Dopamine)</en>
+								<de>Glücklichkeits- und Selbstzufriedenheitsniveau (Dopamin)</de>
+							</li>
+							<li>
+								<es>Metabolismo Hormonal (Tiroides y Adrenales)</es>
+								<en>Hormonal metabolism (Thyroid and Adrenal Glands)</en>
+								<de>Hormonstoffwechsel (Schilddrüse und Nebennieren)</de>
+							</li>
+							<li>
+								<es>Capacidad de respuestas (Adrenalina-Noradrenalina)</es>
+								<en>Response capacity (Adrenaline-Noradrenaline)</en>
+								<de>Reaktionsfähigkeit (Adrenalin-Noradrenalin)</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analítica específica#/b-# de Bioquímica y Tiroides</es>
+						<en>#b-#Specific Biochemistry#/b-# and Thyroid tests</en>
+						<de>#b-#Spezifische Laboruntersuchung der Biochemie und Schilddrüse#/b-#</de>
+					</li>
+					<li>
+						<es>#b-#Estudio de Intolerancias Alimenticias#/b-# por Sistema de Biorresonancia MedTronik</es>
+						<en>#b-#Food Intolerance Study#/b-# via MED-Tronik Bioresonance System</en>
+						<de>#b-#Nahrungsmittelunverträglichkeitstest#/b-# durchMedTronik-Bioresonanz-System</de>
+					</li>
+				</ul>
+			</text>
+		</treatment>
+		<cards>
+			<item>
+				<title>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS</en>
+					<de>INDIKATIONEN</de>
+				</title>
+				<img>icono_metodo1.png</img>
+				<alt>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS</en>
+					<de>INDIKATIONEN</de>
+				</alt>
+				<text>
+					<es>Tratamiento destinado para 5 tipos de pacientes:</es>
+					<en>Treatment designed for 5 types of patients:</en>
+					<de>Geeignet für:</de>
+				</text>
+				<text>
+					<es>- Cambio hormonal en la menopausa.</es>
+					<en>- change at menopause.</en>
+					<de>- Hormonelle Umstellung in der Menopause</de>
+				</text>
+				<text>
+					<es>- Embarazo y postparto.</es>
+					<en>- Pregnancy and postpartum.</en>
+					<de>- Schwangerschaft und Zeit nach der Entbindung</de>
+				</text>
+				<text>
+					<es>- Depresión, ansiedad o problema emocional.</es>
+					<en>- Depression, anxiety and emotional problems.</en>
+					<de>- Depressionen, Angstzustände und emotionale Probleme</de>
+				</text>
+				<text>
+					<es>- Lesión deportiva o accidente con reposo.</es>
+					<en>- Sports injury or accident requiring rest.</en>
+					<de>- Sportverletzung oder Unfall mit Regenerationsphase</de>
+				</text>
+				<text>
+					<es>- Estrés, ansiedad y desajuste alimenticio.</es>
+					<en>- Stress, anxiety and eating imbalance.</en>
+					<de>- Stress und Ernährungsungleichgewicht</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</title>
+				<img>icono_metodo2.png</img>
+				<alt>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Analítica preoperatoria</es>
+					<en>Pre-operative testing</en>
+					<de>Präoperative Laboruntersuchung</de>
+				</text>
+				<text>
+					<es>Electrocardiograma</es>
+					<en>Electrocardiogram (EKG)</en>
+					<de>Elektrokardiogramm</de>
+				</text>
+				<text>
+					<es>Consulta preoperatoria</es>
+					<en>Pre-operative visit</en>
+					<de>Beratungsgespräch vor der OP</de>
+				</text>
+				<text>
+					<es>Dieta líquida las 24 horas anteriores a la intervención</es>
+					<en>Liquid diet 24 hours before surgery</en>
+					<de>Flüssigdiät 24 Stunden vor dem Eingriff</de>
+				</text>
+				<text>
+					<es>En ayunas 8 horas antes de la intervención</es>
+					<en>Fasting 8 hours before the surgery</en>
+					<de>Sie müssen nüchtern zur Operation kommen, d.h. Sie dürfen während der letzten 8 Stunden vor dem Eingriff nichts essen und trinken.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Hospitalización</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</title>
+				<img>icono_metodo3.png</img>
+				<alt>
+					<es>Hospitalización</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</alt>
+				<text>
+					<es>No se requiere hospitalización</es>
+					<en>Hospitalization is not required</en>
+					<de>Kein Krankenhausaufenthalt nötig</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Intervención</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</title>
+				<img>icono_metodo4.png</img>
+				<alt>
+					<es>Intervención</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</alt>
+				<text>
+					<es>NO ES UNA CIRUGÍA, no hay cicatrices ni externas ni internas.</es>
+					<en>IT IS NOT A SURGERY, there are no external or internal scars.</en>
+					<de>ES HANDELT SICH UM KEINEN CHIRURGISCHEN EINGRIFF, es treten weder intern noch extern Narben auf.</de>
+				</text>
+				<text>
+					<es>El paciente no sufre molestia durante la implantación.</es>
+					<en>Patients suffer no discomfort during implantation.</en>
+					<de>Der Patient hat keine Schmerzen während des Implantationsverfahrens.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Anestesia</es>
+					<en>ANAESTHESIA</en>
+					<de>ANÄSTHESIE</de>
+				</title>
+				<img>icono_metodo5.png</img>
+				<alt>
+					<es>Anestesia</es>
+					<en>ANAESTHESIA</en>
+					<de>ANÄSTHESIE</de>
+				</alt>
+				<text>
+					<es>Se realiza con una pequeña sedación en la sala de endoscopia.</es>
+					<en>It is performed with a little sedation in the endoscopy room.</en>
+					<de>Es wird mit einer leichten Sedierung in der Endoskopie-Abteilung durchgeführt.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Duración Intervención</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DES EINGRIFFS</de>
+				</title>
+				<img>icono_metodo6.png</img>
+				<alt>
+					<es>Duración Intervención</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DES EINGRIFFS</de>
+				</alt>
+				<text>
+					<es>El procedimiento se realiza en unos 15 a 20 minutos. </es>
+					<en>The procedure lasts between 15 and 20 minutes.</en>
+					<de>Das Verfahren dauert zwischen 15 und 20 Minuten.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Incisiones</es>
+					<en>INCISIONS</en>
+					<de>SCHNITTE</de>
+				</title>
+				<img>icono_metodo7.png</img>
+				<alt>
+					<es>Incisiones</es>
+					<en>INCISIONS</en>
+					<de>SCHNITTE</de>
+				</alt>
+				<text>
+					<es>Procedimiento no invasivo, SIN CIRUGÍA</es>
+					<en>Non-invasive procedure, WITHOUT SURGERY</en>
+					<de>Nicht-invasives Verfahren, OHNE CHIRURGISCHEN EINGRIFF.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE</en>
+					<de>NACH DER OPERATION</de>
+				</title>
+				<img>icono_metodo8.png</img>
+				<alt>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE</en>
+					<de>NACH DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Se implanta el iBalon y al cabo de una hora el paciente se puede ir a casa.</es>
+					<en>The iBalloon is implanted and after one hour the patient can go back home.</en>
+					<de>Der iBallon wird eingesetzt und der Patient kann bereits eine Stunde danach nach Hause gehen.</de>
+				</text>
+				<text>
+					<es>Durante la primera semana tras la colocación es aconsejable que no hagas grandes esfuerzos.</es>
+					<en>In the first week after implantation, patients are recommended to not engage in strenuous activity. </en>
+					<de>In der ersten Woche nach der Einsetzung wird von größeren Anstrengungen abgeraten.</de>
+				</text>
+				<text>
+					<es>Habitualmente los pacientes tardan entre 24 y 48 horas en reincorporarse a su vida laboral.</es>
+					<en>Normally patients go back to work between 24 and 48 hours after surgery. </en>
+					<de>Für gewöhnlich können die Patienten 24 bzw. 48 Stunden nach dem Eingriff ihrer beruflichen Tätigkeit wieder nachgehen.</de>
+				</text>
+			</item>
+		</cards>
+		<results>
+			<title>
+				<es>Resultados</es>
+				<en>RESULTS</en>
+				<de>ERGEBNISSE</de>
+			</title>
+			<text>
+				<es>Por su diseño y la seguridad que ofrece, el Tratamiento iBalón EMIO se pueda llevar en el estómago hasta 12 meses. Así pues, el paciente puede prolongar el tiempo para continuar perdiendo peso y afianzar los nuevos hábitos saludables adquiridos.</es>
+				<en>Thanks to its design and safety, EMIO’s iBalloon Treatment can be kept in the stomach up to 12 months. Then patients may opt for a longer period in order to keep on losing weight and consolidate the new healthy habits.</en>
+				<de>Der iBallon von EMIO ist auf eine sichere Tragedauer im Magen von 12 Monaten ausgelegt. So steht dem Patienten mehr Zeit zur Verfügung, um nach und nach abzunehmen und um die neu gewonnenen, gesunden Gewohnheiten zu festigen.</de>
+			</text>
+			<text>
+				<es>Seguridad. El iBalón es más seguro debido a su sistema exclusivo de anclaje, no quirúrgico. El sistema de fijación del iBalón, impediría que el iBalón de EMIO se desplace a través del duodeno a pesar de que se pudiera dar el caso de que el dispositivo perdiera todo su líquido. El iBalón permanecerá alojado en el estómago al alcance del endoscopista.</es>
+				<en>Safety. iBalloon is safer thanks to its exclusive non-surgical anchoring system. iBalloon’s fixation system would prevent it from moving from the duodenum, even if the device might lose all its fluids. iBalloon will remain in the stomach within the endoscopist’s reach.</en>
+				<de>Sicherheit: Der iBallon ist dank seines einzigartigen, nicht-chirurgischen Verankerungssystems äußerst sicher. Das Befestigungssystem des iBallons verhindert, dass sich der iBallon von EMIO durch den Zwölffingerdarm verschiebt, wenngleich die Möglichkeit besteht, dass das Medizinprodukt die gesamte Flüssigkeit verliert. Der iBallon bleibt im Magen, sodass der Endoskopist ihn wieder leicht entfernen kann. </de>
+			</text>
+			<text>
+				<es>Gracias a su diseño es más seguro el proceso de colocación y el de retirada.</es>
+				<en>Thanks to its design, the implantation and removal process is safer.</en>
+				<de>Dank seines Designs ist die Einsetzung und Entfernung des iBallons noch sicherer.</de>
+			</text>
+			<text>
+				<es>El tratamiento de iBalón de EMIO ofrece un año adicional de seguimiento para consolidar la pérdida de peso.</es>
+				<en>EMIO’s iBalloon treatment offers one additional follow-up year to consolidate weight loss.</en>
+				<de>Im Rahmen der Behandlung mit dem iBallon von EMIO wird der Patient ein weiteres Jahr mittels Nachbeobachtungsgespräche begleitet, umden Gewichtsverlustzu stabilisieren.</de>
+			</text>
+		</results>
+		<info>
+			<title>
+				<es>Solicita información del método Balón Intragástrico</es>
+				<en>Request information about 1 + 1 year iBalloon method</en>
+				<de>Mehr Information über die iBallon 1 + 1 Jahr Methode</de>
+			</title>
+		</info>
+	</content>
+</page>

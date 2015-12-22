@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Tratamiento Obesidad Madrid</es>
+			<en>Obesity treatment Madrid</en>
+			<de>Fettleibigkeit Behandlung Madrid</de>
+		</title>
+		<description>
+			<es>Elimina tu problema de obesidad en Madrid y disfruta de la ciudad más abierta y con la mejor oferta hotelera de Europa. EMIO se encarga de todas las gestiones</es>
+			<en>Get rid of your obesity problem in Madrid and enjoy the most open-minded city with the best hotel offer in Europe. EMIO takes care of all the arrangements</en>
+			<de>Beseitigen Sie Ihr Problem der Fettleibigkeit in Madrid und genießen Sie die offenste Stadt mit dem besten Hotelangebot Europas. EMIO kümmert sich um alle Formalitäten.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, cirugia, madrid, españa, europa, turismo, salud, viaje</es>
+			<en>obesity, treatment, method, surgery, madrid, spain, europe, tourism, health, trip</en>
+			<de>Fettleibigkeit, Behandlung, Methode, Chirurgie, Madrid, Spanien, Europa, Tourismus, Gesundheit, Reise</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>LA MEJOR OFERTA HOTELERA DE EUROPA</es>
+				<en>THE BEST HOTEL OFFER IN EUROPE</en>
+				<de>DAS BESTE HOTELANGEBOT EUROPAS</de>
+			</title>
+			<img>slider_alojamiento1.jpg</img>
+			<alt>
+				<es>Hoteles en Madrid</es>
+				<en>Hotels in Madrid</en>
+				<de>Hotels in Madrid</de>
+			</alt>
+		</slider>
+		<slider>
+		<title>
+				<es>DISFRUTA LA CIUDAD MÁS ABIERTA DE EUROPA</es>
+				<en>ENJOY THE MOST OPEN CITY IN EUROPE</en>
+				<de>ERLEBEN SIE DIE GASTFREUNDLICHSTE STADT EUROPAS</de>
+			</title>
+			<img>slider_alojamiento2.jpg</img>
+			<alt>
+				<es>Hoteles en Madrid</es>
+				<en>Hotels in Madrid</en>
+				<de>Hotels in Madrid</de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#La mejor oferta hotelera de Europa#/div-#</es>
+				<en>#div class="title_slider_metodo"-#The best hotel offer in Europe#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Das beste hotelangebot Europas#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+		</message>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#Disfruta la ciudad más abierta de Europa#/div-#</es>
+				<en>#div class="title_slider_metodo"-#Enjoy the most open city in Europe#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Erleben sie die gastfreundlichste stadt Europas#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+		</message>
+	</messages>
+	<breadcrumbs>
+		<item>
+			<name>
+				<es>Volver Madrid es Salud</es>
+				<en>Madrid means Health</en>
+				<de>Madrid ist Gesundheit</de>
+			</name>
+			<link>
+				<es>/salud-madrid</es>
+				<en>/madrid-healthcare</en>
+				<de>/gesundheit-madrid</de>
+			</link>
+		</item>
+		<active>
+			<name>
+				<es>Alojamiento</es>
+				<en>Accomodation</en>
+				<de>Unterkunft</de>
+			</name>
+		</active>
+	</breadcrumbs>
+	<content>
+		<left>
+			<text>
+				<es>Madrid es #b-#una de las ciudades más acogedoras y amables con los turistas de todo el mundo#/b-#. Personas abiertas, cercanas y acostumbradas a tratar a los turistas con el máximo cariño y respeto.</es>
+				<en>Madrid is #b-#one of the most tourist-friendly and welcoming city of the world#/b-#. Open-minded and tourist-friendly people that are used to welcome tourists with great charm and respect.</en>
+				<de>Madrid ist #b-#eine der gastfreundlichsten Städte weltweit#/b-#. Seine Einwohner sind offen, freundlich, respektvoll im Umgang und helfen Touristen gerne weiter.</de>
+			</text>
+			<text>
+				<es>Madrid dispone actualmente de #b-#más de 1.200 establecimientos hoteleros#/b-#, de los cuales 26 son hoteles de cinco estrellas y 175 de cuatro estrellas. Con más de sesenta y cinco mil plazas, de las que más de la mitad corresponden a hoteles de 4 y 5 estrellas, la calidad hotelera de Madrid es excepcional. Sus #b-#instalaciones, muy por encima de la media europea#/b-#, combinan el confort con un servicio esmerado de trato profesional, amable y personalizado.</es>
+				<en>Madrid currently offers #b-#more than 1,200 hotels#/b-#, out of which 26 are 5-star and 175 are 4-star hotels. Madrid’s hotel quality is outstanding, with more than 65,000 hotel beds, half of which are 4- or 5-star hotels. Such #b-#facilities, way beyond the European average#/b-#, combine comfort with a service characterised by a professional, polite and personalised treatment.</en>
+				<de>In Madrid stehen Ihnen derzeit über #b-#mehr als 1.200 Hotels#/b-# zur Auswahl, wobei 26 davon Fünf-Sterne und 175 davon Vier-Sterne-Hotels sind. Sie können insgesamt mehr als fünfundsechzigtausend Personen beherbergen, wobei von diesen Plätzen mehr als die Hälfte auf Vier- und Fünf-Sterne-Hotels entfällt, was die außergewöhnliche Qualität Madrids im Bereich des Hotelgewerbes zeigt. Die #b-#Hotels, die weit über dem europäischen Durchschnitt liegen#/b-#, kombinieren Komfort mit einem ausgezeichneten, professionellen, zuvorkommenden und persönlichen Service.</de>
+			</text>
+			<text>
+				<es>Además esta oferta se ha ampliado gracias al alquiler de habitaciones y apartamentos a través de diferentes plataformas online.</es>
+				<en>Moreover, this offer has been broadened thanks to the rooms and flats’ renting options through different online platforms</en>
+				<de>Dieses Angebot hat sich in den letzten Jahren durch die Vermietung von Zimmern und Apartments über diverse Online-Plattformen noch zusätzlich vervielfältigt.</de>
+			</text>
+		</left>
+		<right>
+			<text>
+				<es>Si el paciente lo desea #b-#nuestro Equipo de Pacientes Internacionales podrá realizar las gestiones de reserva más adecuadas a sus necesidades#/b-#, ya sea por el número de personas que le acompañen o por la proximidad a nuestro Instituto, el Hospital o las zonas de compras, ocio o cultura de su elección.</es>
+				<en>If patients are so inclined, our #b-#International Patients’ Team can take care of the reservation arrangements in line with your needs#/b-#, according to the number of people with you or the proximity to our Institute, the Hospital or to shopping, entertainment and cultural areas you are most interested in.</en>
+				<de>Falls der Patient dies wünscht, #b-#kümmert sich unser für internationale Patienten zuständiges Team um die Reservierung des Hotels, das Ihren Bedürfnissen am besten entspricht#/b-#, unabhängig davon, ob dies durch die Anzahl von Personen bedingt ist, die den Patienten begleiten, oder durch die Nähe zu unserer Klinik, dem Krankenhaus oder Shopping-, Unterhaltungs- bzw. Kulturangeboten, die Ihnen zur Verfügung stehen.</de>
+			</text>
+			<text>
+				<es>La privilegiada situación del #b-#EMIO junto al Estadio Santiago Bernabéu#/b-# y a la principal arteria de Madrid, Paseo de La Castellana, y #b-#a escasos 10 minutos de una de las zonas comerciales más importantes de Europa#/b-# permiten a nuestros pacientes disfrutar al máximo de nuestra bella ciudad.</es>
+				<en>EMIO’s prime location #b-#next to the Santiago Bernabéu stadium#/b-# and to Madrid’s main artery, Paseo de La Castellana, and #b-#only 10 minutes away from one of the most important shopping areas in Europe#/b-# allows our patients to fully enjoy our beatiful city.</en>
+				<de>Die privilegierte Lage von #b-#EMIO neben dem Fußballstadion Estadio Santiago Bernabéu#/b-# und der Hauptschlagader Madrids, dem Paseo de La Castellana, sowie #b-#in gerade 10-minütiger Entfernung der bedeutendsten Einkaufsstraßen bzw. -zentren Europas#/b-# erlauben es unseren Patienten zugleich, das vielseitige Angebot unserer schönen Stadt voll auszukosten.</de>
+			</text>
+		</right>
+		<cards>
+			<card>
+				<title>
+					<es>Hoteles Cinco Estrellas</es>
+					<en>Five-star hotels</en>
+					<de>Fünf-Sterne-Hotels</de>
+				</title>
+				<img>img_alojamiento1.jpg</img>
+				<alt>
+					<es>Alojamiento Madrid</es>
+					<en>Accomodation Madrid</en>
+					<de>Unterkunft Madrid</de>
+				</alt>
+				<text>
+					<es>Situados cerca de los centros comerciales y financieros de la capital, acercan a sus huéspedes al lujo y el confort. Servicio personalizado, carta de almohadas, jacuzzis en las habitaciones o coches de cortesía para recorrer la ciudad, son algunos de los servicios que ofrecen estos hoteles a sus clientes más exigentes.</es>
+					<en>Thanks to their proximity to shopping and financial centres, theirs guests will be surrounded by luxury and comfort. Personalised service, a selection of pillows, jacuzzis or courtesy cars to travel around the city are some of the services included by these hotels in order to satisfy the needs of the most demanding customers.</en>
+					<de>Diese Fünf-Sterne-Hotels befinden sich in unmittelbarer Nähe zu den Einkaufs- und Finanzzentren Madrids und bieten ihren Gästen Luxus und Komfort. Der personalisierte Service, eine Auswahl an Kopfkissen, ein Jacuzzi im Zimmer oder ein Leihwagen, um die Stadt zu erkunden, sind einige der Leistungen, die diese exklusiven Hotels Ihren Gästen bieten.</de>
+				</text>
+				<link>
+					<es>http://www.esmadrid.com/hoteles-lujo-madrid/</es>
+					<en>http://www.esmadrid.com/en/five-star-hotels/</en>
+					<de>http://www.esmadrid.com/de/touristeninformation-madrid/</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Hoteles Urbanos con Piscina</es>
+					<en>City hotels with swimming pools</en>
+					<de>Zentral gelegene Hotels mit Swimmingpool</de>
+				</title>
+				<img>img_alojamiento2.jpg</img>
+				<alt>
+					<es>Alojamiento Madrid</es>
+					<en>Accomodation Madrid</en>
+					<de>Unterkunft Madrid</de>
+				</alt>
+				<text>
+					<es>Las piscinas exteriores son un atractivo más a la hora de elegir alojamiento en verano. Hospedarse en un hotel con piscina exterior donde relajarse y divertirse durante la época estival, se convierte en una buena elección a la hora de visitar Madrid. Y si ese hotel está cerca de los puntos turísticos más interesantes de la capital, mejor que mejor.</es>
+					<en>Outdoor pools are particularly attractive when choosing an accomodation during the summer. Choosing a hotel with an outdoor pool to relax and have fun in the summer is a wonderful option when visiting Madrid. If the hotel is located near the city’s main tourist amenities, that is even better.</en>
+					<de>Die Außenpools sind ein weiterer Anreiz bei der Wahl einer Unterkunft im Sommer. Wenn Sie Madrid zu dieser Jahreszeit besuchen, werden Sie es garantiert nicht bereuen, sich für ein Hotel mit Außenpool entschieden zu haben, an dem Sie entspannen und die Sommerabende gemütlich ausklingen lassen können. Und wenn dieses Hotel auch noch in unmittelbarer Nähe zu Sehenswürdigkeiten und Orten von touristischem Interesse liegt, umso besser.</de>
+				</text>
+				<link>
+					<es>http://www.esmadrid.com/hoteles-urbanos-con-piscina/</es>
+					<en>http://www.esmadrid.com/en/urban-hotels-with-an-outdoor-pool/</en>
+					<de>http://www.esmadrid.com/de/touristeninformation-madrid/</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Hoteles que son Palacios</es>
+					<en>Former-palace hotels</en>
+					<de>In einem Palais übernachten</de>
+				</title>
+				<img>img_alojamiento3.jpg</img>
+				<alt>
+					<es>Alojamiento Madrid</es>
+					<en>Accomodation Madrid</en>
+					<de>Unterkunft Madrid</de>
+				</alt>
+				<text>
+					<es>En Madrid numerosos hoteles encuentran acomodo en edificios de pasado noble, pero no todos tienen el honor de estar ubicados en un auténtico palacio. Consulta nuestro listado y elige dónde pasar unos días inolvidables.</es>
+					<en>In Madrid many hotels are housed in buildings of former nobles. Yet, not all of them are lucky enough to be located in a real palace. Check our list and choose where to spend some unforgettable days.</en>
+					<de>Zahlreiche Hotels in Madrid befinden sich in Gebäuden mit einer noblen Vergangenheit, wenngleich nicht alle in einem echten Palais beherbergt sind. Für eine Auswahl an Hotels sehen Sie sich bitte die folgende Liste an und wählen Sie Ihr Hotel für ein paar unvergessliche Tage in der Hauptstadt Spaniens aus.</de>
+				</text>
+				<link>
+					<es>http://www.esmadrid.com/hoteles-que-son-palacios/</es>
+					<en>http://www.esmadrid.com/en/palatial-hotels/</en>
+					<de>http://www.esmadrid.com/de/touristeninformation-madrid/</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Hoteles Románticos</es>
+					<en>Romantic hotels</en>
+					<de>Romantische Hotels</de>
+				</title>
+				<img>img_alojamiento4.jpg</img>
+				<alt>
+					<es>Alojamiento Madrid</es>
+					<en>Accomodation Madrid</en>
+					<de>Unterkunft Madrid</de>
+				</alt>
+				<text>
+					<es>Alojamientos románticos de todos los estilos: clásicos y vanguardistas. Ambas opciones son posibles en la oferta hotelera de Madrid que, junto a antiguos palacetes del siglo XVIII con cuidada decoración de época,  cuenta con modernos establecimientos que incorporan el concepto boutique y diseños de lujo para hacer tu estancia inolvidable. Encuentra esa habitación con vistas a los espectaculares amaneceres de la capital y que han sido escenarios de cine y televisión.</es>
+					<en>Romantic accomodations of any kind of styles, from classic to avant-garde. Both options are possible thanks to Madrid’s hotel facilities that, apart from 18th-century palaces with a well-taken-care-of decoration of the time, offer modern builings incorporating a boutique concept with a luxurious design to make your stay unforgettable. Find out that room with a view of the capital’s breathtaking sunrises, which have often been the perfect setting for cinema and TV productions.</en>
+					<de>Romantische Übernachtungsmöglichkeiten aller Art: von klassisch bis hin zu avantgardistisch. Beide Angebote stehen Ihnen in Madrid offen. Die Stadt verfügt neben Palais aus dem 18. Jahrhundert mit Einrichtung aus dieser Zeit auch über moderne Gebäude, die das Boutique-Konzept und Luxus-Designs integrieren, sodass Ihr Aufenthalt garantiert unvergesslich wird. Oder sind Sie auf der Suche nach einem Zimmer mit Blick auf die atemberaubenden Sonnenuntergänge der Hauptstadt, die bereits Schauplatz von Kino- und Fernsehfilmen waren? Dann sind Sie hier richtig.</de>
+				</text>
+				<link>
+					<es>http://www.esmadrid.com/hoteles-romanticos/</es>
+					<en>http://www.esmadrid.com/en/romantic-hotels/</en>
+					<de>http://www.esmadrid.com/de/touristeninformation-madrid/</de>
+				</link>
+			</card>
+		</cards>
+	</content>
+</page>

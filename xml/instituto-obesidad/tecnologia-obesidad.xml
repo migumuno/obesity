@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Tecnología Obesidad</es>
+			<en>Obesity technology</en>
+			<de>Technologie Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>En EMIO utilizamos las tecnologías más avanzadas en el tratamiento de la obesidad para nuestros pacientes con nuestro servicio de Diagnóstico Obesity Profile</es>
+			<en>EMIO uses the most state-of-the-art technology for our patient’s obesity treatment with our Obesity Profile Test department.</en>
+			<de>Im EMIO verwenden wir für unsere Patienten die fortschrittlichsten Technologien zur Behandlung von Fettleibigkeit mit unserer Dienstleistung Übergewichtsprofil Test (Diagnose).</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, medico, clinica, método, cirugia, diagnostico, tecnologia, paciente, scanner</es>
+			<en>obesity, treatment, doctor, clinic, method, surgery, diagnosis, technology, patient, scanner</en>
+			<de>Fettleibigkeit, Behandlung, Arzt, Klinik, Methode, Chirurgie, Diagnose, Technologie, Patient, Scanner</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+		<title>
+			<es>ALTA TECNOLOGÍA PARA TU SALUD</es>
+			<en>STATE-OF-THE-ART TECHNOLOGY FOR YOUR HEALTH</en>
+			<de>HIGH-TECH FÜR IHRE GESUNDHEIT</de>
+		</title>
+			<img>slider_tecnologia1.jpg</img>
+			<alt>
+				<es>Tecnología Obesidad</es>
+				<en>Obesity technology</en>
+				<de>Technologie Fettleibigkeit</de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+	
+		</message>
+	</messages>
+	<content>
+		<img>tecnologia1.jpg</img>
+		<alt>
+			<es>Scanner Corporal</es>
+			<en>Body Scanner</en>
+			<de>Körperscanner</de>
+		</alt>
+		<text>
+			<es>En EMIO utilizamos las tecnologías más avanzadas para el trato a nuestros pacientes, así como las últimas técnicas que nos permiten tener una gran versatilidad y personalización en el tratamiento que cada paciente pueda requerir dependiendo de su genética y fisionomía.</es>
+			<en>At EMIO, we have state-of-the-art technology to treat our patients, as well as the latest techniques that afford us great level of versatility and personalisation when providing treatment based on patients’ genetics or physiognomy.</en>
+			<de>Am IMEO benutzen wir die modernste Technologie für die Behandlung unserer Patienten sowie die neusten Techniken die es uns erlauben eine große Vielfalt individueller Behandlungen anzubieten, die jeder Patient je nach seiner Genetik und Physiognomie erhalten kann.</de>
+		</text>
+		<text>
+			<es>Dentro de nuestro servicio de #a href="/distributor.php?url=/diagnostico-obesidad/"-#Diagnóstico Obesity Profile#/a-# contamos con la última tecnología para hacer un diagnóstico más eficiente, rápido y cómodo para nuestros pacientes:</es>
+			<en>Our #a href="/distributor.php?url=/obesity-diagnosis/"-#Obesity Profile Test#/a-# Department has the most-advanced technology available in order to provide our patients with a more effective, comfortable and quicker diagnosis:</en>
+			<de>Innerhalb unserer #a href="/distributor.php?url=/diagnose-fettleibigkeit/"-#Dienstleistung Übergewichtsprofil Test (Diagnose)#/a-# verfügen wir über die modernste Technologie, um die Diagnose effizienter, schneller und bequemer für unsere Patienten zu erstellen:</de>
+			<ul>
+				<li>
+					<es>#a href="/distributor.php?url=/diagnostico-obesidad/estudio-genetico-obesidad"-#Estudio Genético de la Obesidad#/a-#</es>
+					<en>#a href="/distributor.php?url=/obesity-diagnosis/obesity-genetic-study"-#Obesity Genetic Study#/a-#</en>
+					<de>#a href="/distributor.php?url=/diagnose-fettleibigkeit/untersu-chung-genetisch-fetteibigkeit"-#Gen-Studie zur Adipositas (Übergewicht)#/a-#</de>
+				</li>
+				<li>
+					<es>#a href="/distributor.php?url=/diagnostico-obesidad/scanner-corporal"-#Scanner Corporal iDEXA#/a-#</es>
+					<en>#a href="/distributor.php?url=/obesity-diagnosis/body-scanner"-#iDEXA Body Scanner#/a-#</en>
+					<de>#a href="/distributor.php?url=/diagnose-fettleibigkeit/body-scanner"-#Körperscanner iDEXA#/a-#</de>
+				</li>
+				<li>
+					<es>#a href="/distributor.php?url=/diagnostico-obesidad/estudio-hormonal"-#Estudio hormonal y emocional EIS#/a-#</es>
+					<en>#a href="/distributor.php?url=/obesity-diagnosis/hormonal-study"-#Hormonal and emotional study EIS#/a-#</en>
+					<de>#a href="/distributor.php?url=/diagnose-fettleibigkeit/unter-suchung-hormonell"-#Hormonelle und emotionale Untersuchung EIS#/a-#</de>
+				</li>
+				<li>
+					<es>#a href="/distributor.php?url=/diagnostico-obesidad/electroimpedancia-tanita"-#Electroimpedancia TANITA#/a-#</es>
+					<en>#a href="/distributor.php?url=/obesity-diagnosis/tanita-electrical-impedance"-#TANITA bio-electrical impedance#/a-#</en>
+					<de>#a href="/distributor.php?url=/diagnose-fettleibigkeit/elektrische-impedanz-tanita"-#Elektrische Impedanz TANITA#/a-#</de>
+				</li>
+				<li>
+					<es>#a href="/distributor.php?url=/diagnostico-obesidad/intolerancias-alimenticias"-#Intolerancias alimenticias MedTronik#/a-#</es>
+					<en>#a href="/distributor.php?url=/obesity-diagnosis/food-intolerances"-#MED-Tronik food intolerances#/a-#</en>
+					<de>#a href="/distributor.php?url=/diagnose-fettleibigkeit/nahrungs-mittel-intoleranz"-#Nahrungsmittelintoleranz MedTronik#/a-#</de>
+				</li>
+			</ul>
+		</text>
+		<text>
+			<es>Los quirófanos donde realizamos las intervenciones son Quirófanos de Última Generación equipados con la última tecnología para poder realizar tanto cirugía mayor como ambulante con disposición para asistir tanto urgencias generales como de cardiología integrada, con farmacia interna, laboratorio propio y servicio de radiodiagnóstico avanzado.</es>
+			<en>The operation rooms we use for surgery are state-of-the-art ORs equipped with the latest technology in order to perform both major and outpatient surgeries to treat general and integrated cardiology emergencies, with an internal pharmacy, laboratory and advanced radiodiagnosis facilities.</en>
+			<de>Die Operationssäle, in denen wir die Eingriffe durchführen, sind Operationssäle der neusten Generation, ausgestattet mit modernster Technologie, um größere operative und auch kleinere ambulante Eingriffe durchzuführen, bereit für generelle Notaufnahmen sowie integrierte Kardiologie, mit interner Apotheke, eigenem Labor und fortgeschrittenem Röntgendiagnosedienst.</de>
+		</text>
+	</content>
+</page>

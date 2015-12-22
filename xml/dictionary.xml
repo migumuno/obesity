@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<fields>
+		<name>
+			<es>Nombre</es>
+			<en>Name</en>
+			<de>Nachname</de>
+		</name>
+		<mail>
+			<es>Email</es>
+			<en>Email</en>
+			<de>Email</de>
+		</mail>
+		<telf>
+			<es>Teléfono</es>
+			<en>Phone</en>
+			<de>Telefon</de>
+		</telf>
+		<textarea>
+			<es>Escribe aquí...</es>
+			<en>Write here...</en>
+			<de>Schreiben Sie hier...</de>
+		</textarea>
+		<privacity>
+			<es>He leído y acepto la Política de Privacidad</es>
+			<en>I have read and accept the Privacy Policy</en>
+			<de>Ich habe die Datenschutzerklärung gelesen und akzeptiere diese</de>
+		</privacity>
+		<button>
+			<es>Enviar Consulta</es>
+			<en>Send Request</en>
+			<de>Anfrage Senden</de>
+		</button>
+		<button2>
+			<es>Enviar Mensaje</es>
+			<en>Send Message</en>
+			<de>Anfrage Senden</de>
+		</button2>
+		<callme>
+			<es>Llamádme</es>
+			<en>Call me</en>
+			<de>Rufen Sie uns an</de>
+		</callme>
+		<deliver>
+			<es>Deseo recibir la información preferiblemente por:</es>
+			<en>I would like to receive information by:</en>
+			<de>Ich möchte Information erhalten via:</de>
+		</deliver>
+		<request>
+			<es>Solicita información ahora</es>
+			<en>Request information now</en>
+			<de>Jetzt Infos anfordern</de>
+		</request>
+	</fields>
+	<alerts>
+		<name>
+			<es>Necesitamos saber tu nombre.</es>
+			<en>We need to know your name.</en>
+			<de>Wir müssen Ihren Namen kennen</de>
+		</name>
+		<mail>
+			<es>Necesitamos saber tu email.</es>
+			<en>We need to know your email.</en>
+			<de>Wir müssen Ihre E-Mail wissen</de>
+		</mail>
+		<mailpattern>
+			<es>El email no es correcto.</es>
+			<en>Incorrect email.</en>
+			<de>Falsche Email</de>
+		</mailpattern>
+		<telf>
+			<es>Necesitamos saber tu teléfono.</es>
+			<en>We need to know your phone.</en>
+			<de>Wir Brauchen Ihre Telefonnummer</de>
+		</telf>
+		<telfpattern>
+			<es>El teléfono no es correcto.</es>
+			<en>Incorrect phone.</en>
+			<de>Telefonnummer inkorrekt</de>
+		</telfpattern>
+		<textarea>
+			<es>Haz una consulta.</es>
+			<en>Make a query.</en>
+			<de>Eine Anfrage stellen</de>
+		</textarea>
+		<privacity>
+			<es>Necesitamos que aceptes la política de privacidad.</es>
+			<en>You need to accept the privacy policy.</en>
+			<de>Sie müssen den Datenschutzbestimmungen zustimmen</de>
+		</privacity>
+		<deliver>
+			<es>¿Método de contacto preferido?</es>
+			<en>Preferred contact method?</en>
+			<de>Bevorzugte Kontaktmethode?</de>
+		</deliver>
+	</alerts>
+	<texts>
+		<close>
+			<es>CERRAR</es>
+			<en>CLOSE</en>
+			<de>SCHLIESSEN</de>
+		</close>
+		<duration>
+			<es>Duración</es>
+			<en>Duration</en>
+			<de>Dauer</de>
+		</duration>
+		<include>
+			<es>Incluye</es>
+			<en>Include</en>
+			<de>Inbegriffen</de>
+		</include>
+		<country_select>
+			<es>Elige un país</es>
+			<en>Choose a country</en>
+			<de>Wählen Sie ein Land</de>
+		</country_select>
+		<interest_select>
+			<es>Estoy interesado/a en</es>
+			<en>I am interested in</en>
+			<de>Ich interessiere mich für</de>
+		</interest_select>
+		<info_contact>
+			<es>Información de Contacto</es>
+			<en>Contact information</en>
+			<de>Kontaktinformation</de>
+		</info_contact>
+		<send_message>
+			<es>Envíanos un Mensaje</es>
+			<en>Send us message</en>
+			<de>Senden Sie uns Ihre Nachricht</de>
+		</send_message>
+		<patient_care>
+			<es>Atención al Paciente</es>
+			<en>Patient Care</en>
+			<de>Patientenbetreuung</de>
+		</patient_care>
+		<recived>
+			<es>Recibido!</es>
+			<en>Recived!</en>
+			<de>Empfangen!</de>
+		</recived>
+		<mail_send>
+			<es>Te contestaremos lo antes posible.</es>
+			<en>We will answer you as soon as possible.</en>
+			<de>Wir antworten so bald wie möglich</de>
+		</mail_send>
+		<legal>
+			<es>aviso legal</es>
+			<en>legal notice</en>
+			<de>rechtliche hinweise</de>
+		</legal>
+		<privacity>
+			<es>política de privacidad</es>
+			<en>privacy policy</en>
+			<de>datenschutz</de>
+		</privacity>
+		<cookies>
+			<es>cookies</es>
+			<en>cookies</en>
+			<de>cookies</de>
+		</cookies>
+		<required_fields>
+			<es>Información necesaria</es>
+			<en>Necessary information</en>
+			<de>Benötigte Informatio</de>
+		</required_fields>
+		<blog_title>
+			<es>BLOG OBESIDAD</es>
+			<en>OBESITY BLOG</en>
+			<de>ADIPOSITAS BLOG</de>
+		</blog_title>
+	</texts>
+	<buttons>
+		<more_info>
+			<es>Más Información</es>
+			<en>More Information</en>
+			<de>Mehr Informationen</de>
+		</more_info>
+		<visit>
+			<es>Visitar</es>
+			<en>Visit</en>
+			<de>Aufsuchen</de>
+		</visit>
+		<continue>
+			<es>Seguir leyendo...</es>
+			<en>Continue reading...</en>
+			<de>Lesen Sie weiter...</de>
+		</continue>
+		<patient>
+			<es>Area del Paciente</es>
+			<en>Patient's Area</en>
+			<de>Patientenbereich</de>
+		</patient>
+		<expert>
+			<es>Consulta al especialista</es>
+			<en>Consulting a specialist</en>
+			<de>Konsultieren Sie eine Spezialisten</de>
+		</expert>
+		<request>
+			<es>pedir más info</es>
+			<en>make an enquiry</en>
+			<de>machen Sie eine Anfrage</de>
+		</request>
+	</buttons>
+</dictionary>

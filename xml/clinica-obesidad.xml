@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Clínica Obesidad Madrid</es>
+			<en>Madrid Obesity Clinic</en>
+			<de>Klinik Fettleibigkeit Madrid</de>
+		</title>
+		<description>
+			<es>european medical institute of obesity (EMIO), la Clínica de la Obesidad número 1 en Europa. Paseo de la Habana, 63, Madrid. Teléfono 917 377 070 llámanos</es>
+			<en>European Medical Institute of Obesity (EMIO): the number-1 Obesity Clinic in Europe. Paseo de la Habana, 63, Madrid. Telephone (+34) 917 377 070  Call us</en>
+			<de>European Medical Institute of Obesity (EMIO), die führende Klinik für Fettleibigkeit in Europa. Paseo de la Habana, 63, Madrid. Telefon 917 377 070, rufen Sie uns an.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, cirugia, clínica, european, medical, institute, obesity, madrid</es>
+			<en>obesity, treatment, method, surgery, clinic, european, medical, institute, madrid</en>
+			<de>Fettleibigkeit, Behandlung, Methode, Chirurgie, Klinik, european, medical, institute, obesity, Madrid</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>LA CLÍNICA DE LA OBESIDAD Nº1 EN EUROPA</es>
+				<en>NUMBER 1 OBESITY CLINIC IN EUROPE</en>
+				<de>FÜHRENDE ADIPOSITASKLINIK EUROPAS</de>
+			</title>
+			<img>slider_contacto1.jpg</img>
+			<alt>
+				<es>LA CLÍNICA DE LA OBESIDAD Nº1 EN EUROPA</es>
+				<en>NUMBER 1 OBESITY CLINIC IN EUROPE</en>
+				<de>FÜHRENDE ADIPOSITASKLINIK EUROPAS</de>
+			</alt>
+		</slider>
+		</sliders>
+	
+	<content>
+		<text>
+			<es>Si desea contactar con nosotros, llámanos o rellena este formulario.</es>
+			<en>If you would like to contact us, call us or fill in this form.</en>
+			<de>Rufen Sie uns bitte an oder füllen Sie dieses Formular aus, um sich mit uns in Verbindung zu setzen.</de>
+		</text>
+		<text>
+			<es>En breve nos pondremos en contacto contigo.</es>
+			<en>We will get in touch with you shortly.</en>
+			<de>Wir antworten Ihnen so schnell wie möglich:</de>
+		</text>
+		<country>
+			<option>
+				<name>
+					<es>España</es>
+					<en>Spain</en>
+					<de>Spanien</de>
+				</name>
+				<value>
+					<es>Espana</es>
+					<en>Spain</en>
+					<de>Spanien</de>
+				</value>
+			</option>
+			<option>
+				<name>
+					<es>Alemania</es>
+					<en>Germany</en>
+					<de>Deutschland</de>
+				</name>
+				<value>
+					<es>Alemania</es>
+					<en>Germany</en>
+					<de>Deutschland</de>
+				</value>
+			</option>
+		</country>
+		<interest>
+			<option>
+				<name>
+					<es>Método Apollo</es>
+					<en>Apollo Endo-Sleeve Method</en>
+					<de>Methode Endoskopische  Magensleeve-Resektion Apollo</de>
+				</name>
+				<value>
+					<es>metodo-apollo</es>
+					<en>metodo-apollo</en>
+					<de>metodo-apollo</de>
+				</value>
+			</option>
+			<option>
+				<name>
+					<es>Método ERAS</es>
+					<en>ERAS Method</en>
+					<de>ERAS-Verfahren</de>
+				</name>
+				<value>
+					<es>metodo-eras</es>
+					<en>metodo-eras</en>
+					<de>metodo-eras</de>
+				</value>
+			</option>
+			<option>
+				<name>
+					<es>Método POSE</es>
+					<en>POSE Method</en>
+					<de>Neuesverstärktes POSE-Verfahren</de>
+				</name>
+				<value>
+					<es>metodo-pose</es>
+					<en>metodo-pose</en>
+					<de>metodo-pose</de>
+				</value>
+			</option>
+			<option>
+				<name>
+					<es>iBalón 1+1 año</es>
+					<en>1 + 1 year iBalloon Treatment</en>
+					<de>iBallon-Behandlung 1 + 1 Jahr</de>
+				</name>
+				<value>
+					<es>balon-intragastrico</es>
+					<en>balon-intragastrico</en>
+					<de>balon-intragastrico</de>
+				</value>
+			</option>
+			<option>
+				<name>
+					<es>Balón Intragástrico</es>
+					<en>6 + 6 month Intragastric Balloon</en>
+					<de>Magenballon 6 + 6 Monate</de>
+				</name>
+				<value>
+					<es>balon-intragastrico-6meses</es>
+					<en>balon-intragastrico-6meses</en>
+					<de>balon-intragastrico-6meses</de>
+				</value>
+			</option>
+			<option>
+				<name>
+					<es>Manga Gástrica</es>
+					<en>Gastric Sleeve</en>
+					<de>Magenschlauch (Sleeve)</de>
+				</name>
+				<value>
+					<es>manga-gastrica</es>
+					<en>manga-gastrica</en>
+					<de>manga-gastrica</de>
+				</value>
+			</option>
+			<option>
+				<name>
+					<es>Bypass Gástrico</es>
+					<en>Gastric Bypass</en>
+					<de>Magenbypass</de>
+				</name>
+				<value>
+					<es>bypass-gastrico</es>
+					<en>bypass-gastrico</en>
+					<de>bypass-gastrico</de>
+				</value>
+			</option>
+		</interest>
+	</content>
+</page>

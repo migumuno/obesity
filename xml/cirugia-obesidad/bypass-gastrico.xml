@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>ByPass Gástrico</es>
+			<en>Gastric Bypass</en>
+			<de>Magenbypass</de>
+		</title>
+		<description>
+			<es>ByPass Gástrico por Microcirugía Laparoscópica, técnica mínimamente invasiva para pacientes con problemas de Obesidad y Obesidad Severa</es>
+			<en>Gastric Bypass by Laparoscopic Microsurgery, minimally invasive technique for patients with Obesity and Morbid Obesity problems</en>
+			<de>Magenbypass durch laparoskopische Mikrochirurgie, minimalinvasive Technik für Patienten mit Fettleibigkeit und schwerer Fettleibigkeit.</de>
+		</description>
+		<keywords>
+			<es>obesidad, severa, tratamiento, metodo, bypass, gastrico, laparoscopia, cirugia, estomago, reduccion</es>
+			<en>obesity, morbid, severe, treatment, method, bypass, gastric, laparoscopy, surgery, stomach, reduction</en>
+			<de>Fettleibigkeit, schwere, Behandlung, Methode, Bypass, Magen, Laparoskopie, Chirurgie, Magen, Verkleinerung</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>Bypass Gástrico</es>
+				<en>Gastric Bypass</en>
+				<de>Magenbypass</de>
+			</title>
+			<img>slider_generico1.jpg</img>
+		</slider>
+		<slider>
+			<title>
+				<es>Bypass Gástrico</es>
+				<en>Gastric Bypass</en>
+				<de>Magenbypass</de>
+			</title>
+			<img>slider_generico2.jpg</img>
+		</slider>
+	</sliders>
+	<messages>
+			<message>
+			<img>
+				<es>pastilla_bypass1.png</es>
+				<en>pastilla_bypass1_en.png</en>
+				<de>pastilla_bypass1_de.png</de>
+			</img>
+			<alt>
+				<es>Bypass Gástrico</es>
+				<en>Gastric Bypass</en>
+				<de>Magenbypass</de>
+			</alt>
+		</message>
+				<message>
+			<img>
+				<es>pastilla_bypass2.png</es>
+				<en>pastilla_bypass2_en.png</en>
+				<de>pastilla_bypass2_de.png</de>
+			</img>
+			<alt>
+				<es>Bypass Gástrico</es>
+				<en>Gastric Bypass</en>
+				<de>Magenbypass</de>
+			</alt>
+		</message>
+	</messages>
+	<content>
+		<img>
+			<name>bypass1.jpg</name>
+			<alt>
+				<es>Bypass Gástrico</es>
+				<en>Gastric Bypass</en>
+				<de>Magenbypass</de>
+			</alt>
+		</img>
+		<description>
+			<text>
+				<es>#div class="titulo_metodo"-#Qué es el ByPass Gástrico#/div-#</es>
+				<en>#div class="titulo_metodo"-#WHAT IS THE GASTRIC BYPASS?#/div-#</en>
+				<de>#div class="titulo_metodo"-#Was ist ein Magenbypass?#/div-#</de>
+			</text>
+			<text>
+				<es>El By-Pass Gástrico consiste en una técnica mixta, restrictiva-malabsortiva. Se instaura un pequeño reservorio gástrico en la parte alta, dejando abandonado el resto del estómago, y se aplica una derivación de alimentos para que éstos no pasen por el primer tramo intestinal, provocando una eficaz malabsorción de nutrientes y por lo tanto de calorías.</es>
+				<en>The Gastric Bypass is a mixed restrictive-malabsorptive technique. A small gastric reservoir is placed in the upper part isolating the rest of the stomach and a bypass is applied so that food does not pass through the first intestinal section causing an effective malabsorption of nutrients and thus of calories.</en>
+				<de>Der Magenbypass ist ein gemischtes Verfahren, d.h. es ist restriktiv und malabsorptiv. Es wird ein kleines Magenreservoir in den oberen Teil eingeführt, das den restlichen Magen „ausschaltet“ und es wird eine Umleitung der Nahrung vorgenommen, damit diese nicht den ersten Darmabschnitt durchläuft, was zu einer effektiven Malabsorption der Nahrung und somit der Kalorien führt.</de>
+				<ul>
+					<li>
+						<es>#b-#Satisfacción con menos cantidad de alimento:#/b-# El reservorio es de unos 25-30 cc que limita de manera sobresaliente la cantidad de comida que se ingiere.</es>
+						<en>#b-#Satiety with lower food intake:#/b-# The reservoir occupies 25-30 cc and thus limits the food intake considerably.</en>
+						<de>#b-#Sättigung mit geringerer Nahrungsmenge:#/b-# Das Reservoir fasst ca. 25-30 cc, was die zugeführte Nahrungsmenge stark einschränkt.</de>
+					</li>
+					<li>
+						<es>#b-#Los alimentos ingeridos nos engordan menos:#/b-# Gracias a la malabsorción producida por la derivación, muy útil en los primeros meses de reeducación alimenticia y de hábitos de vida, y posteriormente una ayuda crucial en el mantenimiento del peso saludable alcanzado.</es>
+						<en>#b-#Eaten foodstuffs are less fattening:#/b-# Thanks the malabsorption produced by the bypass, which is very useful in the first months of this new nutrition education and eating habits, but also to maintain the achieved healthy weight.</en>
+						<de>#b-#Die zugeführten Lebensmittel lassen uns weniger dick werden:#/b-# Dies dank der auf die Umleitung zurückzuführenden Malabsorption, welche in den ersten Monaten der Umstellung der Ernährung und Lebensgewohnheiten sehr nützlich und später eine entscheidende Stütze dabei ist, das erreichte gesundeKörpergewicht zu halten.</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>El reservorio se conecta con un asa del intestino delgado que se desconecta del flujo normal de la bilis y los jugos gástricos y pancreáticos, #b-#disminuyendo considerablemente la absorción de los alimentos ingeridos, y en especial, la grasa#/b-#. Este segmento desfuncionalizado puede ser más o menos largo en función del IMC del paciente.</es>
+				<en>The reservoir is connected to a loop of the small intestine separated from bile reflux and gastric and pancreatic juices, #b-#significantly reducing the absorption of the food intake and, in particular, of fat#/b-#. This disconnected segment can be shorter or longer based on the patient’s BMI.</en>
+				<de>Das Reservoir wird mit einer Schlinge des Dünndarms verbunden, die vom normalen Fluss der Galle sowie Magen- und Pankreassäfte abgetrennt wird, #b-#was die Absorption der zugeführten Lebensmittel, insbesondere des Fetts, beachtlich reduziert#/b-#. Der ausgeschaltete Abschnitt ist je nach BMI des Patienten unterschiedlich lang.</de>
+			</text>
+			<text>
+				<es>Actualmente y gracias a la Microcirugía Laparoscópica es una #b-#técnica bariátrica más segura#/b-# que hace unos años cuando se realizaba por vía abierta. La mortalidad se ha reducido a datos que rondan entre el 0,3% y el 1,3%, en #b-#EMIO por debajo del 0,3%#/b-#.</es>
+				<en>Thanks to Laparoscopic Microsurgery, it is currently a #b-#very safe bariatric technique#/b-#, which  was performed some years ago through open surgery. Mortality has dropped to about 0.3-1.3% and #b-#below 0.3% at EMIO.#/b-#</en>
+				<de>Heute ist dieser Eingriff dank der laparoskopischen Mikrochirurgie ein #b-#wesentlich sichereres bariatrisches Verfahren#/b-# als vor einigen Jahren, als jener Eingriff in Form einer offenen Operation durchgeführt wurde. Die Sterblichkeitsrate hat sich soweit gesenkt, dass sie heute allgemein bei 0,3% bis 1,3% liegt. Bei #b-#EMIO liegt der Wert sogar unter 0,3%.#/b-# </de>
+			</text>
+			<text>
+				<es>El ByPass Gástrico aporta dos grandes beneficios, malabsorción de los alimentos, especialmente las grasas, y satisfacción con menos cantidad de alimentos. #b-#El paciente come menos, más despacio, y los alimentos ingeridos le engordan menos#/b-#.</es>
+				<en>The Gastric Bypass brings two main benefits: food malabsorption (of fat in particular), and feeling full with a lower food intake. Patients eat less and more slowly, and the food intake is less fattening.</en>
+				<de>Der Magenbypass hat zwei große Vorteile: die Malabsorption der Nahrung, insbesondere der Fette, und die bereits nach wesentlich kleineren Nahrungsmengen erreichte Sättigung. #b-#Der Patient isst weniger, langsamer und die zugeführten Lebensmittel machen ihn nicht mehr so dick wie vor dem Eingriff.#/b-#</de>
+			</text>
+			<text>
+				<es>#div class="titulo_metodo"-#Ventajas del Bypass Gástrico#/div-#</es>
+				<en>#div class="titulo_metodo"-#Gastric Bypass’ advantages#/div-#</en>
+				<de>#div class="titulo_metodo"-Vorteile eines Magenbypasses#/div-#</de>
+				<ul>
+					<li>
+						<es>Buena #b-#para todo tipo de obesidades#/b-#.</es>
+						<en>Suitable for any kind of Obesity</en>
+						<de>Ideal für #b-#jede Art von Adipositas#/b-#</de>
+					</li>
+					<li>
+						<es>El By-Pass #b-#permite adaptar en la intervención el grado de malabsorción#/b-# dependiendo del IMC del paciente.</es>
+						<en>The Bypass #b-#allows surgery to be adapted to the malabsorption level#/b-# depending on the patient’s BMI.</en>
+						<de>Während der Bypass-OP ist #b-#die Einstellung des Malabsorptionsgrads abhängig vom BMI des Patienten möglich.#/b-#</de>
+					</li>
+					<li>
+						<es>Analítica específica de #b-#Bioquímica y Tiroides#/b-#.</es>
+						<en> #b-#Specific Biochemistry #/b-# and Thyroid tests.</en>
+						<de>#b-#Konkrete Laboruntersuchung#/b-# der Biochemie und Schilddrüse</de>
+					</li>
+					<li>
+						<es>Es #b-#más difícil de sabotear#/b-# que otras intervenciones.</es>
+						<en>It is #b-#more difficult to sabotage#/b-# than other medical interventions.</en>
+						<de>Dieses Verfahren ist #b-#schwieriger zu sabotieren#/b-# als andere Methoden.</de>
+					</li>
+					<li>
+						<es>El #b-#índice de riesgo quirúrgico#/b-# en la operación es inferior al 1,3% oficialmente, aunque #b-#en EMIO es un 0,3%#/b-#.</es>
+						<en>This operation’s #b-#surgical risk index#/b-# is officially lower than 1.3%, even if at #b-#EMIO is 0.3%#/b-#</en>
+						<de>Das chirurgische Risiko der Operation liegt offiziell unter 1,3% und bei #b-#EMIO sogar bei 0,3%.#/b-#</de>
+					</li>
+					<li>
+						<es>La #b-#calidad de vida es mayor que en otras técnicas#/b-#, ya que se puede ingerir todo tipo de alimentos.</es>
+						<en>Life #b-#quality is higher than with other techniques#/b-# because any kind of food can be eaten.</en>
+						<de>Die #b-#Lebensqualität ist höher als bei anderen Verfahren,#/b-# da alle Arten von Lebensmitteln gegessen werden können.</de>
+					</li>
+					<li>
+						<es>Es #b-#reversible#/b-#.</es>
+						<en>It is #b-#reversible#/b-#.</en>
+						<de>Das Verfahren ist #b-#reversibel#/b-#.</de>
+					</li>
+					<li>
+						<es>En #b-#EEUU y España es la técnica más empleada#/b-# y tras 34 años ya se puede decir que los resultados son óptimos.</es>
+						<en>It is the #b-#most widely-used technique in the US and Spain#/b-# and after 34 years it is now time to say that results are excellent.</en>
+						<de>Es handelt sich um  #b-#das am häufigsten angewendete Verfahren in den USA und Spanien #/b-# und nach 34 Jahren kann man sagen, dass die Ergebnisse optimal sind.</de>
+					</li>
+					<li>
+						<es>Al ser una técnica mixta su eficacia frente como sistema de ayuda para la pérdida de peso, la sitúa #b-#por encima del resto de técnicas bariátricas#/b-#.</es>
+						<en>Being a mixed technique, this help system to lose weight is #b-#more efficient than other bariatric methods.#/b-#</en>
+						<de>Da es sich um ein gemischtes Verfahren handelt, erzielt man damit eine wesentlich #b-#bessere Wirkung als bei den anderen bariatrischen Verfahren,#/b-# was den Gewichtsverlust betrifft.</de>
+					</li>
+					<li>
+						<es>El paciente #b-#se sacia con menos cantidad#/b-# y por otro lado #b-#los alimentos ingeridos le engordan menos#/b-#, especialmente los grasos.</es>
+						<en>Patients #b-#feel full with a lower intake and ingested foodstuffs are less fattening#/b-#, especially fats.</en>
+						<de>Der Patient wird bereits #b-#nach einer geringeren Menge satt#/b-# und außerdem nimmt er durch die zugeführten Lebensmittel, v.a. Fette, #b-#nicht mehr so stark#/b-# zu wie vor dem Eingriff.</de>
+					</li>
+				</ul>
+			</text>
+		</description>
+		<treatment>
+			<title>
+				<es>Bypass Gástrico en EMIO</es>
+				<en>Gastric Bypass at EMIO</en>
+				<de>Magenbypass durch EMIO</de>
+			</title>
+			<text>
+				<es>Ésta intervención quirúrgica es considerada por los #b-#Institutos Nacionales del Corazón de EEUU y por la Sociedad Americana de Cirugía Bariátrica#/b-# como la cirugía más eficaz y con más continuidad para solucionar y/o ayudar frente al tratamiento de la obesidad.</es>
+				<en>According to #b-#US Heart National Institutes and the American Society for Bariatric Surgery#/b-#, this surgery is regarded as the most effective and stable solution to cure or help to treat Obesity.</en>
+				<de>Dieses chirurgische Verfahren wird von den #b-#US-amerikanischen nationalen Herzinstituten und der US-amerikanischen Gesellschaft für bariatrische Chirurgie#/b-# als der wirksamste Eingriff angesehen, um Probleme mit Adipositas langfristig zu lösen und/oder deren Behandlung zu unterstützen.</de>
+			</text>
+			<text>
+				<es>El objetivo final, al igual que con cualquier cirugía de la obesidad, es inculcar en el paciente un cambio profundo de hábitos, a través de un sistema de ayuda quirúrgico, que sin él no podríamos conseguirlo a largo plazo. Y es por ello por lo que #b-#algunos pacientes ni con un ByPass consiguen solucionar su problema a largo plazo#/b-#, porque el seguimiento semanal, constante y multidisciplinar en el Sistema Público no se realiza, siendo habitual las consultas cada 6 meses, al final los hábitos no se cambian y por lo tanto comenzamos a recuperar el peso de nuevo. #b-#En EMIO conocemos ésta carencia#/b-#, y por lo tanto insistimos con creces en que aparte del ByPass se impliquen en el tratamiento de forma muy constante, un equipo de médicos, nutricionistas y psicólogos planificando una agenda de visitas y actividades que deberá seguir para conseguir el objetivo final perdurable de por vida:</es>
+				<en>As with any Obesity Surgery, the final goal is to provoke a deep change of habits in patients, through a surgical aid system, without which it would not possible to achieve it in the long-run. This is why #b-#some patients cannot solve their problem in the long run not even with a Bypass#/b-#: because this constant and multidisciplinary weekly follow-up is not offered by the public healthcare system, which instead arrange visits every 6 months. In this case, habits do not change and patients start again to put on weight. EMIO is perfectly aware of this deficiency and, apart from the Bypass, consequently attaches a great importance to the fact that a team of doctors, nutritionists and psychologists fully committed to treatment. They will therefore schedule a visit plan and a series of activities that patients need to follow in order to achieve the final goal and make it last all life long:</en>
+				<de>Das eigentliche Ziel dieses Eingriffs besteht, ebenso wie bei jeder anderen Adipositaschirurgie, darin,beim Patienten eine tiefgreifende Umstellung der Gewohnheiten mit chirurgischerUnterstützung zu erreichen, da ohne jene Umstellung das besagte Ziel auf lange Sicht nicht erreicht werden kann. #b-#Einigen Patienten mit Bypass gelingt es nicht, ihre Gesundheitsprobleme langfristig zu lösen#/b-#, da eine beständige, multidisziplinäre, wöchentliche Nachbeobachtung im öffentlichen Gesundheitssystem nicht vorgesehen ist. Im öffentlichen Gesundheitssystem werden Visiten diesbezüglich für gewöhnlich alle 6 Monate durchgeführt, am Ende gelingt es den Patienten zumeist nicht, ihre Gewohnheiten zu ändern, und sie sehen sich einer neuerlichen Gewichtszunahme gegenüber. #b-#Wir von EMIO sind uns dieses Problems bewusst#/b-# und bestehen daher hartnäckig darauf, dass neben dem Bypass ständig ein Team aus Ärzten, Ernährungswissenschaftlern und Psychologen an der Behandlung beteiligt ist, das Kontrollbesuche und andere Tätigkeiten plant, damit der Patient dauerhaft sein Endziel erreicht und ein Leben lang halten kann:</de>
+			</text>
+			<duration>
+				<es>24 MESES</es>
+				<en>24 MONTHS</en>
+				<de>24 MONATE</de>
+			</duration>
+			<text>
+				<es>#u-#Intervención y seguimiento#/u-#</es>
+				<en>#u-#Surgery and follow-up#/u-#</en>
+				<de>#u-#Eingriff und Nachbeobachtung#/u-#</de>
+				<ul>
+					<li>
+						<es>#b-#Las consultas de Nutrición ONLINE que necesite el paciente#/b-#, inicialmente suelen ser semanales.</es>
+						<en>#b-#The ONLINE Nutrition visits needed by the patient#/b-# are initially scheduled on a weekly basis.</en>
+						<de>#b-#Ernährungsberatung, die der Patient benötigt#/b-#, findet zu Beginn normalerweise wöchentlich statt.</de>
+					</li>
+					<li>
+						<es>#b-#Intervención de Bypass Gástrico en un Hospital con todas las garantías#/b-#, con todos los gastos incluidos (pruebas preoperatorias, consulta de preanestesia, honorarios médicos y quirúrgicos…)</es>
+						<en>#b-#Gastric Bypass surgery in a hospital with every assurance#/b-# and all costs included (pre-operative testing, medical and surgical fees, pre-anaesthesia visit, etc.).</en>
+						<de>#b-#Magenbypass-OP in einem Krankenhaus mit allen Garantien#/b-#, inkl. aller Kosten (präoperative Untersuchungen, Beratung vor der Anästhesie, Honorare der Ärzte und Chirurgen…)</de>
+					</li>
+					<li>
+						<es>#b-#Todas las revisiones ONLINE con el Cirujano Bariátrico que necesite#/b-# durante la duración del tratamiento.</es>
+						<en>#b-#All the ONLINE medical check-ups you need with the bariatric surgeon#/b-# during the treatment.</en>
+						<de>#b-#Alle ONLINE-Nachkontrollen mit dem bariatrischem Chirurgen#/b-#, die während der Behandlungsdauer erforderlich sind.</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#u-#Evaluación metabólica inicial#/u-#</es>
+				<en>#u-#Initial metabolic assessment#/u-#</en>
+				<de>#u-#Ursprüngliche Bewertung des Stoffwechsels#/u-#</de>
+				<ul>
+					<li>
+						<es>#b-#Estudio Metabólico y de Composición Corporal TANITA Médico Advance#/b-#</es>
+						<en>#b-#TANITA Médico Advance Metabolic and Body-composition Assessment#/b-#</en>
+						<de>#b-#Untersuchung des Stoffwechsels und der Körperzusammensetzung TANITA Médico Advance#/b-#</de>
+						<ul>
+							<li>
+								<es>Composición en masa muscular, grasa y agua</es>
+								<en>Composition according to muscle mass, fat and water</en>
+								<de>Zusammensetzung aus Muskelmasse, Fett und Wasser</de>
+							</li>
+							<li>
+								<es>Tasa metabólica y efectividad del metabolismo</es>
+								<en>Metabolic rate and efficiency</en>
+								<de>Stoffwechselrate und Wirkung des Stoffwechsels</de>
+							</li>
+							<li>
+								<es>Grasa visceral de riesgo cardiovascular</es>
+								<en>Visceral adiposity causing cardiovascular risk</en>
+								<de>Bauchfett (Viszeralfett), das ein kardiovaskuläres Risiko ist.</de>
+							</li>
+							<li>
+								<es>Distribución de la composición corporal</es>
+								<en>Body-composition distribution</en>
+								<de>Verteilung der Körperzusammensetzung</de>
+							</li>
+							<li>
+								<es>Retención de líquidos</es>
+								<en>Fluid retention</en>
+								<de>Einlagerung von Flüssigkeiten</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analizador Intersticial EIS#/b-#</es>
+						<en>#b-#EIS Interstitial Scanner#/b-#</en>
+						<de>#b-#Interstitieller Analysator EIS#/b-#</de>
+						<ul>
+							<li>
+								<es>Niveles de ansiedad y estrés (Cortisol-Serotonina)</es>
+								<en>Anxiety and stress levels (Cortisol-Serotonin)</en>
+								<de>Angst- und Stressniveau (Cortisol-Serotonin)</de>
+							</li>
+							<li>
+								<es>Sensación de hambre (Leptina)</es>
+								<en>Sense of hunger (Leptine)</en>
+								<de>Hungergefühl (Leptin)</de>
+							</li>
+							<li>
+								<es>Niveles de felicidad y autosatisfacción (Dopamina)</es>
+								<en>Happiness and self-satisfaction levels (Dopamine)</en>
+								<de>Glücklichkeits- und Selbstzufriedenheitsniveau (Dopamin)</de>
+							</li>
+							<li>
+								<es>Metabolismo Hormonal (Tiroides y Adrenales)</es>
+								<en>Hormonal metabolism (Thyroid and Adrenal Glands)</en>
+								<de>Hormonstoffwechsel (Schilddrüse und Nebennieren)</de>
+							</li>
+							<li>
+								<es>Capacidad de respuestas (Adrenalina-Noradrenalina)</es>
+								<en>Response capacity (Adrenaline-Noradrenaline)</en>
+								<de>Reaktionsfähigkeit (Adrenalin-Noradrenalin)</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analítica específica#/b-# de Bioquímica y Tiroides</es>
+						<en>#b-#Specific Biochemistry#/b-# and Thyroid tests</en>
+						<de>#b-#Spezifische Laboruntersuchung#/b-# der Biochemie und Schilddrüse</de>
+					</li>
+					<li>
+						<es>#b-#Estudio de Intolerancias Alimenticias#/b-# por Sistema de Biorresonancia MedTronik</es>
+						<en>#b-#Food Intolerance Study#/b-# via MED-Tronik Bioresonance System</en>
+						<de>#b-#Nahrungsmittelunverträglichkeitstest#/b-# durchMedTronik-Bioresonanz-System</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#div class="titulo_metodo"-#Importante#/div-#</es>
+				<en>#div class="titulo_metodo"-#Important#/div-#</en>
+				<de>#div class="titulo_metodo"-#Wichtig!#/div-#</de>
+				<ul>
+					<li>
+						<es>Gran parte del estómago se deja abandonado, dificultando por lo tanto su diagnóstico.</es>
+						<en>A considerable part of the stomach is left abandonded, which difficults its diagnosis</en>
+						<de>Ein großer Teil des Magens wird ausgeschaltet, was die Diagnosefindung in diesem Bereich erschwert.</de>
+					</li>
+					<li>
+						<es>Se provoca malabsorción de los alimentos, principalmente carencia de Hierro y Vitamina B12, por lo que el paciente requiere analíticas anuales para configurar una suplementación adecuada.</es>
+						<en>This causes food malabsorption, mainly vitamin B12 and iron deficiency, requiring patient’s yearly blood analyses to design a suitable supplementation.</en>
+						<de>Es wird eine Malabsorption der Nahrung herbeigeführt, was mit einem Eisen- und Vitamin-B12-Mangel einhergehen kann. Daher müssen jährlich Laboruntersuchungen durchgeführt werden, um die Nahrungsmittelergänzung entsprechend anzupassen.</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>Intervención realizada en centros hospitalarios de prestigio por nuestra Unidad de Cirugía de la Obesidad.</es>
+				<en>Surgery carried out by our Obesity Surgery Unit in prestigious medical centres.</en>
+				<de>Das Verfahren wird in renommierten Krankenhäusern von unserem Team für Adipositaschirurgie durchgeführt.</de>
+			</text>
+		</treatment>
+		<cards>
+			<item>
+				<title>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS</en>
+					<de>INDIKATIONEN</de>
+				</title>
+				<img>icono_metodo1.png</img>
+				<alt>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS</en>
+					<de>INDIKATIONEN</de>
+				</alt>
+				<text>
+					<es>Pacientes con problemas de Obesidad y Obesidad Severa, con amplio historial de fracasos en dietas y tratamientos no quirúrgicos, y con tendencia a tomar frecuentemente alimentos excesivamente calóricos.</es>
+					<en>Patients with problems of Obesity and Morbid Obesity, a long history of failures with diets and non-surgical treatments and a tendency to frequently eat high-calorie foodstuff.</en>
+					<de>Patienten mit Adipositas und schwerer Adipositas, die auf eine lange Geschichte von Misserfolgen bei Diäten und nicht-chirurgischen Behandlungen zurückblicken und dazu neigen, häufig übermäßig kalorienreiche Lebensmittel zu sich zu nehmen.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</title>
+				<img>icono_metodo2.png</img>
+				<alt>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Analítica preoperatoria</es>
+					<en>Pre-operative testing</en>
+					<de>Präoperative Laboruntersuchung</de>
+				</text>
+				<text>
+					<es>Electrocardiograma</es>
+					<en>Electrocardiogram (EKG)</en>
+					<de>Elektrokardiogramm</de>
+				</text>
+				<text>
+					<es>Consulta preoperatoria</es>
+					<en>Pre-operative visit</en>
+					<de>Beratungsgespräch vor der OP</de>
+				</text>
+				<text>
+					<es>Dieta líquida las 24 horas anteriores a la intervención</es>
+					<en>Liquid diet 24 hours before surgery</en>
+					<de>Flüssigdiät 24 Stunden vor dem Eingriff</de>
+				</text>
+				<text>
+					<es>En ayunas 8 horas antes de la intervención</es>
+					<en>Fasting 8 hours before the surgery</en>
+					<de>Sie müssen nüchtern zur Operation kommen, d.h. Sie dürfen während der letzten 8 Stunden vor dem Eingriff nichts essen und trinken.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Hospitalización</es>
+					<en>HOSPITAL STAY</en>
+					<de>EINWEISUNG IN DAS KRANKENHAUS</de>
+				</title>
+				<img>icono_metodo3.png</img>
+				<alt>
+					<es>Hospitalización</es>
+					<en>HOSPITAL STAY</en>
+					<de>EINWEISUNG IN DAS KRANKENHAUS</de>
+				</alt>
+				<text>
+					<es>No se requiere hospitalización</es>
+					<en>Hospitalization is not required</en>
+					<de>Kein Krankenhausaufenthalt nötig</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Intervención</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</title>
+				<img>icono_metodo4.png</img>
+				<alt>
+					<es>Intervención</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</alt>
+				<text>
+					<es>La intervención se realizar por laparoscopia, siendo una técnica mínimamente invasiva. El cirujano se guiará por una microcamara que está conectada al monitor del quirófano para visualizar el abdomen.</es>
+					<en>The operation is performed by laparoscopy and is consequently a minimally invasive technique. The surgeon will be guided by a micro-camera that is connected to the operating room’s video monitor in order to see the abdomen.</en>
+					<de>Der Eingriff erfolgt durch Laparoskopie, wobei es sich um ein minimal-invasives Verfahren handelt. Der Chirurg führt den Eingriff mithilfe einer Minikamera durch, die an einen Bildschirm im Operationssaal angeschlossen ist, auf welchem der Bauchbereich angezeigt wird. </de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Anestesia</es>
+					<en>ANAESTHESIA </en>
+					<de>ANÄSTHESIE</de>
+				</title>
+				<img>icono_metodo5.png</img>
+				<alt>
+					<es>Anestesia</es>
+					<en>ANAESTHESIA </en>
+					<de>ANÄSTHESIE</de>
+				</alt>
+				<text>
+					<es>General</es>
+					<en>General anaesthesia</en>
+					<de>Vollnarkose</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Duración Intervención</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DES EINGRIFFS</de>
+				</title>
+				<img>icono_metodo6.png</img>
+				<alt>
+					<es>Duración Intervención</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DES EINGRIFFS</de>
+				</alt>
+				<text>
+					<es>De 2 a 4 horas</es>
+					<en>Between 2 and 4 hours</en>
+					<de>Zwischen 2 und 4 Stunden</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Incisiones</es>
+					<en>INCISIONS</en>
+					<de>SCHNITTE</de>
+				</title>
+				<img>icono_metodo7_2.png</img>
+				<alt>
+					<es>Incisiones</es>
+					<en>INCISIONS</en>
+					<de>SCHNITTE</de>
+				</alt>
+				<text>
+					<es>De 4 a 6 pequeñas incisiones en el abdomen.</es>
+					<en>Between 4 and 6 small incisions in the abdomen.</en>
+					<de>4 bis 6 kleine Einschnitte im Bauch.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE </en>
+					<de>NACH DER OPERATION</de>
+				</title>
+				<img>icono_metodo8.png</img>
+				<alt>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE </en>
+					<de>NACH DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Los pacientes suelen abandonar el hospital a los 2 o 3 días.</es>
+					<en>Patients are generally discharged 2 or 3 days after surgery.</en>
+					<de>Die Patienten können das Krankenhaus normalerweise nach 2 oder 3 Tagen verlassen.</de>
+				</text>
+			</item>
+		</cards>
+		<results>
+			<title>
+				<es>Resultados</es>
+				<en>RESULTS</en>
+				<de>ERGEBNISSE</de>
+			</title>
+			<text>
+				<es>#b-#Satisfacción con menos cantidad de alimento.#/b-#</es>
+				<en>#b-#Satiety with lower food intake.#/b-#</en>
+				<de>#b-#Sättigungsgefühl mit geringerer Nahrungsmenge#/b-#</de>
+			</text>
+			<text>
+				<es>#b-#Los alimentos ingeridos nos engordan menos#/b-#. Gracias a la malabsorción producida por la derivación, muy útil en los primeros meses de reeducación alimenticia y de hábitos de vida.</es>
+				<en>#b-#Eaten foodstuffs are less fattening.#/b-# Thanks the malabsorption produced by the bypass, which is very useful in the first months of this new nutritional education and eating habits.</en>
+				<de>#b-#Die zugeführten Lebensmittel machen uns nicht länger so dick#/b-#. Dies dank der durch die Umleitung herbeigeführten Malabsorption, welche in den ersten Monaten der Umstellung der Ernährung und der Lebensgewohnheiten sehr nützlich ist.</de>
+			</text>
+			<text>
+				<es>#b-#Perdida constante de 4Kg a 8Kg al mes durante el primer año#/b-#. La mayoría de los pacientes durante el primer año llevan un muy buen ritmo de pérdida de peso, siendo crucial trabajar con los nutricionistas, en las consultas online, los cambios de hábitos para que esta bajada persevere con el aprendizaje de formas saludables de alimentarse y adicionalmente con la actividad física.</es>
+				<en>Constant loss between 4 Kg and 8 Kg in the first year. Most patients lose weight at a very positive pace in the first year and it is crucial for them to work hard with nutritionists, in the online visits, and to change habits in order to maintain this weight loss while learning new healthy nutritional guidelines and engaging in physical activity.</en>
+				<de>#b-#Dauerhafter Gewichtsverlust von 4 bis 8 kg pro Monat während des ersten Jahres#/b-#. Im Laufe des ersten Jahres verliert der Großteil der Patienten schnell und konstant Gewicht, wobei die Arbeit mit den Ernährungswissenschaftlern, die Online-Beratung und die Umstellung der Gewohnheiten entscheidend ist, damit dieser Gewichtsverlust mithilfe des Erlernens einer gesunden Ernährungsweise und des Treibens von Sport von Dauer ist.</de>
+			</text>
+		</results>
+		<info>
+			<title>
+				<es>Solicita información del método Bypass Gástrico</es>
+				<en>Request information about Gastric Bypass method</en>
+				<de>Mehr Information über die Magenbypass Methode</de>
+			</title>
+		</info>
+	</content>
+</page>

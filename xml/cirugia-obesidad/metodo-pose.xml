@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Método Pose Reforzado</es>
+			<en>Enhanced POSE Method</en>
+			<de>Verstärktes POSE-Verfahren</de>
+		</title>
+		<description>
+			<es>Nuevo Método Pose Reforzado, reducción del estómago por endoscopia, sin incisiones externas ni cicatrices, con pérdida media de peso de 20,1 kilos el primer año</es>
+			<en>New  Enhanced POSE Method, stomach reduction by endoscopy, without external incisions or scars, with average weight loss of 20.1 Kg in the first year</en>
+			<de>Neues verstärktes POSE-Verfahren, Magenverkleinerung durch Endoskopie, ohne äußere Einschnitte oder Narben, mit durchschnittlichem Gewichtsverlust von 20,1 Kilo im ersten Jahr.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, pose, reforzado, endoscopia, cicatriz, cicatrices, reduccion, estomago</es>
+			<en>obesity, treatment, method, pose, enhanced, endoscopy, scar, scars, reduction, stomach</en>
+			<de>Fettleibigkeit, Behandlung, Methode, POSE, verstärkt, Endoskopie, Narbe, Narben, Verkleinerung, Magen</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>Nuevo método Pose reforzado</es>
+				<en>NEW Enhanced POSE Method</en>
+				<de>Neue Verfahren – POSE VERSTÄRKT</de>
+			</title>
+			<img>slider_generico1.jpg</img>
+		</slider>
+		<slider>
+			<title>
+				<es>Nuevo método Pose reforzado</es>
+				<en>NEW Enhanced POSE Method</en>
+				<de>Neue Verfahren – POSE VERSTÄRKT</de>
+			</title>
+			<img>slider_generico2.jpg</img>
+		</slider>
+	</sliders>
+	<messages>
+			<message>
+			<img>
+				<es>pastilla_pose1.png</es>
+				<en>pastilla_pose1_en.png</en>
+				<de>pastilla_pose1_de.png</de>
+			</img>
+			<alt>
+				<es>Metodo Pose</es>
+				<en>Pose surgery</en>
+				<de>POSE-Verfahren</de>
+			</alt>
+		</message>
+				<message>
+			<img>
+				<es>pastilla_pose2.png</es>
+				<en>pastilla_pose2_en.png</en>
+				<de>pastilla_pose2_de.png</de>
+			</img>
+			<alt>
+				<es>Metodo Pose</es>
+				<en>Pose surgery</en>
+				<de>POSE-Verfahren</de>
+			</alt>
+		</message>
+	</messages>
+	<content>
+		<img>
+			<name>pose1.jpg</name>
+			<alt>
+				<es>Metodo pose reforzado</es>
+				<en>Obesity Enhanced POSE Method</en>
+				<de>Fettleibigkeit Verstärktes POSE-Verfahren</de>
+			</alt>
+		</img>
+		<description>
+			<text>
+				<es>EMIO presenta el #b-#Nuevo Método POSE Reforzado#/b-# que consigue más durabilidad, #b-#más restricción, menos sensación de hambre y mayor pérdida de peso#/b-# que el Método POSE Tradicional.</es>
+				<en>EMIO presents the New Enhanced POSE Method offering longer durability, higher restriction, lower sense of hunger and an increased weight loss compared with the traditional POSE Method.</en>
+				<de>Das EMIO präsentiert das neue verstärkte POSE-Verfahren, dank dem dauerhafte Ergebnisse, eineverstärkteRestriktion, weniger Hungergefühle und ein höherer Gewichtsverlust als bei dem herkömmlichen POSE-Verfahren garantiert sind.</de>
+			</text>
+			<text>
+				<es>#div class="titulo_metodo"-#¿En qué consiste el Nuevo Método POSE Reforzado?#/div-#</es>
+				<en></en>
+				<de></de>
+			</text>
+			<text>
+				<es>Con el #b-#Nuevo Método POSE Reforzado#/b-# se consolida la reducción del estómago añadiéndole más puntos de anclaje, que en el método POSE tradicional, que se distribuyen tanto en el fundus gástrico como en el antro del estómago, consiguiendo un reforzado de las suturas que hace que la durabilidad sea mucho mayor y se reduzcan las complicaciones posteriores tras la operación.</es>
+				<en>The New Enhanced POSE Method allows stabilising the stomach reduction by adding more sutures than the traditional POSE Method. Such sutures are placed both in the gastric fundus and in the antrum, leading to an enhanced suturing and thus to a significantly longer durability and fewer post-operative complications.</en>
+				<de>Mit dem neuen verstärkten POSE-Verfahren wird die Magenverkleinerung durch zusätzliche Verankerungspunkte gegenüber dem herkömmlichen POSE-Verfahren unterstützt, wobei die Anker im Fundus und im Antrum des Magens eingesetzt werden und so die Nähe verstärken, was zu einer stark verbesserten Dauerhaftigkeit des Eingriffs sowie zu einer Reduktion der postoperativen Komplikationen beiträgt.</de>
+			</text>
+			<text>
+				<es>#div class="row"-##div class="col-xs-12"-##div class="col-xs-6 img_include"-##div class="titulo_img_include"-#Método POSE convencional#/div-##div class="img_img_include"-##img title="metodo pose" alt="metodo pose" src="/img/item_pose1.png"-##/div-##div class="txt_img_include pose"-##p-#Reducción de la capacidad estomacal del 10%#/p-##p-#Reducción leve del apetito#/p-##p-#Sistema de sutura fijas que a veces se sueltan y producen úlceras y sangrado#/p-##/div-##div class="img_img_include_pose"-##img alt="metodo pose reforzado" src="/img/item_pose1_1.png"-##/div-##/div-##div class="col-xs-6 img_include"-##div class="titulo_img_include"-#Método POSE reforzado#/div-##div class="img_img_include"-##img title="nuevo metodo pose reforzado" alt="nuevo metodo pose reforzado" src="/img/item_pose2.png"-##/div-##div class="txt_img_include pose"-##p-#Reducción de la capacidad estomacal del 30%#/p-##p-#Reducción moderada del apetito al reducir los niveles Ghrelina#/p-##p-#Sutura en toda la red estomacal con sistema anclaje flexible que no sueltan y producen una fibrosis del pliegue, haciendo la reducción de volumen permanente#/p-##/div-##div class="img_img_include_pose"-##img alt="metodo pose reforzado" src="/img/item_pose2_2.png"-##/div-##/div-##/div-##/div-#</es>
+				<en>#div class="row"-##div class="col-xs-12"-##div class="col-xs-6 img_include"-##div class="titulo_img_include"-#Traditional POSE Method#/div-##div class="img_img_include"-##img title="Pose surgery" alt="Pose surgery" src="/img/item_pose1.png"-##/div-##div class="txt_img_include pose"-##p-#Reduction of the stomach capacity by 10%#/p-##p-#Slight appetite reduction#/p-##p-#System of fixed sutures that sometimes go loose causing ulcers and bleeding.#/p-##/div-##div class="img_img_include_pose"-##img title="Pose surgery" alt="Pose surgery" src="/img/item_pose1_1.png"-##/div-##/div-##div class="col-xs-6 img_include"-##div class="titulo_img_include"-#Enhanced POSE Method#/div-##div class="img_img_include"-##img title="Obesity New enhanced POSE Method" alt="Obesity New enhanced POSE Method" src="/img/item_pose2.png"-##/div-##div class="txt_img_include pose"-##p-#Reduction of the stomach capacity by 30%#/p-##p-#Moderate appetite reduction by decreasing ghrelin levels#/p-##p-#Suturing the stomach with a flexible anchoring system that does not go loose, causing a fibrosis of the folds and thus a permanent volume reduction.#/p-##/div-##div class="img_img_include_pose"-##img alt="metodo pose reforzado" src="/img/item_pose2_2.png"-##/div-##/div-##/div-##/div-#</en>
+				<de>#div class="row"-##div class="col-xs-12"-##div class="col-xs-6 img_include"-##div class="titulo_img_include"-#Herkömmliches POSE-Verfahren#/div-##div class="img_img_include"-##img title="POSE-Verfahren" alt="POSE-Verfahren" src="/img/item_pose1.png"-##/div-##div class="txt_img_include pose"-##p-#Verringerung der Magengröße um 10%#/p-##p-#Leichte Appetitverringerung#/p-##p-#System fixer Nähte, die sich unter Umständen lösen und zu Geschwüren und Blutungen führen können.#/p-##/div-##div class="img_img_include_pose"-##img title="POSE-Verfahren" alt="POSE-Verfahren" src="/img/item_pose1_1.png"-##/div-##/div-##div class="col-xs-6 img_include"-##div class="titulo_img_include"-#Verstärktes POSE-Verfahren#/div-##div class="img_img_include"-##img title="Fettleibigkeit Neuesverstärktes POSE-Verfahren" alt="Fettleibigkeit Neuesverstärktes POSE-Verfahren" src="/img/item_pose2.png"-##/div-##div class="txt_img_include pose"-##p-#Verringerung der Magengröße um 30%#/p-##p-#Mäßige Appetitverringerung durch Reduktion  der Ghrelin-Werte#/p-##p-#Nähte im gesamten Magenbereich mit flexiblem Ankersystem, das sich nicht löst und zu einer natürlichen Vermehrung des Bindegewebes an der Magenfalte führt, was die Dauerhaftigkeit der Magenverkleinerung  garantiert.#/p-##/div-##div class="img_img_include_pose"-##img alt="metodo pose reforzado" src="/img/item_pose2_2.png"-##/div-##/div-##/div-##/div-#</de>
+			</text>
+			<text>
+				<es>Además, gracias a la #b-#última tecnología en suturas#/b-#, se realizan unos puntos de anclaje flexibles que consiguen una fijación más duradera que, a la larga, produce una fibrosis natural en el tejido del estómago en cada pliegue, haciendo que la reducción del volumen sea definitiva y no se dilate con el paso del tiempo.</es>
+				<en>Moreover, thanks to a #b-#state-of-the-art suturing technology#/b-#, anchor points are flexible, granting a longer-lasting retention. In the long-run, this translates into a natural fibrosis of the stomach tissue in each fold, making the volume reduction permanent and avoiding the long-term stomach’s dilatation.</en>
+				<de>Außerdem werden dank des #b-#neuesten Nähverfahrens#/b-# flexible Verankerungspunkte gesetzt, mit denen eine dauerhafte Befestigung erreicht wird und das zu einer natürlichen Vermehrung des Bindegewebes an jeder Magenfalte beiträgt, sodass die Magenverkleinerung von Dauer ist und der Magen sich nicht im Laufe der Zeit vergrößert.</de>
+			</text>
+			<text>
+				<es>Se consigue una #b-#pérdida media de peso del 20.1 kg el primer año#/b-#.</es>
+				<en>#b-#In the first year an average weight loss of 20.1 Kg#/b-# is achieved.</en>
+				<de>Im ersten Jahrverlieren die Patienten dank diesem Eingriff #b-#durchschnittlich 20,1 kg#/b-#.</de>
+			</text>
+		</description>
+		<treatment>
+			<duration>
+				<es>24 MESES</es>
+				<en>24 MONTHS</en>
+				<de>24 MONATE</de>
+			</duration>
+			<text>
+				<es>#u-#Intervención y seguimiento#/u-#</es>
+				<en>#u-#Surgery and follow-up#/u-#</en>
+				<de>#u-#Eingriff und Nachbeobachtung#/u-#</de>
+				<ul>
+					<li>
+						<es>Intervención de el #b-#Nuevo Método POSE Reforzado#/b-#, con todos las gastos incluidos, pruebas preoperatorias, honorarios médico y hospitalarios, preanestesia...</es>
+						<en>New Enhanced POSE Method operation, with all costs included (pre-operative testing, medical and hospital fees, pre-anaesthesia, etc.)</en>
+						<de>Eingriff in Form des neuen verstärkten POSE-Verfahrens, inkl. aller Kosten, präoperativen Untersuchungen, Arzt- und Krankenhausgebühren, Kosten der Präanästhesie…</de>
+					</li>
+					<li>
+						<es>Las Consultas de Nutrición Online que necesite durante los 24 meses de su tratamiento</es>
+						<en>All the Online Nutrition Visits you need during your 24-month treatment</en>
+						<de>Online-Ernährungsberatung, die Sie 24 Monate lang im Rahmen Ihrer Behandlung begleitet</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#u-#Evaluación metabólica inicial#/u-#</es>
+				<en>#u-#Initial metabolic assessment#/u-#</en>
+				<de>#u-#Ursprüngliche Bewertung des Stoffwechsels#/u-#</de>
+				<ul>
+					<li>
+						<es>#b-#Estudio Metabólico y de Composición Corporal TANITA Médico Advance#/b-#</es>
+						<en>#b-#TANITA Médico Advance Metabolic and Body-composition Assessment#/b-#</en>
+						<de>#b-#Untersuchung des Stoffwechsels und der Körperzusammensetzung TANITA Médico Advance#/b-#</de>
+						<ul>
+							<li>
+								<es>Composición en masa muscular, grasa y agua</es>
+								<en>Composition according to muscle mass, fat and water</en>
+								<de>Zusammensetzung aus Muskelmasse, Fett und Wasser</de>
+							</li>
+							<li>
+								<es>Tasa metabólica y efectividad del metabolismo</es>
+								<en>Metabolic rate and efficiency</en>
+								<de>Stoffwechselrate und Wirkung des Stoffwechsels</de>
+							</li>
+							<li>
+								<es>Grasa visceral de riesgo cardiovascular</es>
+								<en>Visceral adiposity causing cardiovascular risk</en>
+								<de>Bauchfett (Viszeralfett), das ein kardiovaskuläres Risiko ist.</de>
+							</li>
+							<li>
+								<es>Distribución de la composición corporal</es>
+								<en>Body-composition distribution</en>
+								<de>Verteilung der Körperzusammensetzung</de>
+							</li>
+							<li>
+								<es>Retención de líquidos</es>
+								<en>Fluid retention</en>
+								<de>Einlagerung von Flüssigkeiten</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analizador Intersticial EIS#/b-#</es>
+						<en>#b-#EIS Interstitial System#/b-#</en>
+						<de>#b-#Interstitieller Analysator EIS#/b-#</de>
+						<ul>
+							<li>
+								<es>Niveles de ansiedad y estrés (Cortisol-Serotonina)</es>
+								<en>Anxiety and stress levels (Cortisol-Serotonin)</en>
+								<de>Angst- und Stressniveau (Cortisol-Serotonin)</de>
+							</li>
+							<li>
+								<es>Sensación de hambre (Leptina)</es>
+								<en>Sense of hunger (Leptine)</en>
+								<de>Hungergefühl (Leptin)</de>
+							</li>
+							<li>
+								<es>Niveles de felicidad y autosatisfacción (Dopamina)</es>
+								<en>Happiness and self-satisfaction levels (Dopamine)</en>
+								<de>Glücklichkeits- und Selbstzufriedenheitsniveau (Dopamin)</de>
+							</li>
+							<li>
+								<es>Metabolismo Hormonal (Tiroides y Adrenales)</es>
+								<en>Hormonal metabolism (Thyroid and Adrenal Glands)</en>
+								<de>Hormonstoffwechsel (Schilddrüse und Nebennieren)</de>
+							</li>
+							<li>
+								<es>Capacidad de respuestas (Adrenalina-Noradrenalina)</es>
+								<en>Response capacity (Adrenaline-Noradrenaline)</en>
+								<de>Reaktionsfähigkeit (Adrenalin-Noradrenalin)</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analítica específica#/b-# de Bioquímica y Tiroides</es>
+						<en>#b-#Specific Biochemistry#/b-# and Thyroid tests</en>
+						<de>#b-#Spezifische Laboruntersuchung#/b-# der Biochemie und Schilddrüse</de>
+					</li>
+					<li>
+						<es>#b-#Estudio de Intolerancias Alimenticias#/b-# por Sistema de Biorresonancia MedTronik</es>
+						<en>#b-#Food Intolerance Study#/b-# via MED-Tronik Bioresonance System</en>
+						<de>#b-#Nahrungsmittelunverträglichkeitstest#/b-# durch dasMedTronik-Bioresonanz-System</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#div class="titulo_metodo"-#¿En qué consiste la cirugía del Nuevo Método POSE Reforzado?#/div-#</es>
+				<en>#div class="titulo_metodo"-#What does this New Enhanced POSE Method consist of?#/div-#</en>
+				<de>#div class="titulo_metodo"-#Worin besteht das neue verstärkte POSE-Verfahren?#/div-#</de>
+			</text>
+			<text>
+				<es>La cirugía se realiza a través de la boca del paciente, con herramientas mecánicas de #b-#sutura laparoscópica#/b-# mínimamente invasivas que permiten al paciente hacer #b-#vida normal a las 48 horas#/b-# de realizarse la operación.</es>
+				<en>The surgery is performed through the patient’s mouth, with minimally invasive mechanical tools of laparoscopic suturing, allowing the patient to conduct a #b-#normal life 48 hours after the surgery.#/b-#</en>
+				<de>Der Eingriff erfolgt durch den Mund des Patienten mit minimal-invasiven mechanischen Instrumenten, mit denen eine laparoskopische Nahttechnik möglich ist, was es dem Patienten erlaubt, bereits 48 Stunden nach der Operation wieder in seinnormales Lebenzurückzukehren.</de>
+			</text>
+			<text>
+				<es>Gracias a un dispositivo y un sistema de #b-#suturas de última generación#/b-#, se realizan una serie de pliegues en el fundus y antro del estómago del paciente que reducen la capacidad estomacal haciendo que el paciente, al tener un estómago más pequeño, el paciente coma menos al sentir saciedad mucho antes, y como consecuencia #b-#adelgace al ver reducido considerablemente su apetito#/b-# y al ingerir menos alimento. Además, se ralentiza el paso del alimento por el estómago, lo que consigue una sensación de saciedad prolongada.</es>
+				<en>Thanks to a state-of-the-art suturing device and system, a series of folds are carried out in the fundus and antrum of the stomach, reducing its capacity. As a consequence, having a smaller stomach, patients will feel full earlier and thus eat less. Due to this significant appetite reduction and the more limited food intake, the patient will lose weight. Moreover, the passage of food through the stomach will be slower, giving a longer sense of satiety.</en>
+				<de>Mithilfe eines Geräts und eines #b-#Nähverfahrens der neuesten Generation#/b-# werden eine Reihe von Falten im Magenfundus und -antrum des Patienten gebildet, wodurch die Magenkapazität reduziert wird. Der kleinere Magen führt dazu, dass der Patient weniger isst, da er sich früher satt fühlt. Infolge des #b-#wesentlich geringeren Appetits#/b-# und der verringerten Nahrungszufuhr #b-#nimmt der Patient ab#/b-#. Der Durchlauf derNahrung durch den Magen verlangsamt sich, was zu einem längeren Sättigungsgefühl beiträgt.</de>
+			</text>
+		</treatment>
+		<cards>
+			<item>
+				<title>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS</en>
+					<de>INDIKATIONEN</de>
+				</title>
+				<img>icono_metodo1.png</img>
+				<alt>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS</en>
+					<de>INDIKATIONEN</de>
+				</alt>
+				<text>
+					<es>Pacientes con un #b-#IMC hasta 32#/b-# y que necesiten perder entre #b-#15 y 20 kilos.#/b-#</es>
+					<en>Patients with a #b-#BMI up to 32#/b-# and who need to lose between #b-#15 Kg and 20 kilogrammes#/b-#</en>
+					<de>Patienten mit einem #b-#BMI von bis zu 32#/b-#, die zwischen #b-#15 und 20 kg#/b-# verlieren müssen.</de>
+				</text>
+				<text>
+					<es>Pacientes que han fracasado en su intento de perder peso con dieta y ejercicio.</es>
+					<en>Patients who failed to lose weight with diets and exercise</en>
+					<de>Patienten, denen es nicht gelungen ist, Gewicht durch Diät und Sport zu verlieren.</de>
+				</text>
+				<text>
+					<es>Pacientes que describan un apetito muy grande.</es>
+					<en>Patients with a very significant appetite.</en>
+					<de>Patienten, die angeben, sehr großen Appetit zu haben.</de>
+				</text>
+				<text>
+					<es>Pacientes que hayan sido intervenidos de #b-#Método POSE#/b-# y con el paso del tiempo hayan aumentado la capacidad estomacal.</es>
+					<en>Patients who underwent a #b-#POSE Method#/b-# operation and whose stomach capacity has increased over time.</en>
+					<de>Patienten, die einem #b-#POSE-Verfahren#/b-# unterzogen wurden, wobei im Laufe der Zeit die Magenkapazität abermals zugenommen hat. </de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</title>
+				<img>icono_metodo2.png</img>
+				<alt>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Analítica preoperatoria</es>
+					<en>Pre-operative testing</en>
+					<de>Präoperative Laboruntersuchung</de>
+				</text>
+				<text>
+					<es>Electrocardiograma</es>
+					<en>Electrocardiogram (EKG)</en>
+					<de>Elektrokardiogramm</de>
+				</text>
+				<text>
+					<es>Consulta preoperatoria</es>
+					<en>Pre-operative visit</en>
+					<de>Beratungsgespräch vor der OP</de>
+				</text>
+				<text>
+					<es>Dieta líquida las 24 horas anteriores a la intervención</es>
+					<en>Liquid diet 24 hours before surgery</en>
+					<de>Flüssigdiät 24 Stunden vor dem Eingriff</de>
+				</text>
+				<text>
+					<es>En ayunas 8 horas antes de la intervención</es>
+					<en>Fasting 8 hours before the surgery</en>
+					<de>Sie müssen nüchtern zur Operation kommen, d.h. Sie dürfen während der letzten 8 Stunden vor dem Eingriff nichts essen und trinken.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Hospitalización</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</title>
+				<img>icono_metodo3.png</img>
+				<alt>
+					<es>Hospitalización</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</alt>
+				<text>
+					<es>No es necesaria hospitalización</es>
+					<en>Hospitalization is not required</en>
+					<de>Kein Krankenhausaufenthalt nötig</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Intervención</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</title>
+				<img>icono_metodo4.png</img>
+				<alt>
+					<es>Intervención</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</alt>
+				<text>
+					<es>Endoscopia a través de la boca del paciente</es>
+					<en>Endoscopy through the patient's mouth</en>
+					<de>Endoskopie durch den Mund des Patienten</de>
+				</text>
+				<text>
+					<es>Sin ningún tipo de incisión externa.</es>
+					<en>Without any kind of external incision.</en>
+					<de>Keinerlei Schnitte extern</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Anestesia</es>
+					<en>ANAESTHESIA</en>
+					<de>ANÄSTHESIE</de>
+				</title>
+				<img>icono_metodo5.png</img>
+				<alt>
+					<es>Anestesia</es>
+					<en>ANAESTHESIA</en>
+					<de>ANÄSTHESIE</de>
+				</alt>
+				<text>
+					<es>General</es>
+					<en>General anaesthesia</en>
+					<de>Vollnarkose</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Duración Intervención</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DES EINGRIFFS</de>
+				</title>
+				<img>icono_metodo6.png</img>
+				<alt>
+					<es>Duración Intervención</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DES EINGRIFFS</de>
+				</alt>
+				<text>
+					<es>De 40 a 50 minutos</es>
+					<en>Between 40 and 50 minutes</en>
+					<de>Zwischen 40 und 50 Minuten</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Incisiones</es>
+					<en>INCISIONS</en>
+					<de>SCHNITTE</de>
+				</title>
+				<img>icono_metodo7.png</img>
+				<alt>
+					<es>Incisiones</es>
+					<en>INCISIONS</en>
+					<de>SCHNITTE</de>
+				</alt>
+				<text>
+					<es>Anclajes POSE (Sin incisiones externas)</es>
+					<en>POSE suturing (without external incisions)</en>
+					<de>POSE-Anker (keine externen Schnitte)</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE</en>
+					<de>NACH DER OPERATION</de>
+				</title>
+				<img>icono_metodo8.png</img>
+				<alt>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE</en>
+					<de>NACH DER OPERATION</de>
+				</alt>
+				<text>
+					<es>La recuperación es muy rápida y poco molesta. Tras la evaluación del equipo médico, el paciente abandona la clínica a las pocas horas y puede hacer #b-#vida normal o incorporarse al trabajo a las 48 horas de la intervención#/-b#.</es>
+					<en>Very quick recovery with little discomfort. After the medical team’s assessment, patients are discharged after a few hours and can conduct #b-#normal life or go back to work 48 hours after surgery.#/b-#</en>
+					<de>Die Regeneration ist sehr schnell und ohne Beschwerden. Nach einer Untersuchung durch das Ärzteteam kann der Patient die Klinik bereits wenige Stunden nach dem Eingriff verlassen und seinem #b-#Leben bereits 48 Stunden nach dem Eingriff wieder normal nachgehen bzw. seine berufliche Tätigkeit wieder aufnehmen.#/b-#</de>
+				</text>
+			</item>
+		</cards>
+		<results>
+			<title>
+				<es>Resultados</es>
+				<en>RESULTS</en>
+				<de>ERGEBNISSE</de>
+			</title>
+			<text>
+				<es>Junto con la intervención, se le realiza un seguimiento alimenticio al paciente durante 24 meses ya que sin una alimentación adecuada, como es lógico, la cirugía no es efectiva.</es>
+				<en>Apart from surgery, patients have 24 months of nutritional follow-up assessments, as it is clear that without proper eating habits, the operation is not effective.</en>
+				<de>Neben dem Eingriff nimmt der Patient 24 Monate lang an einer ernährungsbezogenen Nachbeobachtung teil, da ohne die richtige Ernährung der Eingriff natürlich nicht wirksam ist. Im Rahmen wöchentlicher Beratungsgespräche mit unserem Team aus.</de>
+			</text>
+			<text>
+				<es>Gracias a consultas semanales con nuestro equipo de nutricionistas, se le proporciona al paciente unas pautas de alimentación saludable para que no le falte ningún nutriente y para que la pérdida de peso se haga dentro de unos límites saludables.</es>
+				<en>Thanks to weekly visits with out team of nutritionists, patients are provided with healthy nutrition guidelines. This ensures that no nutrient is missing and that the weight loss takes place within healthy limits.</en>
+				<de>Ernährungswissenschaftlern wird dem Patienten eine gesunde Ernährungsweisevermittelt, um einen Nährstoffmangel zu verhindern und sicherzustellen, dass der Gewichtsverlust in einem gesunden Rahmen erfolgt.</de>
+			</text>
+		</results>
+		<info>
+			<title>
+				<es>Solicita información del método POSE</es>
+				<en>Request information about POSE method</en>
+				<de>Mehr Information über die POSE Methode</de>
+			</title>
+		</info>
+	</content>
+</page>

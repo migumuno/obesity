@@ -1,0 +1,190 @@
+			<!-- Barra de acciones en mensajes -->
+			<!-- .aside -->
+            <aside class="aside bg-primary hidden-xs" id="nav">
+              <section class="vbox">
+                <header class="header dker">
+                  <i class="i i-mail i-2x text-white" style="position: relative; top: 3px;"></i>
+                  <p class="h4 text-white">&nbsp;&nbsp;{{messages.title[lang]}}</p>
+                </header>
+                <section class="w-f">
+                  <section>
+                    <section>
+                      <div class="wrapper">
+                        <button ng-click="change_message_window(2)" class="btn btn-sm btn-success btn-s-md m-t font-bold">{{messages.new_msg[lang]}}</button>
+                      </div>
+                        <ul class="nav nav-pills nav-stacked no-radius m-t-sm">
+                          <li ng-class="{'active': mode == 'all'}">
+                            <a class="btn left" ng-click="refreshMsg()">
+                              <span class="badge bg-info pull-right">{{num_msgs}}</span> 
+                              <i class="fa fa-fw fa-inbox"></i>
+                              {{messages.inbox[lang]}}
+                            </a>
+                          </li>
+                          <li ng-class="{'active': mode == 'send'}">
+                            <a class="btn left" ng-click="filter('send')">
+                              <i class="fa fa-fw fa-envelope-o"></i>
+                              {{messages.sent[lang]}}
+                            </a>
+                          </li>
+                        </ul>
+                      <div class="line dk"></div>
+                      <div class="padder m-t">{{messages.filters[lang]}}</div>
+                      <ul class="nav nav-pills nav-stacked no-radius m-t-sm">                        
+                        <li ng-class="{'active': mode == 'read'}">
+                          <a class="btn left" ng-click="filter('read')">
+                            <i class="fa fa-circle-o pull-right m-t-xs m-r-xs"></i>
+                            {{messages.read[lang]}}
+                          </a>
+                        </li>
+                        <li ng-class="{'active': mode == 'unread'}">
+                          <a class="btn left" ng-click="filter('unread')"> 
+                            <i class="fa fa-circle-o text-success pull-right m-t-xs m-r-xs"></i>
+                            {{messages.unread[lang]}}
+                          </a>
+                        </li>
+                        <li ng-class="{'active': mode == 'removed'}">
+                          <a class="btn left"	 ng-click="filter('removed')">
+                            <i class="fa fa-circle-o text-warning pull-right m-t-xs m-r-xs"></i>
+                            {{messages.removed[lang]}}
+                          </a>
+                        </li>
+                      </ul>
+                    </section>
+                  </section>
+                </section>
+              </section>
+            </aside>
+            <!-- /.aside -->
+            <!-- / Barra de acciones en mensajes -->
+            
+            <!-- Mensajes -->
+            <section>
+              <section class="hbox stretch">
+                <!-- Listado mensajes -->
+                <aside class="aside-lg" id="email-list">
+                  <section class="vbox">
+                    <header class="dker header clearfix">
+                      <div class="btn-toolbar">
+                        <div class="btn-group" style="float: right">
+                          <button class="btn btn-sm btn-bg btn-default" data-toggle="tooltip" ng-click="refreshMsg(true)" data-placement="bottom" data-title="Refresh"><i class="fa fa-refresh"></i></button>
+                          <button class="btn btn-sm btn-bg btn-default" data-toggle="tooltip" ng-click="change_message_window(2)" data-placement="bottom" data-title="Refresh"><i class="fa fa-pencil-square-o"></i></button>
+                        </div>
+                      </div>
+                    </header>
+                    <section class="scrollable hover w-f">
+                      <ul class="list-group auto no-radius m-b-none m-t-n-xxs list-group-lg">
+                        <li ng-repeat="mensaje in msg" ng-click="showMessage($index)" class="list-group-item btn left" ng-class="{'bg-success': mensaje.leido == 0, 'bg-info': leido == 1}">
+                          <a class="thumb-sm pull-left m-r-sm">
+                            <img src="images/a0.png" class="img-circle">
+                          </a>
+                          <a class="clear text-ellipsis">
+                            <strong class="block">{{mensaje.nombre+' '+mensaje.apellidos}}</strong>
+                            <small>{{mensaje.asunto}}</small><br>
+                            <small class="pull-right">{{mensaje.fecha}}</small>
+                          </a>
+                        </li>
+                      </ul>
+                    </section>
+                  </section>
+                </aside>
+                <!-- /.aside -->
+                <!-- /Listado mensajes -->
+                
+                <!-- Mensaje seleccionado -->
+                <!-- .aside -->
+                <aside ng-show="message_window == 1" id="email-content" class="bg-light lter">
+                  <section class="vbox">
+                    <section class="scrollable">
+                      <div class="wrapper dk clearfix">
+                      	<a ng-click="change_message_window(0)" class="pull-right m-r-sm"><i class="fa fa-times fa-lg text btn"></i></a>
+                        <h4 class="m-n"> {{msg_selected.asunto}}</h4>
+                      </div>
+                      <div>
+                        <div class="block clearfix wrapper b-b">
+                          <a href="#" class="thumb-xs inline"><img src="images/a0.png" class="img-circle"></a> 
+                          <span class="inline">{{msg_selected.nombre+' '+msg_selected.apellidos}}</span>
+                          <div class="pull-right inline"><em>{{msg_selected.fecha}}</em>                        
+                            <div class="btn-group">
+                              <!-- <button class="btn btn-default btn-xs" data-toggle="tooltip" data-title="Reply"><i class="fa fa-reply"></i></button> -->
+                              <button class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></button>
+                              <ul ng-if="mode != 'removed' && mode != 'send'" class="dropdown-menu pull-right">
+                                <!-- <li><a href="#"><i class="fa fa-reply"></i> {{messages.reply[lang]}}</a></li> -->
+                                <li><a class="btn" ng-click="markUnread()">{{messages.mark_unread[lang]}}</a></li>
+                                <li class="divider"></li>
+                                <li><a class="btn" ng-click="eraseMessage()">{{messages.delete[lang]}}</a></li>
+                              </ul>
+                              <ul ng-if="mode == 'removed'" class="dropdown-menu pull-right">
+                                <li><a class="btn" ng-click="uneraseMessage()">{{messages.unerase[lang]}}</a></li>
+                              </ul>
+                              <ul ng-if="mode == 'send'" class="dropdown-menu pull-right">
+                                <li><a class="btn" ng-click="eraseSendMessage()">{{messages.delete[lang]}}</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <br><br>
+                          <label>{{messages.subject[lang]}}:</label>
+                          <section class="panel-info">
+                         	 <header class="panel-heading">{{msg_selected.asunto}}</header>
+                          </section>
+                        </div>
+                        <div class="wrapper">
+                          <p>{{msg_selected.texto}}</p>
+                        </div>
+                      </div>
+                    </section>
+                  </section>
+                </aside>
+                 <!-- / Mensaje seleccionado -->
+                
+                <!-- Mensaje nuevo -->
+                <!-- /.aside --> 
+                <aside ng-show="message_window == 2" id="email-content" class="bg-light lter">
+                  <section class="vbox">
+                    <section class="scrollable">
+                      <div class="wrapper dk  clearfix">
+                        <a ng-click="change_message_window(0)" class="pull-right m-r-sm"><i class="fa fa-times fa-lg text btn"></i></a>
+                        <h4 class="m-n"> {{messages.new_msg[lang]}}</h4>
+                      </div>
+                      <form name="new_message" novalidate>
+	                      <div>
+	                      	<div class="block clearfix wrapper b-b">
+	                      		<button type="submit" class="btn btn-success" ng-click="sendMessage()" ng-disabled="!new_message.$valid"><i class="i i-paperplane"></i> {{messages.send[lang]}}</button>
+	                      	</div>
+	                        <div class="block clearfix wrapper b-b">
+	                          <div ng-if="user.type != 0" class="input-group m-b">
+								<span class="input-group-addon">{{messages.to[lang]}}</span>
+								
+								<input class="form-control" type="text" ng-change="setDestinatario()" ng-model="mensaje.aux" required list="people_list" autocomplete="off">
+								<datalist id="people_list">
+									<option value="{{$index}}" ng-repeat="name in people">{{name.nombre}}</option>
+								</datalist>
+								<div ng-show="new_message.to.$touched && !new_message.$pristine">
+									<span ng-show="new_message.to.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+								</div>
+							  </div>
+	                          <div class="input-group m-b">
+									<span class="input-group-addon">{{messages.subject[lang]}}</span>
+									
+									<input class="form-control" type="text" name="asunto" ng-model="mensaje.asunto" required>
+									<div ng-show="new_message.asunto.$touched && !new_message.$pristine">
+										<span ng-show="new_message.asunto.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+									</div>
+							  </div>
+	                        </div>
+	                        <div class="wrapper">
+	                        	<label>{{messages.text[lang]}}:</label>
+	                        	<textarea ng-model="mensaje.mensaje" name="mensaje" required></textarea>
+	                        	<div ng-show="new_message.mensaje.$touched && !new_message.$pristine">
+									<span ng-show="new_message.mensaje.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+								</div>
+	                        </div>
+	                      </div>
+	                   </form>
+                    </section>
+                  </section>
+                </aside>
+                <!-- / Mensaje nuevo -->
+                
+              </section>
+            </section>
+            <!-- / Mensajes -->

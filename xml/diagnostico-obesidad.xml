@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Diagnóstico Obesidad</es>
+			<en>Obesity Diagnosis</en>
+			<de>Obesity Diagnosis</de>
+		</title>
+		<description>
+			<es>Asesoramiento médico para elegir el Tratamiento contra la Obesidad más adecuado y eficaz para ti mediante el estudio genético, hormonal y emocional de la obesidad</es>
+			<en>Medical counselling to choose the most adequate and effective Obesity Treatment for you</en>
+			<de>Medizinische Beratung zur Wahl der geeignetsten und wirksamsten Behandlung gegen die Fettleibigkeit durch genetische, hormonelle und emotionale Untersuchung der Fettleibigkeit.</de>
+		</description>
+		<keywords>
+			<es>obesidad, diagnostico, tratamiento, medico, clinica, método, estudio, genético, hormonal, emocional</es>
+			<en>obesity, diagnosis, treatment, doctor, clinic, method, study, genetic, hormonal, emotional</en>
+			<de>Fettleibigkeit, Diagnose, Behandlung, Arzt, Klinik, Methode, Untersuchung, genetisch, hormonell, emotional</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>Asesoramiento médico para elegir el Tratamiento#/br-#contra la Obesidad más adecuado y eficaz para ti</es>
+				<en>Medical counselling to choose the most adequate and effective Obesity Treatment for you</en>
+				<de>Ärztliche Beratung für die Wahl der Behandlung von Adipositas (Übergewicht), die für Sie am angemessensten ist</de>
+			</title>
+			<img>slider_diagnostico1.jpg</img>
+			<alt>
+				<es>Diagnostico Obesidad</es>
+				<en>Obesity Diagnosis</en>
+				<de>Übergewicht Diagnose</de>
+			</alt>
+		</slider>
+	</sliders>
+	<content>
+		<img>metodo1.jpg</img>
+		<alt>
+			<es>Diagnostico de la obesidad emio</es>
+			<en>Obesity Diagnosis emio</en>
+			<de>Diagnose Übergewicht Adipositas emio</de>
+		</alt>
+		<text>
+			<es>En EMIO entendemos que el complejo problema de la Obesidad es mucho más que la propuesta que nos indica la American Heart Association, a través del Índice de Masa Corporal (IMC).</es>
+			<en>EMIO understands that the complex problem of obesity goes way beyond what the American Heart Association suggests, through the Body Mass Index (BMI).</en>
+			<de>Am IMEO verstehen wir, dass das komplexe Problem der Adipositas (Übergewicht / Fettleibigkeit) weitaus mehr ist als der von der American Heart Association vorgeschlagene Body-Mass-Index (BMI).</de>
+		</text>
+		<text>
+			<es>Para nosotros determinar los detalles, en cada paciente, de porqué se produce el aumento de peso, es fundamental para diseñar su tratamiento o solución definitica a su problema.</es>
+			<en>We believe that it is fundamental to assess the detailed reasons of each patient’s weight gain in order to design an effective treatment or final solution for such issue. </en>
+			<de>Für uns ist es grundlegend wichtig, die Einzelheiten der Ursache für die Gewichtszunahme bei jedem Patienten festzustellen, um die passende Behandlung oder die endgültige Lösung des Problems anzubieten. </de>
+		</text>
+		<text>
+			<es>Disponemos de un área dedicada exclusivamente a estudiar y analizar las características individuales del paciente, para afinar posteriormente en el tratamiento personalizado de sus problemas de obesidad.</es>
+			<en>One of our departments exclusively studies and analyses patients'individual characteristics in order to personalise their obesity treatment afterwards. </en>
+			<de>Wir haben einen Bereich ausschließlich für die Untersuchung und Analyse der individuellen Eigenschaften des Patienten, um dies später in die persönliche Behandlung für seine Adipositas-Probleme einzubringen.</de>
+		</text>
+		<text>
+			<es>Contamos con especialistas en Biotecnología Genético y Nutrigenómica, no sñolo para evaluar los resultados de ADN de nuestros pacientes, sino también para incidir directamente en las predisposiciones existentes a través de la modificación de determinados cambios en los hábitos de vida.</es>
+			<en>We have specialists in Genetic Biotechnology and Nutrigenomics, not only to assess our patients’ DNA results, but also to directly influence their existing predispositions by modifying certain lifestyles.</en>
+			<de>Wir haben Spezialisten im Bereich der Biotechnologie, Genetik und Nutrigenomik, nicht nur für die Bewertung der Ergebnisse der ADN- Analysen unserer Patienten, sondern auch um durch bestimmte Änderungen der Lebensgewohnheiten direkt auf die existierende Veranlagung des Patienten zu wirken.</de>
+		</text>
+		<text>
+			<es>Nuestro objetivo es configurar un libro de instrucciones para cada paciente que al seguirlo no sólo perderá grasa o mantendrá su peso saludable, sino que le ayudará a encontrar un equilibrio emocional y físico.</es>
+			<en>Our goal is to prepare an instruction book for our patients so that following it will not only let patients lose fat or maintain a healthy weight, but it will also help them find an emotional and physical balance.</en>
+			<de>Es ist unser Ziel, eine Anleitung für jeden einzelnen Patienten zu erstellen, sodass er, wenn er sich danach richtet, nicht nur Fett verliert und ein gesundes Gewicht hält, sondern auch ein emotionales und physisches Gleichgewicht findet.</de>
+		</text>
+		<text>
+			<es>Para ello combinamos las últimas tecnologías y un amplio equipo humano.</es>
+			<en>With this purpose in mind, we combine state-of-the-art technology and a varied staff.</en>
+			<de>Zu diesem Zweck kombinieren wir die modernsten Technologien und ein umfangreiches Team.</de>
+		</text>
+		<cards>
+			<card>
+				<title>
+					<es>Estudio genético de la obesidad</es>
+					<en>Genetic Obesity Study</en>
+					<de>Genetische Untersuchung der Adipositas (Übergewicht)</de>
+				</title>
+				<img>img_metodo1.jpg</img>
+				<alt>
+					<es>Estudio genetico de la obesidad</es>
+					<en>Genetic Obesity Study</en>
+					<de>Fortschrittliche genetische Untersuchung Fettleibigkeit</de>
+				</alt>
+				<text>
+					<es>Nuestro exclusivo #b-#Test Obesity-iGen#/b-# nos aporta la información necesaria para recomendarle el tratamiento más adecuado en base a múltiples parámetros; recomendaciones detéticas, alimentarias, nutritivas, salud metabólica, genética...</es>
+					<en>Our exclusive #b-#Obesity-iGEN Test#/b-# provides us with the information we need to recommend the most adequate treatment for you based on multiple parametres and recommendations about diet, food, nutrition, metabolic health, genetics, etc.</en>
+					<de>Unser exklusiver #b-#Obesity-iGEN-Test#/b-# liefert uns die erforderlichen Informationen um Ihnen die geeigneten Behandlung zu empfehlen, basiert auf vielfältige Parameter; Diätempfehlungen, Ernährung, Nährstoffen, gesunder Stoffwechsel, Genetik</de>
+				</text>
+				<link>
+					<es>/diagnostico-obesidad/estudio-genetico-obesidad</es>
+					<en>/obesity-diagnosis/obesity-genetic-study</en>
+					<de>/diagnose-fettleibigkeit/untersu-chung-genetisch-fetteibigkeit</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Scanner Corporal iDEXA</es>
+					<en>iDEXA Body Scanner</en>
+					<de>Körperscanner iDEXA</de>
+				</title>
+				<img>img_metodo2.jpg</img>
+				<alt>
+					<es>Scanner Corporal iDEXA</es>
+					<en>iDEXA Body Scanner</en>
+					<de>Körperscanner iDEXA</de>
+				</alt>
+				<text>
+					<es>Estudio por imagen de la grasa localizada, androide y genoide, localización y retención de líquidos, y estudio minucioso de la masa ósea con los posibles desgastes articulares producidos por el sobrepeso.#/br-##/br-#</es>
+					<en>Imaging study of localised android or gynoid fat, fuid retention and localisation, as well as an in-depth study of the bone-marrow and the possible joint wears caused by overweight.</en>
+					<de>Bildstudie vonlokalem Fett, androide und ginoide Fettverteilung, Lokalisierung und Retention der Körperflüssigkeit und umfassende Studie der Knochenmasse mit möglichem Gelenkverschleiß durch das Übergewicht.</de>
+				</text>
+				<link>
+					<es>/diagnostico-obesidad/scanner-corporal</es>
+					<en>/obesity-diagnosis/body-scanner</en>
+					<de>/diagnose-fettleibigkeit/body-scanner</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Estudio hormonal y emocional EIS</es>
+					<en>EIS hormonal and emotional study</en>
+					<de>Hormonelle und emotionale Untersuchung EIS</de>
+				</title>
+				<img>img_metodo3.jpg</img>
+				<alt>
+					<es>Estudio hormonal y emocional EIS</es>
+					<en>EIS hormonal and emotional study</en>
+					<de>Hormonelle und emotionale Untersuchung EIS</de>
+				</alt>
+				<text>
+					<es>Combinando la Electroimpedancia Sistémica EIS junto con el análisis de hormonas, determinamos los valores endocrinos y emocionales del paciente, que nos proporcionan valiosa información para determinar tendencia a engordar del paciente.</es>
+					<en>Combining the EIS systemic electroimpedance with hormon analyses, patients’ endocrine and emotional values can be assessed, providing significant information to determine whether they have a tendency to gain weight.</en>
+					<de>Wir kombinieren Elektrische Impedanz-Tomografie (EIS) Systemforschung EIS mit Hormonanalyse, bestimmen die endokrinen und emotionalen Werte des Patienten und erhalten so wertvolle Informationen über die Tendenz der Gewichtszunahme des Patienten.</de>
+				</text>
+				<link>
+					<es>/diagnostico-obesidad/estudio-hormonal</es>
+					<en>/obesity-diagnosis/hormonal-study</en>
+					<de>/diagnose-fettleibigkeit/unter-suchung-hormonell</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Electroimpedancia TANITA</es>
+					<en>TANITA Bio-electrical Impedance</en>
+					<de>Elektrische Impedanz TANITA</de>
+				</title>
+				<img>img_metodo4.jpg</img>
+				<alt>
+					<es>Electroimpedancia TANITA</es>
+					<en>TANITA Bio-electrical Impedance</en>
+					<de>Elektrische Impedanz TANITA</de>
+				</alt>
+				<text>
+					<es>Podemos evaluar y cuantificar los niveles de grasa, masa muscular y agua del paciente, que nos indicará los kilos de grasa que éste debe perder, marcando a nuestros profesionales la evolución del tratamiento a lo largo de los meses.</es>
+					<en>We can assess and quantify patients’ levels of fat, muscle mass and water in order for our medical team to know how many kilogrammes should be lost and to track the development of the treatment month after month.</en>
+					<de>Wir können die Fettmenge, Muskelmasse, und Wasser des Patienten bewerten und quantifizieren. Dies wird uns angeben, wie viel Kilo Fett der Patient verlieren sollte. Unsere Fachkräfte benutzen diese Information für Entwicklung der Behandlung im Laufe der folgenden Monate.</de>
+				</text>
+				<link>
+					<es>/diagnostico-obesidad/electroimpedancia-tanita</es>
+					<en>/obesity-diagnosis/tanita-electrical-impedance</en>
+					<de>/diagnose-fettleibigkeit/elektrische-impedanz-tanita</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Intolerancias Alimentarias MedTronik</es>
+					<en>MED-Tronik Food Intolerances</en>
+					<de>Nahrungsmittelintoleranz MedTronik</de>
+				</title>
+				<img>img_metodo5.jpg</img>
+				<alt>
+					<es>Intolerancias Alimentarias MedTronik</es>
+					<en>MED-Tronik Food Intolerances</en>
+					<de>Nahrungsmittelintoleranz MedTronik</de>
+				</alt>
+				<text>
+					<es>Más que indicarnos los alimentos que “nos engordan más”, éste estudio nos indica los alimentos que crean una reacción en nuestro Sistema Inmunitario, aprovechando menos sus nutrientes y debilitando nuestras defensas.#/br-##/br-#</es>
+					<en>Rather than indicating the “most fattening” food, this study pinpoints those creating a reaction with our Immune System, using fewer nutrients and weakening our defences.</en>
+					<de>Statt uns die Nahrungsmittel anzuzeigen, die „dicker machen“ gibt diese Studie eher an, welche Nahrungsmittel zu einer Reaktion im Immunsystem führen, und daher weniger die Nährstoffe nutzen und unsere Abwehrkräfte schwächen.</de>
+				</text>
+				<link>
+					<es>/diagnostico-obesidad/intolerancias-alimenticias</es>
+					<en>/obesity-diagnosis/food-intolerances</en>
+					<de>/diagnose-fettleibigkeit/nahrungs-mittel-intoleranz</de>
+				</link>
+			</card>
+		</cards>
+	</content>
+</page>

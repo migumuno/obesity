@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Estudio Genético Avanzado Obesidad</es>
+			<en>Advanced Obesity Genetic Study</en>
+			<de>Fortschrittliche genetische Untersuchung Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>Realizamos el más completo Estudio Genético de la Obesidad mediante un procedimiento que une la más alta tecnología y la experiencia de nuestros profesionales</es>
+			<en>We carry out the most complete Obesity Genetic Study through a procedure combining a state-of-the-art technology with our professional experience</en>
+			<de>Wir führen die kompletteste genetische Untersuchung der Fettleibigkeit mittels eines Verfahrens durch, welches höchste Technologie mit der Erfahrung unserer Fachleute vereint.</de>
+		</description>
+		<keywords>
+			<es>obesidad, estudio, genetico, avanzado, diagnostico, diagnosis, tratamiento, cirugía, tecnologia, medico</es>
+			<en>obesity, study, genetic, advanced, diagnosis, treatment, surgery, technology, doctor</en>
+			<de>Fettleibigkeit, Untersuchung, genetisch, fortschrittlich, Diagnostik, Diagnose, Behandlung, Chirurgie, Technologie, Arzt</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+		<title>
+			<es>Estudio Genético Avanzado de la Obesidad</es>
+			<en>Advanced Genetic Obesity Study</en>
+			<de>Fortgeschrittene Genstudie der Adipositas (Übergewicht)</de>
+		</title>
+			<img>slider_genetico.jpg</img>
+			<alt>
+				<es></es>
+				<en></en>
+				<de></de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		
+	</messages>
+	<breadcrumbs>
+		<item>
+			<name>
+				<es>Volver Diagnóstico Obesidad</es>
+				<en>Obesity Diagnosis</en>
+				<de>Adipositas Diagnose</de>
+			</name>
+			<link>
+				<es>/diagnostico-obesidad</es>
+				<en>/obesity-diagnosis</en>
+				<de>/diagnose-fettleibigkeit</de>
+			</link>
+		</item>
+		<active>
+			<name>
+				<es>Estudio Genético Obesidad</es>
+				<en>Genetic Obesity Study</en>
+				<de>Genetische Untersuchung der Adipositas (Übergewicht)</de>
+			</name>
+		</active>
+	</breadcrumbs>
+	<content>
+		<img>clinicaluz1.jpg</img>
+		<alt>
+			<es></es>
+			<en></en>
+			<de></de>
+		</alt>
+		<left>
+			<text>
+				<es>#b-#Los estudios presentados hasta el momento marcan entre un 30% y un 70% de representación genética en la predisposición de una persona a ser obesa.#/b-#</es>
+				<en>#b-#Current studies show that patients’ predisposition to obesity is between 30% and 70% genetic.#/b-#</en>
+				<de>#b-#Die aktuellen Studien zeigen an, dass 30% bis 70% der Veranlagung zur Fettleibigkeit, genetisch bedingt ist.#/b-#</de>
+			</text>
+			<text>
+				<es>La sensación de hambre, la tendencia a comer entre comidas, la dificultad para utilizar la grasa como fuente de energía… éstos datos y los resultados obtenidos del estudio de su ADN nos proporcionan la información necesaria para saber cómo funciona la maquinaria de su cuerpo y:</es>
+				<en>Data regarding hunger, the tendency of eating between meals, the difficulty of using fat as a source of energy, etc., and the results obtained from the DNA study will provide us with the information we need to know how your body machine works and to:</en>
+				<de>Das Hungergefühl, die Tendenz, zwischen Mahlzeiten zu essen, die Schwierigkeit das Fett als Quelle der Energie zu benutzen… diese Daten und die Ergebnisse der DANN- Analyse, liefern uns die notwendige Informationen um festzustellen, wie  ihr Körper funktioniert und:</de>
+				<ul>
+					<li>
+						<es>Entender su metabolismo.</es>
+						<en>Understand your metabolism.</en>
+						<de>Ihren Stoffwechsel zu verstehen</de>
+					</li>
+					<li>
+						<es>Ajustar el balance nutricional de su alimentación.</es>
+						<en>Set the nutritional balance of your diet.</en>
+						<de>Eine ausgewogene Ernährung für sie zu erstellen</de>
+					</li>
+					<li>
+						<es>Alcanzar su peso saludable.</es>
+						<en>Reach your healthy weight.</en>
+						<de>Ein gesundes Körpergewicht zu erreichen</de>
+					</li>
+					<li>
+						<es>Obtener el máximo rendimiento y beneficio de una u otra actividad física.</es>
+						<en>Make the most out of each physical activity.</en>
+						<de>Maximale Leistung und maximalen Nutzen der verschiedenen  körperliche Aktivitäten zu erlangen</de>
+					</li>
+					<li>
+						<es>Comprender las tendencias de su comportamiento hacia la comida.</es>
+						<en>Understand your behavioural tendencies toward food.</en>
+						<de>Die Tendenzen Ihres Verhalten bezüglich der Nahrung zu verstehen</de>
+					</li>
+				</ul>
+			</text>
+		</left>
+		<right>
+			<text>
+				<es>Para ello utilizamos un procedimiento que une la más alta tecnología junto a la experiencia de nuestros profesionales:</es>
+				<en>In order to do so, we follow a procedure combining state-of-the-art technology with our professional experience:</en>
+				<de>Zu diesem Zweck benutzen wir ein Verfahren, das High-Tech Technologie und die Erfahrung unserer Fachkräfte kombiniert.</de>
+				<ul>
+					<li>
+						<es>Electro Intersticial Scanner EIS. Estudio Hormonal, emocional y cardiaco.</es>
+						<en>Electro-interstitial Scanner (EIS). Hormonal, emotional and cardiac study.</en>
+						<de>Electro Interstitielle Scanner EIS. Hormonelle, emotionale und Herz Studie.</de>
+					</li>
+					<li>
+						<es>TANITA Médico Advance. Evaluación metabólica y de composición corporal.</es>
+						<en>TANITA Médico Advance. Metabolic and body-composition assessment.</en>
+						<de>TANITA Médico Advance. Bewertung des Stoffwechsels und der Körperzusammensetzung.</de>
+					</li>
+					<li>
+						<es>Consulta con especialista.</es>
+						<en>Consulting a specialist.</en>
+						<de>Sprechstunde mit einem Spezialisten.</de>
+					</li>
+					<li>
+						<es>Test ObesityGEN</es>
+						<en>ObesityGEN Test</en>
+						<de>ObesityGEN Test </de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es></es>
+				<en></en>
+				<de></de>
+			</text>
+		</right>
+		<text>
+			<es>Nuestro exclusivo #b-#Test Obesity-iGEN#/b-# de Ferrer inCode nos aporta la información necesaria para recomendarle el tratamiento más adecuado en base a múltiples parámetros:</es>
+			<en>Our exclusive #b-#TObesity-iGEN Test#/b-# by Ferrer inCode provides us with the information we need to recommend the most adequate treatment for you according to multiple parametres:</en>
+			<de>Unser #b-#Obesity-iGEN Test#/b-# von Ferrer inCode liefert uns die erforderlichen Informationen, um Ihnen die für Sie geeignetste Behandlung zu empfehlen. Wir stützen uns dabei auf folgende Parameter:</de>
+		</text>
+		<list>
+			<left>
+				<ul>
+					<li>
+						<es>#b-#Recomendaciones dietéticas:#/b-#</es>
+						<en>#b-#Dietetic recommendations:#/b-#</en>
+						<de>#b-#Diätempfehlungen:#/b-#</de>
+						<ul>
+							<li>
+								<es>Genotipos asociados a limitar en la dieta el consumo de Carbohidratos de alto índice glucémico, grasas y proteínas.</es>
+								<en>Genotypes associated to limiting carbohydrate intake with a high-glycemic index, fats and/or proteins in the diet.</en>
+								<de>Genotypen, die den Verbrauch von Kohlehydraten mit einem hohen glykämischen Index, Fette und Proteine, einschränken</de>
+							</li>
+							<li>
+								<es>Respuesta a las grasas saturadas, monoinsaturadas, poliinsaturadas y cómo obtener mayor beneficio del consumo de ácidos grasos de cadena larga.</es>
+								<en>Response to saturated, monounsaturated, polyunsaturated fats and how to benefit the most from the intake of long-chain fatty acids.</en>
+								<de>Reaktion auf gesättigte Fettsäuren,einfach und mehrfach ungesättigte Fettsäuren und wie Sie den optimalen Nutzenaus dem Verbrauch von langkettigen Fettsäuren ziehen können</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Necesidades nutritivas:#/b-#</es>
+						<en>>#b-#Nutritional needs>#/b-#</en>
+						<de>#b-#Nahrungsnotwendigkeiten#/b-#</de>
+						<ul>
+							<li>
+								<es>Metabolización de la Vitamina B2, B6, B12, A, C, D, E y ácido fólico.</es>
+								<en>Metabolisation of Vitamine B2, B6, B12, A, C, D, E and folic acid.</en>
+								<de>Nahrungsverwertung der Vitamine B2, B6, B12, A, C,D, E und Folsäure</de>
+							</li>
+							<li>
+								<es>Estrés oxidativo y envejecimiento.</es>
+								<en>Oxidative stress and aging.</en>
+								<de>Oxidativer Stress und Alterung</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Salud metabólica:#/b-#</es>
+						<en>#b-#Metabolic health#/b-#</en>
+						<de>#b-#Metabolische Gesundheit:#/b-#</de>
+						<ul>
+							<li>
+								<es>Presentar niveles reducidos de LDL elevados.</es>
+								<en>Showing reduced levels of high LDL cholesterol.</en>
+								<de>Reduziertes Niveau von hohem (LDL)  Cholesterinspiegel</de>
+							</li>
+							<li>
+								<es>Presentar niveles elevados de colesterol HDL reducidos.</es>
+								<en>Showing high levels of reduced HDL cholesterol.</en>
+								<de>Erhöhtes Niveau von niedrigem HDL-Cholesterinspiegel</de>
+							</li>
+							<li>
+								<es>Presentar altos niveles de Triglicéridos.</es>
+								<en>Showing high levels of triglycerides.</en>
+								<de>Hoher Anteil vonTriglyceriden.</de>
+							</li>
+							<li>
+								<es>Presentar altos niveles de Glucosa en sangre.</es>
+								<en>Showing high levels of blood glucose.</en>
+								<de>Hoher Anteil von Glukose (Traubenzucker) im Blut.</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Predisposición a la obesidad:#/b-#</es>
+						<en>#b-#Predisposition to Obesity:#/b-#</en>
+						<de>#b-#Veranlagung für Adipositas (Übergewicht):#/b-#</de>
+						<ul>
+							<li>
+								<es>Perfil genético de mayor o menor predisposición a la obesidad.</es>
+								<en>Genetic profile of higher or lower predisposition to Obesity.</en>
+								<de>Genetisches Profil der hohen oder niedrigen Veranlagung für Adipositas (Übergewicht)</de>
+							</li>
+							<li>
+								<es>Perfil genético de mayor o menor predisposición a la recuperación del peso perdido.</es>
+								<en>Genetic profile of higher or lower predisposition to regaining lost weight.</en>
+								<de>Genetisches Profil der hohen oder niedrigen Veranlagung, das verlorene Gewicht wieder zuzunehmen</de>
+							</li>
+							<li>
+								<es>Metabolismo basal.</es>
+								<en>Basal Metabolism.</en>
+								<de>Basal-Stoffwechsel</de>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</left>
+			<right>
+				<ul>
+					<li>
+						<es>#b-#Reacciones hacia los alimentos:#/b-#</es>
+						<en>#b-#Reaction toward food:#/b-#</en>
+						<de>#b-#Reaktion auf Nahrungsmittel:#/b-#</de>
+						<ul>
+							<li>
+								<es>Metabolismo de la cafeína. Y su importante influencia en el Cortisol y la Insulina.</es>
+								<en>Caffeine metabolism. And its important impact on Cortisol and Insuline.</en>
+								<de>Wie Koffein auf den Stoffwechsel wirkt und sein wichtiger Einfluss auf Kortisol und Insulin</de>
+							</li>
+							<li>
+								<es>Sensibilidad al salado.</es>
+								<en>Sensitivity to saltiness.</en>
+								<de>Empfindlichkeit gegenüber Salz.</de>
+							</li>
+							<li>
+								<es>Sensibilidad a la lactosa.</es>
+								<en>Sensitivity to lactose.</en>
+								<de>Empfindlichkeit gegenüber Laktose.</de>
+							</li>
+							<li>
+								<es>Sensibilidad al gluten.</es>
+								<en>Sensitivity to gluten.</en>
+								<de>Empfindlichkeit gegenüber Gluten.</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Tendencias del comportamiento alimentario:#/b-#</es>
+						<en>#b-#Eating-Habit Tendencies:#/b-#</en>
+						<de>#b-#Tendenzen des Verhaltens bezüglich Lebensmitteln:#/b-#</de>
+						<ul>
+							<li>
+								<es>Beneficios y tendencia de comer entre horas.</es>
+								<en>Benefits and tendencies of eating between meals.</en>
+								<de>Vorteile und Tendenzen, Zwischenmahlzeiten zu sich zunehmen.</de>
+							</li>
+							<li>
+								<es>Sensación de hambre. Sensación de apetito a lo largo del día. </es>
+								<en>Sense of hunger. Feeling of appetite during the day.</en>
+								<de>Hungergefühl. Appetit im Laufe des Tages.</de>
+							</li>
+							<li>
+								<es>Sensación de saciedad. Sentirse lleno después de comer.</es>
+								<en>Feeling of satiety. Feeling full after eating.</en>
+								<de>Sich satt fühlen. Nach dem Essen gesättigt zu sein.</de>
+							</li>
+							<li>
+								<es>Desinhibición alimenticia. Tendencia a comer más cantidad de lo normal aún sin padecer hambre.</es>
+								<en>Food disinhibition. Tendency to eat higher-than-normal quantities, even without being hungry.</en>
+								<de>Hemmungsloses Essen. Tendenz, mehr zu essen als man braucht, um den Hunger zu stillen.</de>
+							</li>
+							<li>
+								<es>Deseo por la comida. El tiempo que estamos pensando en comida a lo largo del día.</es>
+								<en>Desire for food. The time we think about food during the day.</en>
+								<de>Wunsch nach Essen. Wie viel Zeit wir im Laufe des Tages an Essen denken.</de>
+							</li>
+							<li>
+								<es>Ansiedad por comer dulce.</es>
+								<en>Anxiety to eat something sweet.</en>
+								<de>Begierde nach Süßigkeiten.</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Actividad física:#/b-#</es>
+						<en>#b-#Physical exercise:#/b-#</en>
+						<de>#b-#Körperliche Aktivität:#/b-#</de>
+						<ul>
+							<li>
+								<es>Optimización del ejercicio para reducir el sobrepeso/obesidad, mejorar la Presión Arterial, la pérdida de grasa y la sensibilidad a la insulina.</es>
+								<en>Exercise optimisation to reduce overweight/obesity, improve blood pressure, fat loss and sensitivity to insuline.</en>
+								<de>Optimierung der Übungen zur Verringerung des Übergewichts / Fettleibigkeit, Verbesserung des arteriellen Drucks, Fettverlust und  Empfindlichkeit gegenüber Insulin</de>
+							</li>
+							<li>
+								<es>Beneficio del entrenamiento de resistencia, fuerza y aeróbico.</es>
+								<en>Benefits of resistance, strength and aerobic training.</en>
+								<de>Vorteile von Aerobic-Übungen, Kraft-und Widerstandstraining</de>
+							</li>
+							<li>
+								<es>Potenciación muscular.</es>
+								<en>Muscle enhancement.</en>
+								<de>Stärkung der Muskulatur</de>
+							</li>
+							<li>
+								<es>Predisposición a la Tendinopatía de Aquiles.</es>
+								<en>Predisposition to Achilles Tendinopathy.</en>
+								<de>Veranlagung zur Achillodynie</de>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</right>
+		</list>
+	</content>
+</page>

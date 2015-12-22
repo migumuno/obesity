@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Elimina tu problema de obesidad</es>
+			<en>Get rid of your obesity problem</en>
+			<de>Beseitigen Sie Ihr Problem der Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>Ven con EMIO a eliminar tu problema de obesidad en Madrid y disfruta de los mejores espectáculos internacionales y de espectáculos exclusivos de nuestra ciudad</es>
+			<en>Come to EMIO and solve your obesity problem in Madrid and  enjoy our city’s best international and exclusive shows</en>
+			<de>Kommen Sie zum EMIO, um Ihre Problem der Fettleibigkeit in Madrid zu beseitigen, und genießen Sie die besten internationalen Shows und die exklusiven Shows unserer Stadt.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, problema, elimina, madrid, espectaculo, teatro, auditorio, concierto</es>
+			<en>obesity, treatment, method, problem, eliminate, madrid, show, theatre, auditorium, concert</en>
+			<de>Fettleibigkeit, Behandlung, Methode, Problem, beseitigen, Madrid, Show, Theater, Konzertsaal, Konzert</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>LOS ESPECTÁCULOS MÁS FAMOSOS Y EXCLUSIVOS DE TODA EUROPA</es>
+				<en>EUROPE’S MOST-FAMOUS AND EXCLUSIVE SHOWS</en>
+				<de>DIE BERÜHMTESTEN UND EXKLUSIVSTEN VERANSTALTUNGEN GANZ EUROPAS </de>
+			</title>
+			<img>slider_espectaculos1.jpg</img>
+			<alt>
+				<es>Asesoramiento médico para elegir el Tratamiento contra la Obesidad más adecuado y eficaz para ti</es>
+				<en></en>
+				<de></de>
+			</alt>
+		</slider>
+		<slider>
+			<title>
+				<es>EN MADRID NO HAY LUGAR PARA EL ABURRIMIENTO</es>
+				<en>IN MADRID, THERE IS NO WAY YOU CAN GET BORED</en>
+				<de>IN MADRID WERDEN SIE KEINE ZEIT HABEN, SICH ZU LANGWEILEN</de>
+			</title>
+			<img>slider_espectaculos2.jpg</img>
+			<alt>
+				<es>Espectaculos Madrid</es>
+				<en>Madrid Shows</en>
+				<de>Madrid Shows</de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#Los espectáculos más famosos y exclusivos de toda Europa#/div-#</es>
+				<en>#div class="title_slider_metodo"-#Europe's most-famous and exclusive shows'#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Die berühmtesten und exklusivsten veranstal tungen ganz Europas#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+		</message>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#En Madrid no hay lugar para el aburrimiento#/div-#</es>
+				<en>#div class="title_slider_metodo"-#In Madrid, there is no way you can get bored#/div-#</en>
+				<de>#div class="title_slider_metodo"-#In Madrid werden sie keine zeit haben, sich zu langweilen#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+		</message>
+	</messages>
+	<breadcrumbs>
+		<item>
+			<name>
+				<es>Volver Madrid es Salud</es>
+				<en>Madrid means Health</en>
+				<de>Madrid ist Gesundheit</de>
+			</name>
+			<link>
+				<es>/salud-madrid</es>
+				<en>/madrid-healthcare</en>
+				<de>/gesundheit-madrid</de>
+			</link>
+		</item>
+		<active>
+			<name>
+				<es>Espectáculos</es>
+				<en>Shows</en>
+				<de>Aufführungen</de>
+			</name>
+		</active>
+	</breadcrumbs>
+	<content>
+		<img>espectaculos1.jpg</img>
+		<alt>
+			<es>Espectaculos Madrid</es>
+			<en>Madrid Shows</en>
+			<de>Madrid Shows</de>
+		</alt>
+		<text>
+			<es>Disfruta durante tu estancia en Madrid de los mejores espectáculos internacionales y de espectáculos exclusivos solamente posibles en nuestra ciudad.</es>
+			<en>During your stay in Madrid, enjoy the best and most exclusive international shows you can only find in our city.</en>
+			<de>Genießen Sie während Ihres Aufenthalts in Madrid die besten internationalen und exklusivsten Veranstaltungen, die nur in dieser Stadt gezeigt werden.</de>
+		</text>
+		<text>
+			<es>Actualmente #b-#Madrid se ha convertido en el Broadway de Europa#/b-# donde tienen cabida los espectáculos musicales de mayor reconocimiento internacional; Priscilla Reina del Desierto, El Rey León, Los Miserables, Jekyll &#38; Hyde, el musical y Amaluna de Cirque du Soleil, entre otros.</es>
+			<en>#b-#Madrid has recently become Europe’s Broadway#/b-# staging the most reknown international musicals, such as “Priscilla, Queen of the Desert”, “The Lion King”, “Les Misérables”, “Jekyll &#38; Hyde: The musical” and “Amaluna” by Cirque du Soleil, among others.</en>
+			<de>#b-#Madrid hat sich in den letzten Jahren in den europäischen Broadway verwandelt#/b-# und es dient als Bühne für die international wichtigsten und bekanntesten Musicals: Priscilla – Königin der Wüste, Der König der Löwen, Les Misérables, Jekyll &#38; Hyde - Das Musical, die neueste Show des Cirque du Soleil Amaluna und vieles mehr.</de>
+		</text>
+		<text>
+			<es>Si lo que te gusta son los conciertos, Madrid ofrece la mejor música y los mejores artistas para todos los gustos; desde los conciertos de música clásica en el Auditorio de Madrid, pasando por la mejor Ópera en el Teatro Real, hasta lo último en música Pop y Rock.</es>
+			<en>If you love concerts, Madrid offers you the best music and artists. You can be sure that there is something for every taste, from classical music concerts at the National Auditorium of Madrid and the best opera at the Teatro Real up to the latest pop and rock music.</en>
+			<de>Auch wenn Sie ein Konzertliebhaber sind, kommen Sie in Madrid voll auf Ihre Kosten. Die beste Musik, die besten Künstler, wobei für jeden Geschmack das Richtige dabei ist: von Konzerten klassischer Musik im Auditorio Nacional de Música über die besten Opern im Teatro Real bis hin zu Pop- und Rockmusikkonzerten.</de>
+		</text>
+		<text>
+			<es>Si deseas conocer los próximos conciertos programados no dejes de visitar:</es>
+			<en>If you want to know the dates of the next concerts, don’t forget to check out:</en>
+			<de>Wenn Sie sich über die Konzerte informieren möchten, die demnächst auf dem Veranstaltungsplan stehen, dann besuchen Sie bitte die folgenden Websites:</de>
+		</text>
+		<text>
+			<es>#div class="boton_diagnostico"-##a href="http://www.esmadrid.com/teatros-y-auditorios/" target="_blank"-##button class="boton"-#Visitar Teatros y Auditorios#/button-##/a-##/br-##/br-##a href="http://www.esmadrid.com/agenda-musica-madrid/" target="_blank"-##button class="boton"-#Visitar Conciertos#/button-##/a-##/div-#</es>
+			<en>#div class="boton_diagnostico"-##a href="http://www.esmadrid.com/en/whats-on-theatre-and-dance-madrid/" target="_blank"-##button class="boton"-#Visit Theatres and auditóriums#/button-##/a-##/br-##/br-##a href="http://www.esmadrid.com/en/whats-on-music-madrid/" target="_blank"-##button class="boton"-#Visit Concerts#/button-##/a-##/div-#</en>
+			<de>#div class="boton_diagnostico"-##a href="http://www.esmadrid.com/en/whats-on-theatre-and-dance-madrid/" target="_blank"-##button class="boton"-#Theater und Konzertsäle (Englisch)#/button-##/a-##/br-##/br-##a href="http://www.esmadrid.com/en/whats-on-music-madrid/" target="_blank"-##button class="boton"-#Konzerte (Englisch)#/button-##/a-##/div-#</de>
+		</text>
+		<text>
+			<es>Para los amantes de las artes escénicas y la danza Madrid cuenta con una agenda de máxima calidad que puedes consultar #div class="boton_diagnostico"-##a href="http://www.esmadrid.com/agenda-teatro-y-danza-madrid/" target="_blank"-##button class="boton"-#visitar#/button-##/a-##/div-#</es>
+			<en>For the lovers of performing arts and dance, Madrid has a top-quality programme that you can check #div class="boton_diagnostico"-##a href="http://www.esmadrid.com/en/whats-on-theatre-and-dance-madrid/" target="_blank"-##button class="boton"-#visit#/button-##/a-##/div-#</en>
+			<de>Für Liebhaber der darstellenden Kunst und des Tanzes bietet Madrid ein erstklassiges Programm, das Sie hier abrufen können. #div class="boton_diagnostico"-##a href="http://www.esmadrid.com/en/whats-on-theatre-and-dance-madrid/" target="_blank"-##button class="boton"-#hier (Englisch)#/button-##/a-##/div-#</de>
+		</text>
+		<text>
+			<es>Algo que no puedes dejar de disfrutar si nos visitas son los internacionalmente famosos espectáculos de flamenco que podrás disfrutar en los mejores Tablaos Flamencos del mundo.#div class="boton_diagnostico"-##a href="http://www.esmadrid.com/flamenco-madrid/" target="_blank"-##button class="boton"-#Visitar#/button-##/a-##/div-#</es>
+			<en>Something you cannot miss when visiting Madrid are the internationally well-known flamenco shows, which you will be able to enjoy in the world-best flamenco tablaos (bars).#div class="boton_diagnostico"-##a href="http://www.esmadrid.com/en/flamenco-madrid-en/" target="_blank"-##button class="boton"-#Visit#/button-##/a-##/div-#</en>
+			<de>Etwas, was Sie sich unter keinen Umständen entgehen lassen dürfen, wenn Sie nach Madrid kommen, ist der Besuch einer der international berühmten Flamenco-Veranstaltungen, die in den weltweit besten Flamenco-Lokalen, den so genannten Tablaos Flamencos, aufgeführt werden.#div class="boton_diagnostico"-##a href="http://www.esmadrid.com/en/flamenco-madrid-en/" target="_blank"-##button class="boton"-#Visit (Englisch)#/button-##/a-##/div-#</de>
+		</text>
+		<text>
+			<es>Y por supuesto, no olvides que en Madrid se encuentran dos de los mejores equipos de fútbol del mundo, el #b-#Real Madrid y el Atlético de Madrid#/b-# así como el actual Campeón de Europa de Baloncesto el Real Madrid.</es>
+			<en>And, of course, you definitely should not forget that the two world-best football teams are in Madrid, #b-#the Real Madrid and the Atlético de Madrid#/b-#, as well as the Europe’s basketball champion, the Real Madrid.</en>
+			<de>Und natürlich dürfen Sie nicht darauf vergessen, dass sich Ihnen in Madrid die Gelegenheit bietet, die zwei besten Fußballclubs der Welt - #b-#Real Madrid und Atlético de Madrid#/b-# - ebenso wie den amtierenden Basketball-Europameister Real Madrid live zu erleben.</de>
+		</text>
+	</content>
+</page>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Pacientes Obesidad</es>
+			<en>Obesity patients</en>
+			<de>Patienten Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>En EMIO nuestro decálogo de derechos y servicios exclusivos para nuestros pacientes de la obesidad van mucho más allá de la normativa europea</es>
+			<en>EMIO’s decalogue of rights and the exclusive services we reserve for our patients with obesity  go way beyond the European legislation.</en>
+			<de>Bei EMIO reichen unsere Richtlinien über Rechte und exklusive Dienstleistungen für unsere Fettleibigkeitspatienten weit über die europäischen Vorschriften hinaus.</de>
+		</description>
+		<keywords>
+			<es>obesidad, paciente, tratamiento, medico, clinica, método, cirugia, diagnostico, salud, informacion</es>
+			<en>obesity, patient, treatment, doctor, clinic, method, surgery, diagnosis, health, information</en>
+			<de>Fettleibigkeit, Patient, Behandlung, Arzt, Klinik, Methode, Chirurgie, Diagnose, Gesundheit, Information</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+		<title>
+			<es>COFIANZA, CONFIDENCIALIDAD Y CERCANÍA</es>
+			<en>TRUST, CONFIDENTIALITY AND PROXIMITY</en>
+			<de>VERTRAUEN, VERTRAULICHKEIT UND NÄHE</de>
+		</title>
+			<img>slider_derechos1.jpg</img>
+			<alt>
+				<es></es>
+				<en></en>
+				<de></de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+		
+		</message>
+	</messages>
+	<content>
+		<img>nosotros1.jpg</img>
+		<alt>
+			<es>algo</es>
+			<en></en>
+			<de></de>
+		</alt>
+		<text>
+			<es>Nuestro decálogo de derechos y servicios exclusivos para nuestros pacientes van mucho más allá de la normativa europea. Es un compromiso profesional de todos y cada uno de los miembros de EMIO hacia la excelencia en el trato a nuestros pacientes.</es>
+			<en>Our decalogue of rights and the exclusive services we reserve for our patients go way beyond the European legislation. Each and every EMOI's staff member has a professional commitment to excellence when treating our patients.</en>
+			<de>Unser Dekalog der Rechte und Dienstleistungen ausschließlich für unsere Patienten, geht weit über die europäischen Normen hinaus. Jedes einzelne Mitglied desIMEO ist beruflich zu herausragender Betreuung unserer Patienten verpflichtet.</de>
+		</text>
+		<left>
+			<text>
+				<es></es>
+				<en></en>
+				<de></de>
+				<ul>
+					<li>
+						<es>El paciente tiene derecho al respeto a su personalidad, dignidad humana e intimidad, sin que pueda ser discriminado por razones de tipo social, económico, moral e ideológico.</es>
+						<en>Patients have the right to respect for their personality, human dignity and privacy without being discriminated for social, economic, moral and ideological reasons.</en>
+						<de>Der Patient hat ein Recht auf Achtung seiner Persönlichkeit, Menschenwürde und Privatsphäre, ohne aus sozialen, wirtschaftlichen, moralischen und ideologischen Gründen diskriminiert zu werden.</de>
+					</li>
+					<li>
+						<es>El paciente tiene derecho a la confidencialidad de toda la información relacionada con su proceso, incluido el secreto de su estancia en centros y establecimientos sanitarios, salvo por exigencias que hagan imprescindible el conocimiento de algún extremo.</es>
+						<en>Patients have the right to confidentiality for all the information related to their treatment, which includes keeing their stay in healthcare centres and facilities a secret, except if part of this information is considered essential according to specific requirements.</en>
+						<de>Der Patient hat ein Recht auf vertrauliche Behandlung aller Informationen, die mit dem Prozess verbunden ist, einschließlich der Geheimhaltung seines Aufenthalts in Zentren und Gesundheitseinrichtungen, außer es istin Notfällen zwingend erforderlich, eine außenstehende Person zu benachrichtigen.</de>
+					</li>
+					<li>
+						<es>El paciente tiene derecho a recibir información completa y continuada, verbal y escrita, de todo lo relativo a su proceso, incluyendo diagnóstico, alternativas de tratamiento, sus riesgos y pronósticos que será facilitada en un lenguaje comprensible. En caso de que el paciente no quiera o no pueda manifiestamente recibir dicha información, ésta deberá proporcionarse a los familiares o personas legalmente responsables.</es>
+						<en>Patients have the right to receive full and continuous information, orally and in written, about everything related to their treatment, including diagnosis, alternative treatments, risks and prognoses, which shall be conveyed in plain language. If patients do not want or are not able to demonstrably receive the above-mentioned information, it shall be given to their relatives or to those legally responsible.</en>
+						<de>Der Patient hat ein Recht darauf kontinuierliche, umfassende Informationen mündlich und schriftlich zu erhalten, vor allem über den Verlauf seiner Behandlung, einschließlich Diagnose, Alternative Behandlungen, Risiken und Prognose, die in verständlicher Sprache zur Verfügung gestellt werden. Falls der Patient diese Informationen nicht erhalten möchte oder kann, sollten sie an Familienangehörige oder an den gesetzlich Bevollmächtigten weitergegeben werden.</de>
+					</li>
+					<li>
+						<es>El paciente tiene derecho a la libre determinación entre las opciones que le presente el responsable médico de su caso, siendo su consentimiento expreso previo a cualquier actuación, excepto en los siguientes casos: Cuando la urgencia no precisa demoras. Cuando el no seguir el tratamiento suponga un riesgo para la salud pública. Cuando exista imperativo legal. Cuando no esté capacitado para tomar decisiones, en cuyo caso el derecho corresponderá a sus familiares o personas legalmente responsables.</es>
+						<en>Patients have the right to free will between the options they are provided by the doctor in charge of their case, whereby their prior explicit consent is a requirement before taking any action, except under the following circumstances: Where the emergency does not allow any delay. Where failure to follow treatment implies a risk for public health. Where there is a legal obligation. Where they are not qualified to make decisions, in which case their relatives or those legally responsible shall be entitled to exercise this right.</en>
+						<de>Der Patient hat das Recht auf freie Entscheidung der unterschiedlichen Möglichkeiten, die ihm der zuständige Arzt bietet. Vor jeglichem Eingriff ist die ausdrückliche Einwilligung erforderlich, außer in den folgenden Fällen: Wenn die Dringlichkeit des Eingriffs, keine Verzögerung erlaubt. Wenn der Abbruch der Behandlung eine Gefahr für die öffentliche Gesundheit darstellt. Aufgrund gesetzlicher Vorgaben. Wenn der Patient nicht in der Lage ist, Entscheidungen zu treffen. In diesen Fällen sind die Familienangehörige oder der gesetzlich Bevollmächtigte die Berechtigten.</de>
+					</li>
+					<li>
+						<es>El paciente tendrá derecho a negarse al tratamiento, excepto en los casos señalados en el punto cuatro, debiendo para ello solicitar el alta voluntaria.</es>
+						<en>Patients have the right to refuse treatment, except in the cases indicated under point four, in which case they shall request a voluntary discharge.</en>
+						<de>Der Patient hat das Recht, die Behandlung zu verweigern, ausgenommen die unter Punkt vier angeführten Fälle. Dazu sollte er die freiwillige Entlassung beantragen.</de>
+					</li>
+					<li>
+						<es>El paciente tendrá derecho a que se le asigne un médico, cuyo nombre deberá conocer.</es>
+						<en>Patients have the right to be assigned to a doctor, whose name shall be made known to them.</en>
+						<de>Der Patient hat das Recht darauf, einen Arzt zugewiesen zu bekommen, dessen Namen er kennen sollte.</de>
+					</li>
+					<li>
+						<es>El paciente tiene derecho a que quede constancia por escrito de todo su proceso; ésta información y las pruebas realizadas constituyen la Historia Clínica.</es>
+						<en>Patients have the right to have their entire treatment placed on record. Such information and medical tests constitute their Medical History.</en>
+						<de>Der Patient hat das Recht darauf, dass die ganze Behandlung schriftlich festgehalten wird; aus dieser Information und den durchgeführten Untersuchungen besteht die Krankengeschichte.</de>
+					</li>
+				</ul>
+			</text>
+		</left>
+		<right>
+			<text>
+				<es></es>
+				<en></en>
+				<de></de>
+				<ul>
+					<li>
+						<es>El paciente tienen derecho a que no se realicen en su persona investigaciones, experimentos o ensayos clínicos sin una información sobre métodos, riesgos y fines. Será imprescindible la autorización por escrito del paciente y la aceptación por parte del médico de los principios básicos y normas que establece la Declaración de Helsinki. Las actividades docentes requerirán, así mismo, consentimiento expreso del paciente.</es>
+						<en>Patients have the right to not be subject to research, experiments and clinical trials on their person, without having been previously informed about methods, risks and purposes. Patients’ written authorisation and the doctor’s acceptance of the basic principles and regulation established by the Declaration of Helsinki shall be mandatory. Educational activities shall also require the patients’ previous explicit consent.</en>
+						<de>Der Patient hat das Recht, dass an ihm keine Forschungen, Experimente oder klinischen Versuche durchgeführt werden, ohne ihn vorher über die Methoden, Risiken und Zwecke zu informieren. Die schriftliche Genehmigung des Patienten und das Einverständnis des Arztes mit den Prinzipien und Vorschriften der Deklaration von Helsinki sind erforderlich. Lehrtätigkeiten brauchen die ausdrückliche Einwilligung des Patienten.</de>
+					</li>
+					<li>
+						<es>El paciente tiene derecho al correcto funcionamiento de los servicios asistenciales y administrativos y a que la estructura de la institución proporcione unas condiciones aceptables de habitabilidad, higiene, alimentación, seguridad y respeto a su intimidad.</es>
+						<en>Patients are entitled to administrative and assistance services that operate in a correct manner, and to healthcare facilities that offer acceptable habitability, hygiene, nutrition, security and privacy conditions.</en>
+						<de>Der Patient hart ein Recht auf das reibungslose Ablaufen der Betreuungsdienste und der Verwaltung und darauf dass die Institution akzeptable Bedingungen bezüglich Bewohnbarkeit, Hygiene, Nahrung, Sicherheit und Wahrung seiner Intimsphäre bietet.</de>
+					</li>
+					<li>
+						<es>El paciente tendrá derecho, en caso de hospitalización, a que ésta indica lo menos posible en sus relaciones sociales y personales. Para ello, el Hospital facilitará un régimen de visitas lo más amplio posible y acceso a los medios y sistemas de comunicación y cultura.</es>
+						<en>When staying in the hospital, patients have the right to having their social and personal relationships be affected as little as possible by their stay. For this purpose, the Hospital will offer the widest visiting arrangements and access to cultural and communication media and systems as possible.</en>
+						<de>Im Fall von Einweisung in das Krankenhaus hat der Patient das Recht, dass dies so wenig wie möglich seine sozialen und persönlichen Beziehungen beeinträchtigt. Darum bietet das Krankenhaus die längst mögliche Besuchszeit und Zugang zu Medien, verschiedenen Kommunikationsmitteln und Kultur. </de>
+					</li>
+					<li>
+						<es>El paciente tiene derecho a recibir cuanta información desee sobre los aspectos de las actividades asistenciales que afecten a su proceso y situación personal.</es>
+						<en>Patients have the right to receive as much information as desired on the details of the assistance services that affect their treatment and personal situation.</en>
+						<de>Der Patient hat ein Recht darauf, alle Informationen bezüglich der Betreuung während seiner Behandlung und seiner persönlichen Lage zu erhalten.</de>
+					</li>
+					<li>
+						<es>El paciente tiene derecho a conocer los cauces formales para presentar reclamaciones, quejas, sugerencias, y en general, para comunicarse con la administración de las instituciones. Tiene derecho, así mismo a recibir una respuesta por escrito.</es>
+						<en>Patients have the right to become familiar with the formal channels designed to submit claims, complaints and suggestions; and, in general, to communicate with the healthcare facilities’ administration. They also have the right to receive a written reply.</en>
+						<de>Der Patient hat das Recht Kenntnisse über die entsprechenden Mechanismen zu erhalten, um Reklamation, Beschwerden und Vorschläge einreichen zu können und generell, um sich mit der Verwaltung der Institution zu kommunizieren. Er hat ein Recht darauf, eine schriftliche Antwort zu bekommen.</de>
+					</li>
+					<li>
+						<es>El paciente tiene derecho a causar alta voluntaria en todo momento tras firmar el documento correspondiente, excepto en los casos recogidos en el apartado cuatro de los Derechos del Paciente.</es>
+						<en>Patients have the right to voluntary discharge at any time after signining the corresponding document, except in the cases indicated in point four of the Patients’ Rights.</en>
+						<de>Der Patient hat jeder Zeit das Recht auf freiwillige Entlassung, nachdem er das entsprechende Dokument unterschrieben hat, außer in den Fällen die im Punkt Nummer vier der Patientenrechte angegeben sind.</de>
+					</li>
+					<li>
+						<es>El paciente tiene derecho a agotar las posibilidades razonables de superación de la enfermedad.</es>
+						<en>Patients have the right to exhaust all reasonable possibilities of overcoming their condition.</en>
+						<de>Der Patient ein hat ein  Recht darauf alle vernünftigen Möglichkeiten auszuschöpfen, um seine Krankheit zu bewältigen.</de>
+					</li>
+					<li>
+						<es>El paciente tiene derecho a que las instituciones sanitarias proporcionen: Una asistencia técnica correcta, con personal cualificado. Un aprovechamiento máximo de los medios disponibles. Una asistencia con los mínimos riesgos, dolor y molestias psíquicas y físicas.</es>
+						<en>Patients have the right to be granted the following by healthcare institutions: An adequate technical assistance with qualified staff. The most effective use of available means. Assistance with minimal risks, pain, psychological and physical discomforts.</en>
+						<de>Der Patient hat das Recht darauf, dass die Gesundheitseinrichtungen ihm das Folgende bietet: Fachgerechte Betreuung, mit qualifiziertem Personal. Eine optimale Nutzung der zur Verfügung stehenden Mittel. Krankenpflege mit minimalen Risiken, Schmerzen, psychischen und physischen Beschwerden.</de>
+					</li>
+				</ul>
+			</text>
+		</right>
+	</content>
+</page>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<patient>
+	<info>
+		<es>Información del paciente</es>
+		<en>Patient information</en>
+		<de></de>
+	</info>
+	<edit_info>
+		<es>Editar información del paciente</es>
+		<en>Edit patient information</en>
+		<de></de>
+	</edit_info>
+	<notes>
+		<es>Anotaciones</es>
+		<en>Notes</en>
+		<de></de>
+	</notes>
+	<note_title>
+		<es>Título de la nota</es>
+		<en>Note title</en>
+		<de></de>
+	</note_title>
+	<note_text>
+		<es>Texto de la nota</es>
+		<en>Note text</en>
+		<de></de>
+	</note_text>
+	<note_button>
+		<es>Agregar nota</es>
+		<en>Add note</en>
+		<de></de>
+	</note_button>
+	<citas>
+		<es>Agregar evento</es>
+		<en>Add event</en>
+		<de></de>
+	</citas>
+	<upload>
+		<es>Subir archivo</es>
+		<en>Upload file</en>
+		<de></de>
+	</upload>
+	<form_citas>
+		<title>
+			<es>Título</es>
+			<en>Title</en>
+			<de></de>
+		</title>
+		<comment>
+			<es>Comentario</es>
+			<en>Comment</en>
+			<de></de>
+		</comment>
+		<start_date>
+			<es>Fecha de inicio</es>
+			<en>Start date</en>
+			<de></de>
+		</start_date>
+		<type>
+			<es>Tipo de evento</es>
+			<en>Type of event</en>
+			<de></de>
+		</type>
+		<text>
+			<es>Texto del evento</es>
+			<en>Event text</en>
+			<de></de>
+		</text>
+		<quote>
+			<es>Cita</es>
+			<en>Appointment</en>
+			<de></de>
+		</quote>
+		<reminder>
+			<es>Recordatorio</es>
+			<en>Reminder</en>
+			<de></de>
+		</reminder>
+		<button>
+			<es>Agregar evento</es>
+			<en>Add event</en>
+			<de></de>
+		</button>
+	</form_citas>
+	<form_upload>
+		<title>
+			<es>Subir archivo</es>
+			<en>Upload file</en>
+			<de></de>
+		</title>
+		<name>
+			<es>Nombre de archivo</es>
+			<en>File name</en>
+			<de></de>
+		</name>
+		<pattern>
+			<es>Sólo se permiten letras sin acentos, sin espacios, ni símbolos.</es>
+			<en>Letters with spaces, symbols or special characters are not permitted.</en>
+			<de></de>
+		</pattern>
+		<button>
+			<es>Subir archivo</es>
+			<en>Upload file</en>
+			<de></de>
+		</button>
+	</form_upload>
+</patient>

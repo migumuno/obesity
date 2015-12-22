@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Tratamiento y cirugía obesidad</es>
+			<en>Obesity treatment and surgery</en>
+			<de>Behandlung und Chirurgie Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>European medical institute of obesity: La Clínica número uno en Europa para el tratamiento de la obesidad. Cirugía de la obesidad sin incisiones externas</es>
+			<en>European medical institute of obesity: The number one clinic in Europe for obesity treatments Obesity surgery without external incisions</en>
+			<de>European Medical Institute of Obesity: Die führende Klinik zur Behandlung von Fettleibigkeit in Europa. Fettleibigkeits-Chirurgie ohne äußere Einschnitte</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, clinica, european, medical, insitute, obesity, instituto, medico, europeo</es>
+			<en>obesity, treatment, clinic, european, medical, institute, doctor</en>
+			<de>Fettleibigkeit, Behandlung, Klinik, european, medical, institute, obesity, Institut, Arzt, europäisch</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>Tu salud en las mejores manos</es>
+				<en>Your health in the best hands</en>
+				<de>Ihre Gesundheit in besten Händen.</de>
+			</title>
+			<img>slider1.jpg</img>
+			<alt>
+				<es>Cirugia de la Obesidad</es>
+				<en>Obesity Surgery</en>
+				<de>Adipositas-Chirurgie</de>
+			</alt>
+		</slider>
+		<slider>
+			<title>
+				<es>Líder mundial en apollo endo-sleeve</es>
+				<en>World Leader in Apollo Endo-Sleeve</en>
+				<de>Weltweiter Marktführer für Endoskopische  Magensleeve-Resektion Apollo </de>
+			</title>
+			<img>slider2.jpg</img>
+			<alt>
+				<es>Diagnostico de la Obesidad</es>
+				<en>Diagnosis of Obesity</en>
+				<de>Diagnose von Übergewicht</de>
+			</alt>
+		</slider>
+		<slider>
+			<title>
+				<es>Las técnicas mas innovadoras a tu disposición</es>
+				<en>The most-innovative techniques at your disposal</en>
+				<de>Wir bieten hochmoderne Techniken</de>
+			</title>
+			<img>slider3.jpg</img>
+			<alt>
+				<es>Obesidad Madrid</es>
+				<en>Obesity Madrid</en>
+				<de>Übergewicht Madrid</de>
+			</alt>
+		</slider>
+	</sliders>
+	<cards>
+		<card>
+			<title>
+				<es>Diagnóstico de la obesidad</es>
+				<en>Obesity Diagnosis</en>
+				<de>Diagnose Übergewicht (Adipositas)</de>
+			</title>
+			<img>item1.png</img>
+			<alt>
+				<es>Diagnostico de la obesidad</es>
+				<en>Obesity Diagnosis</en>
+				<de>Diagnose Übergewicht Adipositas</de>
+			</alt>
+			<text>
+				<es>Nuestros especialistas en Biotecnología Genética y Nutrigenómica utilizan la más alta tecnología para analizar las características personales del paciente y recomendar el #b-#mejor tratamiento personalizado#/b-#.</es>
+				<en>Our specialists in Genetic Biotechnology and Nutrigenomics use the most-advanced technology to analyse patients’ personal characteristics and recommend the #b-#best personalised treatment#/b-#.</en>
+				<de>Unsere Spezialisten in Biotechnologie, Genetik und Nutrigenomik verwenden modernste Technologie, um die persönlichen Merkmale des Patienten zu untersuchen und die #b-#beste personalisierte Behandlung#/b-# u empfehlen.</de>
+			</text>
+			<link>
+				<es>/diagnostico-obesidad</es>
+				<en>/obesity-diagnosis</en>
+				<de>/diagnose-fettleibigkeit</de>
+			</link>
+		</card>
+		<card>
+			<title>
+				<es>Método apollo endo-sleeve</es>
+				<en>Apollo Endo-Sleeve Method</en>
+				<de>Methode Endoskopische  Magensleeve-Resektion Apollo</de>
+			</title>
+			<img>item2.png</img>
+			<alt>
+				<es>Metodo apollo endo-sleeve</es>
+				<en>Obesity Apollo Endo-Sleeve Method</en>
+				<de>Fettleibigkeit Methode Endoskopische Magensleeve-Resektion Apollo</de>
+			</alt>
+			<text>
+				<es>Somos líderes mundiales en este exclusivo método de reducción de estómago sin incisiones externas. #b-#En 24 horas podrá realizar una vida normal#/b-#. Especialmente indicado para perder #b-#entre 15Kg y 35Kg.#/b-#</es>
+				<en>We are world-wide leaders in this exclusive method of stomach reduction without external incisions. #b-#In 24 hours, you will be able to lead a normal life.#/b-#. Particularly suitable to lose #b-#between 15 Kg and 35 Kg.#/b-#</en>
+				<de>Wir sind bei dieser exklusiven Methode zur Magenverkleinerung, ohne äußerer operative Einschnitte weltweit führend. #b-#In 24 Stunden können Sie wieder ein normales Leben führen#/b-#. Besonders geeignet um #b-#zwischen 15kg und 35kg#/b-# abzunehmen.</de>
+			</text>
+			<link>
+				<es>/cirugia-obesidad/metodo-apollo</es>
+				<en>/obesity-surgery/apollo-method</en>
+				<de>/fettleibigkeit-chirurgie/apollo-methode</de>
+			</link>
+		</card>
+		<card>
+			<title>
+				<es>Método eras</es>
+				<en>ERAS Method</en>
+				<de>ERAS-Verfahren</de>
+			</title>
+			<img>item3.png</img>
+			<alt>
+				<es>Metodo eras obesidad</es>
+				<en>Obesity ERAS Method</en>
+				<de>Fettleibigkeit ERAS-Verfahren</de>
+			</alt>
+			<text>
+				<es>En función de los resultados obtenidos en el #b-#Diagnóstico Obesity Profile#/b-# se selecciona que método de reducción de estómago por #b-#endoscopia y sin cicatrices#/b-# es más eficaz para el paciente.#/br-##/br-#</es>
+				<en>Based on the results obtained in the #b-#Obesity Profile Test#/b-# patients will be recommended the most-appropriate method for #b-#endoscopic and scarless#/b-# stomach reduction.#/br-##/br-#</en>
+				<de>Je nach Ergebnis des  #b-#Übergewichtsprofil Tests (Diagnose)#/b-# wählt man die für den Patienten am besten geeignete Methode zur Magenverkleinerung durch #b-#Endoskopie und ohne Narben#/b-#.</de>
+			</text>
+			<link>
+				<es>/cirugia-obesidad/metodo-eras</es>
+				<en>/obesity-surgery/eras-method</en>
+				<de>/fettleibigkeit-chirurgie/eras-verfahren</de>
+			</link>
+		</card>
+		<card>
+			<title>
+				<es>Nuevo método pose reforzado</es>
+				<en>New enhanced POSE Method</en>
+				<de>Neuesverstärktes POSE-Verfahren</de>
+			</title>
+			<img>item4.png</img>
+			<alt>
+				<es>Nuevo metodo pose reforzado</es>
+				<en>Obesity New enhanced POSE Method</en>
+				<de>Fettleibigkeit Neuesverstärktes POSE-Verfahren</de>
+			</alt>
+			<text>
+				<es>Nueva Técnica Quirúrgica más avanzada, duradera y eficaz. #b-#Intervención y seguimiento mediante consultas de nutrición#/b-# durante los 18 meses del tratamiento. Para #b-#perder entre 15Kg y 20Kg.#/b-#</es>
+				<en>New, more advanced, long-lasting and effective Surgical Technique. #b-#Medical intervention and nutrition follow-up visits#/b-# during the 18-month treatment. To #b-#lose between 15 Kg and 20 Kg.#/b-#</en>
+				<de>Neue hochmoderne, nachhaltige und wirksame chirurgische Technik. #b-#Operation und Überwachung durch Ernährungsberatung#/b-# während der 18 Monate der Behandlung. Um #b-#zwischen 15kg und 20kgabzunehmen#/b-#.</de>
+			</text>
+			<link>
+				<es>/cirugia-obesidad/metodo-pose</es>
+				<en>/obesity-surgery/pose-method</en>
+				<de>/fettleibigkeit-chirurgie/pose-verfahren</de>
+			</link>
+		</card>
+		<card>
+			<title>
+				<es>Tratamiento iBalón 1 + 1 año</es>
+				<en>1 + 1 year iBalloon Treatment</en>
+				<de>iBallon-Behandlung 1 + 1 Jahr</de>
+			</title>
+			<img>item5.png</img>
+			<alt>
+				<es>Tratamiento Balon Intragastrico 1 + 1 año</es>
+				<en>Obesity 1 + 1 year Intragastric Balloon Treatment</en>
+				<de>Fettleibigkeit Ballon-Behandlung 1 + 1 Jahr</de>
+			</alt>
+			<text>
+				<es>Tratamiento mediante Balón Intragástrico. El tratamiento Completo de #b-#iBalón incluye 2 años de seguimiento#/b-# para afianzar el mantenimiento del peso perdido. Para perdidas de peso estimadas #b-#entre 25Kg y 35Kg.#/b-#</es>
+				<en>Intragastric Balloon Treatment. The  #b-#iBalloon#/b-# complete treatment #b-#includes 2 years of follow-ups#/b-# to ensure the maintenance of the lost weight. For an estimated weight loss #b-#between 25 Kg and 35 Kg.#/b-#</en>
+				<de>Behandlung mit Magenballon. Die vollständige #b-#iBallon-Behandlung umfasst 2 Jahre Nachbeobachtung#/b-# um zu sichern, dass das Gewicht gehalten wird. Für geschätzten Gewichtsverlust von #b-#25kg bis 35kg#/b-#.</de>
+			</text>
+			<link>
+				<es>/cirugia-obesidad/balon-intragastrico</es>
+				<en>/obesity-surgery/intragastric-balloon</en>
+				<de>/fettleibigkeit-chirurgie/magen-ballon</de>
+			</link>
+		</card>
+		<card>
+			<title>
+				<es>Balón intragástrico 6 + 6 meses</es>
+				<en>6 + 6 month Intragastric Balloon </en>
+				<de>Magenballon 6 + 6 Monate</de>
+			</title>
+			<img>item6.png</img>
+			<alt>
+				<es>Balon intragastrico 6 + 6 meses</es>
+				<en>Obesity 6 + 6 month Intragastric Balloon</en>
+				<de>Fettleibigkeit Magenballon 6 + 6 Monate</de>
+			</alt>
+			<text>
+				<es>Tratamiento mediante Balón Intragástrico. #b-#Sin intervención quirúrgica#/b-# mediante endoscopia. Pierda peso rápidamente con una breve intervención no invasiva y altamente eficaz. Para #b-#perder entre 15Kg y 25 Kg.#/b-#</es>
+				<en>Intragastric Balloon Treatment. #b-#Without surgery#/b-# by endoscopy. Lose weight quickly with a brief, non-invasive and highly effective operation. #b-#To lose between 15 Kg and 25 Kg.#/b-#</en>
+				<de>Behandlung mit Magenballon. #b-#Ohne chirurgischen Eingriff#/b-# durch Endoskopie. Verlieren Sie schnell Gewicht, mit einem kurzen nicht-invasiven, höchst effektiven Eingriff. Um #b-#zwischen 15kg und 25kg abzunehmen.#/b-#</de>
+			</text>
+			<link>
+				<es>/cirugia-obesidad/balon-intragastrico-6meses</es>
+				<en>/obesity-surgery/6-month-intragastric-balloon</en>
+				<de>/fettleibigkeit-chirurgie/magen-ballon-6monate</de>
+			</link>
+		</card>
+		<card>
+			<title>
+				<es>Manga gástrica</es>
+				<en>Gastric Sleeve</en>
+				<de>Magenschlauch (Sleeve)</de>
+			</title>
+			<img>item7.png</img>
+			<alt>
+				<es>Manga gastrica</es>
+				<en>Obesity Gastric Sleeve</en>
+				<de>Fettleibigkeit Magenschlauch Sleeve</de>
+			</alt>
+			<text>
+				<es>Los últimos estudios sitúan la Manga Gástrica como la mejor opción a largo plazo como #b-#solución definitiva#/b-# en problemas de Obesidad y Obesidad Severa, y la #b-#resolución de la Diabetes tipo 2 y la hipertensión.#/b-#</es>
+				<en>The Gastric Sleeve is ranked by the latest studies as the best long-term option and #b-#final solution#/b-# for Obesity and Morbid Obesity problems, as well as for #b-#diabetes type 2 and high blood pressure.#/b-#</en>
+				<de>Die aktuellsten Studien belegen, dass der Magenschlauch (Sleeve)langfristig die beste Wahl für #b-#eine endgültige Lösung#/b-# bei Problemen von Adipositas und morbider Adipositas ist, #b-#sowie die Lösung für Diabetes Typ II und Bluthochdruck.#/b-#</de>
+			</text>
+			<link>
+				<es>/cirugia-obesidad/manga-gastrica</es>
+				<en>/obesity-surgery/gastric-sleeve</en>
+				<de>/fettleibigkeit-chirurgie/magen-schlauch</de>
+			</link>
+		</card>
+		<card>
+			<title>
+				<es>Bypass Gástrico</es>
+				<en>Gastric Bypass</en>
+				<de>Magenbypass</de>
+			</title>
+			<img>item8.png</img>
+			<alt>
+				<es>Bypass Gastrico</es>
+				<en>Obesity Gastric Bypass</en>
+				<de>Fettleibigkeit Magenbypass</de>
+			</alt>
+			<text>
+				<es>Tratamiento por Microcirugía Laparascópica. Considerada por los Institutos Nacionales del Corazón de EEUU y la Sociedad Americana de Cirugía Bariátrica como #b-#la más eficaz para solucionar la obesidad.#/b-#</es>
+				<en>Laparoscopic Microsurgery treatment. The #b-#most-effective solution for Obesity#/b-# according to US Heart National Institutes and the American Society for Bariatric Surgery.</en>
+				<de>Behandlung mit laparoskopischer Mikrochirurgie. Von den nationalen kardiologischen Instituten Europas und der amerikanische Gesellschaft für bariatrische Chirurgie, ASMBS, #b-#als die effektivste Methode für die Bewältigung der Adipositas, angesehen.#/b-#</de>
+			</text>
+			<link>
+				<es>/cirugia-obesidad/bypass-gastrico</es>
+				<en>/obesity-surgery/gastric-bypass</en>
+				<de>/fettleibigkeit-chirurgie/magenbypass</de>
+			</link>
+		</card>
+	</cards>
+</page>

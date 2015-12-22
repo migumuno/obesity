@@ -1,0 +1,33 @@
+<header class="wrapper text-center">
+	<strong>{{dictionary.texts.login[lang]}}</strong><br>
+	<div ng-hide="lang=='es'" class="btn text-center" ng-click="changeLang('es')"><img src="http://www.obesity.es/img/es.png"> Español</div>
+	<div ng-hide="lang=='en'" class="btn text-center" ng-click="changeLang('en')"><img src="http://www.obesity.es/img/en.png"> English</div>
+</header>
+<form name="access" action="panel.php" method="post" novalidate>
+	<div class="list-group">
+		<div class="list-group-item">
+			<input ng-model="user" type="email" name="user" placeholder="{{dictionary.fields.user[lang]}}" required class="form-control no-border">
+			<div ng-show="access.name.$touched && !access.$pristine">
+				<span ng-show="access.name.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+				<span ng-show="registro_pacientes.mail.$error.email" class="alert">{{dictionary.alerts.mailpattern[lang]}}</span>
+			</div>
+		</div>
+		<div class="list-group-item">
+			<input ng-model="pass" type="password" name="pass" placeholder="{{dictionary.fields.pass[lang]}}" required class="form-control no-border">
+			<div ng-show="access.pass.$touched && !access.$pristine">
+				<span ng-show="access.pass.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+			</div>
+		</div>
+		<div class="list-group-item">
+			<input ng-model="passVerify" type="password" name="passVerify" placeholder="{{dictionary.fields.pass_verify[lang]}}" data-password-verify="pass" required class="form-control no-border">
+			<div ng-show="access.pass.$touched && !access.$pristine">
+				<span ng-show="access.passVerify.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+				<div ng-show="access.passVerify.$error.passwordVerify">{{dictionary.alerts.pass_verify[lang]}}</div>
+			</div>
+		</div>
+	</div>
+	<input type="hidden" name="key" value="{{clave}}">
+	<input type="hidden" name="access" value="activate">
+	<button type="submit" class="btn btn-lg btn-primary btn-block" ng-disabled="!access.$valid">{{dictionary.fields.send[lang]}}</button>
+	<div class="line line-dashed"></div>
+</form>

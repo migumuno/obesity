@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<fields>
+		<name>
+			<es>Nombre</es>
+			<en>Name</en>
+			<de>Nachname</de>
+		</name>
+		<surname>
+			<es>Apellidos</es>
+			<en>Surname</en>
+			<de></de>
+		</surname>
+		<activation_date>
+			<es>Fecha de activación</es>
+			<en>Activation date</en>
+			<de></de>
+		</activation_date>
+		<mail>
+			<es>Email</es>
+			<en>Email</en>
+			<de>Email</de>
+		</mail>
+		<telf>
+			<es>Teléfono</es>
+			<en>Phone</en>
+			<de>Telefon</de>
+		</telf>
+		<cp>
+			<es>Código Postal</es>
+			<en>Postal Code</en>
+			<de></de>
+		</cp>
+		<country>
+			<es>País</es>
+			<en>Country</en>
+			<de></de>
+		</country>
+		<city>
+			<es>Ciudad</es>
+			<en>City</en>
+			<de></de>
+		</city>
+		<via>
+			<es>Vía de contacto</es>
+			<en>Contact method</en>
+			<de></de>
+		</via>
+		<conocido>
+			<es>Conocido por</es>
+			<en>Known by</en>
+			<de></de>
+		</conocido>
+		<treatment>
+			<es>Tratamiento</es>
+			<en>Treatment</en>
+			<de></de>
+		</treatment>
+		<team>
+			<es>Equipo médico</es>
+			<en>Mecical team</en>
+			<de></de>
+		</team>
+		<direction>
+			<es>Dirección</es>
+			<en>Address</en>
+			<de></de>
+		</direction>
+		<user>
+			<es>Email</es>
+			<en>Email</en>
+			<de>Mail</de>
+		</user>
+		<pass>
+			<es>Contraseña</es>
+			<en>Password</en>
+			<de></de>
+		</pass>
+		<pass_old>
+			<es>Contraseña Actual</es>
+			<en>Current Password</en>
+			<de></de>
+		</pass_old>
+		<pass_verify>
+			<es>Repite la contraseña</es>
+			<en>Repeat the password</en>
+			<de></de>
+		</pass_verify>
+		<textarea>
+			<es>Escribe aquí...</es>
+			<en>Write here...</en>
+			<de>Schreiben Sie hier...</de>
+		</textarea>
+		<privacity>
+			<es>He leído y acepto la Política de Privacidad</es>
+			<en>I have read and accept the Privacy Policy</en>
+			<de>Ich habe die Datenschutzerklärung gelesen und akzeptiere diese</de>
+		</privacity>
+		<button>
+			<es>Enviar Consulta</es>
+			<en>Send Request</en>
+			<de>Anfrage Senden</de>
+		</button>
+		<button2>
+			<es>Enviar Mensaje</es>
+			<en>Send Message</en>
+			<de>Anfrage Senden</de>
+		</button2>
+		<callme>
+			<es>Llamádme</es>
+			<en>Call me</en>
+			<de>Rufen Sie uns an</de>
+		</callme>
+		<deliver>
+			<es>Deseo recibir la información preferiblemente por:</es>
+			<en>I would like to receive information by:</en>
+			<de>Ich möchte Information erhalten via:</de>
+		</deliver>
+		<request>
+			<es>Solicita información ahora</es>
+			<en>Request information now</en>
+			<de>Jetzt Infos anfordern</de>
+		</request>
+		<send>
+			<es>Enviar</es>
+			<en>Send</en>
+			<de></de>
+		</send>
+		<edit>
+			<es>Editar</es>
+			<en>Edit</en>
+			<de></de>
+		</edit>
+		<enter>
+			<es>Entrar</es>
+			<en>Enter</en>
+			<de></de>
+		</enter>
+		<language>
+			<es>Idioma predefinido</es>
+			<en>Preferred language</en>
+			<de></de>
+		</language>
+	</fields>
+	<texts>
+		<login>
+			<es>Accede para ver tu área privada.</es>
+			<en>Login to access your private area</en>
+			<de></de>
+		</login>
+		<admin>
+			<es>Admin</es>
+			<en>Admin</en>
+			<de></de>
+		</admin>
+		<edit_info>
+			<es>Editar Información</es>
+			<en>Edit Information</en>
+			<de></de>
+		</edit_info>
+		<change_pass>
+			<es>Cambiar Contraseña</es>
+			<en>Change Password</en>
+			<de></de>
+		</change_pass>
+		<close>
+			<es>Cerrar</es>
+			<en>Close</en>
+			<de></de>
+		</close>
+		<notif>
+			<es>Notificación</es>
+			<en>Notification</en>
+			<de></de>
+		</notif>
+		<confirm>
+			<es>Confirmación</es>
+			<en>Confirmation</en>
+			<de></de>
+		</confirm>
+		<yes>
+			<es>Si</es>
+			<en>Yes</en>
+			<de></de>
+		</yes>
+		<no>
+			<es>No</es>
+			<en>No</en>
+			<de></de>
+		</no>
+		<loginAdmin>
+			<es>Accede al panel de administradores</es>
+			<en>Access the administrators panel</en>
+			<de></de>
+		</loginAdmin>
+		<recover>
+			<es>Vaya cabeza tienes! No te preocupes, es muy fácil, te enviaremos un email con las indicaciones.</es>
+			<en>Can't remember? Don't worry, it's easy! We'll send you an email with the directions.</en>
+			<de></de>
+		</recover>
+		<changePass>
+			<es>Ya sólo te falta elegir tu nueva contraseña.</es>
+			<en>Now you only need to choose your new password.</en>
+			<de></de>
+		</changePass>
+		<activate>
+			<es>Estas a un paso de crear tu cuenta en EMIO.</es>
+			<en>You're one step from creating your EMIO account.</en>
+			<de></de>
+		</activate>
+		<forgot_pass>
+			<es>Olvidaste la contraseña?</es>
+			<en>Forgot your password?</en>
+			<de></de>
+		</forgot_pass>
+		<welcome>
+			<es>Bienvenido</es>
+			<en>Welcome</en>
+			<de></de>
+		</welcome>
+		<remember>
+			<es>Ya me acuerdo</es>
+			<en>Now I remember</en>
+			<de></de>
+		</remember>
+		<error>
+			<es>Error</es>
+			<en>Error</en>
+			<de></de>
+		</error>
+	</texts>
+	<menu>
+		<dashboard>
+			<es>Home</es>
+			<en>Home</en>
+			<de></de>
+		</dashboard>
+		<calendar>
+			<es>Calendario</es>
+			<en>Calendar</en>
+			<de></de>
+		</calendar>
+		<messages>
+			<es>Mensajes</es>
+			<en>Mailbox</en>
+			<de></de>
+		</messages>
+		<chat>
+			<es>Chat</es>
+			<en>Chat</en>
+			<de></de>
+		</chat>
+		<search>
+			<es>Buscar un paciente...</es>
+			<en>Search for patient...</en>
+			<de></de>
+		</search>
+		<profile>
+			<es>Perfil</es>
+			<en>Profile</en>
+			<de></de>
+		</profile>
+		<help>
+			<es>Ayuda</es>
+			<en>Help</en>
+			<de></de>
+		</help>
+		<logout>
+			<es>Desconectar</es>
+			<en>Logout</en>
+			<de></de>
+		</logout>
+	</menu>
+	<alerts>
+		<required>
+			<es>Necesitamos que rellenes este campo.</es>
+			<en>We need you to fill in this field.</en>
+			<de></de>
+		</required>
+		<date>
+			<es>El formato de fecha no es correcto.</es>
+			<en>The date format is incorrect.</en>
+			<de></de>
+		</date>
+		<mailpattern>
+			<es>El formato de email no es correcto.</es>
+			<en>The email format is incorrect.</en>
+			<de></de>
+		</mailpattern>
+		<pattern>
+			<es>El formato no es correcto.</es>
+			<en>The format is incorrect.</en>
+			<de></de>
+		</pattern>
+		<pass_verify>
+			<es>Las contraseñas no coinciden.</es>
+			<en>The passwords don't match.</en>
+			<de></de>
+		</pass_verify>
+	</alerts>
+	<messages>
+		<notifCreate>
+			<es>Todo correcto al insertar la nueva información.</es>
+			<en>Information added successfuly.</en>
+			<de></de>
+		</notifCreate>
+		<notifEdit>
+			<es>La información ha sido actualizada con éxito.</es>
+			<en>Information updated successfuly.</en>
+			<de></de>
+		</notifEdit>
+		<notifErase>
+			<es>La información ha sido eliminada con éxito.</es>
+			<en>Information deleted successfuly</en>
+			<de></de>
+		</notifErase>
+		<notifFile>
+			<es>El archivo se ha subido correctamente.</es>
+			<en>File uploaded successfuly.</en>
+			<de></de>
+		</notifFile>
+		<notifMessage>
+			<es>El mensaje ha sido enviado sin problemas.</es>
+			<en>Message sent successfuly.</en>
+			<de></de>
+		</notifMessage>
+		<cancelConfirm>
+			<es>La acción ha sido cancelada, no se ha eliminado nada.</es>
+			<en>This action has been cancelled, nothing has been deleted.</en>
+			<de></de>
+		</cancelConfirm>
+		<errorMessage>
+			<es>Hubo un problema al enviar el mensaje, inténtelo más tarde. Si el problema persiste, póngase en contacto con nosotros a través del correo 'patients@obesity.es' o del teléfono '+34 900 10 40 50'. Disculpe las molestias.</es>
+			<en>A problem was encountered whilst sending this message, please try again. If this problem persists, please contact us through 'patients@obesity.es' or by phone on '+34 900 10 40 50'. Appologies for the inconvenience.</en>
+			<de></de>
+		</errorMessage>
+		<errorGeneral>
+			<es>Hubo un problema al realizar la acción, inténtelo más tarde. Si el problema persiste, póngase en contacto con nosotros a través del correo 'patients@obesity.es' o del teléfono '+34 900 10 40 50'. Disculpe las molestias.</es>
+			<en>A problem was encountered, please try again. If this problem persists, please contact us through 'patients@obesity.es' or by phone on '+34 900 10 40 50'. Appologies for the inconvenience.</en>
+			<de></de>
+		</errorGeneral>
+		<errorPass>
+			<es>La contraseña no se ha podido actualizar, revise que ha introducido todos los datos correctamente.</es>
+			<en>The password couldn't be updated, please check the information supplied is correct.</en>
+			<de></de>
+		</errorPass>
+	</messages>
+</dictionary>

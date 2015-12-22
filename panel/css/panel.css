@@ -1,0 +1,96 @@
+@CHARSET "ISO-8859-1";
+
+.filtros{
+	background: #234852;
+	float: left;
+	width: 170px;
+	padding: 15px;
+	height: 100%;
+}
+
+.personas {
+	background: #ffffff;
+	float: left;
+	width: 268px;
+	padding: 15px;
+	border: 1px solid #EAEEF1;
+	height: 100%;
+}
+
+.mensaje {
+	background: #FCFCFD;
+	float: left;
+	padding: 15px;
+	height: 100%;
+}
+
+.fill {
+	clear: both;
+}
+
+.left {
+	text-align: left !important;	
+}
+
+textarea {
+	width: 100%; !important;
+	border: 1px solid #D8DDE5;
+	height: 350px;
+	padding: 20px;
+}
+
+.notas textarea {
+	width: 100%; !important;
+	height: 100px;
+}
+
+.fill_all {
+	width: 100% !important;
+}
+
+.modal-header-notif {
+	border-bottom: 1px solid #e5e5e5;
+    min-height: 16.4286px;
+    padding: 15px;
+    background: #efefef;
+    color: #333333;
+}
+
+.modal-header-confirm {
+	border-bottom: 1px solid #e5e5e5;
+    min-height: 16.4286px;
+    padding: 15px;
+    background: #333333;
+    color: #fff;
+}
+
+.modal-header-error {
+	border-bottom: 1px solid #e5e5e5;
+    min-height: 16.4286px;
+    padding: 15px;
+    background: #d2322d;
+    color: #fff;
+}
+
+.panel-success > .panel-heading {
+    background-color: #00a0ac;
+    border-color: #00a0ac;
+    color: #fff !important;
+}
+
+.panel-success > .panel-heading > a {
+    color: #fff !important;
+}
+
+.bg-primary {
+  background-color: #234852;
+  color: #aad7f4;
+}
+
+.bg-primary.dker, .bg-primary .dker {
+    background-color: #00a0ac;
+}
+
+#iframe_chat {
+	width: 100%;
+}

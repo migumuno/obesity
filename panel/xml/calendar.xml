@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<calendar>
+	<title>
+		<es>Calendario</es>
+		<en>Calendar</en>
+		<de></de>
+	</title>
+	<add_event>
+		<es>Añadir evento</es>
+		<en>Add event</en>
+		<de></de>
+	</add_event>
+	<edit_event>
+		<es>Editar evento</es>
+		<en>Edit event</en>
+		<de></de>
+	</edit_event>
+	<month>
+		<es>Mes</es>
+		<en>Month</en>
+		<de></de>
+	</month>
+	<week>
+		<es>Semana</es>
+		<en>Week</en>
+		<de></de>
+	</week>
+	<day>
+		<es>Día</es>
+		<en>Day</en>
+		<de></de>
+	</day>
+	<ficha>
+		<es>Ficha evento</es>
+		<en>Event record</en>
+		<de></de>
+	</ficha>
+	<form>
+		<patient>
+			<es>Selecciona el paciente</es>
+			<en>Select the patient</en>
+			<de></de>
+		</patient>
+		<title>
+			<es>Título</es>
+			<en>Title</en>
+			<de></de>
+		</title>
+		<patient_name>
+			<es>Paciente</es>
+			<en>Patient</en>
+			<de></de>
+		</patient_name>
+		<comment>
+			<es>Comentario</es>
+			<en>Comment</en>
+			<de></de>
+		</comment>
+		<start_date>
+			<es>Fecha inicio</es>
+			<en>Start date</en>
+			<de></de>
+		</start_date>
+		<type>
+			<es>Tipo de evento</es>
+			<en>Event type</en>
+			<de></de>
+		</type>
+		<quote>
+			<es>Cita</es>
+			<en>Appointment</en>
+			<de></de>
+		</quote>
+		<reminder>
+			<es>Recordatorio</es>
+			<en>Reminder</en>
+			<de></de>
+		</reminder>
+		<text>
+			<es>Texto del evento</es>
+			<en>Event text</en>
+			<de></de>
+		</text>
+		<button>
+			<es>Añadir evento</es>
+			<en>Add event</en>
+			<de></de>
+		</button>
+		<button_edit>
+			<es>Editar evento</es>
+			<en>Edit event</en>
+			<de></de>
+		</button_edit>
+	</form>
+</calendar>

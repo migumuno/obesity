@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Scanner Corporal Obesidad</es>
+			<en>Obesity Body Scanner</en>
+			<de>Bodyscanner Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>Scanner Corporal iDEXA, el más avanzado sistema para elegir el tratamiento contra la obesidad adecuado, más allá del peso y el índice de masa corporal tradicional</es>
+			<en>iDEXA Body Scanner, the most state-of-the-art system to choose the most adequate obesity treatment for you, beyond weight and the traditional body mass index</en>
+			<de>Bodyscanner iDEXA, das fortschrittlichste System für die Wahl der geeigneten Behandlung gegen Fettleibigkeit, geht über Gewicht und konventionellen Body-Mass-Index hinaus.</de>
+		</description>
+		<keywords>
+			<es>obesidad, escaner, scanner, corporal, idexa, tratamiento, peso, masa, corporal, indice, imc</es>
+			<en>obesity, scanner, body, idexa, treatment, weight, mass, index, bmi</en>
+			<de>Fettleibigkeit, Scanner, Body-Scanner, Idexa, Behandlung, Gewicht, Körper, Masse, Index, BMI</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+		<title>
+			<es>SCANNER CORPORAL IDEXA</es>
+			<en>iDEXA Body Scanner</en>
+			<de>Körperscanner iDEXA</de>
+		</title>
+			<img>slider_idexa.jpg</img>
+			<alt>
+				<es></es>
+				<en></en>
+				<de></de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+	
+	</messages>
+	<breadcrumbs>
+		<item>
+			<name>
+				<es>Volver Diagnóstico Obesidad</es>
+				<en>Obesity Diagnosis</en>
+				<de>Adipositas Diagnose</de>
+			</name>
+			<link>
+				<es>/diagnostico-obesidad</es>
+				<en>/obesity-diagnosis</en>
+				<de>/diagnose-fettleibigkeit</de>
+			</link>
+		</item>
+		<active>
+			<name>
+				<es>Scanner Corporal IDEXA</es>
+				<en>iDEXA Body Scanner</en>
+				<de>Körperscanner iDEXA</de>
+			</name>
+		</active>
+	</breadcrumbs>
+	<content>
+		<img>clinicaluz1.jpg</img>
+		<alt>
+			<es></es>
+			<en></en>
+			<de></de>
+		</alt>
+		<left>
+			<text>
+				<es>#b-#Composición corporal de Lunar DXA#/b-#</es>
+				<en>#b-#Lunar DXA body composition#/b-#</en>
+				<de>#b-#Körperzusammensetzung mit Lunar DXA#/b-#</de>
+			</text>
+			<text>
+				<es>La alimentación, el ejercicio y el envejecimiento pueden tener consecuencias importantísimas en la composición corporal de una persona. La medición de la composición corporal con absorciometría por rayos X de energía dual (DXA)* puede observar más allá del peso y del índice de masa corporal tradicional (IMC) para determinar la distribución de la grasa corporal, un importante factor de riesgo en varias enfermedades de gravedad.</es>
+				<en>Nutrition, exercise and aging can significantly influence a person’s body composition. The body-composition measurement via Dual Energy X-ray Absorptiometry (DXA)* can show information that goes beyond weight and the traditional body mass index (BMI) by determining the body-fat distribution, which is a relevant risk factor in several serious diseases.</en>
+				<de>Ernährung, körperliche Aktivitäten und Alternkönnen schwere Folgen für die Körperzusammensetzung einer Person haben. Die Messung der Körperzusammensetzung mit Dual-Röntgen-Absorptiometrie (DXA)* liefert nicht nur Daten über das Gewicht der Person und denBody Mass Index (BMI), sondern auch über die Verteilung des Körperfettes, was bei vielen Krankheiten ein ausschlaggebender Risikofaktor ist. </de>
+			</text>
+			<text>
+				<es>En todos estos casos, la medición de la composición corporal mediante una exploración DXA contribuye a una evaluación completa del paciente y ayuda a los profesionales a controlar los efectos de la terapia, la dieta y el ejercicio.</es>
+				<en>In all these cases, the body-composition measurement via a DXA scanning contributes to the patient’s global assessment and to help the medical team to control the effects of the therapy, diet and exercise.</en>
+				<de>In all diesen Fällen trägt die Messung der Körperzusammensetzung durch die Untersuchung mit DXA zu einer umfangreichen Bewertung des Patienten bei und hilft den Spezialisten, die Wirkung der Therapie, Diät und Training zu überwachen.</de>
+			</text>
+		</left>
+		<right>
+			<text>
+				<es>El #b-#Scanner Corporal iDEXA#/b-# es el más avanzado sistema de Rx para el estudio segmentario por imagen, de la composición corporal, que nos permite realizar valoraciones iniciales y de seguimiento de los parámetros:</es>
+				<en>#b-#iDEXA Body Scanner#/b-# is the most advanced RX system for the segment-imaging study of body composition, allowing us to carry out initial and follow-up assessments of the parametres.</en>
+				<de>Der #b-#Körperscanner iDEXA#/b-# ist das modernste Röntgensystem für Segmentstudien der Körperzusammensetzung per Bild, das uns erste Bewertungen ermöglicht und zur Beobachtung der folgenden Parameter dient:</de>
+				<ul>
+					<li>
+						<es>Densidad ósea total y segmental.</es>
+						<en>Total and segmental bone density.</en>
+						<de>Komplette und teilweise Knochendichte</de>
+					</li>
+					<li>
+						<es>Déficit de hormona de crecimiento.</es>
+						<en>Growth hormone deficiency.</en>
+						<de>Defizit des Wachstumshormons</de>
+					</li>
+					<li>
+						<es>Estado nutricional.</es>
+						<en>Nutritional status.</en>
+						<de>Ernährungsstatus</de>
+					</li>
+					<li>
+						<es>Grados de grasa androide y genoide.</es>
+						<en>Android and gynoid fat ratios.</en>
+						<de>Androide und ginoide Verteilung von Fett</de>
+					</li>
+					<li>
+						<es>Estimaciones sobre el riesgo en el contexto del síndrome metabólico.</es>
+						<en>Risk estimates with regards to the metabolic syndrome.</en>
+						<de>Schätzungen des Risikos im Zusammenhang mit dem Stoffwechselsyndrom</de>
+					</li>
+					<li>
+						<es>Balance corporal total y simetría de tejidos.</es>
+						<en>Total body balance and tissue simmetry.</en>
+						<de>Kompletter körperlicher Ausgleich und Gewebesymmetrie</de>
+					</li>
+					<li>
+						<es>Niveles y distribución de la masa muscular.</es>
+						<en>Muscle-mass levels and distribution.</en>
+						<de>Menge und Verteilung der Muskelmasse</de>
+					</li>
+					<li>
+						<es>Grado de grasa visceral o intrabdominal.</es>
+						<en>Visceral and intra-abdominal fat ratio.</en>
+						<de>Menge des viszeralen oder intraabdominalen Bauchfettes</de>
+					</li>
+					<li>
+						<es>Grados de retención de líquido en el espacio intersticial.</es>
+						<en>Fluid-retention ratio in the interstitial space.</en>
+						<de>Menge der zurückgehaltenen Flüssigkeit im interstitiellen Raum</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es></es>
+				<en></en>
+				<de></de>
+			</text>
+		</right>
+	</content>
+</page>

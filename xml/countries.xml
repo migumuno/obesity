@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+	<en>
+		<country><name>Andorra</name></country>
+		<country><name>United Arab Emirates</name></country>
+		<country><name>Afghanistan</name></country>
+		<country><name>Antigua and Barbuda</name></country>
+		<country><name>Anguilla</name></country>
+		<country><name>Albania</name></country>
+		<country><name>Armenia</name></country>
+		<country><name>Angola</name></country>
+		<country><name>Antarctica</name></country>
+		<country><name>Argentina</name></country>
+		<country><name>American Samoa</name></country>
+		<country><name>Austria</name></country>
+		<country><name>Australia</name></country>
+		<country><name>Aruba</name></country>
+		<country><name>Åland</name></country>
+		<country><name>Azerbaijan</name></country>
+		<country><name>Bosnia and Herzegovina</name></country>
+		<country><name>Barbados</name></country>
+		<country><name>Bangladesh</name></country>
+		<country><name>Belgium</name></country>
+		<country><name>Burkina Faso</name></country>
+		<country><name>Bulgaria</name></country>
+		<country><name>Bahrain</name></country>
+		<country><name>Burundi</name></country>
+		<country><name>Benin</name></country>
+		<country><name>Saint Barthélemy</name></country>
+		<country><name>Bermuda</name></country>
+		<country><name>Brunei</name></country>
+		<country><name>Bolivia</name></country>
+		<country><name>Bonaire</name></country>
+		<country><name>Brazil</name></country>
+		<country><name>Bahamas</name></country>
+		<country><name>Bhutan</name></country>
+		<country><name>Bouvet Island</name></country>
+		<country><name>Botswana</name></country>
+		<country><name>Belarus</name></country>
+		<country><name>Belize</name></country>
+		<country><name>Canada</name></country>
+		<country><name>Cocos [Keeling] Islands</name></country>
+		<country><name>Democratic Republic of the Congo</name></country>
+		<country><name>Central African Republic</name></country>
+		<country><name>Republic of the Congo</name></country>
+		<country><name>Switzerland</name></country>
+		<country><name>Ivory Coast</name></country>
+		<country><name>Cook Islands</name></country>
+		<country><name>Chile</name></country>
+		<country><name>Cameroon</name></country>
+		<country><name>China</name></country>
+		<country><name>Colombia</name></country>
+		<country><name>Costa Rica</name></country>
+		<country><name>Cuba</name></country>
+		<country><name>Cape Verde</name></country>
+		<country><name>Curacao</name></country>
+		<country><name>Christmas Island</name></country>
+		<country><name>Cyprus</name></country>
+		<country><name>Czech Republic</name></country>
+		<country><name>Germany</name></country>
+		<country><name>Djibouti</name></country>
+		<country><name>Denmark</name></country>
+		<country><name>Dominica</name></country>
+		<country><name>Dominican Republic</name></country>
+		<country><name>Algeria</name></country>
+		<country><name>Ecuador</name></country>
+		<country><name>Estonia</name></country>
+		<country><name>Egypt</name></country>
+		<country><name>Western Sahara</name></country>
+		<country><name>Eritrea</name></country>
+		<country><name>Spain</name></country>
+		<country><name>Ethiopia</name></country>
+		<country><name>Finland</name></country>
+		<country><name>Fiji</name></country>
+		<country><name>Falkland Islands</name></country>
+		<country><name>Micronesia</name></country>
+		<country><name>Faroe Islands</name></country>
+		<country><name>France</name></country>
+		<country><name>Gabon</name></country>
+		<country><name>United Kingdom</name></country>
+		<country><name>Grenada</name></country>
+		<country><name>Georgia</name></country>
+		<country><name>French Guiana</name></country>
+		<country><name>Guernsey</name></country>
+		<country><name>Ghana</name></country>
+		<country><name>Gibraltar</name></country>
+		<country><name>Greenland</name></country>
+		<country><name>Gambia</name></country>
+		<country><name>Guinea</name></country>
+		<country><name>Guadeloupe</name></country>
+		<country><name>Equatorial Guinea</name></country>
+		<country><name>Greece</name></country>
+		<country><name>South Georgia and the South Sandwich Islands</name></country>
+		<country><name>Guatemala</name></country>
+		<country><name>Guam</name></country>
+		<country><name>Guinea-Bissau</name></country>
+		<country><name>Guyana</name></country>
+		<country><name>Hong Kong</name></country>
+		<country><name>Heard Island and McDonald Islands</name></country>
+		<country><name>Honduras</name></country>
+		<country><name>Croatia</name></country>
+		<country><name>Haiti</name></country>
+		<country><name>Hungary</name></country>
+		<country><name>Indonesia</name></country>
+		<country><name>Ireland</name></country>
+		<country><name>Israel</name></country>
+		<country><name>Isle of Man</name></country>
+		<country><name>India</name></country>
+		<country><name>British Indian Ocean Territory</name></country>
+		<country><name>Iraq</name></country>
+		<country><name>Iran</name></country>
+		<country><name>Iceland</name></country>
+		<country><name>Italy</name></country>
+		<country><name>Jersey</name></country>
+		<country><name>Jamaica</name></country>
+		<country><name>Jordan</name></country>
+		<country><name>Japan</name></country>
+		<country><name>Kenya</name></country>
+		<country><name>Kyrgyzstan</name></country>
+		<country><name>Cambodia</name></country>
+		<country><name>Kiribati</name></country>
+		<country><name>Comoros</name></country>
+		<country><name>Saint Kitts and Nevis</name></country>
+		<country><name>North Korea</name></country>
+		<country><name>South Korea</name></country>
+		<country><name>Kuwait</name></country>
+		<country><name>Cayman Islands</name></country>
+		<country><name>Kazakhstan</name></country>
+		<country><name>Laos</name></country>
+		<country><name>Lebanon</name></country>
+		<country><name>Saint Lucia</name></country>
+		<country><name>Liechtenstein</name></country>
+		<country><name>Sri Lanka</name></country>
+		<country><name>Liberia</name></country>
+		<country><name>Lesotho</name></country>
+		<country><name>Lithuania</name></country>
+		<country><name>Luxembourg</name></country>
+		<country><name>Latvia</name></country>
+		<country><name>Libya</name></country>
+		<country><name>Morocco</name></country>
+		<country><name>Monaco</name></country>
+		<country><name>Moldova</name></country>
+		<country><name>Montenegro</name></country>
+		<country><name>Saint Martin</name></country>
+		<country><name>Madagascar</name></country>
+		<country><name>Marshall Islands</name></country>
+		<country><name>Macedonia</name></country>
+		<country><name>Mali</name></country>
+		<country><name>Myanmar [Burma]</name></country>
+		<country><name>Mongolia</name></country>
+		<country><name>Macao</name></country>
+		<country><name>Northern Mariana Islands</name></country>
+		<country><name>Martinique</name></country>
+		<country><name>Mauritania</name></country>
+		<country><name>Montserrat</name></country>
+		<country><name>Malta</name></country>
+		<country><name>Mauritius</name></country>
+		<country><name>Maldives</name></country>
+		<country><name>Malawi</name></country>
+		<country><name>Mexico</name></country>
+		<country><name>Malaysia</name></country>
+		<country><name>Mozambique</name></country>
+		<country><name>Namibia</name></country>
+		<country><name>New Caledonia</name></country>
+		<country><name>Niger</name></country>
+		<country><name>Norfolk Island</name></country>
+		<country><name>Nigeria</name></country>
+		<country><name>Nicaragua</name></country>
+		<country><name>Netherlands</name></country>
+		<country><name>Norway</name></country>
+		<country><name>Nepal</name></country>
+		<country><name>Nauru</name></country>
+		<country><name>Niue</name></country>
+		<country><name>New Zealand</name></country>
+		<country><name>Oman</name></country>
+		<country><name>Panama</name></country>
+		<country><name>Peru</name></country>
+		<country><name>French Polynesia</name></country>
+		<country><name>Papua New Guinea</name></country>
+		<country><name>Philippines</name></country>
+		<country><name>Pakistan</name></country>
+		<country><name>Poland</name></country>
+		<country><name>Saint Pierre and Miquelon</name></country>
+		<country><name>Pitcairn Islands</name></country>
+		<country><name>Puerto Rico</name></country>
+		<country><name>Palestine</name></country>
+		<country><name>Portugal</name></country>
+		<country><name>Palau</name></country>
+		<country><name>Paraguay</name></country>
+		<country><name>Qatar</name></country>
+		<country><name>Réunion</name></country>
+		<country><name>Romania</name></country>
+		<country><name>Serbia</name></country>
+		<country><name>Russia</name></country>
+		<country><name>Rwanda</name></country>
+		<country><name>Saudi Arabia</name></country>
+		<country><name>Solomon Islands</name></country>
+		<country><name>Seychelles</name></country>
+		<country><name>Sudan</name></country>
+		<country><name>Sweden</name></country>
+		<country><name>Singapore</name></country>
+		<country><name>Saint Helena</name></country>
+		<country><name>Slovenia</name></country>
+		<country><name>Svalbard and Jan Mayen</name></country>
+		<country><name>Slovakia</name></country>
+		<country><name>Sierra Leone</name></country>
+		<country><name>San Marino</name></country>
+		<country><name>Senegal</name></country>
+		<country><name>Somalia</name></country>
+		<country><name>Suriname</name></country>
+		<country><name>South Sudan</name></country>
+		<country><name>São Tomé and Príncipe</name></country>
+		<country><name>El Salvador</name></country>
+		<country><name>Sint Maarten</name></country>
+		<country><name>Syria</name></country>
+		<country><name>Swaziland</name></country>
+		<country><name>Turks and Caicos Islands</name></country>
+		<country><name>Chad</name></country>
+		<country><name>French Southern Territories</name></country>
+		<country><name>Togo</name></country>
+		<country><name>Thailand</name></country>
+		<country><name>Tajikistan</name></country>
+		<country><name>Tokelau</name></country>
+		<country><name>East Timor</name></country>
+		<country><name>Turkmenistan</name></country>
+		<country><name>Tunisia</name></country>
+		<country><name>Tonga</name></country>
+		<country><name>Turkey</name></country>
+		<country><name>Trinidad and Tobago</name></country>
+		<country><name>Tuvalu</name></country>
+		<country><name>Taiwan</name></country>
+		<country><name>Tanzania</name></country>
+		<country><name>Ukraine</name></country>
+		<country><name>Uganda</name></country>
+		<country><name>U.S. Minor Outlying Islands</name></country>
+		<country><name>United States</name></country>
+		<country><name>Uruguay</name></country>
+		<country><name>Uzbekistan</name></country>
+		<country><name>Vatican City</name></country>
+		<country><name>Saint Vincent and the Grenadines</name></country>
+		<country><name>Venezuela</name></country>
+		<country><name>British Virgin Islands</name></country>
+		<country><name>U.S. Virgin Islands</name></country>
+		<country><name>Vietnam</name></country>
+		<country><name>Vanuatu</name></country>
+		<country><name>Wallis and Futuna</name></country>
+		<country><name>Samoa</name></country>
+		<country><name>Kosovo</name></country>
+		<country><name>Yemen</name></country>
+		<country><name>Mayotte</name></country>
+		<country><name>South Africa</name></country>
+		<country><name>Zambia</name></country>
+		<country><name>Zimbabwe</name></country>
+	</en>
+	<es>
+		<country><name>Afganistán</name></country>
+		<country><name>Albania</name></country>
+		<country><name>Alemania</name></country>
+		<country><name>Andorra</name></country>
+		<country><name>Angola</name></country>
+		<country><name>Anguila</name></country>
+		<country><name>Antigua y Barbuda</name></country>
+		<country><name>Antillas Neerlandesas</name></country>
+		<country><name>Antártida</name></country>
+		<country><name>Arabia Saudí</name></country>
+		<country><name>Argelia</name></country>
+		<country><name>Argentina</name></country>
+		<country><name>Armenia</name></country>
+		<country><name>Aruba</name></country>
+		<country><name>Australia</name></country>
+		<country><name>Austria</name></country>
+		<country><name>Azerbaiyán</name></country>
+		<country><name>Bahamas</name></country>
+		<country><name>Bahréin</name></country>
+		<country><name>Bangladesh</name></country>
+		<country><name>Barbados</name></country>
+		<country><name>Belice</name></country>
+		<country><name>Benín</name></country>
+		<country><name>Bermudas</name></country>
+		<country><name>Bielorrusia</name></country>
+		<country><name>Bolivia</name></country>
+		<country><name>Bosnia-Herzegovina</name></country>
+		<country><name>Botsuana</name></country>
+		<country><name>Brasil</name></country>
+		<country><name>Brunéi</name></country>
+		<country><name>Bulgaria</name></country>
+		<country><name>Burkina Faso</name></country>
+		<country><name>Burundi</name></country>
+		<country><name>Bután</name></country>
+		<country><name>Bélgica</name></country>
+		<country><name>Cabo Verde</name></country>
+		<country><name>Camboya</name></country>
+		<country><name>Camerún</name></country>
+		<country><name>Canadá</name></country>
+		<country><name>Chad</name></country>
+		<country><name>Chile</name></country>
+		<country><name>China</name></country>
+		<country><name>Chipre</name></country>
+		<country><name>Ciudad del Vaticano</name></country>
+		<country><name>Colombia</name></country>
+		<country><name>Comoras</name></country>
+		<country><name>Congo</name></country>
+		<country><name>Corea del Norte</name></country>
+		<country><name>Corea del Sur</name></country>
+		<country><name>Costa Rica</name></country>
+		<country><name>Costa de Marfil</name></country>
+		<country><name>Croacia</name></country>
+		<country><name>Cuba</name></country>
+		<country><name>Dinamarca</name></country>
+		<country><name>Dominica</name></country>
+		<country><name>Ecuador</name></country>
+		<country><name>Egipto</name></country>
+		<country><name>El Salvador</name></country>
+		<country><name>Emiratos Árabes Unidos</name></country>
+		<country><name>Eritrea</name></country>
+		<country><name>Eslovaquia</name></country>
+		<country><name>Eslovenia</name></country>
+		<country><name>España</name></country>
+		<country><name>Estados Unidos</name></country>
+		<country><name>Estonia</name></country>
+		<country><name>Etiopía</name></country>
+		<country><name>Filipinas</name></country>
+		<country><name>Finlandia</name></country>
+		<country><name>Fiyi</name></country>
+		<country><name>Francia</name></country>
+		<country><name>Gabón</name></country>
+		<country><name>Gambia</name></country>
+		<country><name>Georgia</name></country>
+		<country><name>Ghana</name></country>
+		<country><name>Gibraltar</name></country>
+		<country><name>Granada</name></country>
+		<country><name>Grecia</name></country>
+		<country><name>Groenlandia</name></country>
+		<country><name>Guadalupe</name></country>
+		<country><name>Guam</name></country>
+		<country><name>Guatemala</name></country>
+		<country><name>Guayana Francesa</name></country>
+		<country><name>Guernsey</name></country>
+		<country><name>Guinea</name></country>
+		<country><name>Guinea Ecuatorial</name></country>
+		<country><name>Guinea-Bissau</name></country>
+		<country><name>Guyana</name></country>
+		<country><name>Haití</name></country>
+		<country><name>Honduras</name></country>
+		<country><name>Hungría</name></country>
+		<country><name>India</name></country>
+		<country><name>Indonesia</name></country>
+		<country><name>Iraq</name></country>
+		<country><name>Irlanda</name></country>
+		<country><name>Irán</name></country>
+		<country><name>Isla Bouvet</name></country>
+		<country><name>Isla Christmas</name></country>
+		<country><name>Isla Niue</name></country>
+		<country><name>Isla Norfolk</name></country>
+		<country><name>Isla de Man</name></country>
+		<country><name>Islandia</name></country>
+		<country><name>Islas Caimán</name></country>
+		<country><name>Islas Cocos</name></country>
+		<country><name>Islas Cook</name></country>
+		<country><name>Islas Feroe</name></country>
+		<country><name>Islas Georgia del Sur y Sandwich del Sur</name></country>
+		<country><name>Islas Heard y McDonald</name></country>
+		<country><name>Islas Malvinas</name></country>
+		<country><name>Islas Marianas del Norte</name></country>
+		<country><name>Islas Marshall</name></country>
+		<country><name>Islas Salomón</name></country>
+		<country><name>Islas Turcas y Caicos</name></country>
+		<country><name>Islas Vírgenes Británicas</name></country>
+		<country><name>Islas Vírgenes de los Estados Unidos</name></country>
+		<country><name>Islas menores alejadas de los Estados Unidos</name></country>
+		<country><name>Islas Åland</name></country>
+		<country><name>Israel</name></country>
+		<country><name>Italia</name></country>
+		<country><name>Jamaica</name></country>
+		<country><name>Japón</name></country>
+		<country><name>Jersey</name></country>
+		<country><name>Jordania</name></country>
+		<country><name>Kazajistán</name></country>
+		<country><name>Kenia</name></country>
+		<country><name>Kirguistán</name></country>
+		<country><name>Kiribati</name></country>
+		<country><name>Kuwait</name></country>
+		<country><name>Laos</name></country>
+		<country><name>Lesoto</name></country>
+		<country><name>Letonia</name></country>
+		<country><name>Liberia</name></country>
+		<country><name>Libia</name></country>
+		<country><name>Liechtenstein</name></country>
+		<country><name>Lituania</name></country>
+		<country><name>Luxemburgo</name></country>
+		<country><name>Líbano</name></country>
+		<country><name>Macedonia</name></country>
+		<country><name>Madagascar</name></country>
+		<country><name>Malasia</name></country>
+		<country><name>Malaui</name></country>
+		<country><name>Maldivas</name></country>
+		<country><name>Mali</name></country>
+		<country><name>Malta</name></country>
+		<country><name>Marruecos</name></country>
+		<country><name>Martinica</name></country>
+		<country><name>Mauricio</name></country>
+		<country><name>Mauritania</name></country>
+		<country><name>Mayotte</name></country>
+		<country><name>Micronesia</name></country>
+		<country><name>Moldavia</name></country>
+		<country><name>Mongolia</name></country>
+		<country><name>Montenegro</name></country>
+		<country><name>Montserrat</name></country>
+		<country><name>Mozambique</name></country>
+		<country><name>Myanmar</name></country>
+		<country><name>México</name></country>
+		<country><name>Mónaco</name></country>
+		<country><name>Namibia</name></country>
+		<country><name>Nauru</name></country>
+		<country><name>Nepal</name></country>
+		<country><name>Nicaragua</name></country>
+		<country><name>Nigeria</name></country>
+		<country><name>Noruega</name></country>
+		<country><name>Nueva Caledonia</name></country>
+		<country><name>Nueva Zelanda</name></country>
+		<country><name>Níger</name></country>
+		<country><name>Omán</name></country>
+		<country><name>Pakistán</name></country>
+		<country><name>Palau</name></country>
+		<country><name>Palestina</name></country>
+		<country><name>Panamá</name></country>
+		<country><name>Papúa Nueva Guinea</name></country>
+		<country><name>Paraguay</name></country>
+		<country><name>Países Bajos</name></country>
+		<country><name>Perú</name></country>
+		<country><name>Pitcairn</name></country>
+		<country><name>Polinesia Francesa</name></country>
+		<country><name>Polonia</name></country>
+		<country><name>Portugal</name></country>
+		<country><name>Puerto Rico</name></country>
+		<country><name>Qatar</name></country>
+		<country><name>Región Administrativa Especial de Hong Kong de la República Popular China</name></country>
+		<country><name>Región Administrativa Especial de Macao de la República Popular China</name></country>
+		<country><name>Región desconocida o no válida</name></country>
+		<country><name>Reino Unido</name></country>
+		<country><name>República Centroafricana</name></country>
+		<country><name>República Checa</name></country>
+		<country><name>República Democrática del Congo</name></country>
+		<country><name>República Dominicana</name></country>
+		<country><name>Reunión</name></country>
+		<country><name>Ruanda</name></country>
+		<country><name>Rumanía</name></country>
+		<country><name>Rusia</name></country>
+		<country><name>Samoa</name></country>
+		<country><name>Samoa Americana</name></country>
+		<country><name>San Bartolomé</name></country>
+		<country><name>San Cristóbal y Nieves</name></country>
+		<country><name>San Marino</name></country>
+		<country><name>San Martín</name></country>
+		<country><name>San Pedro y Miquelón</name></country>
+		<country><name>San Vicente y las Granadinas</name></country>
+		<country><name>Santa Elena</name></country>
+		<country><name>Santa Lucía</name></country>
+		<country><name>Santo Tomé y Príncipe</name></country>
+		<country><name>Senegal</name></country>
+		<country><name>Serbia</name></country>
+		<country><name>Serbia y Montenegro</name></country>
+		<country><name>Seychelles</name></country>
+		<country><name>Sierra Leona</name></country>
+		<country><name>Singapur</name></country>
+		<country><name>Siria</name></country>
+		<country><name>Somalia</name></country>
+		<country><name>Sri Lanka</name></country>
+		<country><name>Suazilandia</name></country>
+		<country><name>Sudáfrica</name></country>
+		<country><name>Sudán</name></country>
+		<country><name>Suecia</name></country>
+		<country><name>Suiza</name></country>
+		<country><name>Surinam</name></country>
+		<country><name>Svalbard y Jan Mayen</name></country>
+		<country><name>Sáhara Occidental</name></country>
+		<country><name>Tailandia</name></country>
+		<country><name>Taiwán</name></country>
+		<country><name>Tanzania</name></country>
+		<country><name>Tayikistán</name></country>
+		<country><name>Territorio Británico del Océano Índico</name></country>
+		<country><name>Territorios Australes Franceses</name></country>
+		<country><name>Timor Oriental</name></country>
+		<country><name>Togo</name></country>
+		<country><name>Tokelau</name></country>
+		<country><name>Tonga</name></country>
+		<country><name>Trinidad y Tobago</name></country>
+		<country><name>Turkmenistán</name></country>
+		<country><name>Turquía</name></country>
+		<country><name>Tuvalu</name></country>
+		<country><name>Túnez</name></country>
+		<country><name>Ucrania</name></country>
+		<country><name>Uganda</name></country>
+		<country><name>Uruguay</name></country>
+		<country><name>Uzbekistán</name></country>
+		<country><name>Vanuatu</name></country>
+		<country><name>Venezuela</name></country>
+		<country><name>Vietnam</name></country>
+		<country><name>Wallis y Futuna</name></country>
+		<country><name>Yemen</name></country>
+		<country><name>Yibuti</name></country>
+		<country><name>Zambia</name></country>
+		<country><name>Zimbabue</name></country>
+	</es>
+	<de>
+		<country><name>Afghanistan</name></country>
+		<country><name>Alandinseln</name></country>
+		<country><name>Albanien</name></country>
+		<country><name>Algerien</name></country>
+		<country><name>Amerikanisch-Ozeanien</name></country>
+		<country><name>Amerikanisch-Samoa</name></country>
+		<country><name>Amerikanische Jungferninseln</name></country>
+		<country><name>Andorra</name></country>
+		<country><name>Angola</name></country>
+		<country><name>Anguilla</name></country>
+		<country><name>Antarktis</name></country>
+		<country><name>Antigua und Barbuda</name></country>
+		<country><name>Argentinien</name></country>
+		<country><name>Armenien</name></country>
+		<country><name>Aruba</name></country>
+		<country><name>Aserbaidschan</name></country>
+		<country><name>Australien</name></country>
+		<country><name>Bahamas</name></country>
+		<country><name>Bahrain</name></country>
+		<country><name>Bangladesch</name></country>
+		<country><name>Barbados</name></country>
+		<country><name>Belarus</name></country>
+		<country><name>Belgien</name></country>
+		<country><name>Belize</name></country>
+		<country><name>Benin</name></country>
+		<country><name>Bermuda</name></country>
+		<country><name>Bhutan</name></country>
+		<country><name>Bolivien</name></country>
+		<country><name>Bosnien und Herzegowina</name></country>
+		<country><name>Botsuana</name></country>
+		<country><name>Bouvetinsel</name></country>
+		<country><name>Brasilien</name></country>
+		<country><name>Britische Jungferninseln</name></country>
+		<country><name>Britisches Territorium im Indischen Ozean</name></country>
+		<country><name>Brunei Darussalam</name></country>
+		<country><name>Bulgarien</name></country>
+		<country><name>Burkina Faso</name></country>
+		<country><name>Burundi</name></country>
+		<country><name>Chile</name></country>
+		<country><name>China</name></country>
+		<country><name>Cookinseln</name></country>
+		<country><name>Costa Rica</name></country>
+		<country><name>Côte d’Ivoire</name></country>
+		<country><name>Demokratische Republik Kongo</name></country>
+		<country><name>Demokratische Volksrepublik Korea</name></country>
+		<country><name>Deutschland</name></country>
+		<country><name>Dominica</name></country>
+		<country><name>Dominikanische Republik</name></country>
+		<country><name>Dschibuti</name></country>
+		<country><name>Dänemark</name></country>
+		<country><name>Ecuador</name></country>
+		<country><name>El Salvador</name></country>
+		<country><name>Eritrea</name></country>
+		<country><name>Estland</name></country>
+		<country><name>Falklandinseln</name></country>
+		<country><name>Fidschi</name></country>
+		<country><name>Finnland</name></country>
+		<country><name>Frankreich</name></country>
+		<country><name>Französisch-Guayana</name></country>
+		<country><name>Französisch-Polynesien</name></country>
+		<country><name>Französische Süd- und Antarktisgebiete</name></country>
+		<country><name>Färöer</name></country>
+		<country><name>Gabun</name></country>
+		<country><name>Gambia</name></country>
+		<country><name>Georgien</name></country>
+		<country><name>Ghana</name></country>
+		<country><name>Gibraltar</name></country>
+		<country><name>Grenada</name></country>
+		<country><name>Griechenland</name></country>
+		<country><name>Grönland</name></country>
+		<country><name>Guadeloupe</name></country>
+		<country><name>Guam</name></country>
+		<country><name>Guatemala</name></country>
+		<country><name>Guernsey</name></country>
+		<country><name>Guinea</name></country>
+		<country><name>Guinea-Bissau</name></country>
+		<country><name>Guyana</name></country>
+		<country><name>Haiti</name></country>
+		<country><name>Heard- und McDonald-Inseln</name></country>
+		<country><name>Honduras</name></country>
+		<country><name>Indien</name></country>
+		<country><name>Indonesien</name></country>
+		<country><name>Irak</name></country>
+		<country><name>Iran</name></country>
+		<country><name>Irland</name></country>
+		<country><name>Island</name></country>
+		<country><name>Isle of Man</name></country>
+		<country><name>Israel</name></country>
+		<country><name>Italien</name></country>
+		<country><name>Jamaika</name></country>
+		<country><name>Japan</name></country>
+		<country><name>Jemen</name></country>
+		<country><name>Jersey</name></country>
+		<country><name>Jordanien</name></country>
+		<country><name>Kaimaninseln</name></country>
+		<country><name>Kambodscha</name></country>
+		<country><name>Kamerun</name></country>
+		<country><name>Kanada</name></country>
+		<country><name>Kap Verde</name></country>
+		<country><name>Kasachstan</name></country>
+		<country><name>Katar</name></country>
+		<country><name>Kenia</name></country>
+		<country><name>Kirgisistan</name></country>
+		<country><name>Kiribati</name></country>
+		<country><name>Kokosinseln</name></country>
+		<country><name>Kolumbien</name></country>
+		<country><name>Komoren</name></country>
+		<country><name>Kongo</name></country>
+		<country><name>Kroatien</name></country>
+		<country><name>Kuba</name></country>
+		<country><name>Kuwait</name></country>
+		<country><name>Laos</name></country>
+		<country><name>Lesotho</name></country>
+		<country><name>Lettland</name></country>
+		<country><name>Libanon</name></country>
+		<country><name>Liberia</name></country>
+		<country><name>Libyen</name></country>
+		<country><name>Liechtenstein</name></country>
+		<country><name>Litauen</name></country>
+		<country><name>Luxemburg</name></country>
+		<country><name>Madagaskar</name></country>
+		<country><name>Malawi</name></country>
+		<country><name>Malaysia</name></country>
+		<country><name>Malediven</name></country>
+		<country><name>Mali</name></country>
+		<country><name>Malta</name></country>
+		<country><name>Marokko</name></country>
+		<country><name>Marshallinseln</name></country>
+		<country><name>Martinique</name></country>
+		<country><name>Mauretanien</name></country>
+		<country><name>Mauritius</name></country>
+		<country><name>Mayotte</name></country>
+		<country><name>Mazedonien</name></country>
+		<country><name>Mexiko</name></country>
+		<country><name>Mikronesien</name></country>
+		<country><name>Monaco</name></country>
+		<country><name>Mongolei</name></country>
+		<country><name>Montenegro</name></country>
+		<country><name>Montserrat</name></country>
+		<country><name>Mosambik</name></country>
+		<country><name>Myanmar</name></country>
+		<country><name>Namibia</name></country>
+		<country><name>Nauru</name></country>
+		<country><name>Nepal</name></country>
+		<country><name>Neukaledonien</name></country>
+		<country><name>Neuseeland</name></country>
+		<country><name>Nicaragua</name></country>
+		<country><name>Niederlande</name></country>
+		<country><name>Niederländische Antillen</name></country>
+		<country><name>Niger</name></country>
+		<country><name>Nigeria</name></country>
+		<country><name>Niue</name></country>
+		<country><name>Norfolkinsel</name></country>
+		<country><name>Norwegen</name></country>
+		<country><name>Nördliche Marianen</name></country>
+		<country><name>Oman</name></country>
+		<country><name>Osttimor</name></country>
+		<country><name>Pakistan</name></country>
+		<country><name>Palau</name></country>
+		<country><name>Palästinensische Gebiete</name></country>
+		<country><name>Panama</name></country>
+		<country><name>Papua-Neuguinea</name></country>
+		<country><name>Paraguay</name></country>
+		<country><name>Peru</name></country>
+		<country><name>Philippinen</name></country>
+		<country><name>Pitcairn</name></country>
+		<country><name>Polen</name></country>
+		<country><name>Portugal</name></country>
+		<country><name>Puerto Rico</name></country>
+		<country><name>Republik Korea</name></country>
+		<country><name>Republik Moldau</name></country>
+		<country><name>Ruanda</name></country>
+		<country><name>Rumänien</name></country>
+		<country><name>Russische Föderation</name></country>
+		<country><name>Réunion</name></country>
+		<country><name>Salomonen</name></country>
+		<country><name>Sambia</name></country>
+		<country><name>Samoa</name></country>
+		<country><name>San Marino</name></country>
+		<country><name>Saudi-Arabien</name></country>
+		<country><name>Schweden</name></country>
+		<country><name>Schweiz</name></country>
+		<country><name>Senegal</name></country>
+		<country><name>Serbien</name></country>
+		<country><name>Serbien und Montenegro</name></country>
+		<country><name>Seychellen</name></country>
+		<country><name>Sierra Leone</name></country>
+		<country><name>Simbabwe</name></country>
+		<country><name>Singapur</name></country>
+		<country><name>Slowakei</name></country>
+		<country><name>Slowenien</name></country>
+		<country><name>Somalia</name></country>
+		<country><name>Sonderverwaltungszone Hongkong</name></country>
+		<country><name>Sonderverwaltungszone Macao</name></country>
+		<country><name>Spanien</name></country>
+		<country><name>Sri Lanka</name></country>
+		<country><name>St. Barthélemy</name></country>
+		<country><name>St. Helena</name></country>
+		<country><name>St. Kitts und Nevis</name></country>
+		<country><name>St. Lucia</name></country>
+		<country><name>St. Martin</name></country>
+		<country><name>St. Pierre und Miquelon</name></country>
+		<country><name>St. Vincent und die Grenadinen</name></country>
+		<country><name>Sudan</name></country>
+		<country><name>Suriname</name></country>
+		<country><name>Svalbard und Jan Mayen</name></country>
+		<country><name>Swasiland</name></country>
+		<country><name>Syrien</name></country>
+		<country><name>São Tomé und Príncipe</name></country>
+		<country><name>Südafrika</name></country>
+		<country><name>Südgeorgien und die Südlichen Sandwichinseln</name></country>
+		<country><name>Tadschikistan</name></country>
+		<country><name>Taiwan</name></country>
+		<country><name>Tansania</name></country>
+		<country><name>Thailand</name></country>
+		<country><name>Togo</name></country>
+		<country><name>Tokelau</name></country>
+		<country><name>Tonga</name></country>
+		<country><name>Trinidad und Tobago</name></country>
+		<country><name>Tschad</name></country>
+		<country><name>Tschechische Republik</name></country>
+		<country><name>Tunesien</name></country>
+		<country><name>Turkmenistan</name></country>
+		<country><name>Turks- und Caicosinseln</name></country>
+		<country><name>Tuvalu</name></country>
+		<country><name>Türkei</name></country>
+		<country><name>Uganda</name></country>
+		<country><name>Ukraine</name></country>
+		<country><name>Unbekannte oder ungültige Region</name></country>
+		<country><name>Ungarn</name></country>
+		<country><name>Uruguay</name></country>
+		<country><name>Usbekistan</name></country>
+		<country><name>Vanuatu</name></country>
+		<country><name>Vatikanstadt</name></country>
+		<country><name>Venezuela</name></country>
+		<country><name>Vereinigte Arabische Emirate</name></country>
+		<country><name>Vereinigte Staaten</name></country>
+		<country><name>Vereinigtes Königreich</name></country>
+		<country><name>Vietnam</name></country>
+		<country><name>Wallis und Futuna</name></country>
+		<country><name>Weihnachtsinsel</name></country>
+		<country><name>Westsahara</name></country>
+		<country><name>Zentralafrikanische Republik</name></country>
+		<country><name>Zypern</name></country>
+		<country><name>Ägypten</name></country>
+		<country><name>Äquatorialguinea</name></country>
+		<country><name>Äthiopien</name></country>
+		<country><name>Österreich</name></country>
+	</de>
+</countries>

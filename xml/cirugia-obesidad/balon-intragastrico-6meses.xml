@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Balón Intragástrico 6 meses</es>
+			<en>6-month Intragastric Balloon</en>
+			<de>Magenballon 6 Monate</de>
+		</title>
+		<description>
+			<es>Balón Intragástrico rápido, eficaz y sin cirugía ni cicatrices externas. Pérdida peso entre 15 y 25 Kilos, 6 meses implantado y 2 años de seguimiento</es>
+			<en>Quick, effective Intragastric Balloon  without surgery or external scars Weight loss between 15 Kg and 25 Kg, 6 months of implants and 2 years of follow-ups</en>
+			<de>Magenballon, schnell, wirksam und ohne Chirurgie oder äußere Narben. Gewichtsverlust zwischen 15 und 25 Kilo, 6 Monate implantiert und 2 Jahre Nachbeobachtung.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, balon, intragastrico, sin, cirugia, cicatrices, estomago, reduccion</es>
+			<en>obesity, treatment, method, balloon, intragastric, without, surgery, scars, stomach, reduction</en>
+			<de>Fettleibigkeit, Behandlung, Methode, Magenballon, ohne, Chirurgie, Narben, Magen, Verkleinerung</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>Tratamiento Balón Intragástrico</es>
+				<en>6 + 6 month Intragastric Balloon</en>
+				<de>Magenballon 6 + 6 Monate</de>
+			</title>
+			<img>slider_generico1.jpg</img>
+		</slider>
+		<slider>
+			<title>
+				<es>Tratamiento Balón Intragástrico</es>
+				<en>6 + 6 month Intragastric Balloon</en>
+				<de>Magenballon 6 + 6 Monate</de>
+			</title>
+			<img>slider_generico2.jpg</img>
+		</slider>
+	</sliders>
+	<messages>
+			<message>
+			<img>
+				<es>pastilla_ibalon6_1.png</es>
+				<en>pastilla_ibalon6_1_en.png</en>
+				<de>pastilla_ibalon6_1_de.png</de>
+			</img>
+			<alt>
+				<es>Balón Intragastrico seis meses</es>
+				<en>six month Intragastric Balloon</en>
+				<de>sechs Monate Magenballon</de>
+			</alt>
+		</message>
+				<message>
+			<img>
+				<es>pastilla_ibalon6_2.png</es>
+				<en>pastilla_ibalon6_2_en.png</en>
+				<de>pastilla_ibalon6_2_de.png</de>
+			</img>
+			<alt>
+				<es>Balón Intragastrico seis meses</es>
+				<en>six month Intragastric Balloon</en>
+				<de>sechs Monate Magenballon</de>
+			</alt>
+		</message>
+	</messages>
+	<content>
+		<img>
+			<name>ibalon_6meses.jpg</name>
+			<alt>
+				<es>Balon Intragastrico 6 meses</es>
+				<en>6 months Intragastric Balloon</en>
+				<de>Magenballon 6 Monate</de>
+			</alt>
+		</img>
+		<description>
+			<text>
+				<es>#div class="titulo_metodo"-#QUÉ ES EL BALON INTRAGÁSTRICO#/div-#</es>
+				<en>#div class="titulo_metodo"-#WHAT IS THE INTRAGASTRIC BALLOON#/div-#</en>
+				<de>#div class="titulo_metodo"-#WAS IST EIN MAGENBALLON?#/div-#</de>
+			</text>
+			<text>
+				<es>El Balón Intragástrico es un tratamiento de ayuda contra la obesidad que no a intervención quirúrgica ya que se realiza por endoscopia introduciendo un balón en el interior del estómago.</es>
+				<en>The Intragastric Balloon is a non-surgical aid treatment against Obesity, which is carried out endoscopically by inserting a balloon inside the stomach.</en>
+				<de>Der Magenballon ist eine unterstützende Behandlung gegen Adipositas, die keinen chirurgischen Eingriff darstellt, da der Ballon mittels Endoskopie in das Mageninnere eingesetzt wird. </de>
+			</text>
+			<text>
+				<es>Este balón se rellena con suero fisiológico hasta que alcanza un volumen óptimo para estimular la saciedad del paciente. El Balón Intragástrico ocupa aproximadamente dos tercios del estómago.</es>
+				<en>This balloon is filled with saline until reaching an optimal volume to stimulate patients’ satiety. The Intragastric Balloon covers approximately two-thirds of the stomach.</en>
+				<de>Dieser Ballon wird mit isotonischer Kochsalzlösung gefüllt, bis er die optimale Größe erreicht hat, um das Sättigungsgefühl des Patienten zu stimulieren. Der Magenballon nimmt ungefähr zwei Drittel des Magens ein.</de>
+			</text>
+			<text>
+				<es>Al tener el Balón en el estómago retrasa la sensación de hambre y se reduce la ingesta de alimentos al producir antes la sensación de saciedad. Es una ayuda considerable en un tratamiento de pérdida de peso puesto que se reduce la comida ingerida.</es>
+				<en>With the balloon implanted in the stomach, the sensation of hunger is delayed, and one feels full sooner, thus reducing patients’ food intake. It is a significant help in a weight-loss treatment since it reduces the food intake.</en>
+				<de>Durch die Einsetzung des Ballons in den Magen wird das Hungergefühl verzögert und die Nahrungsmittelzufuhr reduziert, da sich das Sättigungsgefühl bereits zu einem früheren Zeitpunkt einstellt. Der Ballon unterstützt den Patienten auf beachtenswerte Weise beim Gewichtsverlust durch die verringerte Nahrungszufuhr.</de>
+			</text>
+			<text>
+				<es>El balón permanece en el estómago aproximadamente 6 meses, durante este tiempo el paciente puede realizar su vida normalmente.</es>
+				<en>The balloon remains in the stomach for approximately 6 months, during which patients can conduct a normal life.</en>
+				<de>Der Ballon wird für ungefähr 6 Monate im Magen getragen, während dieses Zeitraums kann der Patient seinem Leben normal nachgehen.</de>
+			</text>
+			<text>
+				<es>#div class="titulo_metodo"-#Ventajas del Balón Intragástrico#/div-#</es>
+				<en>#div class="titulo_metodo"-#Intragastric Balloon’s advantages#/div-#</en>
+				<de>#div class="titulo_metodo"-#Vorteile des Magenballons#/div-#</de>
+				<ul>
+					<li>
+						<es>Como hemos comentado éste tratamiento de la obesidad no requiere de intervención quirúrgica sino que se realiza por endoscopio. A pesar de esta circunstancia nuestro equipo de endoscopistas realiza esta intervención en un Hospital con todas las garantías de seguridad, para garantizar el éxito de la implantación del balón gástrico.</es>
+						<en>As previously mentioned, this obesity treatment does not require surgery, since it is carried out endoscopically. Yet, our team of endoscopists perform this surgery with all the safety assurances in order to ensure the success of the Intragastric Balloon implants.</en>
+						<de>Wie bereits oben erwähnt, ist für diese Behandlung kein chirurgischer Eingriff erforderlich, denn der Magenballon wird endoskopisch eingesetzt. Trotzdem führt unser Team aus Endoskopisten dieses Verfahren in einem Krankenhaus durch, um Ihre absolute Sicherheit sowie den Erfolg der Einsetzung des Magenballons zu garantieren. </de>
+					</li>
+					<li>
+						<es>Es un técnica poco invasiva y poco peligrosa.</es>
+						<en>It is a low-risk little invasive technique.</en>
+						<de>Es handelt sich um ein geringfügig invasives und wenig gefährliches Verfahren.</de>
+					</li>
+					<li>
+						<es>Se puede realizar por sedación aunque se recomienda la anestesia general.</es>
+						<en>It can be carried out under sedation, even if general anaesthesia is recommended.</en>
+						<de>Es kann mit einer Sedierung durchgeführt werden, wenngleich eine Vollnarkose empfohlen wird.</de>
+					</li>
+					<li>
+						<es>Una vez se extraiga el Balón Intragástrico, el seguimiento nutricional online seguirá hasta completar los 2 años, el objetivo final es mejorar los hábitos alimenticios, estabilizar los niveles de ansiedad, y mantener el peso perdido.</es>
+						<en>Once the Intragastric Balloon is removed, the online nutritional follow-up will continue until the end of the second year. The final goal is to improve eating habits, stabilise anxiety levels and maintain the lost weight.</en>
+						<de>Nach der Entfernung des Magenballons bieten wir Ihnen 2 Jahre lang eine ernährungsbezogene Online-Nachbeobachtung, deren Ziel die Verbesserung der Ernährungsgewohnheiten, die Bekämpfung der Angstzustände und die Stabilisierung des Gewichtsverlusts ist.</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#div class="titulo_metodo"-#Contraindicaciones del Balón#/div-#</es>
+				<en>#div class="titulo_metodo"-#Balloon’s contraindications#/div-#</en>
+				<de>#div class="titulo_metodo"-#Gegenanzeigen des Ballons#/div-#</de>
+			</text>
+			<text>
+				<es>El Balón Intragástrico está contraindicado en los siguientes casos:</es>
+				<en>The Intragastric Balloon is contraindicated in the following cases:</en>
+				<de>Es wird von der Implantation eines Magenballons in den folgenden Fällen abgeraten:</de>
+				<ul>
+					<li>
+						<es>Embarazo o lactancia.</es>
+						<en>Pregnancy and breastfeeding.</en>
+						<de>Schwangerschaft oder Stillzeit.</de>
+					</li>
+					<li>
+						<es>Enfermedades inflamatorias o hemorrágicas del estómago.</es>
+						<en>Haemorrhagic and inflammatory conditions in the stomach.</en>
+						<de>Entzündungskrankheiten oder Blutungen im Bereich des Magens.</de>
+					</li>
+					<li>
+						<es>Cirugía gástrica previa.</es>
+						<en>Previous gastric surgery.</en>
+						<de>Vorherige Magen-OP</de>
+					</li>
+					<li>
+						<es>Trastornos psiquiátricos, alcoholismo o drogodependencia. Toma de medicinas anticoagulantes, aspirinas o AINES.</es>
+						<en>Psychiatric disorders, alcohol or drug abuse. Intake of blood thinners, aspirins or NSAIDs.</en>
+						<de>Psychiatrische Erkrankungen, Alkohol- oder Drogenabhängigkeit. Einnahme von Antikoagulanzien, Aspirin oder nichtsteroidaler Antirheumatika (NSAID).</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>En caso de no poderse implantar el Balón Intragástrico nuestro equipo profesionales le indicarán la solución más eficaz contra su problema de obesidad.</es>
+				<en>Were the Intragastric Balloon’s implantation not possible, our professional team will recommend you the most effective solution for your Obesity problem.</en>
+				<de>Sollte Ihnen aus diesem Grund kein Magenballon eingesetzt werden können, wird unser Expertenteam eine andere, besser geeignete Lösung für Ihr Adipositas-Problem finden.</de>
+			</text>
+		</description>
+		<treatment>
+			<title>
+				<es>Balón Intragástrico en EMIO</es>
+				<en>EMIO’s Intragastric Balloon</en>
+				<de>Magenballon von EMIO</de>
+			</title>
+			<text>
+				<es>Nuestra experiencia nos indica que para conseguir una pérdida de peso considerable y una reeducación alimenticia, no basta con implantar el Balón Intragástrico y realizar consultas de nutrición cada 2 meses, es necesario realizar un seguimiento nutricional online.</es>
+				<en>Our experience shows that in order to reach a significant weight loss and receive a new nutrition education, implanting the Intragastric Balloon and arranging nutrition visits every 2 months is not enough. It is also necessary to carry out an online nutritional follow-up. This is why our treatment includes:</en>
+				<de>Unsere Erfahrung hat uns gezeigt, dass die Einsetzung eines Magenballons und die Durchführung von Ernährungsberatungsgesprächen alle 2 Monate nicht ausreichend ist, um einen dauerhaften Gewichtsverlust und die Nahrungsumstellung zu erreichen. Aus diesem Grund bieten wir online einen ernährungsbezogenen Nachbeobachtungsservice an und unsere Behandlung umfasst daher Folgendes:</de>
+			</text>
+			<text>
+				<es>Implantación, retirada y seguimiento.</es>
+				<en>Implantation, removal and follow-up</en>
+				<de>Implantation und Nachbeobachtung:</de>
+				<ul>
+					<li>
+						<es>Las consultas de Nutrición que necesite el paciente, inicialmente suelen ser semanales.</es>
+						<en>The Nutrition visit needed by the patients are initially scheduled on a weekly basis.</en>
+						<de>Ernährungsberatung, die der Patient benötigt, findet zu Beginn normalerweise wöchentlich statt.</de>
+					</li>
+					<li>
+						<es>Implantación y retirada del Balón Intragástrico en un Hospital con todas las garantías, con todos los gastos incluidos (pruebas preoperatorias, consulta de preanestesia, honorarios médicos y quirúrgicos, Balón Intragástrico de última generación…)</es>
+						<en>Implantation and removal of the Intragastric Balloon in a hospital with every assurance and all costs included (pre-operative testing, medical and surgical fees, pre-anaesthesia visit, last-generation Intragastric Balloon, etc.).</en>
+						<de>Einsetzung und Entfernung des Magenballons in einem Krankenhaus mit allen Garantien, inkl. aller Kosten (präoperative Untersuchungen, Beratungsgespräch vor der Anästhesie, Honorare von Ärzten und Chirurgen, Magenballon der neuesten Generation...)</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#u-#Evaluación metabólica inicial#/u-#</es>
+				<en>#u-#Initial metabolic assessment#/u-#</en>
+				<de>#u-#Ursprüngliche Bewertung des Stoffwechsels#/u-#</de>
+				<ul>
+					<li>
+						<es>#b-#Estudio Metabólico y de Composición Corporal TANITA Médico Advance#/b-#</es>
+						<en>#b-#TANITA Médico Advance Metabolic and Body-composition Assessment#/b-#</en>
+						<de>#b-#Untersuchung des Stoffwechsels und der Körperzusammensetzung TANITA Médico Advance#/b-#</de>
+						<ul>
+							<li>
+								<es>Composición en masa muscular, grasa y agua</es>
+								<en>Composition according to muscle mass, fat and water</en>
+								<de>Zusammensetzung aus Muskelmasse, Fett und Wasser </de>
+							</li>
+							<li>
+								<es>Tasa metabólica y efectividad del metabolismo</es>
+								<en>Metabolic rate and efficiency</en>
+								<de>Stoffwechselrate und Wirkung des Stoffwechsels</de>
+							</li>
+							<li>
+								<es>Grasa visceral de riesgo cardiovascular</es>
+								<en>Visceral adiposity causing cardiovascular risk</en>
+								<de>Bauchfett (Viszeralfett), das ein kardiovaskuläres Risiko ist.</de>
+							</li>
+							<li>
+								<es>Distribución de la composición corporal</es>
+								<en>Body-composition distribution</en>
+								<de>Verteilung der Körperzusammensetzung</de>
+							</li>
+							<li>
+								<es>Retención de líquidos</es>
+								<en>Fluid retention</en>
+								<de>Einlagerung von Flüssigkeiten</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analizador Intersticial EIS#/b-#</es>
+						<en>#b-#EIS Interstitial Scanner#/b-#</en>
+						<de>#b-#Interstitieller Analysator EIS#/b-#</de>
+						<ul>
+							<li>
+								<es>Niveles de ansiedad y estrés (Cortisol-Serotonina)</es>
+								<en>Anxiety and stress levels (Cortisol-Serotonin)</en>
+								<de>Angst- und Stressniveau (Cortisol-Serotonin)</de>
+							</li>
+							<li>
+								<es>Sensación de hambre (Leptina)</es>
+								<en>Sense of hunger (Leptine)</en>
+								<de>Hungergefühl (Leptin)</de>
+							</li>
+							<li>
+								<es>Niveles de felicidad y autosatisfacción (Dopamina)</es>
+								<en>Happiness and self-satisfaction levels (Dopamine)</en>
+								<de>Glücklichkeits- und Selbstzufriedenheitsniveau (Dopamin)</de>
+							</li>
+							<li>
+								<es>Metabolismo Hormonal (Tiroides y Adrenales)</es>
+								<en>Hormonal metabolism (Thyroid and Adrenal Glands)</en>
+								<de>Hormonstoffwechsel (Schilddrüse und Nebennieren)</de>
+							</li>
+							<li>
+								<es>Capacidad de respuestas (Adrenalina-Noradrenalina)</es>
+								<en>Response capacity (Adrenaline-Noradrenaline)</en>
+								<de>Reaktionsfähigkeit (Adrenalin-Noradrenalin)</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analítica específica#/b-# de Bioquímica y Tiroides</es>
+						<en>#b-#Specific Biochemistry#/b-# and Thyroid tests</en>
+						<de>#b-#Spezifische Laboruntersuchung#/b-# der Biochemie und Schilddrüse</de>
+					</li>
+					<li>
+						<es>#b-#Estudio de Intolerancias Alimenticias#/b-# por Sistema de Biorresonancia MedTronik</es>
+						<en>#b-#Food Intolerance Study#/b-# via MED-Tronik Bioresonance System</en>
+						<de>#b-#Nahrungsmittelunverträglichkeitstest#/b-# durchMedTronik-Bioresonanz-System </de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#div class="titulo_metodo"-#Importante#/div-#</es>
+				<en></en>
+				<de></de>
+				<ul>
+					<li>
+						<es>El Balón Intragástrico hay que retirarlo a los 6 o 7 meses por deterioro. Si bien el procedimiento al igual que la implantación es por endoscopia.</es>
+						<en>The Intragastric Balloon needs to be removed every 6 to 7 months due to deterioration. The procedure is again carried out by endoscopy as in the implantation.</en>
+						<de>Der Magenballon muss 6 bzw. 7 Monate nach der Einsetzung aufgrund der Abnutzung entfernt werden. Das Verfahren zur Entfernung erfolgt ebenso wie das zur Implantation endoskopisch.</de>
+					</li>
+					<li>
+						<es>En algunos pacientes el Balón Intragástrico puede producir vómitos, y en caso de ser prologados por intolerancia, a de ser retirado.</es>
+						<en>In some patients, the Intragastric Balloon may produce vomiting and must be removed in case of prolonged episodes because of an intolerance.</en>
+						<de>Bei einigen Patienten kann der Magenballon zu Brechreiz führen. Sollte eine entsprechende Intoleranz über einen längeren Zeitraum bestehen, muss der Ballon entfernt werden.</de>
+					</li>
+					<li>
+						<es>Es fundamental que usted haga caso de las indicaciones que durante este proceso y posteriormente le realicen nuestros especialistas, ya que, una vez extraído el Balón Intragástrico la pérdida de peso ha de conseguirse con una modificación de sus hábitos alimenticios. No obstante el European Medical Institute of Obesity tiene una amplia experiencia y le facilitará el cambio alimenticio con la consiguiente rebaja del peso y mejora de su calidad de vida.</es>
+						<en>It is essential for you to follow the instructions you are given by our specialists during and after this process. In fact, once the Intragastric Balloon is removed, the weight loss needs to be achieved by modifying your eating habits. Yet, the European Medical Institute of Obesity has a wide experience and will provide you with the eating changes you need to lose weight and improve your quality of life.</en>
+						<de>Es ist entscheidend, dass Sie den von unserem Expertenteam erteiltenAnweisungen während des Verfahrens und danach Folge leisten, da nach der Entfernung des Magenballons der weitere Gewichtsverlust nur durch eine Veränderung Ihrer Ernährungsgewohnheiten möglich ist. Das European Medical Institute of Obesity verfügt über langjährige Erfahrung und wird Ihnen bei der Ernährungsumstellung helfen, damit Sie weiterhin abnehmen und Ihre Lebensqualität verbessern können.</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>Intervención realizada en centros hospitalarios de prestigio por nuestra Unidad de Cirugía de la Obesidad.</es>
+				<en>Surgery carried out by our Obesity Surgery Unit in prestigious medical centres.</en>
+				<de>Das Verfahren wird in renommierten Krankenhäusern von unserem Team für Adipositaschirurgie durchgeführt.</de>
+			</text>
+		</treatment>
+		<cards>
+			<item>
+				<title>
+					<es>INDICACIONES</es>
+					<en>SUGGESTIONS</en>
+					<de>INDIKATIONEN</de>
+				</title>
+				<img>icono_metodo1.png</img>
+				<alt>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS</en>
+					<de>INDIKATIONEN</de>
+				</alt>
+				<text>
+					<es>Tratamiento destinado para 5 tipos de pacientes:</es>
+					<en>Treatment designed for 5 types of patients:</en>
+					<de>Geeignet für:</de>
+				</text>
+				<text>
+					<es>- Cambio hormonal en la menopausa.</es>
+					<en>- Hormonal change at menopause.</en>
+					<de>- Hormonelle Umstellung in der Menopause.</de>
+				</text>
+				<text>
+					<es>- Embarazo y postparto.</es>
+					<en>- Pregnancy and postpartum.</en>
+					<de>- Schwangerschaft und Zeit nach der Entbindung.</de>
+				</text>
+				<text>
+					<es>- Depresión, ansiedad o problema emocional.</es>
+					<en>- Depression, anxiety and emotional problems.</en>
+					<de>- Depressionen, Angstzustände und emotionale Probleme</de>
+				</text>
+				<text>
+					<es>- Lesión deportiva o accidente con reposo.</es>
+					<en>- Sports injury or accident requiring rest.</en>
+					<de>- Sportverletzung oder Unfall mit Regenerationsphase</de>
+				</text>
+				<text>
+					<es>- Estrés, ansiedad y desajuste alimenticio.</es>
+					<en>- Stress, anxiety and eating imbalance.</en>
+					<de>- Stress und Ernährungsungleichgewicht</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</title>
+				<img>icono_metodo2.png</img>
+				<alt>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Analítica preoperatoria</es>
+					<en>Pre-operative testing</en>
+					<de>Präoperative Laboruntersuchung</de>
+				</text>
+				<text>
+					<es>Electrocardiograma</es>
+					<en>Electrocardiogram (EKG)</en>
+					<de>Elektrokardiogramm</de>
+				</text>
+				<text>
+					<es>Consulta preoperatoria</es>
+					<en>Pre-operative visit</en>
+					<de>Beratungsgespräch vor der OP</de>
+				</text>
+				<text>
+					<es>Dieta líquida las 24 horas anteriores a la intervención</es>
+					<en>Liquid diet 24 hours before surgery</en>
+					<de>Flüssigdiät 24 Stunden vor dem Eingriff</de>
+				</text>
+				<text>
+					<es>En ayunas 8 horas antes de la intervención</es>
+					<en>Fasting 8 hours before the surgery</en>
+					<de>Sie müssen nüchtern zur Operation kommen, d.h. Sie dürfen während der letzten 8 Stunden vor dem Eingriff nichts essen und trinken.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>HOSPITALIZACIÓN</es>
+					<en>HOSPITAL STAY</en>
+					<de>EINWEISUNG IN DAS KRANKENHAUS</de>
+				</title>
+				<img>icono_metodo3.png</img>
+				<alt>
+					<es>HOSPITALIZACIÓN</es>
+					<en>HOSPITAL STAY</en>
+					<de>EINWEISUNG IN DAS KRANKENHAUS</de>
+				</alt>
+				<text>
+					<es>No se requiere hospitalización</es>
+					<en>Hospitalization is not required</en>
+					<de>Kein Krankenhausaufenthalt nötig</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>INTERVENCIÓN</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</title>
+				<img>icono_metodo4.png</img>
+				<alt>
+					<es>INTERVENCIÓN</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</alt>
+				<text>
+					<es>NO ES UNA CIRUGÍA, no hay cicatrices ni externas ni internas.</es>
+					<en>IT IS NOT A SURGERY, there are no external or internal scars.</en>
+					<de>ES HANDELT SICH UM KEINEN CHIRURGISCHEN EINGRIFF, es treten weder intern noch extern Narben auf.</de>
+				</text>
+				<text>
+					<es>El paceinte no sufre molestia durante la implantación.</es>
+					<en>Patients suffer no discomfort during implantation.</en>
+					<de>Der Patient hat keine Schmerzen während des Implantationsverfahrens.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>ANESTESIA</es>
+					<en>ANAESTHESIA</en>
+					<de>ANÄSTHESIE</de>
+				</title>
+				<img>icono_metodo5.png</img>
+				<alt>
+					<es>ANESTESIA</es>
+					<en>ANAESTHESIA</en>
+					<de>ANÄSTHESIE</de>
+				</alt>
+				<text>
+					<es>Se realiza con una pequeña sedación en la sala de endoscopia.</es>
+					<en>It is performed with a slight sedation in the endoscopy room.</en>
+					<de>Es wird mit einer leichten Sedierung in der Endoskopie-Abteilung durchgeführt.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>DURACIÓN INTERVENCIÓN</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DES EINGRIFFS</de>
+				</title>
+				<img>icono_metodo6.png</img>
+				<alt>
+					<es>DURACIÓN INTERVENCIÓN</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DES EINGRIFFS</de>
+				</alt>
+				<text>
+					<es>El procedimiento se realiza en unos 15 a 20 minutos. </es>
+					<en>The procedure lasts between 15 and 20 minutes.</en>
+					<de>Das Verfahren dauert zwischen 15 und 20 Minuten.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>INCISIONES</es>
+					<en>INCISIONS</en>
+					<de>SCHNITTE</de>
+				</title>
+				<img>icono_metodo7.png</img>
+				<alt>
+					<es>INCISIONES</es>
+					<en>INCISIONS</en>
+					<de>SCHNITTE</de>
+				</alt>
+				<text>
+					<es>Procedimiento no invasivo, SIN CIRUGÍA</es>
+					<en>Non-invasive procedure, WITHOUT SURGERY</en>
+					<de>Nicht-invasives Verfahren, OHNE CHIRURGISCHEN EINGRIFF.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE</en>
+					<de>NACH DER OPERATION</de>
+				</title>
+				<img>icono_metodo8.png</img>
+				<alt>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE</en>
+					<de>NACH DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Se implanta el Balón Intragástrico y al cabo de una hora el paciente se puede ir a casa.</es>
+					<en>The Intragastric Balloon is implanted and after one hour the patient can go back home.</en>
+					<de>Der Magenballon wird eingesetzt und nach einer Stunde kann der Patient bereits wieder nach Hause gehen.</de>
+				</text>
+				<text>
+					<es>Durante la primera semana tras la colocación es aconsejable que no hagas grandes esfuerzos.</es>
+					<en>In the first week after implantation, patients are recommended to not engage in strenuous activity.</en>
+					<de>In der ersten Woche nach der Einsetzung wird von größeren Anstrengungen abgeraten.</de>
+				</text>
+				<text>
+					<es>Habitualmente los pacientes tardan entre 24 y 48 horas en reincorporarse a su vida laboral.</es>
+					<en>Normally patients go back to work between 24 and 48 hours after surgery.</en>
+					<de>Für gewöhnlich können die Patienten 24 bzw. 48 Stunden nach dem Eingriff ihrer beruflichen Tätigkeit wieder nachgehen.</de>
+				</text>
+			</item>
+		</cards>
+		<results>
+			<title>
+				<es>Resultados</es>
+				<en>RESULTS</en>
+				<de>ERGEBNISSE</de>
+			</title>
+			<text>
+				<es>Por su diseño y la seguridad que ofrece, el Tratamiento Balón Intragástrico se pueda llevar en el estómago hasta 6 meses.</es>
+				<en>Thanks to its design and safety, the Intragastric Balloon can be kept in the stomach up to 6 months.</en>
+				<de>Der Magenballon ist für eine sichere Tragedauer von 6 Monaten im Magen ausgelegt.</de>
+			</text>
+			<text>
+				<es>Gracias a su diseño es más seguro el proceso de colocación y el de retirada.</es>
+				<en>Thanks to its design, the implantation and removal process is safer.</en>
+				<de>Dank seines Designs ist die Einsetzung und Entfernung des Magenballons noch sicherer.</de>
+			</text>
+			<text>
+				<es>El tratamiento de Balón Intragástico ofrece 24 meses de seguimiento para consolidar la pérdida de peso.</es>
+				<en>The Intragastric Balloon treatment offers a 24 months of follow-ups to consolidate weight loss.</en>
+				<de>Die Behandlung mit dem Magenballon umfasst auch eine 24-monatige Nachbeobachtung zur Stabilisierung des Gewichtsverlusts.</de>
+			</text>
+		</results>
+		<info>
+			<title>
+				<es>Solicita información del método Balón Intragástrico</es>
+				<en>Request information about iBalloon method</en>
+				<de>Mehr Information über die Magenballon Methode</de>
+			</title>
+		</info>
+	</content>
+</page>

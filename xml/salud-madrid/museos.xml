@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Cirugía Obesidad Madrid</es>
+			<en>Obesity Clinic Madrid</en>
+			<de>Fettleibigkeit Chirurgie Madrid</de>
+		</title>
+		<description>
+			<es>Realiza tu tratamiento de la obesidad en Madrid y disfruta de su cultura clásica, moderna e innovadora, sus museos y tres de las mejores pinacotecas del mundo</es>
+			<en>Undergo your obesity treatment in Madrid and enjoy its classic, modern and innovative culture, as well as its museums and the world three-best picture galleries</en>
+			<de>Lassen Sie Ihre Fettleibigkeit in Madrid behandeln und genießen Sie klassische, moderne und innovative Kultur, Museen und drei der besten Pinakotheken der Welt.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, madrid, españa, europa, cultura, museo, pinacoteca, turismo, viaje</es>
+			<en>obesity, treatment, madrid, spain, europe, culture, museum, picture gallery, tourism, trip</en>
+			<de>Fettleibigkeit, Behandlung, Madrid, Spanien, Europa, Kultur, Museum, Pinakothek, Tourismus, Reise</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+		<title>
+			<es> ARTE, CULTURA E HISTORIA PARA TUS SENTIDOS</es>
+			<en>ART, CULTURE AND HISTORY TO INDULGE YOUR SENSES</en>
+			<de>KUNST, KULTUR UND GESCHICHTE FÜR DIE SINNE</de>
+		</title>
+			<img>slider_museo1.jpg</img>
+			<alt>
+				<es>Museos Madrid</es>
+				<en>Museos Madrid</en>
+				<de>Museos Madrid</de>
+			</alt>
+		</slider>
+		<slider>
+				<title>
+			<es>TODO MADRID ES ARTE</es>
+			<en>MADRID IS 100% ART</en>
+			<de>GANZ MADRID IST KUNST!</de>
+		</title>
+			<img>slider_museo2.jpg</img>
+			<alt>
+				<es>Museos Madrid</es>
+				<en>Museos Madrid</en>
+				<de>Museos Madrid</de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#Arte, cultura e historia para tus sentidos#/div-#</es>
+				<en>#div class="title_slider_metodo"-#Art, culture and history to indulge your senses#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Kunst, kultur und geschichte für die sinne#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+			
+		</message>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#Todo Madrid es arte#/div-#</es>
+				<en>#div class="title_slider_metodo"-#Madrid is 100% art#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Ganz Madrid ist Kunst!#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+			
+		</message>
+	</messages>
+	<breadcrumbs>
+		<item>
+			<name>
+				<es>Volver Madrid es Salud</es>
+				<en>Madrid means Health</en>
+				<de>Madrid ist Gesundheit</de>
+			</name>
+			<link>
+				<es>/salud-madrid</es>
+				<en>/madrid-healthcare</en>
+				<de>/gesundheit-madrid</de>
+			</link>
+		</item>
+		<active>
+			<name>
+				<es>Museos</es>
+				<en>Museums</en>
+				<de>Museen</de>
+			</name>
+		</active>
+	</breadcrumbs>
+	<content>
+		<left>
+			<text>
+				<es>Actualmente Madrid cuenta con #b-#más de 123 museos#/b-# entre los que se encuentran 3 de las mejores pinacotecas del mundo.</es>
+				<en>Madrid currently has #b-#more than 123 museums#/b-#, among which are 3 of the best picture galleries in the world.</en>
+				<de>In Madrid stehen Ihnen #b-#mehr als 123 Museen#/b-# zur Auswahl, unter ihnen befinden sich die drei bedeutendsten Gemäldegalerien weltweit.</de>
+			</text>
+			<text>
+				<es>En el denominado Paseo del Arte, situado a escasos 15 minutos del EMIO, se concentran en poco más de un kilómetro el #b-#Museo del Prado, el Thyssen-Bornemisza y el Reina Sofía#/b-#. Seguramente el Paseo del Arte sea uno de los lugares del mundo con mayor concentración de belleza.</es>
+				<en>The so-called Paseo del Arte (the Art Walk), only 15 minutes away from EMIO, concentrates #b-#the Prado, the Reina Sofía and the Thyssen-Bornemisza Museums#/b-# in the range of appriximately one kilometre. The Paseo del Arte is probably one of the places of world with the highest concentration of beauty.</en>
+				<de>Im so genannten Paseo del Arte, welcher gerade einmal 15 Minuten von EMIO entfernt ist, befinden sich innerhalb von etwas mehr als einem Kilometer die Museen #b-#Museo del Prado, Museo Thyssen-Bornemisza und das Museo Reina Sofía#/b-#. Bei dem Paseo del Arte handelt es sich um einen der Bereiche mit der höchsten Konzentration von Kunst weltweit.</de>
+			</text>
+		</left>
+		<right>
+			<text>
+				<es>A tan sólo 3 minutos andando del EMIO se encuentra el museo más visitado de Madrid: #b-#El Museo del Real Madrid#/b-#.</es>
+				<en>Just 3-minute walk away from EMIO, you will find Madrid’s most visited museum: #b-#The Real Madrid Museum#/b-#.</en>
+				<de>Nur 3 Minuten zu Fuß von EMIO entfernt befindet sich das meistbesuchte Museum Madrids: #b-#das Museum von Real Madrid#/b-#.</de>
+			</text>
+			<text>
+				<es>Desde la cultura clásica, hasta el arte más innovador, te invitamos a descubrir toda la oferta cultural de Madrid:</es>
+				<en>We invite you to discover Madrid’s complete cultural offer from the classic culture to the most innovative art:</en>
+				<de>Von der Klassik bis hin zu innovativer Kunst laden wir Sie ein, das kulturelle Angebot Madrids kennenzulernen:</de>
+			</text>
+		</right>
+		<cards>
+			<card>
+				<title>
+					<es>Paseo del Arte</es>
+					<en>Paseo del Arte</en>
+					<de>Paseo del Arte</de>
+				</title>
+				<img>img_museo1.jpg</img>
+				<alt>
+					<es>Paseo del Arte Madrid</es>
+					<en>Paseo del Arte Madrid</en>
+					<de>Paseo del Arte Madrid</de>
+				</alt>
+				<text>
+					<es>El Museo del Prado, el Thyssen, el Reina Sofía... y mucho más. Un recorrido imprescindible para todos los amantes del arte.</es>
+					<en>The Prado, the Reina Sofía and the Thyssen Museums... and much more. A must-see tour for all art lovers.</en>
+					<de>Die Museen Museo del Prado, Museo Thyssen-Bornemisza, Museo Reina Sofía... und vieles mehr befinden sich dort. Ein unentbehrlicher Rundgang für jeden Kunstliebhaber.</de>
+				</text>
+				<link>
+					<es>http://www.esmadrid.com/paseo-del-arte/</es>
+					<en>http://www.esmadrid.com/en/paseo-del-arte-en/</en>
+					<de>http://www.esmadrid.com/de/die-kunstmeile-in-madrid</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Grandes centros culturales</es>
+					<en>Major cultural centres</en>
+					<de>Bedeutende Kulturzentren</de>
+				</title>
+				<img>img_museo2.jpg</img>
+				<alt>
+					<es>Grandes centros culturales Madrid</es>
+					<en>Major cultural centres Madrid</en>
+					<de>Bedeutende Kulturzentren Madrid</de>
+				</alt>
+				<text>
+					<es>Edificios singulares destinados a mostrar el arte en su estado más puro.</es>
+					<en>Unique buildings designed to show art in its purest state.</en>
+					<de>Einzigartige Gebäude, die darauf ausgelegt sind, Ihnen die Kunst in ihrer reinsten Form näher zu bringen.</de>
+				</text>
+				<link>
+					<es>http://www.esmadrid.com/grandes-centros-culturales/</es>
+					<en>http://www.esmadrid.com/en/en-grandes-centros-culturales</en>
+					<de>http://www.esmadrid.com/de/kunst-und-kultur-madrid/</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Casas museo</es>
+					<en>House-museums</en>
+					<de>Museumshäuser</de>
+				</title>
+				<img>img_museo3.jpg</img>
+				<alt>
+					<es>Casas museo Madrid</es>
+					<en>House-museums Madrid</en>
+					<de>Museumshäuser Madrid</de>
+				</alt>
+				<text>
+					<es>No pierdas la oportunidad de visitar antiguos palacetes convertidos en auténticos museos.</es>
+					<en>Don’t miss the opportunity to visit some old palaces converted into authentic museums.</en>
+					<de>Lassen Sie sich nicht die Gelegenheit entgehen, historische, in Museen umgestaltete Palais zu besuchen.</de>
+				</text>
+				<link>
+					<es>http://www.esmadrid.com/casas-museo/</es>
+					<en>http://www.esmadrid.com/en/house-museums/</en>
+					<de>http://www.esmadrid.com/de/museumshauser-madrid/</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Fundaciones culturales y exposiciones</es>
+					<en>Cultural fundations and other exhibition halls</en>
+					<de>Kulturstiftungen und andere Ausstellungen</de>
+				</title>
+				<img>img_museo4.jpg</img>
+				<alt>
+					<es>Fundaciones culturales y exposiciones Madrid</es>
+					<en>Cultural fundations and other exhibition halls Madrid</en>
+					<de>Kulturstiftungen und andere Ausstellungen Madrid</de>
+				</alt>
+				<text>
+					<es>Destinadas a promover la cultura a través de conferencias, exposiciones y diferentes eventos a lo largo del año.</es>
+					<en>Designed to promote culture through conferences, exhibitions and different events throughout the year.</en>
+					<de>Besuchen Sie eine der diversen Kulturstiftungen, deren Ziel die Förderung der Kultur durch Vorträge, Ausstellungen und andere Veranstaltungen im Laufe des Jahres ist.</de>
+				</text>
+				<link>
+					<es>http://www.esmadrid.com/fundaciones-culturales-y-otras-salas-de-exposiciones/</es>
+					<en>http://www.esmadrid.com/en/madrid-art-galleries/</en>
+					<de>http://www.esmadrid.com/de/kunstgalerien-madrid</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Museos para niños</es>
+					<en>Museums for children</en>
+					<de>Museen für Kinder</de>
+				</title>
+				<img>img_museo5.jpg</img>
+				<alt>
+					<es>Museo Real Madrid</es>
+					<en>Real Madrid Mueum</en>
+					<de>Real Madrid Museen</de>
+				</alt>
+				<text>
+					<es>Aprender y divertirse en Madrid. ¡No todos los museos son para mayores!</es>
+					<en>Learning and having fun in Madrid. Not all the museums are for adults!</en>
+					<de>Spielerisch lernen in Madrid: Nicht alle Museen sind nur für Erwachsene!</de>
+				</text>
+				<link>
+					<es>http://www.esmadrid.com/museos-para-ninos-madrid/</es>
+					<en>http://www.esmadrid.com/en/madrid-art-and-culture/</en>
+					<de>http://www.esmadrid.com/de/kunst-und-kultur-madrid/</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Museos científicos</es>
+					<en>Science museums</en>
+					<de>Wissenschaftliche Museen</de>
+				</title>
+				<img>img_museo6.jpg</img>
+				<alt>
+					<es>Museos de Ciencia Madrid</es>
+					<en>Science museums Madrid</en>
+					<de>Wissenschaftliche Museen Madrid</de>
+				</alt>
+				<text>
+					<es>Descubre la historia de la ciencia y del ser humano en los museos de Madrid.</es>
+					<en>Discover science and human history in Madrid’s museums.</en>
+					<de>Entdecken Sie die Geschichte der Wissenschaft und des Menschen in den wissenschaftlichen Museen Madrids.</de>
+				</text>
+				<link>
+					<es>http://www.esmadrid.com/ruta-de-museos-cientificos/</es>
+					<en>http://www.esmadrid.com/en/madrid-art-and-culture/</en>
+					<de>http://www.esmadrid.com/de/kunst-und-kultur-madrid/</de>
+				</link>
+			</card>
+		</cards>
+	</content>
+</page>

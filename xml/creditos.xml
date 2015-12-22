@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creditos>
+	<item>
+		<img>logos_footer1.png</img>
+		<alt>
+			<es>Salud Madrid</es>
+			<en>Madrid Health</en>
+			<de>Madrid Gesundheit</de>
+		</alt>
+	</item>
+	<item>
+		<img>logos_footer2.png</img>
+		<alt>
+			<es>Comunidad de Madrid</es>
+			<en>Madrid's Community</en>
+			<de>Madrid-Community</de>
+		</alt>
+	</item>
+	<item>
+		<img>logos_footer3.png</img>
+		<alt>
+			<es>Universidad de Navarra</es>
+			<en>Navarra University</en>
+			<de>Navarra Universität</de>
+		</alt>
+	</item>
+	<item>
+		<img>logos_footer4.png</img>
+		<alt>
+			<es>Universidad Autónoma de Madrid</es>
+			<en>Autonomous University of Madrid</en>
+			<de>Autonomen Universität von Madrid</de>
+		</alt>
+	</item>
+	<item>
+		<img>logos_footer5.png</img>
+		<alt>
+			<es>Universidad San Pablo</es>
+			<en>San Pablo CEU University</en>
+			<de>San Pablo CEU Universität</de>
+		</alt>
+	</item>
+	<item>
+		<img>logos_footer6.png</img>
+		<alt>
+			<es>Universidad Alfonso X El Sabio</es>
+			<en>Alfonso X University</en>
+			<de>Alfonso X Universität</de>
+		</alt>
+	</item>
+	<item>
+		<img>logos_footer7.png</img>
+		<alt>
+			<es>Sociedad Española de Cirugía Plástica y Estética</es>
+			<en>Spanish Society of Plastic Surgery</en>
+			<de>Spanischen Gesellschaft für Plastische Chirurgie</de>
+		</alt>
+	</item>
+	<item>
+		<img>logos_footer8.png</img>
+		<alt>
+			<es>Ilustre Colegio Oficial de Médicos de Madrid</es>
+			<en>Official College of Physicians of Madrid</en>
+			<de>Offizielle College of Physicians von Madrid</de>
+		</alt>
+	</item>
+</creditos>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Tratamiento Obesidad España</es>
+			<en>Obesity treatment Spain</en>
+			<de>Fettleibigkeit Behandlung Spanien</de>
+		</title>
+		<description>
+			<es>Con EMIO la mejor sanidad a tu alcance. Disfruta en Madrid de una de las mejores sanidades del mundo y aprovecha tu viaje para eliminar tu problema de obesidad</es>
+			<en>EMIO offers the best healthcare designed for you. Enjoy in Madrid one of the world-best healthcare systems and take advantage of your trip to solve your obesity problem</en>
+			<de>Mit EMIO steht Ihnen das beste Gesundheitswesen zu Verfügung. Erleben Sie in Madrid eines der besten Gesundheitswesen der Welt und nutzen Sie Ihre Reise, um Ihr Problem der Fettleibigkeit zu beseitigen.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, cirugia, madrid, españa, turismo, salud, sanidad, viaje</es>
+			<en>obesity, treatment, method, surgery, madrid, spain, tourism, health, healthcare, trip</en>
+			<de>Fettleibigkeit, Behandlung, Methode, Chirurgie, Madrid, Spanien, Tourismus, Gesundheit, Gesundheitswesen, Reise</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>LA MEJOR SANIDAD A TU ALCANCE</es>
+				<en>THE BEST HEALTHCARE DESIGNED FOR YOU</en>
+				<de>EINES DER BESTEN GESUNDHEITSSYSTEME STEHT IHNEN OFFEN</de>
+			</title>
+			<img>slider_madridsalud1.jpg</img>
+			<alt>
+				<es>Madrid Salud 1</es>
+				<en>Madrid Health 1</en>
+				<de>Madrid Gesundheit 1</de>
+			</alt>
+		</slider>
+		<slider>
+		<title>
+				<es>MADRID TE ESTÁ ESPERANDO</es>
+				<en>MADRID IS WAITING FOR YOU</en>
+				<de>MADRID ERWARTET SIE!</de>
+			</title>
+			<img>slider_madridsalud2.jpg</img>
+			<alt>
+				<es>Madrid Salud 2</es>
+				<en>Madrid Health 2</en>
+				<de>Madrid Gesundheit 2</de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#La mejor sanidad a tu alcance#/div-#</es>
+				<en>#div class="title_slider_metodo"-#The best healthcare designed for you#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Eines der besten gesundheitssysteme steht ihnen offen#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+		</message>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#Madrid te está esperando#/div-#</es>
+				<en>#div class="title_slider_metodo"-#Madrid is waiting for you#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Madrid erwartet sie!#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-##/p-#</es>
+				<en>#p class="txt_slider_metodo"-##/p-#</en>
+				<de>#p class="txt_slider_metodo"-##/p-#</de>
+			</text>
+		</message>
+	</messages>
+	<content>
+		<left>
+			<text>
+				<es>#b-#La sanidad española es considerada como una de las mejores del mundo.#/b-# La organización Mundial de la Salud (OMS) la sitúa en la 7ª posición de salud en el mundo. La OMS en este Informe señala que el pueblo español se clasifica SEGUNDO, en relación con su grado de satisfacción con la calidad que reciben de su sistema sanitario. La revista Newsweek la coloca en 3ª posición.</es>
+				<en>#b-#Spanish healthcare is considered to be one of the best in the world.#/b-# According to the World Health Organisation (WHO), it is ranked seventh in world healthcare, SECOND in terms of quality satisfaction with the healthcare system and third according to the Newsweek journal.</en>
+				<de>#b-#Das spanische Gesundheitssystem gilt als eines der besten weltweit.#/b-# Laut der Weltgesundheitsorganisation (WHO) liegt das spanische Gesundheitssystem unter den sieben besten der ganzen Welt. Was das Zufriedenheitsniveau der spanischen Bevölkerung mit ihrem Gesundheitssystem in Sachen Qualität betrifft, belegt es sogar den ZWEITEN Platz zufolge des Berichts der WHO. Entsprechend eines Rankings der Zeitschrift Newsweek rangiert das spanische Gesundheitssystem auf dem 3. Platz.</de>
+			</text>
+			<text>
+				<es>#b-#Los médicos españoles se forman durante 6 a 7 años#/b-# antes de obtener su cualificación y recibir su licenciatura. Las especializaciones, como es el caso de los cirujanos, implican más años de estudio y formación antes de recibir su licenciatura.</es>
+				<en>#b-#Spanish doctors study between 6 and 7 years#/b-# before earning their qualification and degree. Specialisations, as in the case of surgeos, imply additional years of study and training in order to be awarded the corresponding degree.</en>
+				<de>#b-#In Spanien werden die Ärzte 6 bis 7 Jahre lang ausgebildet,#/b-# bevor sie ihre Zulassung und Titel erhalten. Im Fall von Fachärzten wie beispielsweise Chirurgen sind sogar weitere Studien- und Ausbildungsjahre erforderlich, um das Studium abzuschließen.</de>
+			</text>
+			<text>
+				<es>#b-#España es un país sumamente respetado en la comunidad médica europea#/b-# por su alta calidad de vida como demuestra el hecho de que los españoles son considerados unas de las personas más sanas del mundo ya que tienen el promedio más alto de vida en la Unión Europea (80 años para mujeres y 74 para los hombres)</es>
+				<en>#b-#Spain is a highly respected country in the European medical community#/b-# for its high quality of life. As a matter of fact, Spaniards are among the healthiest people in the world, with the highest average life-expectancy rate (80 years for women and 74 for men).</en>
+				<de>#b-#Spanien genießt dank seiner hohen Lebensqualität ein hohes Ansehen in den medizinischen Kreisen Europas.#/b-# Dies wird durch die Tatsache belegt, dass die spanische Bevölkerung als eine der gesündesten weltweit gilt, da sie über die höchste durchschnittliche Lebenserwartung in der Europäischen Union verfügt (80 Jahre bei Frauen und 74 Jahre bei Männern).</de>
+			</text>
+		</left>
+		<right>
+			<text>
+				<es>#b-#ESPAÑA es la 2º potencia turística mundial con infraestructuras turísticas de alto nivel#/b-#, la mejor oferta de compras, historia, cultura, gastronomía, un clima excelente, parajes maravillosos y "fiesta".</es>
+				<en>#b-#SPAIN is the second most popular tourist destination in the world with high-level tourism infrastructures#/b-#, the best offer in terms of shopping, history, gastronomy, excellent climate, wonderful landscapes and fiesta.</en>
+				<de>#b-#SPANIEN ist das zweitbeliebteste Reiseland weltweit und verfügt über eine ausgezeichnete sowie hochwertige touristische Infrastruktur.#/b-# Außerdem überzeugt Spanien durch optimale Shoppingmöglichkeiten ebenso wie durch sein historisches, kulturelles und gastronomisches Angebot, das angenehme Klima, beeindruckende Landschaften und sein „Party“-Angebot.</de>
+			</text>
+			<text>
+				<es>#b-#Madrid, la capital de España, situada en el centro geográfico del país y con acceso a cualquier punto del país#/b-# en menos de hora y media por avión o tres horas en Tren de Alta Velocidad ofrece a sus visitantes la mejor oferta turística de compras, cultural, deportiva, de ocio, espectáculos y gastronomía de toda España.</es>
+				<en>#b-#Madrid, Spain’s capital, is located at the geographical center of the country with easy access to any part of Spain#/b-# in less than one hour and a half by plane or three hours by high-speed train (AVE). Madrid offers its visitors the best tourist offer in terms of shopping, culture, sports, entertainment and gastronomy of the entire country.</en>
+				<de>#b-#Madrid ist die Hauptstadt von Spanien und befindet sich geografisch im Zentrum des Landes. Daher ist von Madrid aus jeder Ort Spaniens#/b-# leicht in weniger als eineinhalb Stunden per Flugzeug oder drei Stunden per Hochgeschwindigkeitszug zu erreichen.</de>
+			</text>
+		</right>
+		<cards>
+			<card>
+				<title>
+					<es>Alojamiento</es>
+					<en>Accomodation</en>
+					<de>Unterkunft</de>
+				</title>
+				<img>img_madridsalud1.jpg</img>
+				<alt>
+					<es>Alojamiento Madrid</es>
+					<en>Accomodation Madrid</en>
+					<de>Unterkunft Madrid</de>
+				</alt>
+				<text>
+					<es>Madrid es #b-#una de las ciudades más acogedoras y amables con los turistas de todo el mundo.#/b-# Personas abiertas, cercanas y acostumbradas a tratar a los turistas con el máximo cariño y respeto.</es>
+					<en>Madrid is #b-#one of the most tourist-friendly and welcoming city of the world.#/b-# Open-minded and tourist-friendly people that are used to welcome tourists with great charm and respect.</en>
+					<de>Madrid ist #b-#eine der gastfreundlichsten Städte weltweit.#/b-# Seine Einwohner sind offen, freundlich, respektvoll im Umgang und helfen Touristen gerne weiter.</de>
+				</text>
+				<link>
+					<es>/salud-madrid/alojamiento</es>
+					<en>/madrid-healthcare/accomodation</en>
+					<de>/gesundheit-madrid/unterkunft</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Museos</es>
+					<en>Museums</en>
+					<de>Museen</de>
+				</title>
+				<img>img_madridsalud2.jpg</img>
+				<alt>
+					<es>Museos Madrid</es>
+					<en>Museums Madrid</en>
+					<de>Museen Madrid</de>
+				</alt>
+				<text>
+					<es>Actualmente Madrid cuenta con #b-#más de 123 museos#/b-# entre los que se encuentran 3 de las mejores pinacotecas del mundo.</es>
+					<en>Madrid currently has #b-#more than 123 museums#/b-#, among which are 3 of the best picture galleries in the world.</en>
+					<de>In Madrid stehen Ihnen #b-#mehr als 123 Museen#/b-# zur Auswahl, unter ihnen befinden sich die drei bedeutendsten Gemäldegalerien weltweit.</de>
+				</text>
+				<link>
+					<es>/salud-madrid/museos</es>
+					<en>/madrid-healthcare/museums</en>
+					<de>/gesundheit-madrid/museen</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Compras</es>
+					<en>Shopping</en>
+					<de>Shopping</de>
+				</title>
+				<img>img_madridsalud3.jpg</img>
+				<alt>
+					<es>Compras Madrid</es>
+					<en>Shopping Madrid</en>
+					<de>Einkaufs Madrid</de>
+				</alt>
+				<text>
+					<es>#b-#Madrid es actualmente la Capital de las Compras en Europa.#/b-# En sus calles podrás encontrar desde las más prestigiosas tiendas de lujo internacionales, a mercados de arte, mercadillos al aire libre hasta comercios centenarios.</es>
+					<en>#b-#Madrid is currently Europe’s shopping capital.#/b-# On its streets you will find the most prestigious international luxury boutiques, art and open-air markets and even centuries-old shops.</en>
+					<de>#b-#Madrid gilt als die Shoppinghauptstadt Europas.#/b-# In den Straßen Madrids finden Sie Geschäfte der prestigeträchtigsten internationalen Luxusmarken ebenso wie Kunstmärkte, Märkte unter freiem Himmel bis hin zu Geschäften, die auf eine über hundertjährige Unternehmensgeschichte zurückblicken.</de>
+				</text>
+				<link>
+					<es>/salud-madrid/compras</es>
+					<en>/madrid-healthcare/shopping</en>
+					<de>/gesundheit-madrid/einkaufen</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Espectáculos</es>
+					<en>Shows</en>
+					<de>Aufführungen</de>
+				</title>
+				<img>img_madridsalud4.jpg</img>
+				<alt>
+					<es>Espectáculos Madrid</es>
+					<en>Shows in Madrid</en>
+					<de>Shows in Madrid</de>
+				</alt>
+				<text>
+					<es>Disfruta durante tu estancia en Madrid de los mejores espectáculos internacionales y de espectáculos exclusivos solamente posibles en nuestra ciudad.</es>
+					<en>During your stay in Madrid, enjoy the best and most exclusive international shows you can only find in our city.</en>
+					<de>Genießen Sie während Ihres Aufenthalts in Madrid die besten internationalen und exklusivsten Veranstaltungen, die nur in dieser Stadt gezeigt werden.</de>
+				</text>
+				<link>
+					<es>/salud-madrid/espectaculos</es>
+					<en>/madrid-healthcare/shows</en>
+					<de>/gesundheit-madrid/shows</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Eventos y Ferias</es>
+					<en>Events and Fairs</en>
+					<de>Events und Messen</de>
+				</title>
+				<img>img_madridsalud5.jpg</img>
+				<alt>
+					<es>Eventos y Ferias Madrid</es>
+					<en>Events and Fairs in Madrid</en>
+					<de>Events und Messen in Madrid</de>
+				</alt>
+				<text>
+					<es>Madrid tiene actualmente #b-#una de las economías más pujantes de todas las regiones de Europa#/b-# y en ella se concentran los más prestigiosos eventos y ferias a nivel internacional.</es>
+					<en>Madrid has currently #b-#one the most vibrant economies in Europe#/b-# and there you can find the most prestigious international events and fairs.</en>
+					<de>Madrids #b-#Wirtschaft zählt zu den aufstrebenden und stärksten Wirtschaften ganz Europas#/b-# und so ist es auch nicht verwunderlich, dass Madrid Schauplatz zahlreicher prestigeträchtiger Veranstaltungen und international anerkannter Fachmessen ist.</de>
+				</text>
+				<link>
+					<es>/salud-madrid/eventos-y-ferias</es>
+					<en>/madrid-healthcare/events-and-fairs</en>
+					<de>/gesundheit-madrid/events-und-nessen</de>
+				</link>
+			</card>
+		</cards>
+	</content>
+</page>

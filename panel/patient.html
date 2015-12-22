@@ -1,0 +1,287 @@
+<section id="content">
+	<section class="hbox stretch">
+		<section>
+			<section class="vbox">
+				<section class="scrollable padder">
+					<section class="row m-b-md">
+						<div class="col-sm-4">
+	                      <h3 class="col-xs-12 m-b-xs text-black ng-binding"><i style="color: rgb(0, 160, 172); font-size: 25px;" class="fa fa-user text-info-lt"></i> {{p_search.nombre+' '+p_search.apellidos}}</h3>
+						</div>
+					</section>
+					<div class="row">
+						<div class="col-md-4">
+							<div class="row">
+								
+								<span ng-if="edit_patient == 0">
+									<!-- Módulo de información del paciente -->
+									<div class="col-xs-12">
+										<section class="panel panel-success b-a">
+											<div class="panel-heading b-b">
+												<a class="font-bold">{{patient.info[lang]}}</a>
+											</div>
+											<div class="panel-body">
+												<p>{{dictionary.fields.name[lang]}}: {{p_search.nombre+' '+p_search.apellidos}}</p>
+												<p>{{dictionary.fields.mail[lang]}}: {{p_search.email}}</p>
+												<p>{{dictionary.fields.telf[lang]}}: {{p_search.telf}}</p>
+												<p>{{dictionary.fields.direction[lang]}}: {{p_search.direccion}}, {{p_search.provincia}}, {{p_search.cp}}, {{p_search.pais}}</p>
+												<p>{{dictionary.fields.treatment[lang]}}: {{p_search.tratamiento}}</p>
+												<p>{{dictionary.fields.team[lang]}}: {{p_search.equipo}}</p>
+												<p>{{dictionary.fields.language[lang]}}: {{p_search.idioma}}</p>
+												<div class="line line-dashed b-b line-lg pull-in"></div>
+												<p>Fecha alta: {{p_search.fecha}}</p>
+												<p>Fecha activación: {{p_search.activacion}}</p>
+												<p>Contrato: {{p_search.contrato}}</p>
+												<p>{{dictionary.fields.via[lang]}}: {{p_search.via}}</p>
+												<p>{{dictionary.fields.conocido[lang]}}: {{p_search.conocido}}</p>
+												<a ng-click="showFormEditPatient(1)" class="btn btn-s-md btn-default">{{dictionary.fields.edit[lang]}}</a>
+											</div>
+										</section>
+									</div>
+									<!-- / Módulo de información del paciente -->
+								</span>
+								
+								<span ng-if="edit_patient == 1">
+									<!-- Módulo de registro de pacientes -->
+		                 				<div class="col-xs-12">
+					                      <section class="panel panel-success b-a">
+					                        <div class="panel-heading b-b">
+					                          <a href="#" class="font-bold">{{patient.edit_info[lang]}}</a>
+					                        </div>
+					                        <div class="panel-body">
+					                          <i ng-click="showFormEditPatient(0)" class="fa fa-times text btn pull-right"></i> 
+						                      <form name="registro" novalidate>
+						                      	<div class="form-group">
+						                      		<label>{{dictionary.fields.name[lang]}}*</label>
+													<input ng-model="pct.nombre" type="text" placeholder="{{p_search.nombre}}" name="name" class="form-control">
+												</div>
+												<div class="form-group">
+						                      		<label>{{dictionary.fields.surname[lang]}}*</label>
+													<input ng-model="pct.apellidos" type="text" placeholder="{{p_search.apellidos}}" name="surname" class="form-control">
+												</div>
+												<div class="form-group">
+													<div class="row">
+														<div class="col-sm-6">
+															<label>{{dictionary.fields.mail[lang]}}*</label>
+															<input ng-model="pct.email" type="email" placeholder="{{p_search.email}}" name="mail" class="form-control">
+															<div ng-show="registro.mail.$touched && !registro.$pristine">
+																<span ng-show="registro.mail.$error.email" class="alert">{{dictionary.alerts.mailpattern[lang]}}</span>
+															</div>
+														</div>
+														<div class="col-sm-6">
+															<label>{{dictionary.fields.telf[lang]}}*</label>
+															<input ng-model="pct.telf" type="text" name="telf" placeholder="{{p_search.telf}}" ng-pattern="/^((\+?34([ \t|\-])?)?[9|6|7]((\d{1}([ \t|\-])?[0-9]{3})|(\d{2}([ \t|\-])?[0-9]{2}))([ \t|\-])?[0-9]{2}([ \t|\-])?[0-9]{2})$/" class="form-control">
+															<div ng-show="registro.telf.$touched && !registro.$pristine">
+																<span ng-show="registro.telf.$error.pattern" class="alert">{{dictionary.alerts.pattern[lang]}}</span>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="form-group">
+													<div class="row">
+														<div class="col-sm-4">
+															<label>{{dictionary.fields.cp[lang]}}</label>
+															<input ng-model="pct.cp" type="text" placeholder="{{p_search.cp}}" name="cp" class="form-control">
+														</div>
+														<div class="col-sm-4">
+															<label>{{dictionary.fields.city[lang]}}</label>
+															<input ng-model="pct.provincia" type="text" placeholder="{{p_search.provincia}}" name="city" class="form-control">
+														</div>
+														<div class="col-sm-4">
+															<label>{{dictionary.fields.country[lang]}}</label>
+															<input ng-model="pct.pais" type="text" name="country" placeholder="{{p_search.pais}}" class="form-control">
+														</div>
+													</div>
+												</div>
+												<div class="form-group">
+						                      		<label>{{dictionary.fields.direction[lang]}}</label>
+													<input ng-model="pct.direccion" type="text" name="direction" placeholder="{{p_search.direccion}}" class="form-control">
+												</div>
+												<div class="form-group">
+													<div class="row">
+														<div class="col-sm-6">
+															<label>{{dictionary.fields.language[lang]}}</label>
+															<select ng-model="pct.lang" class="form-control m-b">
+																<option value="es" ng-selected="p_search.idioma=='es'">Español</option>
+																<option value="en" ng-selected="p_search.idioma=='en'">Inglés</option>
+															</select>
+														</div>
+													</div>
+												</div>
+												<div class="form-group">
+													<div class="row">
+														<div class="col-sm-6">
+															<label>{{dictionary.fields.via[lang]}}</label>
+															<input ng-model="pct.via" type="text" name="via" placeholder="{{p_search.via}}" class="form-control">
+														</div>
+														<div class="col-sm-6">
+															<label>{{dictionary.fields.conocido[lang]}}</label>
+															<input ng-model="pct.conocido" type="text" name="conocido" placeholder="{{p_search.conocido}}" class="form-control">
+														</div>
+													</div>
+												</div>
+												<div class="form-group">
+													<label>{{dictionary.fields.treatment[lang]}}</label>
+													<input ng-model="pct.tratamiento" type="text" name="treatment" placeholder="{{p_search.tratamiento}}" class="form-control">
+												</div>
+												<div class="form-group">
+													<label>{{dictionary.fields.team[lang]}}</label>
+													<input ng-model="pct.equipo" type="text" name="team" placeholder="{{p_search.equipo}}" class="form-control">
+												</div>
+						                        <input type="submit" class="btn btn-sm btn-default" ng-click="editPatient()" ng-disabled="!registro.$valid" value="{{dictionary.fields.edit[lang]}}">
+						                      </form>
+						                    </div>
+					                      </section>
+					                    </div>
+				                   <!-- / Módulo de registro de pacientes -->
+								</span>
+								
+								<!-- Módulo de subida de archivos -->
+								<div class="col-xs-12">
+									<section class="panel panel-success b-a">
+				                        <div class="panel-heading b-b">
+				                          <a class="font-bold">{{patient.form_upload.title[lang]}}</a>
+				                        </div>
+				                        <div class="panel-body">
+					                      <form role="form" name="archivos" novalidate enctype="multipart/form-data">
+					                        <div class="form-group">
+					                          <label>{{patient.form_upload.name[lang]}}* <!-- <small>({{patient.form_upload.pattern[lang]}})</small> --></label>
+					                          <!-- Este input limita los caracteres permitidos del nombre de archivo -->
+					                          <!-- <input type="text" name="nombre" ng-model="archivo.nombre" class="form-control" required ng-pattern="/^[a-zA-Z]*$/"> -->
+					                          <input type="text" name="nombre" ng-model="archivo.nombre" class="form-control" required>
+					                          <div ng-show="archivos.nombre.$touched && !archivos.$pristine">
+												  <span ng-show="archivos.nombre.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+											  </div>
+					                        </div>
+					                        <div class="form-group">
+					                        	<input type="file" fileread="fileread" ng-model="archivo.arch">
+												<!-- <input id="filestyle-0" file-model="myfile" class="filestyle" type="file" ng-model="file.archivo" name="archivo" data-classinput="form-control inline v-middle input-s" data-classbutton="btn btn-default" data-icon="false" style="position: fixed; left: -500px;"> -->
+					                        </div>
+					                        <button type="submit" class="btn btn-sm btn-default" ng-click="uploadFile()" ng-disabled="!archivos.$valid">{{patient.form_upload.button[lang]}}</button>
+					                      </form>
+					                      <div class="line line-dashed b-b line-lg pull-in"></div>
+					                      <ul class="list-group list-group-lg no-bg auto">                          
+					                          <span class="list-group-item clearfix" ng-repeat="arch in ficheros">
+					                            <span class="clear">
+					                              <span class="pull-right m-r-sm">
+					                              	<a href="{{arch.url}}" target="_blank"><i class="fa fa-cloud-download text btn"></i></a>
+					                              	<i ng-click="eraseFile(arch.id_documentation)" class="fa fa-times text btn"></i> 
+					                              </span>
+					                              <span class="not-read">{{arch.nombre}}</span>
+					                              <br><small>{{arch.fecha}}</small>
+					                            </span>
+					                          </span>
+					                      </ul>
+					                    </div>
+				                    </section>
+								</div>
+								<!-- Módulo de subida de archivos -->
+								
+							</div>
+						</div>
+						
+						
+						<!-- Módulo de anotaciones -->
+                 		<div class="col-md-4">
+		                   <div class="row">
+		                   		<div class="col-xs-12">
+			                   	  <section class="panel panel-success b-a notas">
+			                        <div class="panel-heading b-b">
+			                          <a class="font-bold">{{patient.notes[lang]}}</a>
+			                        </div>
+			                        <div class="panel-body">
+			                        	<ul class="list-group list-group-lg no-bg auto">                          
+				                          <a class="list-group-item clearfix" ng-repeat="nota in notes">
+				                            <span class="clear">
+				                              <span class="pull-right m-r-sm">
+				                              	<i ng-click="setEdit($index)" class="fa fa-pencil-square-o text btn"></i>
+				                              	<i ng-click="eraseNote(nota.id_note)" class="fa fa-times text btn"></i> 
+				                              </span>
+				                              <span class="not-read">{{nota.titulo}}</span>
+				                              <br><small>{{nota.fecha}}</small>
+				                              <p class="text-muted clear">{{nota.texto}}</p>
+				                            </span>
+				                          </a>
+				                        </ul>
+				                        <div class="line line-dashed b-b line-lg pull-in"></div>
+					                    <form role="form" name="anotaciones" novalidate>
+					                        <div class="form-group">
+					                            <label>{{patient.note_title[lang]}}*</label>
+					                            <input type="text" name="titulo_nota" ng-model="nota.titulo" class="form-control" required>
+												<div ng-show="anotaciones.titulo_nota.$touched && !anotaciones.$pristine">
+													<span ng-show="anotaciones.titulo_nota.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+												</div>
+					                        </div><div class="form-group">
+					                            <label>{{patient.note_text[lang]}}*</label>
+					                            <textarea rows="2" name="txt_nota" ng-model="nota.texto" required></textarea>
+												<div ng-show="anotaciones.txt_nota.$touched && !anotaciones.$pristine">
+													<span ng-show="anotaciones.txt_nota.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+												</div>
+					                        </div>
+					                        <button type="submit" ng-click="doSomethingWithNote()" class="btn btn-sm btn-default" ng-disabled="!anotaciones.$valid">{{patient.note_button[lang]}}</button>
+					                    </form>
+				                    </div>
+			                      </section>
+			                    </div>
+		                   </div>
+                 		</div>
+		                <!-- / Módulo de anotaciones -->
+						
+                 		<!-- Módulo de creación de citas -->
+                 		<div class="col-md-4">
+		                   <section class="panel panel-success b-a">
+		                        <div class="panel-heading b-b">
+		                          <a class="font-bold">Agregar cita</a>
+		                        </div>
+		                        <div class="panel-body">
+			                      <form role="form" name="add_event" novalidate>
+			                      		<div class="form-group">
+				                      		<label>{{patient.form_citas.title[lang]}}*</label>
+				                      		<input class="form-control" type="text" name="titulo" ng-model="calendar.titulo" required>
+				                      		<div ng-show="add_event.titulo.$touched && !add_event.$pristine">
+												<span ng-show="add_event.titulo.$error.required" class="alert">{{dictionary.alerts.required[lang]}}</span>
+											</div>
+				                      	</div>
+				                      	<span ng-if="user.type != 0">
+					                      	<div class="form-group">
+					                      		<label>{{patient.form_citas.comment[lang]}}</label>
+					                      		<textarea class="form-control" rows="7" name="comentario" ng-model="calendar.comentario"></textarea>
+					                      	</div>
+					                    </span>
+				                      	<div id="datetimepicker1" class="input-append date">
+					                      	<div class="input-group">
+					                      		<label>{{patient.form_citas.start_date[lang]}}*</label>
+												<input id="fecha_entrada" ng-model="calendar.fecha" class="form-control" placeholder="yyyy-mm-dd hh:mm:ss" type="text" name="fecha">
+												<span class="input-group-btn add-on">
+											      <i class="i i-calendar" data-time-icon="fa fa-clock-o" data-date-icon="fa fa-calendar"></i>
+											    </span>
+											</div>
+										</div><br>
+										<span ng-if="user.type != 0">
+					                      	<div class="form-group">
+					                      		<label>{{patient.form_citas.type[lang]}}*</label>
+					                      		<select name="tipo" ng-model="temp.tipo" class="form-control m-b" required>
+					                      			<option value="cita" selected>{{patient.form_citas.quote[lang]}}</option>
+					                      			<option value="recordatorio">{{patient.form_citas.reminder[lang]}}</option>
+					                      		</select>
+					                      	</div>
+					                    </span>
+					                    <div class="form-group">
+				                      		<label>{{patient.form_citas.text[lang]}}</label>
+				                      		<textarea class="form-control" rows="7" name="texto" ng-model="calendar.texto"></textarea>
+				                      	</div>
+			                      		<input class="btn btn-sm btn-default" type="submit" ng-click="createEvent()" value="{{patient.form_citas.button[lang]}}" ng-disabled="!add_event.$valid">
+			                      	</form>
+			                    </div>
+		                      </section>
+                 		</div>
+		                <!-- / Módulo de creación de citas -->
+                 	</div>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+
+<script src="js/file-input/bootstrap-filestyle.min.js"></script>
+<script src="js/jquery.ui.touch-punch.min.js"></script>
+<script src="js/jquery-ui-1.10.3.custom.min.js"></script>

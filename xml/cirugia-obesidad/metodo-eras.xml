@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Método Endo-Sleeve ERAS</es>
+			<en>Endo-Sleeve ERAS Method</en>
+			<de>ERAS-Verfahren: Endoskopische Magensleeve-Resektion</de>
+		</title>
+		<description>
+			<es>Método Endo-Sleeve ERAS (Endo Reduction Adaptable Surgery) reducción de estómago sin cicatrices externas mediante endoscopia, solución integral para la obesidad</es>
+			<en>Endo-Sleeve ERAS (Endo Reduction Adaptable Surgery) Method, stomach reduction by endoscopy without external scars, obesity global solution</en>
+			<de>ERAS (Endo Reduction Adaptable Surgery) Verfahren, endoskopische Magensleeve-Resektion, Magenverkleinerung durch Endoskopie, ohne äußere Narben, ganzheitliche Lösung gegen die Fettleibigkeit.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, endo-sleeve, apollo, eras, endoscopia, ciruga, incisiones, reduccion, estomago</es>
+			<en>obesity, treatment, method, endo-sleeve, apollo, eras, endoscopy, surgery, incisions, reduction, stomach</en>
+			<de>Fettleibigkeit, Behandlung, Methode, Magensleeve-Resektion, Apollo, ERAS, Endoskopie, Chirurgie, Einschnitte, Verkleinerung, Magen</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>Método Eras</es>
+				<en>ERAS Method</en>
+				<de>ERAS Verfahren</de>
+			</title>
+			<img>slider_generico1.jpg</img>
+		</slider>
+		<slider>
+			<title>
+				<es>Método Eras</es>
+				<en>ERAS Method</en>
+				<de>ERAS Verfahren</de>
+			</title>
+			<img>slider_generico2.jpg</img>
+		</slider>
+	</sliders>
+	<messages>
+			<message>
+			<img>
+				<es>pastilla_eras1.png</es>
+				<en>pastilla_eras1_en.png</en>
+				<de>pastilla_eras1_de.png</de>
+			</img>
+			<alt>
+				<es>Endo-Sleeve ERAS</es>
+				<en>Endo-Sleeve ERAS</en>
+				<de>ERAS-Verfahren Endoskopische Magensleeve-Resektion</de>
+			</alt>
+		</message>
+		<message>
+			<img>
+				<es>pastilla_eras2.png</es>
+				<en>pastilla_eras2_en.png</en>
+				<de>pastilla_eras2_de.png</de>
+			</img>
+			<alt>
+				<es>Endo-Sleeve ERAS</es>
+				<en>Endo-Sleeve ERAS</en>
+				<de>ERAS-Verfahren Endoskopische Magensleeve-Resektion</de>
+			</alt>
+		</message>
+	</messages>
+	<content>
+		<img>
+			<name>metodo3.jpg</name>
+			<alt>
+				<es>Metodo eras obesidad emio</es>
+				<en>Obesity ERAS Method emio</en>
+				<de>Fettleibigkeit ERAS-Verfahren emio</de>
+			</alt>
+		</img>
+		<description>
+			<text>
+				<es>El #b-#Método ERAS (Endo Reduction Adaptable Surgery)#/b-# es un protocolo diseñado por un equipo multidisciplinar de #b-#más de 25 profesionales de la obesidad#/b-#, entre endoscopistas, cirujanos bariátricos, nutricionistas, psicólogos, expertos en actividad física, tecnólogos y fisiterapeutas.</es>
+				<en>The #b-#ERAS (Endo Reduction Adaptable Surgery) Method#/b-# is a protocol designed for a multidisciplinary team of more than 25 Obesity professionals, among whom endoscopists, bariatric surgeons, nutritionists, psychologists, experts in physical exercise, technologists and physical therapists.</en>
+				<de>Das ERAS (Endo Reduction Adaptable Surgery)-Verfahren ist ein Protokoll, das von einem multidisziplinären Team von mehr als 25 Spezialisten für Adipositas (Übergewicht)erstellt wurde, darunter Endoskopie-Spezialisten, Spezialisten der bariatrischen Chirurgie, Ernährungswissenschaftler, Psychologen, Experten für körperlicher Aktivität, technische Fachkräfte und Physiotherapeuten.</de>
+			</text>
+			<text>
+				<es>Ofrece una solución integral a las personas con problemas de obesidad moderada, acometiendo el problema con multiterapia profesional adaptativa y la importante ayuda del Endo-Sleeve ERAS como base terapéutica, al tratarse del último avance en la #b-#reducción de estómago sin cicatrices externas por abordaje endoscópico.#/b-#</es>
+				<en>It offers a global solution for people suffering from moderate obesity, solving the condition with professional adaptive multitherapy and the significant help of the Endo-Sleeve ERAS method as a therapeutic basis. The latter is the latest development in #b-#endoscopic stomach reduction without external scars.#/b-#</en>
+				<de>Bietet eine komplette Lösung für Personen mit einem mäßigen Übergewichtsproblem. Das Problem wird mit professionell anpassbaren Multi-Therapien angegangen, zusammen mit der wichtigen Hilfe von Endo-Sleeve ERAS als therapeutischer Grundlage, da es sich um den jüngsten Fortschritt der #b-#Magenverkleinerung mit durch Endosdkopie ohne äußere Narben handelt#/b-#.</de>
+			</text>
+			<text>
+				<es>El Protocolo ERAS se sostiene sobre cinco pilares diseñados para #b-#aprovechar al máximo los beneficios del EndoSleeve ERAS#/b-#, tanto en la primera fase de pérdida de peso como en la última de estabilización del metabolismo. Cada herramienta terapéutica y diagnóstica se complementan en un bloque unido de solución multidisciplinar combinando el Diagnóstico Obesity Profile (Perfil de Obesidad), la Reducción de Estómago Adaptativa por Endoscopia EndoSleeve ERAS y la Nutrición Multifases de Endo Reducción.</es>
+				<en>The ERAS protocol rests on five pillars designed to make patients #b-#benefit the most from the Endo-Sleeve ERAS#/b-#, both in the first weight-loss phase and in the last one of metabolic stabilisation. Each therapeutic and diagnostic tool integrates one another, offering a global multidisciplinary solution that combines the Obesity Profile Test, the Endo-Sleeve ERAS Endoscopic Stomach Reduction Adaptable Surgery and the Endo Reduction Multiphase Nutrition.</en>
+				<de>Das ERAS Protokoll basiert auf fünf Säulen die entworfen wurden um #b-#die Vorteile des EndoSleeve ERAS optimal zu nutzen#/b-#, sowohl in der ersten Phase des Gewichtsverlusts, wie auch in der letzten, bei der Stabilisierung der Stoffwechsels. Therapeutische Hilfsmittel und Diagnose ergänzen sich in einer Zusammenfassung von multidisziplinären Lösungen durch die Kombination von Übergewichtsprofil Test (Diagnose), anpassbarer Magenverkleinerung durch endoskopische EndoSleeve ERAS Verfahren und Ernährung Multiphasen der Endo Reduktion.</de>
+			</text>
+			<text>
+				<es>#div class="titulo_metodo"-#EndoSleeve ERAS (Endo Reduction Adaptable Surgery)#/div-#</es>
+				<en>#div class="titulo_metodo"-#Endo-Sleeve ERAS (Endo Reduction Adaptable Surgery)#/div-#</en>
+				<de>#div class="titulo_metodo"-#EndoSleeve ERAS (Endo Reduction Adaptable Surgery) Verfahren#/div-#</de>
+			</text>
+			<text>
+				<es>El novedoso EndoSleeve ERAS proporciona la Reducción de Estómago por Endoscopia y sin Citactrices más provechosa a cada paciente en particular, pues es adaptable a las características anatómicas del estómago, hábitos alimentarios, perfil emocional, niveles de hambre…</es>
+				<en>The new Endo-Sleeve ERAS provides each patient with the most beneficial Scarless Endoscopic Stomach Reduction, particularly because it is adaptable to the stomach’s anatomical characteristics, eating habits, emotional profile, hunger levels, etc.</en>
+				<de>Der neuartige EndoSleeve ERAS bietet eine Magenverkleinerung durch Endoskopie ohne Narben, die für jeden Patienten vorteilhafter ist, da sie sich an die anatomischen Eigenschaften des Magens, Essgewohnheiten, emotionales Profil, unterschiedliche Niveaus des Hungergefühls etc. anpasst.</de>
+			</text>
+			<text>
+				<es>En función de los resultados obtenidos en el Diagnóstico Obesity Profile, el equipo médico especializado decide entre las siguientes técnicas endoscópicas y sin cicatrices, cuál sería la más efectiva en el caso particular de cada paciente:</es>
+				<en>According to the results obtained in the Obesity Profile Test, the specialised medical team determines the most effective technique for each patient among the following scarless endoscopic methods:</en>
+				<de>Je nach Ergebnis des Übergewichtsprofil Tests (Diagnose) entscheidet das spezialisierte Ärzteteam, welche der folgenden endoskopischen Techniken ohne Narben für den jeweiligen Patienten, die wirksamste ist:</de>
+				<ul>
+					<li>
+						<es>#b-#Método Endo-Sleeve con sutura Apollo#/b-#. EMIO es el #b-#centro sanitario europeo con mayor experiencia en número de pacientes#/b-# con ésta técnica.</es>
+						<en>#b-#Apollo Endo-Sleeve Method with Suturing#/b-#. EMIO is the most experienced European healthcare centre in terms of number of patients treated with this technique.</en>
+						<de>#b-#Endo-Sleeve Methode mit Darmnaht Apollo#/b-#. IMEO ist das europäisch Gesundheitszentrum mit der meisten Erfahrung anhand der Patientenzahl in dieser Technik.</de>
+					</li>
+					<li>
+						<es>#b-#Nuevo Método POSE Reforzado#/b-# exclusivo de EMIO en Europa. Con la nueva técnica reforzada pasamos de 4 Puntos de Sutura en Fundus, a 9 Puntos en Fundus y 3 en el Antro Gástrico, aplicando la nueva sutura flexible de fijación de larga duración, consiguiendo más reducción en la capacidad estomacal, mayor reducción en la sensación de apetito y más durabilidad.</es>
+						<en>#b-#New Enhanced POSE Method#/b-# exclusively offered by EMIO in Europe With this new enhanced technique the 4 sutures in the fundus turn into 9 sutures in the fundus and 3 in the antrum thanks to the new flexible long-term retention sutures. The results are a more reduced stomach capacity, a lower appetite and a longer durability. </en>
+						<de>#b-#Neues verstärktes POSE-Verfahren#/b-# ausschließlich bei IMEO in Europa. Mit der neuen verstärkten Technik, machen wir statt 4 Stichen im Fundus (Magengrund) 9 Stiche und 3 im Magen-Antrum. Dafür benutzen wir die neuen flexiblen Fäden, von langer Lebensdauer und erzielen dadurch eine reduzierte Magenkapazität, größere Verringerung des Appetits und längere Haltbarkeit. </de>
+					</li>
+					<li>
+						<es>#b-#EndoSleeve mixto NewPOSE Reforzado + APOLLO#/b-#. A veces la anatomía estomacal del paciente puede sugerir el uso de la técnica mixta para obtener los resultados de máxima eficacia, abordando la intervención endoscópica con una combinación de ambos métodos.</es>
+						<en>#b-#Mixed Endo-Sleeve New Enhanced POSE + APOLLO#/b-# Sometimes patients’ stomach anatomies may require the use of a mixed technique in order to achieve the most effective results. Consequently, endoscopic surgery can be combined with both methods.</en>
+						<de>#b-#Gemischtes neues verstärktes POSE-Verfahren + APOLLO#/b-#. Um optimale Ergebnisse zu erreichen, kann aufgrund der Magenanatomie des Patienten manchmal die gemischte Technik angebracht sein. Dabei wirdfür endoskopische Eingriffeeine Kombination beider Methoden angewandt. </de>
+					</li>
+				</ul>
+			</text>
+		</description>
+		<treatment>
+			<text>
+				<es>#div class="titulo_metodo"-#Diagnóstico Obesity Profile (Perfil de Obesidad)#/div-#</es>
+				<en>#div class="titulo_metodo"-#Obesity Profile Diagnostics#/div-#</en>
+				<de>#div class="titulo_metodo"-#Übergewichtsprofil Test (Diagnose)#/div-#</de>
+			</text>
+			<text>
+				<es>En el European Medical Institute of Obesity hemos diseñado un protocolo Diagnóstico Obesity Profile, que nos permite evaluar multitud de factores primordiales en el paciente, que interferirán directamente en su pérdida de peso y aumentará enormemente la efectividad del tratamiento.</es>
+				<en>At the European Medical Institute of Obesity, we have designed an Obesity Profile Diagnostics protocol, allowing us to assess multiple key factors in patients that will directly affect their weight loss and significantly increase the treatment effectiveness</en>
+				<de>Am IMEO (European Medical Institute of Obesity) wurde das Protokoll für den Übergewichtsprofil Test (Diagnose) entworfen, der uns ermöglicht, eine Vielzahl von wesentlichen Faktoren des Patienten zu bewerten, die direkt an seiner Gewichtsabnahme beteiligt sind, und die enorm den Erfolg der Behandlung steigern.</de>
+				<ul>
+					<li>
+						<es>#b-#Endoscopia Anatómica del paciente:#/b-# Dependiendo del tamaño inicial, la morfología, la rigidez o elasticidad… que presente el estómago del paciente, el uso de una técnica quirúrgica u otra será decisivo para conseguir la máxima efectividad en cada caso.</es>
+						<en>#b-#Patient’s Anatomic Endoscopy#/b-# According to the initial size, morphology, stiffness or elasticity, etc., of the patient’s stomach, using a surgical technique rather than another will be decisive to achieve the highest effectiveness in each case.</en>
+						<de>#b-#Anatomische Endoskopie des Patienten:#/b-# Je nach der ursprünglichen Größe, der Morphologie, der Härte oder Elastizität... die der Magen des Patienten aufweist, ist die Auswahl der angebrachten chirurgischen Technik ausschlaggebend, um einen optimalen Erfolg zu erzielen.</de>
+					</li>
+					<li>
+						<es>#b-#Electro Intersticial Scan Hormonal EIS:#/b-# Podremos determinar los niveles de:</es>
+						<en>#b-#Hormonal EIS Electro Interstitial System:#/b-# The levels of the following elements shall be determined: </en>
+						<de>#b-#Elektro Interstitieller hormoneller Scanner EIS:#/b-# Damit können wir die folgende Niveaus bestimmen: </de>
+						<ul>
+							<li>
+								<es>#b-#Cortisol#/b-#. Estrés y tendencia a usar la grasa como fuente de energía.</es>
+								<en>>#b-#Cortisoll#/b-#. Stress and tendency to use fat as a source of energy.</en>
+								<de>#b-#Kortisol#/b-#. Stress und Tendenz, Fett als Energiequelle zu benutzen.</de>
+							</li>
+							<li>
+								<es>#b-#DHEA#/b-#. Niveles de vitalidad.</es>
+								<en>#b-#DHEA#/b-#. Vitality levels.</en>
+								<de>#b-#DHEA (Dehydroepiandrosteron)#/b-#. Niveau von Vitalität.</de>
+							</li>
+							<li>
+								<es>#b-#Tirotropina TSH#/b-#. Regulador metabólico del Tiroides.</es>
+								<en>#b-#Thyroid-stimulating hormone (TSH).#/b-# Thyroid metabolic regulator.</en>
+								<de>#b-#TSH (Thyreoidea-stimulierendes Hormon).#/b-# Reguliert den Stoffwechsel der Schilddrüse.</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Electro Intersticial Metabólico y Neuroemocional EIS:#/b-#</es>
+						<en>#b-#EIS Metabolic and Neuroemotional Electro-interstitial:#/b-#</en>
+						<de>#b-#Electro interstitieller metabolisch und neuroemotionaler EIS:#/b-#</de>
+						<ul>
+							<li>
+								<es>#b-#Leptina#/b-#. Implicada en la sensación de hambre y ansiedad.</es>
+								<en>#b-#Leptin#/b-#. Hormone involved in the sense of hunger and satiety.</en>
+								<de>#b-#Leptin#/b-#. Verbunden mit dem Hungergefühl und innerlicher Unruhe.</de>
+							</li>
+							<li>
+								<es>#b-#Serotonina#/b-#. Control de la ansiedad y el estrés.</es>
+								<en>#b-#Serotonin#/b-#. Anxiety and stress control.</en>
+								<de>#b-#Serotonin#/b-#. Kontrolle von innerer Unruhe und Stress.</de>
+							</li>
+							<li>
+								<es>#b-#Dopamina#/b-#. Percepción de bienestar.</es>
+								<en>#b-#Dopamine#/b-#. Wellbeing perception.</en>
+								<de>#b-#Dopamin#/b-#. Wahrnehmung von Wohlbefinden.</de>
+							</li>
+							<li>
+								<es>#b-#Acetilcolina#/b-#. Aprendizaje y memoria a corto plazo.</es>
+								<en>#b-#Acetylcholine#/b-#. Learning and short-term memory.</en>
+								<de>#b-#Acetylcholin#/b-#. Lernen und Kurzzeitgedächtnis</de>
+							</li>
+							<li>
+								<es>#b-#Adrenalina/Noradrenalina#/b-#. Capacidad de respuesta y alerta.</es>
+								<en>#b-#Adrenaline/Noradrenaline#/b-#. Response and alert capacity.</en>
+								<de>#b-#Adrenalin/Noradrenalin#/b-#. Reaktionsfähigkeit und Wachsamkeit.</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Electro Impedancia TANITA Medical:#/b-# Analizador corporal y estimador metabólico de última generación.</es>
+						<en>#b-#TANITA Médico Bio-electrical Impedance:#/b-# Latest generation body scanner and metabolic estimator. </en>
+						<de>#b-#Elektrische Impedanz TANITA medizinischl:#/b-#Gerät für körperliche Analyse und Stoffwechsel-Berechner der neusten Generation.</de>
+						<ul>
+							<li>
+								<es>#b-#Índice de Tasa Metabólica#/b-#. Efectividad metabólica del paciente.</es>
+								<en>#b-#Metabolic Rate Index#/b-#. Metabolic efficiency of the patient.</en>
+								<de>#b-#Index der Stoffwechselrate#/b-#. Wirksamkeit des Stoffwechsels des Patienten.</de>
+							</li>
+							<li>
+								<es>#b-#Metabolismo Basal#/b-#. Consumo Kcal en reposo.</es>
+								<en>#b-#Basal Metabolism#/b-#. Caloric expenditure at rest.</en>
+								<de>#b-#Grundstoffwechsel#/b-#. Verbrauch von Kilokalorien im entspannten Zustand.</de>
+							</li>
+							<li>
+								<es>#b-#Composición Corporal#/b-#. Distribución de nuestro peso en grasa, agua y masa muscular.</es>
+								<en>#b-#Body Composition#/b-#. Weight distribution in terms of fat, muscle mass and water.</en>
+								<de>#b-#Körperzusammensetzung#/b-#. Verteilung unseres Gewichts in Fett, Wasser und Muskelmasse.</de>
+							</li>
+							<li>
+								<es>#b-#Equilibrio de Agua#/b-#. Hidratación celular, retención de líquidos y metabolismo celular.</es>
+								<en>#b-#Water Balance#/b-#. Cellular hydratation, water retention and cellular metabolism.</en>
+								<de>#b-#Wassergleichgewicht#/b-#. Flüssigkeitsversorgung der Zellen, Retention der Körperflüssigkeit und Zellstoffwechsel.</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Diagnóstico de Intolerancias Alimentarias:#/b-##/br-#Evaluando la reacción del Sistema Inmunitario frente a más de 400 alimentos y excipientes. El Departamento de Nutrición del European Medical Institute of Obesity ha diseñado un plan alimentario específico multifases que potencia a través de las ingestas diarias, los beneficios que aporta el EndoSleeve ERAS, trabajando sobre las siguientes cuestiones:</es>
+						<en>#b-#Food Intolerance Diagnosis:#/b-##/br-# Assessing the Immune System's reaction towards more than 400 foodstuffs and excipients. The Nutrition Department of the European Medical Institute of Obesity has created a specific multiphase nutrition plan, which will enhance the Endo-Sleeve ERAS’ benefits through the daily intake, by working on the following issues:</en>
+						<de>#b-#Diagnose Nahrungsmittelintoleranz:#/b-# Auswertung der Reaktion der Immunsystems auf mehr als 400 Lebensmittel und Trägerstoffe. Die Abteilung für Ernährung amIMEO (European Medical Institute of Obesity) hat einen spezifischen, Multiphasen-Ernährungsplan erstellt, bei dem durch die tägliche Nahrungsaufnahme die Vorteile die der EndoSleeve ERAS bietet, potenziert und folgende Themen bearbeitet werden:</de>
+						<ul>
+							<li>
+								<es>#b-#Afianzar la cicatrización interna de la intervención#/b-#, aumentando su durabilidad.</es>
+								<en>#b-#Stabilising the surgery’s internal ability to heal#/b-#, increasing its durability.</en>
+								<de>#b-#Stellt die innerliche Wundheilung nach dem Eingriff sicher#/b-# und erhöht die Haltbarkeit.</de>
+							</li>
+							<li>
+								<es>Proporcionando alimentación adaptativa multifases para #b-#mejorar los niveles de ansiedad, saciedad, hambre y bienestar#/b-#.</es>
+								<en>Supplying multiphase adaptive nutrition in order to #b-#improve levels of axiety, satiety, hunger and wellbeing#/b-#.</en>
+								<de>Liefert anpassungsfähige, Multiphasen Nahrung #b-#um das Niveau der innerlichen Unruhe, Sättigungsgefühl, Hunger und Wohlbefinden zu verbessern.#/b-#</de>
+							</li>
+							<li>
+								<es>#b-#Mejorar la Composición Corporal del paciente#/b-#, aumentando o manteniendo la masa muscular mientras incidimos en la pérdida de grasa.</es>
+								<en>#b-#Improving the patient’s Body Composition#/b-#, maintaining or increasing muscle mass while focusing on weight loss.</en>
+								<de>#b-#Die Körperzusammensetzung des Patienten zu verbessern#/b-#, die Muskelmasse zu erhöhen oder zu halten, während wir auf den Gewichtsverlust einwirken.</de>
+							</li>
+							<li>
+								<es>#b-#Mejorar los factores de salud del paciente#/b-#, incidiendo sobre el Síndrome Metabólico como la Diabetes II, Hipercolesterolemia o Hipertensión Arterial.</es>
+								<en>#b-#Improving the patient’s health factors#/b-#, focusing on the Metabolic Syndrome, such as diabetes II, high cholesterol or high blood pressure.</en>
+								<de>#b-#Die Gesundheitsfaktoren des Patienten zu verbessern#/b-# indem wir auf Stoffwechsel-Syndrome wie Diabetes II, Hypercholesterinämie oder Bluthochdruck einwirken.</de>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</text>
+		</treatment>
+		<results>
+			<text>
+				<es>Si quieres ampliar información de cada uno de estos métodos haz click en los siguientes enlaces:</es>
+				<en>For further information about each of these methods, please click on the following links:</en>
+				<de>Wenn Sie weitere Information zu diesen Methoden erhalten möchten, klicken Sie auf den folgenden Link:</de>
+			</text>
+			<text>
+				<es>#div class="row"-##div class="col-xs-12"-##div class="col-md-4 col-xs-6 img_include"-##div class="titulo_img_include"-#Nuevo Método POSE reforzado#/div-##div class="img_img_include"-##img title="Metodo Pose" alt="Metodo Pose" src="/img/item10_big.png"-##/div-##div class="txt_img_include"-##p-#Reducción de la capacidad estomacal del 30%#/p-##p-#Reducción moderada del apetito al reducir los niveles Ghrelina#/p-##/div-##/div-##div class="col-md-4 col-xs-6 img_include"-##div class="titulo_img_include"-#Nuevo POSE Reforzado + APOLLO#/div-##div class="img_img_include"-##img alt="metodo mixto pose reforzado apollo" src="/img/item9_big.png"-##/div-##div class="txt_img_include"-##p-#Reducción de la capacidad estomacal del 40%#/p-##p-#Reducción media del apetito al reducir los niveles Ghrelina#/p-##/div-##/div-##div class="col-md-4 col-xs-6 img_include"-##div class="titulo_img_include"-#Método Endo-Sleeve#/div-##div class="img_img_include"-##img title="Endo-Sleeve Apollo" alt="Endo-Sleeve Apollo" src="/img/item11_big.png"-##/div-##div class="txt_img_include"-##p-#Reducción de la capacidad estomacal del 50%#/p-##p-#Reducción ponderada del apetito al reducir la zona productora de Ghrelina#/p-##/div-##/div-##/div-##/div-#</es>
+				<en>#div class="row"-##div class="col-xs-12"-##div class="col-md-4 col-xs-6 img_include"-##div class="titulo_img_include"-#New Enhanced POSE Method#/div-##div class="img_img_include"-##img title="Pose surgery" alt="Pose surgery" src="/img/item10_big.png"-##/div-##div class="txt_img_include"-##p-#Reduction of the stomach capacity by 30%#/p-##p-#Moderate appetite reduction by decreasing ghrelin levels#/p-##/div-##/div-##div class="col-md-4 col-xs-6 img_include"-##div class="titulo_img_include"-#New Enhanced POSE + APOLLO#/div-##div class="img_img_include"-##img alt="metodo mixto pose reforzado apollo" src="/img/item9_big.png"-##/div-##div class="txt_img_include"-##p-#Reduction of the stomach capacity by 40%#/p-##p-#Average appetite reduction by decreasing ghrelin levels#/p-##/div-##/div-##div class="col-md-4 col-xs-6 img_include"-##div class="titulo_img_include"-#Endo-Sleeve Method#/div-##div class="img_img_include"-##img title="Apollo Endo-Sleeve" alt="Apollo Endo-Sleeve" src="/img/item11_big.png"-##/div-##div class="txt_img_include"-##p-#Reduction of the stomach capacity by 50%#/p-##p-#Weighted appetite reduction by limiting the ghrelin-producing area#/p-##/div-##/div-##/div-##/div-#</en>
+				<de>#div class="row"-##div class="col-xs-12"-##div class="col-md-4 col-xs-6 img_include"-##div class="titulo_img_include"-#Neues verstärktes POSE-Verfahren#/div-##div class="img_img_include"-##img title="POSE-Verfahren" alt="POSE-Verfahren" src="/img/item10_big.png"-##/div-##div class="txt_img_include"-##p-#Reduktion der Magenkapazität um 30%#/p-##p-#Gemäßigte Verringerung des Appetits durch Erniedrigung des Ghrelinspiegels (Hungerhormon)#/p-##/div-##/div-##div class="col-md-4 col-xs-6 img_include"-##div class="titulo_img_include"-#Neues verstärktes POSE-Verfahren + APOLLO#/div-##div class="img_img_include"-##img alt="metodo mixto pose reforzado apollo" src="/img/item9_big.png"-##/div-##div class="txt_img_include"-##p-#Reduktion der Magenkapazität um 40%#/p-##p-#Mittlere Verringerung des Appetits durch Erniedrigung des Ghrelinspiegels#/p-##/div-##/div-##div class="col-md-4 col-xs-6 img_include"-##div class="titulo_img_include"-#Endo-Sleeve Methode#/div-##div class="img_img_include"-##img title="Endoskopische Magensleeve-Resektion" alt="Endoskopische Magensleeve-Resektion" src="/img/item11_big.png"-##/div-##div class="txt_img_include"-##p-#Reduktion der Magenkapazität um 50%#/p-##p-#Abgewogene Reduktion des Appetits durch die Verkleinerung des Bereichs in dem das Ghrelin produziert wird.#/p-##/div-##/div-##/div-##/div-#</de>
+			</text>
+		</results>
+		<info>
+			<title>
+				<es>Solicita información del método ERAS</es>
+				<en>Request information about ERAS method</en>
+				<de>Mehr Information über die ERAS Methode</de>
+			</title>
+		</info>
+	</content>
+</page>

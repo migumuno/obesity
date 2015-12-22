@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Manga Gástrica</es>
+			<en>Gastric Sleeve</en>
+			<de>Magenschlauch</de>
+		</title>
+		<description>
+			<es>Manga Gástrica por Laparoscopia para pérdida total de peso superior al 72%. La mejor opción en problemas de Obesidad y Obesidad Severa. Cirugía muy poco invasiva</es>
+			<en>Gastric Sleeve by Laparoscopy for a total weight loss higher than 72% The best option for Obesity and Morbid Obesity. Minimally invasive surgery</en>
+			<de>Magenschlauch durch Laparoskopie für einen Gesamtgewichtsverlust von mehr als 72%. Die beste Option bei Problemen von Fettleibigkeit und schwerer Fettleibigkeit. Minimalinvasive Chirurgie</de>
+		</description>
+		<keywords>
+			<es>obesidad, severa, tratamiento, metodo, manga, gastrica, laparoscopia, cirugia, estomago, reduccion</es>
+			<en>obesity, morbid, severe, treatment, method, sleeve, gastric, laparoscopy, surgery, stomach, reduction</en>
+			<de>Fettleibigkeit, schwere, Behandlung, Methode, Schlauch, Magen, Laparoskopie, Chirurgie, Magen, Verkleinerung</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>Tratamiento Manga Gástrica</es>
+				<en>Gastric Sleeve Treatment</en>
+				<de>Behandlung Magenschlauch (Sleeve)</de>
+			</title>
+			<img>slider_generico1.jpg</img>
+		</slider>
+		<slider>
+			<title>
+				<es>Tratamiento Manga Gástrica</es>
+				<en>Gastric Sleeve Treatment</en>
+				<de>Behandlung Magenschlauch (Sleeve)</de>
+			</title>
+			<img>slider_generico2.jpg</img>
+		</slider>
+	</sliders>
+	<messages>
+			<message>
+			<img>
+				<es>pastilla_manga1.png</es>
+				<en>pastilla_manga1_en.png</en>
+				<de>pastilla_manga1_de.png</de>
+			</img>
+			<alt>
+				<es>Manga Gastrica</es>
+				<en>Gastric Sleeve</en>
+				<de>Magenschlauch</de>
+			</alt>
+		</message>
+				<message>
+			<img>
+				<es>pastilla_manga2.png</es>
+				<en>pastilla_manga2_en.png</en>
+				<de>pastilla_manga2_de.png</de>
+			</img>
+			<alt>
+				<es>Manga Gastrica</es>
+				<en>Gastric Sleeve</en>
+				<de>Magenschlauch</de>
+			</alt>
+		</message>
+	</messages>
+	<content>
+		<img>
+			<name>manga1.jpg</name>
+			<alt>
+				<es>Manga Gastrica</es>
+				<en>Gastric Sleeve</en>
+				<de>Magenschlauch</de>
+			</alt>
+		</img>
+		<description>
+			<text>
+				<es>#div class="titulo_metodo"-#La mejor opción en problemas de Obesidad y Obesidad Severa#/div-#</es>
+				<en>#div class="titulo_metodo"-#The best option for Obesity and Morbid Obesity#/div-#</en>
+				<de>#div class="titulo_metodo"-#Die beste Option bei Adipositas und schwerer Adipositas#/div-#</de>
+			</text>
+			<text>
+				<es>Los últimos estudios sitúan la Manga Gástrica como la mejor opción a largo plazo como solución definitiva en problemas de Obesidad y Obesidad Severa, y la resolución de comorbilidades como la Diabetes tipo 2 y la hipertensión.</es>
+				<en>The Gastric Sleeve is ranked by the latest studies as the best long-term option and final solution for Obesity and Morbid Obesity problems, as well as for comorbidities such as diabetes type 2 and high blood pressure.</en>
+				<de>Laut kürzlich durchgeführten Studien ist der Magenschlauch langfristig die beste Lösung, um Adipositas und schwerer Adipositas endgültig ein Ende zu setzen ebenso wie den damit einhergehenden Begleiterkrankungen, u.a. Diabetes Typ 2 und Bluthochdruck. </de>
+			</text>
+			<text>
+				<es>El Instituto Clínico de Florida presenta un estudio sobre 730 casos de pacientes intervenidos de Manga Gástrica (73% mujeres y 27% hombres) por técnica laparoscópica de mínima invasión, con un seguimiento de 5 años con los siguientes resultados:</es>
+				<en>The Instituto Clínico La Florida presents a study performed on 730 cases of patients undergoing the minimally invasive laparoscopic Gastric-Sleeve surgery (73% women and 27% men) with a 5-year follow-up. There are the results:</en>
+				<de>Das klinische Institut La Florida hat eine Studie mit 730 Patienten (73% Frauen und 27% Männer) vorgestellt, denen ein Magenschlauch durch ein minimal-invasives, laparoskopisches Verfahren eingesetzt wurde, wobei die Patienten anschließend 5 Jahre lang nachbeobachtet wurden, und ist zu folgendem Ergebnis gekommen:</de>
+				<ul>
+					<li>
+						<es>Mortalidad 0%</es>
+						<en>Mortality 0%</en>
+						<de>Sterblichkeitsrate 0%</de>
+					</li>
+					<li>
+						<es>Pérdida total de peso 72%</es>
+						<en>Total weight loss  72%</en>
+						<de>Gewichtsverlust insgesamt 72%</de>
+					</li>
+					<li>
+						<es>Tiempo medio intervención 79 min.</es>
+						<en>Average surgery time 79 min</en>
+						<de>Durchschnittliche Dauer des Eingriffs 79 min</de>
+					</li>
+					<li>
+						<es>Remisión Diabetes tipo II 81%</es>
+						<en>Type-II Diabetes remission 81%</en>
+						<de>Remission Diabetes Typ 2 81%</de>
+					</li>
+					<li>
+						<es>Remisión hipertensión 62,5%</es>
+						<en>High-blood-pressure remission 62.5%</en>
+						<de>Remission Bluthochdruck 62,5%</de>
+					</li>
+					<li>
+						<es>Infección herida 0,6%</es>
+						<en>Wound infection 0.6%</en>
+						<de>Entzündung der Wunde 0,6%</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>Las conclusiones de éste estudio indican a la Manga Gástrica por Laparoscopia como una técnica:</es>
+				<en>The conclusions of this study show the laparoscopic Gastric-Sleeve technique as:</en>
+				<de>Die Ergebnisse dieser Studie führen zu dem Schluss, dass die Einsetzung eines Magenschlauchs durch Laparoskopie ein sicheres Verfahren ist:</de>
+				<ul>
+					<li>
+						<es>Segura</es>
+						<en>Safe</en>
+						<de></de>
+					</li>
+					<li>
+						<es>Muy efectiva para el tratamiento de Obesidad y Obesidad Severa.</es>
+						<en>Highly effective to treat Obesity and Morbid Obesity.</en>
+						<de>äußerst wirksam zur Behandlung von Adipositas und schwerer Adipositas</de>
+					</li>
+					<li>
+						<es>Efectiva frente a la Diabetes tipo II.</es>
+						<en>Effective to treat type II diabetes.</en>
+						<de>wirksam gegen Diabetes Typ 2</de>
+					</li>
+					<li>
+						<es>Efectiva frente a la Hipertensión.</es>
+						<en>Effective to treat high blood pressure.</en>
+						<de>wirksam gegen Bluthochdruck.</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>El éxito de ésta intervención se debe a tres factores fundamentales:</es>
+				<en>This surgery’s success relies on three key factors:</en>
+				<de>Der Erfolg dieses Eingriffs ist auf drei zentrale Faktoren zurückzuführen:</de>
+			</text>
+			<text>
+				<es>#u-#1 Seguimiento Nutricional Online#/u-#</es>
+				<en>#u-#1 Online Nutritional Follow-up#/u-#</en>
+				<de>#u-#1 Ernährungsbezogene Online-Nachbeobachtung#/u-# </de>
+			</text>
+			<text>
+				<es>Es por ello que en el European Medical Institute of Obesity combinamos todos los especialistas necesarios para conseguir un cambio profundo en los hábitos del paciente, junto con la gran ayuda de la Manga Gástrica.</es>
+				<en>This is why the European Medical Institute of Obesity combines all the specialists that are required to achieve a deep change in the patient’s habits, with the significant help of the Gastric Sleeve.</en>
+				<de>Aus diesem Grund vereint das European Medical Institute of Obesity alle Experten, die notwendig sind, um eine tiefgreifende Veränderung der Gewohnheiten des Patienten zu erreichen, was erheblich durch den Magenschlauch unterstützt wird.</de>
+			</text>
+			<text>
+				<es>#u-#2 Fuerte efecto restrictivo#/u-#</es>
+				<en>#u-#2 Strong restrictive effect#/u-#</en>
+				<de>#u-#2 Starke restriktive Wirkung#/u-#</de>
+			</text>
+			<text>
+				<es>La intervención de #b-#Manga Gástrica permite disminuir la capacidad gástrica entre 400cc a 1000cc#/b-#, al aislar gran parte del estómago. Además el píloro actúa como una banda natural, restringiendo el paso de los alimentos. La suma de todos estos efectos, produce en el paciente un ingesta mínima de alimentos, obligándole a la masticación a reducir de forma importante las cantidades de comida diarias.</es>
+				<en>By isolating a considerable part of the stomach, the #b-#Gastric Sleeve surgery allows reducing the gastric capacity between 400 cc#/b-# and 1,000 cc. Furthermore, the pylorus acts as a natural barrier limiting the food passage. Taken together, these effects lead to a minimal food intake by obliging patients to considerably chew what they are eating.</en>
+				<de>Die Einsetzung des #b-#Magenschlauchs ermöglicht eine Verkleinerung der Magenkapazität zwischen 400 cc#/b-# und 1.000 cc, da ein Großteil des Magens „isoliert“ wird. Außerdem agiert der Magenpförtner als eine natürliche Barriere, die den Durchsatz der Nahrung einschränkt. Die Summe all dieser Wirkungen führt beim Patienten zu einer stark verringerten Lebensmittelzufuhr und zwingt ihn dazu, alles gründlich zu kauen, wodurch die tägliche Essensmenge drastisch reduziert wird.</de>
+			</text>
+			<text>
+				<es>#u-#3 Fuerte disminución de la sensación de hambre#/u-#</es>
+				<en>#u-#3 Significantly reduced sensation of hunger#/u-#</en>
+				<de>#u-#3 Starke Verringerung des Hungergefühls#/u-#</de>
+			</text>
+			<text>
+				<es>Al intervenir en una disfunción del fundus gástrico mediante la Manga Gástrica, eliminamos la mayor fuente de #b-#producción de la hormona grelina#/b-#, siendo ésta la principal responsable de la sensación de hambre.</es>
+				<en>When treating a gastric-fundus dysfunction with the Gastric Sleeve, we eliminate the main source producing the appetite-regulating ghrelin hormones.</en>
+				<de>Durch die Einsetzung des Magenschlauchs wird der gestörten Funktionsweise des Magenfundus ein Ende gesetzt und wir beseitigen so zugleich die größte Quelle zur #b-#Bildung des Hormons Ghrelin#/b-#, welches hauptsächlich für das Hungergefühl verantwortlich ist.</de>
+			</text>
+			<text>
+				<es>Con la #b-#Manga Gástrica#/b-# también se producen los siguientes efectos endocrinos que favorecen la pérdida de peso, la #b-#disminución de la Diabetes y la mejora en la Hipertensión#/b-#:</es>
+				<en>The Gastric Sleeve also causes the following endocrine effects promoting weight loss, diabetes reduction and high-blood-pressure improval:</en>
+				<de>Dank des #b-#Magenschlauchs#/b-# stellen sich auch die folgenden endokrinen Wirkungen ein, die einen Gewichtsverlust begünstigen, ebenso wie die #b-#Remission von Diabetes und eine Verbesserung des Bluthochdrucks:#/b-#</de>
+				<ul>
+					<li>
+						<es>Regula la secreción de insulina.</es>
+						<en>It regulates insulin release.</en>
+						<de>Die Ausschüttung von Insulin wird reguliert.</de>
+					</li>
+					<li>
+						<es>Aumenta la secreción de hormona de crecimiento.</es>
+						<en>It increases the growthhormone release.</en>
+						<de>Die Ausschüttung des Wachstumshormons wird gefördert.</de>
+					</li>
+					<li>
+						<es>Eleva la GLP1 encargada de regular el metabolismo de la glucosa.</es>
+						<en>It boosts GLP-1, which is responsible for regulating glucose in metabolism.</en>
+						<de>Das GLP-1 nimmt zu, welches für die Regulierung des Glukose-Stoffwechsels verantwortlich ist.</de>
+					</li>
+					<li>
+						<es>Aumenta la masa de células beta pancreáticas.</es>
+						<en>It enhances the pancreatic-beta-cell mass.</en>
+						<de>Die Beta-Zellmasse im Pankreas nimmt zu.</de>
+					</li>
+					<li>
+						<es>Relentiza el vaciado gástrico.</es>
+						<en>It slows down gastric emptying.</en>
+						<de>Die Entleerung des Magens wird verlangsamt.</de>
+					</li>
+					<li>
+						<es>Aumenta la producción del péptido PYY, con efecto reductor del apetito.</es>
+						<en>It increases the peptide YY, with an appetite-reducing effect.</en>
+						<de>Die Herstellung des Peptids YY (PYY), das eine appetitzügelnde Wirkung hat, wird angeregt.</de>
+					</li>
+				</ul>
+			</text>
+		</description>
+		<treatment>
+			<title>
+				<es>Tratamiento Completo Manga Gásrtica</es>
+				<en>Gastric-Sleeve Complete Treatment</en>
+				<de>Umfassende Behandlung mit dem Magenschlauch</de>
+			</title>
+			<duration>
+				<es>24 MESES</es>
+				<en>24 months</en>
+				<de>24 Monate</de>
+			</duration>
+			<text>
+				<es>#u-#Intervención y seguimiento#/u-#</es>
+				<en>#u-#Surgery and follow-up#/u-#</en>
+				<de>#u-#Eingriff und Nachbeobachtung#/u-#</de>
+				<ul>
+					<li>
+						<es>Intervención de Manga Gástrica, con todos las gastos incluidos, pruebas preoperatorias, honorarios médico y hospitalarios, preanestesia...</es>
+						<en>Gastric Sleeve surgery, with all costs included (pre-operative testing, medical and hospital fees, pre-anaesthesia, etc.)</en>
+						<de>Verfahren zur Einsetzung des Magenschlauchs, inkl. aller Kosten, präoperativen Untersuchungen, Arzt- und Krankhausgebühren, Kosten der Präanästhesie...</de>
+					</li>
+					<li>
+						<es>Las Consultas de Nutrición Online que necesite durante los 24 meses de su tratamiento</es>
+						<en>All the Online Nutrition Visits you need during the 24 months of treatment.</en>
+						<de>Die Online-Ernährungsberatung, die den Patienten 24 Monate lang im Rahmen seiner Behandlung begleitet.</de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#u-#Evaluación metabólica inicial#/u-#</es>
+				<en>#u-#Initial metabolic assessment#/u-#</en>
+				<de>#u-#Ursprüngliche Bewertung des Stoffwechsels#/u-#</de>
+				<ul>
+					<li>
+						<es>#b-#Estudio Metabólico y de Composición Corporal TANITA Médico Advance#/b-#</es>
+						<en>#b-#TANITA Médico Advance Metabolic and Body-composition Assessment#/b-#</en>
+						<de>#b-#Untersuchung des Stoffwechsels und der Körperzusammensetzung TANITA Médico Advance#/b-#</de>
+						<ul>
+							<li>
+								<es>Composición en masa muscular, grasa y agua</es>
+								<en>Composition according to muscle mass, fat and water</en>
+								<de>Zusammensetzung aus Muskelmasse, Fett und Wasser</de>
+							</li>
+							<li>
+								<es>Tasa metabólica y efectividad del metabolismo</es>
+								<en>Metabolic rate and efficiency</en>
+								<de>Stoffwechselrate und Wirkung des Stoffwechsels</de>
+							</li>
+							<li>
+								<es>Grasa visceral de riesgo cardiovascular</es>
+								<en>Visceral adiposity causing cardiovascular risk</en>
+								<de>Bauchfett (Viszeralfett), das ein kardiovaskuläres Risiko ist</de>
+							</li>
+							<li>
+								<es>Distribución de la composición corporal</es>
+								<en>Body-composition distribution</en>
+								<de>Verteilung der Körperzusammensetzung</de>
+							</li>
+							<li>
+								<es>Retención de líquidos</es>
+								<en>Fluid retention</en>
+								<de>Einlagerung von Flüssigkeiten</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analizador Intersticial EIS#/b-#</es>
+						<en>#b-#EIS Interstitial System#/b-#</en>
+						<de>#b-#Interstitieller Analysator EIS#/b-#</de>
+						<ul>
+							<li>
+								<es>Niveles de ansiedad y estrés (Cortisol-Serotonina)</es>
+								<en>Anxiety and stress levels (Cortisol-Serotonin)</en>
+								<de>Angst- und Stressniveau (Cortisol-Serotonin)</de>
+							</li>
+							<li>
+								<es>Sensación de hambre (Leptina)</es>
+								<en>Sense of hunger (Leptine)</en>
+								<de>Hungergefühl (Leptin)</de>
+							</li>
+							<li>
+								<es>Niveles de felicidad y autosatisfacción (Dopamina)</es>
+								<en>Happiness and self-satisfaction levels (Dopamine)</en>
+								<de>Glücklichkeits- und Selbstzufriedenheitsniveau (Dopamin)</de>
+							</li>
+							<li>
+								<es>Metabolismo Hormonal (Tiroides y Adrenales)</es>
+								<en>Hormonal metabolism (Thyroid and Adrenal Glands)</en>
+								<de>Hormonstoffwechsel (Schilddrüse und Nebennieren)</de>
+							</li>
+							<li>
+								<es>Capacidad de respuestas (Adrenalina-Noradrenalina)</es>
+								<en>Response capacity (Adrenaline-Noradrenaline)</en>
+								<de>Reaktionsfähigkeit (Adrenalin-Noradrenalin)</de>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<es>#b-#Analítica específica#/b-# de Bioquímica y Tiroides</es>
+						<en>#b-#Specific Biochemistry#/b-# and Thyroid tests</en>
+						<de>#b-#Spezifische Laboruntersuchung#/b-# der Biochemie und Schilddrüse</de>
+					</li>
+					<li>
+						<es>#b-#Estudio de Intolerancias Alimenticias#/b-# por Sistema de Biorresonancia MedTronik</es>
+						<en>#b-#Food Intolerance Study#/b-# via MED-Tronik Bioresonance System</en>
+						<de>#b-#Nahrungsmittelunverträglichkeitstest#/b-# durchMedTronik-Bioresonanz-System </de>
+					</li>
+				</ul>
+			</text>
+			<text>
+				<es>#div class="titulo_metodo"-#En que Consiste La Manga Gástrica#/div-#</es>
+				<en>#div class="titulo_metodo"-#What does the Gastric Sleeve consist of?#/div-#</en>
+				<de>#div class="titulo_metodo"-#Worin besteht das Verfahren mit Magenschlauch?#/div-#</de>
+			</text>
+			<text>
+				<es>La Manga Gástrica es un nuevo procedimiento de control de la obesidad. Este procedimiento es muy efectivo y seguro para tratar la obesidad y aquellas enfermedades que se deriban de ella como pueden ser la diabetes, el riesgo cardiovascular, la hipertensión, infertilidad,etc.</es>
+				<en>The Gastric Sleeve is the new Obesity-control procedure. It is a highly effective and safe surgery to treat Obesity and its comorbidities such as diabetes, cardiovascular risk, high blood pressure, infertility, etc.</en>
+				<de>Der Magenschlauch ist ein neues Verfahren zur Kontrolle von Adipositas. Dieses Verfahren ist äußerst wirksam und sicher, um Adipositas und die damit einhergehenden Begleiterkrankungen wie Diabetes, erhöhtes kardiovaskuläres Risiko, Bluthochdruck, Unfruchtbarkeit etc., zu behandeln.</de>
+			</text>
+			<text>
+				<es>#b-#En comparación con la Banda Gástrica#/b-# y el grapado del estómago (gastroplastia vertical), los datos clínicos nos indican que la pérdida de peso es superior a medio plazo #b-#y en comparación con el bypass gástrico#/b-# es similar aunque con menores complicaciones a largo plazo.</es>
+				<en>#b-#Compared with the Gastric#/b-# Band and Stapling (vertical gastroplasty), clinical data suggest a higher medium-term weight loss and, #b-#in comparison with the Gastric Bypass#/b-#, it is similar, even if with fewer long-term complications.</en>
+				<de>#b-#Im Vergleich zum Magenband#/b-# und dem Verfahren mit Magenklammern (vertikale Gastroplastik) zeigen uns die klinischen Daten, dass auf mittlere Sicht der Gewichtsverlust höher ist, und #b-#im Vergleich zum Magenbypass#/b-#,dass ähnliche Ergebnisse erzielt werden, wobei es jedoch beim Magenschlauch langfristig zu weniger Komplikationen kommt.</de>
+			</text>
+			<text>
+				<es>La intervención de Manga Gástrica se realiza por #b-#Cirugía Laparoscópica#/b-# por lo que la #b-#recuperación del paciente es rápida#/b-# dándose habitualmente en dos días el alta hospitalaria. Esta cirugía bariátrica consiste en reducir aproximadamente dos tercios del estómago, dejando más pequeño y en forma de tubo o manga. Al contrario de los que sucede en el bypass no hay que intervenir el intestino, pues no se trata de una cirugía que añada mala absorción de los alimentos.</es>
+				<en>The Gastric-Sleeve surgery is performed by laparoscopic surgery. As a consequence, patients experience a quick recovery and are generally discharged after two days from the hospital. This bariatric surgery consists of reducing approximately two thirds of the stomach, making it smaller and with a tube or hose shape. Unlike what happens with the Gastric Bypass, it is not necessary to perform surgery on the intestine because it is not a surgery that adds food malabsorption.</en>
+				<de>Der Magenschlauch wird durch ein #b-#laparoskopisches Verfahren#/b-# eingesetzt, sodassdie #b-#Regenerationszeit des Patientenkurz#/b-# ist unddieser normalerweise bereits zwei Tage nach dem Eingriff aus dem Krankenhaus entlassen werden kann. Dieser bariatrische Eingriff besteht in einer Verkleinerung des Magens um ungefähr zwei Drittel, sodass dieser kleiner wird und eine Rohr- bzw. Schlauchform aufweist. Im Gegensatz zur Bypass-OP bleibt der Darm bei diesem Eingriff unberührt, denn es handelt sich um kein Verfahren, das zu einer Malabsorption der Nahrung beiträgt.</de>
+			</text>
+		</treatment>
+		<cards>
+			<item>
+				<title>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS</en>
+					<de>NDIKATIONEN</de>
+				</title>
+				<img>icono_metodo1.png</img>
+				<alt>
+					<es>Indicaciones</es>
+					<en>SUGGESTIONS</en>
+					<de>NDIKATIONEN</de>
+				</alt>
+				<text>
+					<es>Pacientes con problemas de Obesidad y Obesidad Severa, con amplio historial de fracasos en dietas y tratamientos no quirúrgicos.</es>
+					<en>Patients with problems of Obesity and Morbid Obesity and a long history of failures with diets and non-surgical treatments</en>
+					<de>Patienten mit Adipositas und schwerer Adipositas, die auf eine lange Geschichte von Misserfolgen bei Diäten und nicht-chirurgischen Behandlungen zurückblicken.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</title>
+				<img>icono_metodo2.png</img>
+				<alt>
+					<es>Preoperatorio</es>
+					<en>PRE-OPERATIVE PHASE:</en>
+					<de>VOR DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Analítica preoperatoria</es>
+					<en>Pre-operative testing</en>
+					<de>Präoperative Laboruntersuchung</de>
+				</text>
+				<text>
+					<es>Electrocardiograma</es>
+					<en>Electrocardiogram (EKG)</en>
+					<de>Elektrokardiogramm</de>
+				</text>
+				<text>
+					<es>Consulta preoperatoria</es>
+					<en>Pre-operative visit</en>
+					<de>Beratungsgespräch vor der OP</de>
+				</text>
+				<text>
+					<es>Dieta líquida las 24 horas anteriores a la intervención</es>
+					<en>Liquid diet 24 hours before surgery</en>
+					<de>Flüssigdiät 24 Stunden vor dem Eingriff</de>
+				</text>
+				<text>
+					<es>En ayunas 8 horas antes de la intervención</es>
+					<en>Fasting 8 hours before the surgery</en>
+					<de>Sie müssen nüchtern zur Operation kommen, d.h. Sie dürfen während der letzten 8 Stunden vor dem Eingriff nichts essen und trinken.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>HOSPITALIZACIÓN</es>
+					<en>HOSPITAL STAY</en>
+					<de>EINWEISUNG IN DAS KRANKENHAUS</de>
+				</title>
+				<img>icono_metodo3.png</img>
+				<alt>
+					<es>HOSPITALIZACIÓN</es>
+					<en>HOSPITAL STAY</en>
+					<de>EINWEISUNG IN DAS KRANKENHAUS</de>
+				</alt>
+				<text>
+					<es>No se requiere hospitalización</es>
+					<en>Hospitalization is not required</en>
+					<de>Kein Krankenhausaufenthalt nötig</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Intervención</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</title>
+				<img>icono_metodo4.png</img>
+				<alt>
+					<es>Intervención</es>
+					<en>SURGERY</en>
+					<de>EINGRIFF</de>
+				</alt>
+				<text>
+					<es>La intervención se realiza por laparoscopia, siendo una técnica mínimamente invasiva. El cirujano se guiará por una microcamara que está conectada al monitor del quirófano para visualizar el abdomen.</es>
+					<en>The operation is performed by laparoscopy and is consequently a minimally invasive technique. The surgeon will be guided by a micro-camera that is connected to the operating room’s video monitor in order to see the abdomen.</en>
+					<de>Der Eingriff erfolgt durch Laparoskopie, wobei es sich um ein minimal-invasives Verfahren handelt. Der Chirurg führt den Eingriff mithilfe einer Minikamera durch, die an einen Bildschirm im Operationssaal angeschlossen ist, auf welchem der Bauchbereich angezeigt wird.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Anestesia</es>
+					<en>ANAESTHESIA</en>
+					<de>ANÄSTHESIE</de>
+				</title>
+				<img>icono_metodo5.png</img>
+				<alt>
+					<es>Anestesia</es>
+					<en>ANAESTHESIA</en>
+					<de>ANÄSTHESIE</de>
+				</alt>
+				<text>
+					<es>General</es>
+					<en>General anaesthesia</en>
+					<de>Vollnarkose</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Duración Intervención</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DES EINGRIFFS</de>
+				</title>
+				<img>icono_metodo6.png</img>
+				<alt>
+					<es>Duración Intervención</es>
+					<en>SURGERY TIME</en>
+					<de>DAUER DES EINGRIFFS</de>
+				</alt>
+				<text>
+					<es>90 minutos aproximadamente</es>
+					<en>Approximately 90 minutes</en>
+					<de>Ca. 90 Minuten</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Incisiones</es>
+					<en>INCISIONS </en>
+					<de>SCHNITTE</de>
+				</title>
+				<img>icono_metodo7_2.png</img>
+				<alt>
+					<es>Incisiones</es>
+					<en>INCISIONS </en>
+					<de>SCHNITTE</de>
+				</alt>
+				<text>
+					<es>De 2 a 5 pequeñas incisiones en el abdomen.</es>
+					<en>Between 2 and 5 small incisions in the abdomen.</en>
+					<de>2 bis 5 kleine Einschnitte im Bauch.</de>
+				</text>
+			</item>
+			<item>
+				<title>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE</en>
+					<de>NACH DER OPERATION</de>
+				</title>
+				<img>icono_metodo8.png</img>
+				<alt>
+					<es>Postoperatorio</es>
+					<en>POST-OPERATIVE PHASE</en>
+					<de>NACH DER OPERATION</de>
+				</alt>
+				<text>
+					<es>Los pacientes presentan una recuperación increíblemente rápida y habitualmente salen caminando del hospital a los 2 o 3 días.</es>
+					<en>Patients have an incredibly-quick recovery and generally walk out from the hospital 2 or 3 days after intervention.</en>
+					<de>Die Patienten erholen sich ungewöhnlich schnell von diesem Eingriff und können das Krankenhaus normalerweise nach 2 oder 3 Tagen verlassen. </de>
+				</text>
+			</item>
+		</cards>
+		<results>
+			<title>
+				<es>Resultados</es>
+				<en>RESULTS</en>
+				<de>ERGEBNISSE</de>
+			</title>
+			<text>
+				<es>#b-#Permite una disminución importante de la capacidad gástrica#/b-#. Produce en el paciente un ingesta mínima de alimentos, obligándole a la masticación a reducir de forma importante las cantidades de comida diarias.</es>
+				<en>#b-#It allows a significant gastric-capacity reduction#/b-#  It leads to a minimal daily food intake by obliging patients to considerably chew what they are eating</en>
+				<de>#b-#Dieser Eingriff ermöglicht eine bedeutende Reduktion der Magenkapazität#/b-#. Der Patient nimmt dank dieses Verfahrens wesentlich weniger Nahrungsmittel zu sich und ist gezwungen, diese gründlich zu kauen, wodurch die tägliche Essensmenge drastisch reduziert wird.</de>
+			</text>
+			<text>
+				<es>#b-#Fuerte disminución de la sensación de hambre#/b-#. Al intervenir en una disfunción del fundus gástrico mediante la Manga Gástrica, eliminamos la mayor fuente de #b-#producción de la hormona grelina#/b-#, siendo ésta la principal responsable de la sensación de hambre.</es>
+				<en>#b-#Significantly reduced sense of hunger.#/b-# When treating a gastric-fundus dysfunction with the Gastric Sleeve, we eliminate the main source #b-#producing the appetite-regulating ghrelin hormones.#/b-#</en>
+				<de>#b-#Starke Reduktion des Hungergefühls#/b-#. Durch die Einsetzung des Magenschlauchs wird der gestörten Funktionsweise des Magenfundus ein Ende gesetzt und wir beseitigen so zugleich die größte Quelle zur #b-#Bildung des Hormons Ghrelin#/b-#, welches hauptsächlich für das Hungergefühl verantwortlich ist.  </de>
+			</text>
+		</results>
+		<info>
+			<title>
+				<es>Solicita información del método Manga Gástrica</es>
+				<en>Request information about Gastric Sleeve method</en>
+				<de>Mehr Information über die Magenschlauch (Sleeve) Methode</de>
+			</title>
+		</info>
+	</content>
+</page>

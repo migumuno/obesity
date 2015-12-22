@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Pacientes internacionales</es>
+			<en>International patients</en>
+			<de>Internationale Patienten</de>
+		</title>
+		<description>
+			<es>Los profesionales de EMIO especializados en pacientes internacionales convierten su estancia en Madrid para cirugía de la obesidad en un agradable viaje</es>
+			<en>EMIO’s professionals specialising in international patients will turn your stay in Madrid for the obesity surgery in a pleasant trip</en>
+			<de>Die auf internationale Patienten spezialisierten Fachleute von EMIO machen Ihren Aufenthalt für Fettleibigkeitschirurgie in Madrid zu einer angenehmen Reise.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, metodo, paciente, internacional, españa, madrid, clínica, viaje, salud</es>
+			<en>obesity, treatment, method, patient, international, spain, madrid, clinic, trip, health</en>
+			<de>Fettleibigkeit, Behandlung, Methode, Patient, international, Spanien, Madrid, Klinik, Reise, Gesundheit</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>ESPECIALISTAS EN HACERTE SENTIR COMO EN CASA</es>
+				<en>SPECIALISTS IN MAKING YOU FEEL AT HOME</en>
+				<de>FÜHLEN SIE SICH WIE ZUHAUSE</de>
+			</title>
+			<img>slider_pacientes_in1.jpg</img>
+			<alt>
+				<es>Asesoramiento médico para elegir el Tratamiento contra la Obesidad más adecuado y eficaz para ti</es>
+				<en>Medical counselling to choose the most adequate and effective Obesity Treatment for you</en>
+				<de>Medizinische Beratung zur Wahl der geeignetsten und wirksamsten Behandlung gegen die Fettleibigkeit durch genetische, hormonelle und emotionale Untersuchung der Fettleibigkeit.</de>
+			</alt>
+		</slider>
+		<slider>
+			<title>
+				<es>DESPREOCÚPATE DE LAS GESTIONES Y OLVÍDATE DE LA OBESIDAD</es>
+				<en>DON’T WORRY ABOUT ARRANGEMENTS AND FORGET ABOUT OBESITY</en>
+				<de>ÜBERLASSEN SIE UNS DIE FORMALITÄTEN UND SETZEN SIE IHRER ADIPOSITASERKRANKUNG EIN ENDE!</de>
+			</title>
+	<img>slider_pacientes_in2.jpg</img>
+			<alt>
+				<es>Asesoramiento médico para elegir el Tratamiento contra la Obesidad más adecuado y eficaz para ti mediante el estudio genético, hormonal y emocional de la obesidad</es>
+				<en>Medical counselling to choose the most adequate and effective Obesity Treatment for you</en>
+				<de>Medizinische Beratung zur Wahl der geeignetsten und wirksamsten Behandlung gegen die Fettleibigkeit durch genetische, hormonelle und emotionale Untersuchung der Fettleibigkeit.</de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#Pacientes Internacionales#/div-#</es>
+				<en>#div class="title_slider_metodo"-#International Patients#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Internationale Kunden#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-#Despreocúpate de las gestiones y olvídate de la obesidad#/p-#</es>
+				<en>#p class="txt_slider_metodo"-#Don't worry about arrangements and forget about obesity#/p-#</en>
+				<de>#p class="txt_slider_metodo"-#ÜBERLASSEN SIE UNS DIE FORMALITÄTEN UND SETZEN SIE IHRER ADIPOSITASERKRANKUNG EIN ENDE!#/p-#</de>
+			</text>
+		</message>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#Pacientes Internacionales#/div-#</es>
+				<en>#div class="title_slider_metodo"-#International Patients#/div-#</en>
+				<de>#div class="title_slider_metodo"-#Internationale Kunden#/div-#</de>
+			</text>
+			<text>
+				<es>#p class="txt_slider_metodo"-#Especialistas en hacerte sentir como en casa#/p-#</es>
+				<en>#p class="txt_slider_metodo"-#Specialists in making you feel at home#/p-#</en>
+				<de>#p class="txt_slider_metodo"-#FÜHLEN SIE SICH WIE ZUHAUSE#/p-#</de>
+			</text>
+			
+		</message>
+	</messages>
+	<content>
+		<text>
+			<es>En el European Medical Institute of Obesity contamos con más de 30 profesionales especializados en atender a nuestros pacientes internacionales.</es>
+			<en>At the European Medical Institute of Obesity there are #b-#more than 30 professionals specialised in taking care of our international patients.#/b-#</en>
+			<de>Wir verfügen im European Medical Institute of Obesity über #b-#mehr als 30 Fachkräfte, die sich ausschließlich unseren internationalen Patienten widmen.#/b-#</de>
+		</text>
+		<text>
+			<es>Desde las más sencillas gestiones de tu viaje hasta la coordinación y planificación completa de tu estancia en Madrid.</es>
+			<en>From the simpliest travel arrangements up to the coordination and planning of your entire stay in Madrid.</en>
+			<de>Dieses Team kümmert sich um die Formalitäten Ihrer Reise ebenso wie um die Koordination und vollständige Planung Ihres Aufenthalts in Madrid.</de>
+		</text>
+		<text>
+			<es>Aunque el motivo principal para la mayoría de nuestros pacientes es acceder a la mejor cirugía de la obesidad de Europa a precios asequibles, muchos aprovechan para conocer Madrid y otros lugares de España.</es>
+			<en>Even if the main reason to come to Madrid for most of our patients is to #b-#undergo one of the best Obesity surgery in Europe at an affordable price#/b-#, many also take the opportunity to visit Spain’s capital, as well as other cities.</en>
+			<de>Wenngleich der Hauptgrund dieser Reise zumeist darin besteht, #b-#die beste Adipositaschirurgie in Europa zu erschwinglichen Preisen zu erhalten#/b-#, nutzen viele unserer Patienten die Gelegenheit, um Madrid und andere Orte Spaniens kennenzulernen.</de>
+		</text>
+		<text>
+			<es>Déjate aconsejar y guiar por nuestros expertos y preocúpate tan sólo de disfrutar tu estancia pasando unos inolvidables días de descanso, compras, ocio, espectáculos, gastronomía y cultura en Madrid.</es>
+			<en>Let our experts advise and guide you. #b-#You should only worry about enjoying your stay#/b-# by spending some unforgettable days of relax, shopping, entertainment, shows, gastronomy and culture in Madrid.</en>
+			<de>Lassen Sie sich von unseren Experten beraten,#b-#konzentrieren Sie sich voll und ganz darauf, Ihren Aufenthalt in Madrid zu genießen#/b-# und verbringen Sie ein paar unvergessliche Tage voller Erholung, Shopping, Unterhaltung, Veranstaltungen sowie gastronomischer und kultureller Highlights.</de>
+		</text>
+		<text>
+			<es>Acompañamos a nuestros pacientes durante todo el proceso sanitario, desde el principio hasta el final del mismo ofreciendo opciones de procedimientos médicos y cirugías e incluso opciones turísticas para aprovechar al máximo su estancia.</es>
+			<en>We are there for our patients during the entire health process, from the beginning to the end, offering different possibilities of medical treatments and surgeries, but also tourist options so that they can make the most out of their stay. </en>
+			<de>#b-#Wir begleiten unsere Patienten den gesamten Prozess hindurch#/b-#, vom Anfang bis zum Ende, und bieten die optimalen medizinischen und chirurgischen Verfahren, einschließlich eines Tourismusangebots, damit Sie vollen Nutzen aus Ihrem Aufenthalt ziehen können.</de>
+		</text>
+		<text>
+			<es>Nos encargamos de todos los detalles del proceso incluido la transferencia de su historial médico, la logística de tu viaje, así como los cuidados y consejos necesarios después de la intervención.</es>
+			<en>#b-#We take care of every single detail of the process#/b-#, including your medical history transfer, travel logistics, as well as all the care and counselling you may need after surgery.</en>
+			<de>#b-#Wir kümmern uns um sämtliche Details des Verfahrens#/b-#, einschließlich der Übermittlung Ihrer Krankengeschichte, der Organisation Ihrer Reise sowie der nach dem Eingriff erforderlichen Versorgung und Beratungsgespräche.</de>
+		</text>
+		<text>
+			<es>Antes de abandonar Madrid, volverás a reunirte con tu médico para establecer el sistema de seguimiento más adecuado a tu tratamiento, durante 2 años sin gastos adicionales.</es>
+			<en>Before leaving Madrid, you will meet again your doctors to establish the most adequate follow-up system for your treatment. #b-#Without any additional costs, you will receive a follow-up on Skype or chat every 2 weeks for 2 years.#/b-#</en>
+			<de>Bevor Sie abreisen, werden Sie sich erneut mit den Fachärzten treffen, um die für Ihre weitere Behandlung geeignetste Nachbeobachtungsmethode zu bestimmen. #b-#Wir bieten Ihnen 2 Jahre lang ohne zusätzliche Kosten ein alle 14 Tage stattfindendes Online-Nachbeobachtungsgespräch via Skype oder per Chat an.#/b-#</de>
+		</text>
+		<text>
+			<es>Nuestro equipo de especialistas te acompañará y asesorará para organizar tu viaje de la forma más eficiente.</es>
+			<en>Our team of specialists will be there for you and will be glad to help you organise your trip in the most efficient way.</en>
+			<de>Unser Expertenteam begleitet Sie während der gesamten Behandlung und berät Sie außerdem, damit Sie Ihre Reise effizient organisieren können.</de>
+		</text>
+		<text>
+			<es>A continuación te detallamos nuestro proceso de Acompañamiento al Paciente Internacional:</es>
+			<en>Below you will find our Assistance Process for International Patients:</en>
+			<de>Im Folgenden erklären wir Ihnen genauer unser Begleitprogramm für internationale Patienten:</de>
+		</text>
+		<cards>
+			<card>
+				<img>
+					<es>paso1.png</es>
+					<en>paso1_en.png</en>
+					<de>paso1_de.png</de>
+				</img>
+				<alt>
+					<es>Paso 1</es>
+					<en>Step 1</en>
+					<de>Phase 1</de>
+				</alt>
+				<title>
+					<es>contacta con nosotros</es>
+					<en>Contact and formal consultation</en>
+					<de>Kontakt und formelle Beratung</de>
+				</title>
+				<text>
+					<es>Contacta con nuestro centro a través del Formulario de Atención al Paciente y te responderemos en un máximo de 48 horas. También tienes la posibilidad de ponerte en contacto con nosotros en el +34 900 10 40 50. Con el fin de enviarte la información más completa y detallada nos gustaría tener una conversación contigo por teléfono, Skype o chat en línea. Gracias a esta conversación podremos informarte de todos nuestros tratamientos y servicios para que puedas describirnos tus necesidades.</es>
+					<en>Get in touch with our centre by filling in the Patient Care Form and you will receive a reply within 48 hours. You can also contact us at +34 900 10 40 50, via chat or on Skype, where a member of our Patient Care Unit will counsel and inform you regarding our treatments and services, sending you complete and detailed information.</en>
+					<de>Setzen Sie sich mit unserem Zentrum über das Kontaktformular in Verbindung. Wir werden Ihre Anfrage innerhalb von maximal 48 Stunden beantworten. Es steht Ihnen auch die Möglichkeit offen, sich telefonisch (Tel.: +34 900 10 40 50), per Chat oder via Skype an uns zu wenden, wo Sie ein Mitarbeiter unserer Patientenservice-Abteilung über unsere Behandlungen und Leistungen informieren sowie beraten wird. Wir lassen Ihnen gerne die vollständigen und detaillierten Informationen zukommen.</de>
+				</text>
+			</card>
+			<card>
+				<img>
+					<es>paso2.png</es>
+					<en>paso2_en.png</en>
+					<de>paso2_de.png</de>
+				</img>
+				<alt>
+					<es>Paso 2</es>
+					<en>Step 2</en>
+					<de>Phase 2</de>
+				</alt>
+				<text>
+					<es>Si lo que te contamos resulta de tu interés, el siguiente paso sería estudiar al detalle tu información médica a través del “Área de Paciente”, de la forma más segura con total privacidad y con los más altos niveles de confidencialidad. Con el fin de hacer una reserva para su tratamiento te pediremos que firmes un contrato formal y pagar un depósito no reembolsable de un mes antes de la fecha de tratamiento.</es>
+					<en>If you are interested in what we have told you, the next step would be an in-depth study of your medical information through the “Patient’s area”, with the highest security, privacy and confidentiality levels. In order to make a reservation for your treatment, you will be required to sign a formal contract and pay a non-refundable deposit one month before the beginning of your treatment. We will also take care of preparing all your medical documentation, informed consents, etc. In other words, a very simple and clear process. If you like, our team can take care of your hotel reservation, transfer arrangements, etc., as well as of a complete list with all the important documents you may need.</en>
+					<de>Wenn Sie interessiert sind, besteht der nächste Schritt darin, dass Ihre im „Patientenbereich“ eingegebenen medizinischen Daten eingehend geprüft werden. Wir garantieren die Sicherheit und vertrauliche Behandlung Ihrer Daten. Um die Behandlung zu reservieren, müssen Sie einen förmlichen Vertrag unterzeichnen und eine nicht erstattungsfähige Anzahlung einen Monat vor dem Behandlungsdatum leisten, wobei die gesamten medizinischen Unterlagen, die Einverständniserklärungen... zu diesem Zeitpunkt bereits vorbereitet werden, um einen reibungslosen Ablauf zu garantieren. Falls Sie dies wünschen, übernimmt unser Team für Sie gerne die Reservierung des Hotels, die Organisation der Transfers etc. und lässt Ihnen eine vollständige Liste mit wichtigen Dokumenten zukommen, die Sie unter Umständen benötigen.</de>
+				</text>
+			</card>
+			<card>
+				<img>
+					<es>paso3.png</es>
+					<en>paso3_en.png</en>
+					<de>paso3_de.png</de>
+				</img>
+				<alt>
+					<es>Paso 3</es>
+					<en>Step 3</en>
+					<de>Phase 3</de>
+				</alt>
+				<text>
+					<es>Para aquellos pacientes que lo deseen un asistente de EMIO le estará esperando en el aeropuerto y le llevará al hospital o al hotel. Todas las cirugías suelen tener lugar en la mañana del día siguiente de tu llegada. </es>
+					<en>An EMIO assistant will be available for those patients who request to be met at the airport and will bring them to the hospital or to the hotel. All the surgeries are generally performed the morning after your arrival.</en>
+					<de>Die Patienten, die dies wünschen, werden von einem Mitarbeiter von EMIO am Flughaften abgeholt, welcher Sie ins Krankenhaus oder ins Hotel bringen wird. Sämtliche chirurgischen Eingriffe finden am Morgen des Folgetags Ihrer Ankunft statt.</de>
+				</text>
+			</card>
+			<card>
+				<img>
+					<es>paso4.png</es>
+					<en>paso4_en.png</en>
+					<de>paso4_de.png</de>
+				</img>
+				<alt>
+					<es>Paso 4</es>
+					<en>Step 4</en>
+					<de>Phase 4</de>
+				</alt>
+				<text>
+					<es>Las consultas postoperatorias suelen tener lugar un día después de tu salida del hospital. Antes de tu salida de Madrid volverás a reunirte con tu médico para establecer el sistema de seguimiento más adecuado a tu tratamiento. Aproximadamente entre quince días y un mes más tarde, tendrás tu primera consulta de seguimiento. Estas consultas de seguimiento se pueden realizar a través de Skype o chat en tu área privada de paciente.</es>
+					<en>Post-operative visits are generally arranged one day after your discharge from the hospital. Before leaving Madrid, you will meet again your doctors to establish the most adequate follow-up system for your treatment. Your first follow-up visit will be scheduled between approximately 15 days and one month later. These follow-up visits can be arrranged on Skype or via chat in your private Patient’s area.</en>
+					<de>Die postoperativen Beratungsgespräche finden normalerweise einen Tag nach Ihrer Entlassung aus dem Krankenhaus statt. Bevor Sie Madrid verlassen, treffen Sie sich nochmals mit Ihrem Arzt, um die für Ihre weitere Behandlung geeignetste Nachbeobachtungsmethode zu vereinbaren. Fünfzehn bis dreißig Tage später findet Ihr erstes Nachbeobachtungsgespräch statt. Diese Nachbeobachtungsgespräche können via Skype oder per Chat über den privaten Patientenbereich geführt werden.</de>
+				</text>
+			</card>
+		</cards>
+	</content>
+</page>

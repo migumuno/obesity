@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<footer>
+	<section>
+		<title>
+			<es>Instituto Obesidad</es>
+			<en>Obesity Institute</en>
+			<de>Institut Fettleibigkeit</de>
+			<link>
+				<es>#</es>
+				<en>#</en>
+				<de>#</de>
+			</link>
+		</title>
+		<items>
+			<item>
+				<name>
+					<es>El Instituto</es>
+					<en>The Insitute</en>
+					<de>Das Institut</de>
+				</name>
+				<link>
+					<es>/instituto-obesidad</es>
+					<en>/obesity-institute</en>
+					<de>/institut-fettleibigkeit</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Equipo Médico</es>
+					<en>Medical Team</en>
+					<de>Ärzteteam</de>
+				</name>
+				<link>
+					<es>/instituto-obesidad/equipo-medico-obesidad</es>
+					<en>/obesity-institute/obesity-medical-team</en>
+					<de>/institut-fettleibigkeit/arzte-team-fettleibigkeit</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Clínica La Luz</es>
+					<en>Clinic La Luz</en>
+					<de>Klinik „La Luz“</de>
+				</name>
+				<link>
+					<es>/instituto-obesidad/clinica-la-luz-obesidad</es>
+					<en>/obesity-institute/obesity-clinic</en>
+					<de>/institut-fettleibigkeit/klinik-fettleibigkeit</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Tecnología</es>
+					<en>Technology</en>
+					<de>Technologie</de>
+				</name>
+				<link>
+					<es>/instituto-obesidad/tecnologia-obesidad</es>
+					<en>/obesity-institute/obesity-technology</en>
+					<de>/institut-fettleibigkeit/technologie-fettleibigkeit</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Derechos del Paciente</es>
+					<en>Patients’ Rights</en>
+					<de>Rechte des Patienten</de>
+				</name>
+				<link>
+					<es>/instituto-obesidad/pacientes-obesidad</es>
+					<en>/obesity-institute/obesity-patients</en>
+					<de>/institut-fettleibigkeit/patienten-fettleibigkeit</de>
+				</link>
+			</item>
+		</items>
+	</section>
+	<section>
+		<title>
+			<es>Cirugía de la Obesidad</es>
+			<en>Obesity Surgery</en>
+			<de>Adipositaschirurgie</de>
+			<link>
+				<es>#</es>
+				<en>#</en>
+				<de>#</de>
+			</link>
+		</title>
+		<items>
+			<item>
+				<name>
+					<es>Diagnóstico de la Obesidad</es>
+					<en>Obesity Diagnosis</en>
+					<de>Adipositas Diagnose</de>
+				</name>
+				<link>
+					<es>/diagnostico-obesidad</es>
+					<en>/obesity-diagnosis</en>
+					<de>/diagnose-fettleibigkeit</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Método Apollo Endo-Sleeve</es>
+					<en>Apollo Endo-Sleeve Method</en>
+					<de>Apollo-Methode: Endoskopische  Magensleeve-Resektion</de>
+				</name>
+				<link>
+					<es>/cirugia-obesidad/metodo-apollo</es>
+					<en>/obesity-surgery/apollo-method</en>
+					<de>/fettleibigkeit-chirurgie/apollo-methode</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Método Eras</es>
+					<en>ERAS Method</en>
+					<de>ERAS Verfahren</de>
+				</name>
+				<link>
+					<es>/cirugia-obesidad/metodo-eras</es>
+					<en>/obesity-surgery/eras-method</en>
+					<de>/fettleibigkeit-chirurgie/eras-verfahren</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>NUEVO Método POSE REFORZADO</es>
+					<en>NEW Enhanced POSE Method</en>
+					<de>Neue Verfahren – POSE VERSTÄRKT</de>
+				</name>
+				<link>
+					<es>/cirugia-obesidad/metodo-pose</es>
+					<en>/obesity-surgery/pose-method</en>
+					<de>/fettleibigkeit-chirurgie/pose-verfahren</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Tratamiento iBalón 1 + 1 año</es>
+					<en>1 + 1 year iBalloon Treatment</en>
+					<de>Behandlung iBallon 1 + 1 Jahr</de>
+				</name>
+				<link>
+					<es>/cirugia-obesidad/balon-intragastrico</es>
+					<en>/obesity-surgery/intragastric-balloon</en>
+					<de>/fettleibigkeit-chirurgie/magen-ballon</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Tratamiento Balón Intragástrico</es>
+					<en>iBalloon Treatment</en>
+					<de>Behandlung Magenballon</de>
+				</name>
+				<link>
+					<es>/cirugia-obesidad/balon-intragastrico-6meses</es>
+					<en>/obesity-surgery/6-month-intragastric-balloon</en>
+					<de>/fettleibigkeit-chirurgie/magen-ballon-6monate</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Tratamiento Manga Gástrica</es>
+					<en>Gastric Sleeve Treatment</en>
+					<de>Behandlung Magenschlauch (Sleeve)</de>
+				</name>
+				<link>
+					<es>/cirugia-obesidad/manga-gastrica</es>
+					<en>/obesity-surgery/gastric-sleeve</en>
+					<de>/fettleibigkeit-chirurgie/magen-schlauch</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Bypass gástrico</es>
+					<en>Gastric Bypass</en>
+					<de>Magenbypass</de>
+				</name>
+				<link>
+					<es>/cirugia-obesidad/bypass-gastrico</es>
+					<en>/obesity-surgery/gastric-bypass</en>
+					<de>/fettleibigkeit-chirurgie/magenbypass</de>
+				</link>
+			</item>
+		</items>
+	</section>
+	<section>
+		<title>
+			<es>Pacientes Internacionales</es>
+			<en>International Patients</en>
+			<de>Internationale Kunden</de>
+		</title>
+		<items>
+			<item>
+				<name>
+					<es>Información Práctica y Servicios</es>
+					<en>Practical Information and Services</en>
+					<de>Praktische Information und Dienstleistungen</de>
+				</name>
+				<link>
+					<es>/pacientes-internacionales</es>
+					<en>/international-patients</en>
+					<de>/internationale-patienten</de>
+				</link>
+			</item>
+		</items>
+	</section>
+	<section>
+		<title>
+			<es>Madrid es Salud</es>
+			<en>Madrid means Health</en>
+			<de>Madrid ist Gesundheit</de>
+		</title>
+		<items>
+			<item>
+				<name>
+					<es>Salud en España</es>
+					<en>Health in Spain</en>
+					<de>Gesundheit in Spanien</de>
+				</name>
+				<link>
+					<es>/salud-madrid</es>
+					<en>/madrid-healthcare</en>
+					<de>/gesundheit-madrid</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Alojamiento</es>
+					<en>Accomodation</en>
+					<de>Unterkunft</de>
+				</name>
+				<link>
+					<es>/salud-madrid/alojamiento</es>
+					<en>/madrid-healthcare/accomodation</en>
+					<de>/gesundheit-madrid/unterkunft</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Museos</es>
+					<en>Museums</en>
+					<de>Museen</de>
+				</name>
+				<link>
+					<es>/salud-madrid/museos</es>
+					<en>/madrid-healthcare/museums</en>
+					<de>/gesundheit-madrid/museen</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Compras</es>
+					<en>Shopping</en>
+					<de>Shopping</de>
+				</name>
+				<link>
+					<es>/salud-madrid/compras</es>
+					<en>/madrid-healthcare/shopping</en>
+					<de>/gesundheit-madrid/einkaufen</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Espectáculos</es>
+					<en>Shows</en>
+					<de>Aufführungen</de>
+				</name>
+				<link>
+					<es>/salud-madrid/espectaculos</es>
+					<en>/madrid-healthcare/shows</en>
+					<de>/gesundheit-madrid/shows</de>
+				</link>
+			</item>
+			<item>
+				<name>
+					<es>Eventos y Ferias</es>
+					<en>Events and Fairs</en>
+					<de>Events und Messen</de>
+				</name>
+				<link>
+					<es>/salud-madrid/eventos-y-ferias</es>
+					<en>/madrid-healthcare/events-and-fairs</en>
+					<de>/gesundheit-madrid/events-und-messen</de>
+				</link>
+			</item>
+		</items>
+	</section>
+	<img>
+		<logo_footer>
+			<link>logo_footer.png</link>
+			<alt>
+				<es>european medical institute of obesity</es>
+				<en>european medical institute of obesity</en>
+				<de>european medical institute of obesity</de>
+			</alt>
+		</logo_footer>
+		<phone>
+			<link>phone.png</link>
+			<alt>
+				<es>Telefono Obesidad</es>
+				<en>Obesity Phone</en>
+				<de>Fettleibigkeit Phone</de>
+			</alt>
+		</phone>
+		<mail>
+			<link>mail.png</link>
+			<alt>
+				<es>Mail Obesidad</es>
+				<en>Mail Obesity</en>
+				<de>Mail Fettleibigkeit</de>
+			</alt>
+		</mail>
+		<facebook>
+			<link>facebook1.png</link>
+			<alt>
+				<es>Facebook Obesidad</es>
+				<en>Facebook Obesity</en>
+				<de>Facebook Fettleibigkeit</de>
+			</alt>
+		</facebook>
+		<twitter>
+			<link>twitter1.png</link>
+			<alt>
+				<es>Twitter Obesidad</es>
+				<en>Obesity Twitter</en>
+				<de>Fettleibigkeit Twitter</de>
+			</alt>
+		</twitter>
+		<youtube>
+			<link>youtube.png</link>
+			<alt>
+				<es>YouTube Obesidad</es>
+				<en>Obesity YouTube</en>
+				<de>Fettleibigkeit YouTube</de>
+			</alt>
+		</youtube>
+		<skype>
+			<link>skype.png</link>
+			<alt>
+				<es>Skypec Obesidad</es>
+				<en>Obesity Skype</en>
+				<de>Fettleibigkeit Skype</de>
+			</alt>
+		</skype>
+		<rss>
+			<link>blog1.png</link>
+			<alt>
+				<es>RSS Obesidad</es>
+				<en>Obesity RSS</en>
+				<de>Fettleibigkeit RSS</de>
+			</alt>
+		</rss>
+		<lock>
+			<link>lock.png</link>
+			<alt>
+				<es>Acceso seguro</es>
+				<en>Secure Access</en>
+				<de>Sicherer Zugriff</de>
+			</alt>
+		</lock>
+	</img>
+</footer>

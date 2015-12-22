@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>European Medical Institute of Obesity</es>
+			<en>European Medical Institute of Obesity</en>
+			<de>European Medical Institute of Obesity</de>
+		</title>
+		<description>
+			<es>El European Medical Institute of Obesity fue creado en el año 2001 con un sólo propósito: luchar contra la mayor enfermedad de nuestro siglo; LA OBESIDAD</es>
+			<en>The European Medical Institute of Obesity was founded in 2001 with only one purpose in mind: fighting against the most serious disease of this century, OBESITY.</en>
+			<de>Das European Medical Institute of Obesity wurde im Jahr 2001 mit einem einzigen Ziel gegründet: Den Kampf gegen die Krankheit des Jahrhunderts: DIE FETTLEIBIGKEIT</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, clinica, european, medical, institute, obesity, instituto, medico, europeo</es>
+			<en>obesity, treatment, clinic, european, medical, institute, doctor</en>
+			<de>Fettleibigkeit, Behandlung, Klinik, european, medical, institute, obesity, Institut, Arzt, europäisch</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+			<title>
+				<es>NUESTRA RAZÓN DE SER ERES TÚ</es>
+				<en>OUR MISSION IS YOUR WELLBEING</en>
+				<de>SIE SIND DER GRUND UNSERER EXISTENZ</de>
+			</title>
+			<img>slider_nosotros.jpg</img>
+			<alt>
+				<es>emio Team</es>
+				<en>emio Team</en>
+				<de>emio Team</de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+		<message>
+			<text>
+				<es>#div class="title_slider_metodo"-#Nuestra razón de ser eres tú#/div-#</es>
+				<en>#div class="title_slider_metodo"-#OUR MISSION IS YOUR WELLBEING#/div-#</en>
+				<de>#div class="title_slider_metodo"-#SIE SIND DER GRUND UNSERER EXISTENZ#/div-#</de>
+			</text>
+		</message>
+	</messages>
+	<content>
+		<img>nosotros1.jpg</img>
+		<alt>
+			<es>european medical institute of obesity Madrid</es>
+			<en>european medical institute of obesity Madrid</en>
+			<de>european medical institute of obesity Madrid</de>
+		</alt>
+		<text>
+			<es>El #b-#European Medical Institute of Obesity#/b-# fue creado en el año 2001 con un sólo propósito: luchar conta la mayor enfermedad de nuestro siglo; LA OBESIDAD.</es>
+			<en>The #b-#European Medical Institute of Obesity#/b-# was founded in 2001 with only one purpose in mind: fighting against the most serious disease of this century, OBESITY.</en>
+			<de>Das #b-#European Medical Institute Of Obesity#/b-#, wurde im Jahr 2001 gegründet mit dem einzigen Bestreben, gegen die Krankheit unseres Jahrhunderts zu kämpfen: die ADIPOSITAS (Übergewicht).</de>
+		</text>
+		<text>
+			<es>Después de muchos años de experiencia sabemos que para tratar éste problema es necesario hacerlo desde varios frentes, por lo que en un mismo centro ofrecemos soluciones completas desde todos los ámbitos relacionados con la obesidad.</es>
+			<en>Our many years of experience have taught us that this issue needs to be tackled on many fronts. This is why at our centre we offer global solutions from all the fields related to obesity:</en>
+			<de>Nach vielen Jahren Erfahrung, wissen wir, dass um dieses Problem zu behandeln, es nötig ist, dies aus verschieden Aspekten zu tun, deswegen bieten wir in demselben Zentrum komplette Lösungen in allen Bereichen im Zusammenhang mit der Adipositas (Übergewicht):</de>
+			<ul>
+				<li>
+					<es>Endocrinología</es>
+					<en>Endocrinology</en>
+					<de>Endokrinologie</de>
+				</li>
+				<li>
+					<es>Nutrición y Dietética</es>
+					<en>Nutrition &#38; Dietetics</en>
+					<de>Ernährung und Diätetik</de>
+				</li>
+				<li>
+					<es>Fisioterapia</es>
+					<en>Physical therapy</en>
+					<de>Physiotherapie</de>
+				</li>
+				<li>
+					<es>Medicina deportiva</es>
+					<en>Sports medicine</en>
+					<de>Sportmedizin</de>
+				</li>
+				<li>
+					<es>Psicoterapia</es>
+					<en>Psychotherapy</en>
+					<de>Psychotherapie</de>
+				</li>
+				<li>
+					<es>Cirugía de la Obesidad</es>
+					<en>Obesity Surgery</en>
+					<de>Adipositaschirurgie</de>
+				</li>
+				<li>
+					<es>Cirugía Plástica</es>
+					<en>Plastic Surgery</en>
+					<de>Schönheitsoperation</de>
+				</li>
+			</ul>
+		</text>
+		<cards>
+			<card>
+				<title>
+					<es>Equipo Médico</es>
+					<en>Medical Team</en>
+					<de>Ärzteteam</de>
+				</title>
+				<img>img_nosotros1.jpg</img>
+				<alt>
+					<es>Equipo Medico Obesidad</es>
+					<en>Obesity Medical Team</en>
+					<de>Fettleibigkeit Ärzteteam</de>
+				</alt>
+				<text>
+					<es>Ponemos a su disposición un equipo médico cualificado y especializado.</es>
+					<en>We provide you with a qualified and specialised medical team</en>
+					<de>Wir stellen Ihnen ein qualifiziertes und spezialisiertes Ärzteteam zur Verfügung. Unsere Patienten werden grundsätzlich immer von einem Facharzt oder einer Fachkraft betreut.</de>
+				</text>
+				<text>
+					<es>Nuestros pacientes son atendidos en cada momento por el profesional médico más adecuado.</es>
+					<en>Our patients are always assisted by the most adequate medical and professional personnel.</en>
+					<de>Unser Ärzteteam hat rigorose Protokolle entwickelt, um unseren Patienten die angemessensten und geeignetsten Behandlungen zu bieten.</de>
+				</text>
+				<link>
+					<es>/instituto-obesidad/equipo-medico-obesidad</es>
+					<en>/obesity-institute/obesity-medical-team</en>
+					<de>/institut-fettleibigkeit/arzte-team-fettleibigkeit</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Clínica La Luz</es>
+					<en>Clinic La Luz</en>
+					<de>Klinik „La Luz“</de>
+				</title>
+				<img>img_nosotros2.jpg</img>
+				<alt>
+					<es>Clinica La Luz Obesidad</es>
+					<en>Obesity Clinic La Luz</en>
+					<de>Fettleibigkeit Klinik La Luz</de>
+				</alt>
+				<text>
+					<es>Todas las intervenciones quirúrgicas contra la obesidad las llevamos a cabo en el prestigioso hospital La Clínica La Luz, uno de los más modernos complejos clínicos europeos y el centro asistencial privado más grande de Madrid.</es>
+					<en>All our obesity surgeries are carried out at the prestigious hospital, La Clínica La Luz, one the most modern European clinics and the biggest private healthcare centre in Madrid.</en>
+					<de>Sämtliche chirurgische Eingriffe bei Adipositas werden in der angesehenen Clinica La Luz durchgeführt. Die Clinica LaLuz ist eine der modernsten Klinikanlagen Europas und das größte Privatzentrum von Madrid.</de>
+				</text>
+				<link>
+					<es>/instituto-obesidad/clinica-la-luz-obesidad</es>
+					<en>/obesity-institute/obesity-clinic</en>
+					<de>/institut-fettleibigkeit/klinik-fettleibigkeit</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Tecnología</es>
+					<en>Technology</en>
+					<de>Technologie</de>
+				</title>
+				<img>img_nosotros3.jpg</img>
+				<alt>
+					<es>Tecnologia Obesidad</es>
+					<en>Obesity Technology</en>
+					<de>Adipositas Fettleibigkeit Technologie</de>
+				</alt>
+				<text>
+					<es>En EMIO utilizamos las tecnologías más avanzadas para el trato a nuestros pacientes, así como las últimas técnicas que nos permiten tener una gran versatilidad y personalización en el tratamiento que cada paciente pueda requerir dependiendo de su genética y fisionomía.</es>
+					<en>At EMIO, we have state-of-the-art technology to treat our patients, as well as the latest techniques that afford us great level of versatility and personalisation when providing treatment based on patients’ genetics or physiognomy.</en>
+					<de>Am IMEO benutzen wir die modernste Technologie für die Behandlung unserer Patienten sowie die neusten Techniken die es uns erlauben eine große Vielfalt individueller Behandlungen anzubieten, die jeder Patient je nach seiner Genetik und Physiognomie erhalten kann.</de>
+				</text>
+				<link>
+					<es>/instituto-obesidad/tecnologia-obesidad</es>
+					<en>/obesity-institute/obesity-technology</en>
+					<de>/institut-fettleibigkeit/technologie-fettleibigkeit</de>
+				</link>
+			</card>
+			<card>
+				<title>
+					<es>Derechos del Paciente</es>
+					<en>Patients’ Rights</en>
+					<de>Rechte des Patienten</de>
+				</title>
+				<img>img_nosotros4.jpg</img>
+				<alt>
+					<es>Derechos del Paciente Obesidad</es>
+					<en>Obesity Patients’ Rights</en>
+					<de>Fettleibigkeit Rechte des Patienten</de>
+				</alt>
+				<text>
+					<es>Nuestro decálogo de derechos y servicios exclusivos para nuestros pacientes van mucho más allá de la normativa europea.</es>
+					<en>Our decalogue of rights and the exclusive services we reserve for our patients go way beyond the European legislation.</en>
+					<de>Unser Dekalog der Rechte und Dienstleistungen ausschließlich für unsere Patienten, geht weit über die europäischen Normen hinaus.</de>
+				</text>
+				<text>
+					<es>Es un compromiso profesional de todos y cada uno de los miembros de EMIO hacia la excelencia en el trato a nuestros pacientes.</es>
+					<en>Each and every EMOI’s staff member has a professional commitment to excellence when treating our patients.</en>
+					<de>Jedes einzelne Mitglied des IMEO ist beruflich zu herausragender Betreuung unserer Patienten verpflichtet.</de>
+				</text>
+				<link>
+					<es>/instituto-obesidad/pacientes-obesidad</es>
+					<en>/obesity-institute/obesity-patients</en>
+					<de>/institut-fettleibigkeit/patienten-fettleibigkeit</de>
+				</link>
+			</card>
+		</cards>
+	</content>
+</page>

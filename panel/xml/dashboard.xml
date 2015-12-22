@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dashboard>
+	<registro>
+		<es>Registro de pacientes</es>
+		<en>Patient Registry</en>
+		<de></de>
+	</registro>
+	<admins>
+		<es>Registro de administradores</es>
+		<en>Administrator Registry</en>
+		<de></de>
+	</admins>
+	<patient_register>
+		<es>Insertar Paciente</es>
+		<en>Insert Patient</en>
+		<de></de>
+	</patient_register>
+	<admin_register>
+		<es>Insertar Administrador</es>
+		<en>Insert Administrator</en>
+		<de></de>
+	</admin_register>
+	<admin_edit>
+		<es>Editar Administrador</es>
+		<en>Edit Admin</en>
+		<de></de>
+	</admin_edit>
+	<upload_file>
+		<es>Subir archivo</es>
+		<en>Upload File</en>
+		<de></de>
+	</upload_file>
+	<messages>
+		<es>Mensajes</es>
+		<en>Messages</en>
+		<de></de>
+	</messages>
+	<last_files>
+		<es>Últimos ficheros recibidos</es>
+		<en>Latest recieved files</en>
+		<de></de>
+	</last_files>
+	<calendar>
+		<es>Calendario</es>
+		<en>Calendar</en>
+		<de></de>
+	</calendar>
+	<next_citas>
+		<es>Próximas citas</es>
+		<en>Upcoming appointments</en>
+		<de></de>
+	</next_citas>
+	<without_messages>
+		<es>No tienes mensajes pendientes</es>
+		<en>You don't have any pending messages</en>
+		<de></de>
+	</without_messages>
+	<send_message_doctor>
+		<es>Si quieres enviar un mensaje a EMIO pincha en el icono</es>
+		<en>Click the icon if you wish to send a message to EMIO</en>
+		<de></de>
+	</send_message_doctor>
+	<form_upload>
+		<title>
+			<es>Subir archivo</es>
+			<en>Upload file</en>
+			<de></de>
+		</title>
+		<name>
+			<es>Nombre de archivo</es>
+			<en>File name</en>
+			<de></de>
+		</name>
+		<pattern>
+			<es>Sólo se permiten letras sin acentos, sin espacios, ni símbolos.</es>
+			<en>Letters with spaces, symbols or special characters are not permitted.</en>
+			<de></de>
+		</pattern>
+		<button>
+			<es>Subir archivo</es>
+			<en>Upload file</en>
+			<de></de>
+		</button>
+	</form_upload>
+</dashboard>

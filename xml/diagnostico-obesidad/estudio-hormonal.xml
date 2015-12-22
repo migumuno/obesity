@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<metas>
+		<title>
+			<es>Estudio Hormonal Obesidad</es>
+			<en>Obesity Hormonal Study</en>
+			<de>Hormonelle Untersuchung Fettleibigkeit</de>
+		</title>
+		<description>
+			<es>Estudio Hormonal y Emocional aporta el perfil emocional, hormonal, endocrino, funciones metabólicas, balance cardio respiratorio para tratamiento de la obesidad</es>
+			<en>Hormonal and Emotional Study indicated the emotional, hormonal and endocrine profile, with metabolic functions, cardio-respiratory balance for Obesity treatment</en>
+			<de>Eine hormonelle und emotionale Untersuchung gibt das Profil (emotional, hormonell, endokrin, Stoffwechselfunktionen, Kreislauf-Atmungs-Gleichgewicht) für die Behandlung der Fettleibigkeit.</de>
+		</description>
+		<keywords>
+			<es>obesidad, tratamiento, hormonal, emocional, endocrino, metabolismo, metabolica, diagnostico, clínica, instituto</es>
+			<en>obesity, treatment, hormonal, emotional, endocrine, metabolism, metabolic, diagnosis, clinic, institute</en>
+			<de>Fettleibigkeit, Behandlung, hormonell, emotional, endokrin, Stoffwechsel, metabolisch, Diagnose, Klinik, Institut</de>
+		</keywords>
+	</metas>
+	<sliders>
+		<slider>
+		<title>
+			<es>ESTUDIO HORMONAL Y EMOCIONAL EIS</es>
+			<en>EIS hormonal and emotional study</en>
+			<de>Hormonelle und emotionale Untersuchung EIS</de>
+		</title>
+			<img>slider_hormonas.jpg</img>
+			<alt>
+				<es></es>
+				<en></en>
+				<de></de>
+			</alt>
+		</slider>
+	</sliders>
+	<messages>
+	
+	</messages>
+	<breadcrumbs>
+		<item>
+			<name>
+				<es>Volver Diagnóstico Obesidad</es>
+				<en>Obesity Diagnosis</en>
+				<de>Adipositas Diagnose</de>
+			</name>
+			<link>
+				<es>/diagnostico-obesidad</es>
+				<en>/obesity-diagnosis</en>
+				<de>/diagnose-fettleibigkeit</de>
+			</link>
+		</item>
+		<active>
+			<name>
+				<es>Estudio Hormonal y Emocional EIS</es>
+				<en>EIS Hormonal and Emotional Study</en>
+				<de>Hormonelle und emotionale Untersuchung EIS</de>
+			</name>
+		</active>
+	</breadcrumbs>
+	<content>
+		<text>
+			<es>#b-#Electro Intersticial Scan EIS#/b-#</es>
+			<en>#b-#Electro Interstitieller Scanner EIS#/b-#</en>
+			<de>#b-#Electro Interstitieller Scanner EIS#/b-#</de>
+		</text>
+		<text>
+			<es>Dispositivo médico de diagnóstico clase 1 93/42 CEE</es>
+			<en>Class 1 93/42 EEC diagnostic medical device.</en>
+			<de>Medizisches Diagnosegrät Klasse 1 93/42 EWG</de>
+		</text>
+		<text>
+			<es>El EIS es un sistema electro médico de última generación que a través de una serie de electrodos, analiza la conductividad y resistencia de diferentes regiones del paciente registrando valores en:</es>
+			<en>EIS is the last-generation medical electrical device that, through a series of electrodotes, analyses the conductivity and resistance of the patient’s different regions, recording the following values:</en>
+			<de>Das EIS ist ein medizinisches elektrisches Gerät der neusten Generation, das durch eine Reihe von Elektroden die Leitfähigkeit und Resistenz der verschiedenen Zonen des Patienten analysiert und dabei folgende Werte registriert:</de>
+		</text>
+		<cards>
+			<card>
+				<title>
+					<es>Perfil Emocional</es>
+					<en>Emotional Profile</en>
+					<de>Emotionales Profil</de>
+				</title>
+				<text>
+					<es>Realizando un análisis transversal del sistema cerebral, cruzando datos de perfusión tisular, presión sanguínea, rigidez capilar, pH y oxigenación tisular de los Lóbulos frontales y temporales tanto derechos como izquierdos, podemos concretar un perfil bastante exacto del paciente, cuantificando:</es>
+					<en>By performing a transversal analysis of the cerebral system and cross-checking data on tissue perfusion, blood pressure, capillary stiffness, pH and tissue oxygenation of the left and right temporal and frontal lobes, we can determine a patient’s fairly-accurate profile by quantifying what follows:</en>
+					<de>Mit einer Querschnittsanalyse des Gehirnsystems und einem Datenabgleichvon Gewebeperfusion, Blutdruck, Gefäßsteifigkeit, pH-Wert und Sauerstoffzufuhr des Gewebes, der Frontallappen und Temporallappen rechts und links können wir ein sehr genaues Profil desPatienten erstellen, das Folgendes quantifiziert:</de>
+					<ul>
+						<li>
+							<es>#b-#Serotonina cerebral:#/b-# Controla los niveles de ansiedad y a saciedad principalmente a partir de las 16:00h-17:00h. Su secreción irregular marcaría una tendencia a la ansiedad en la franja horaria de tarde/noche, con episodios de atracones hacia el dulce.</es>
+							<en>#b-#Cerebral serotonine:#/b-# It controls anxiety and satiety levels, especially from 4-5 pm. Its irregular release would indicate a tendency to anxiety in the afternoon/night time-slot, with some binging episodes of sweet food.</en>
+							<de>#b-#Serotonin im Gehirn:#/b-# kontrolliert die Unersättlichkeit bis hin zur Sättigung, hauptsächlich ab 16:00h-17:00h. Das irreguläre Absondern zeigt eine Tendenz zur Unersättlichkeit in der Zeitnische Abends/Nachts mit Heißhungerattacken auf Süßes. </de>
+						</li>
+						<li>
+							<es>#b-#Dopamina cerebral:#/b-# Fundamental como percepción de bienestar, felicidad y ansiedad. Una secreción irregular o escasa nos indicaría tendencias depresivas o hacia la tristeza.</es>
+							<en>#b-#Cerebral dopamine:#/b-# It is key to perceive wellbeing, happiness and anxiety. An irregular or scarce release would show depressive tendencies or propensity to sadness.</en>
+							<de>#b-#Dopamin im Gehirn:#/b-# Wesentlich für das Wahrnehmen von Wohlbefinden, Glück und innerer Unruhe. Eine irreguläre oder geringe Absonderung zeigt Tendenzen zur Depression oder Traurigkeit an.</de>
+						</li>
+						<li>
+							<es>#b-#Adrenalina/Noradrenalina cerebral:#/b-# Capacidad de respuesta y alerta. Pudiéndonos mostrar el exceso o carencia de preocupaciones, o sensación de miedo/estrés.</es>
+							<en>#b-#Cerebral adrenaline/noradrenaline:#/b-# Response and alert capacity. It can pinpoint excess or lack of concerns or a feeling of fear/stress. </en>
+							<de>#b-#Adrenalin/ Noradrenalin im Gehirn:#/b-# Reaktionsfähigkeit und Wachsamkeit. Könnte uns den Überschuss oder Mangel an Sorgen oder Angst-/Stressgefühl anzeigen. </de>
+						</li>
+						<li>
+							<es>#b-#Acetilcolina:#/b-# Involucrada en aprendizaje y memoria a corto plazo. Uno de los indicadores para determinar los niveles de estrés.</es>
+							<en>#b-#Acetylcholine:#/b-# It is involved in learning and short-term memory and is one of the indicators used to determine stress levels.</en>
+							<de>#b-#Acetylcholin:#/b-# Verbunden mit Lernen und dem Kurzzeitgedächtnis. Ein Indiz für die Bestimmung des Stessniveaus.</de>
+						</li>
+						<li>
+							<es>#b-#Cociente de actividad SNA:#/b-# Indicador de actividad del sistema nervioso autónomo.</es>
+							<en>#b-#ANS-activity ratio:#/b-# Activity indicator of the autonomic nervous system.</en>
+							<de>#b-#Quotient der ANS Aktivität::#/b-# Indikator der der Aktivität des autonomen Nervensystems.</de>
+						</li>
+					</ul>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Perfil Hormonal / Endocrino</es>
+					<en>Hormonal / Endocrine Profile</en>
+					<de>Hormonelles/endokrines Profil</de>
+				</title>
+				<text>
+					<es>A través del análisis transversal de los tejidos de diferentes glándulas endocrinas como el tiroides, paratiroides y las glándulas adrenales, evaluamos los niveles de las siguientes hormonas:</es>
+					<en>Through the transversal analysis of different endocrine glands’ tissues such as thyroid, parathyroid and adrenal glands, we can assess the levels of the following hormones:</en>
+					<de>Mit der Querschnittsanalyse des Gewebes der verschieden endokrinen Drüsen, z.B. Schilddrüse, Nebenschilddrüse und Nebennierendrüsen, bewerten wir die Menge folgender Hormone:</de>
+					<ul>
+						<li>
+							<es>#b-#Cortisol:#/b-# Incide en el metabolismo de hidratos de carbono, proteínas y grasas. Sus niveles elevados nos podrían indicar una mayor tendencia a almacenar grasas en los adipocitos corporales.</es>
+							<en>#b-#Cortisol:#/b-# It influences the metabolism of carbohydrates, proteins and fats. High levels would imply a higher tendency to store fats in body adipocytes.</en>
+							<de>#b-#Kortisol:#/b-# Indiz für den Stoffwechsel von Kohlenhydraten, Proteinen und Fett. Ein hoher Anteil an Kortisol könnte eine größere Tendenz zur Speicherung von Fett in den Adipocyten (Fettzellen) anzeigen.</de>
+						</li>
+						<li>
+							<es>#b-#DHEA:#/b-# Involucrada en la producción del Estrógenos, y un indicativo para evaluar los niveles generales de vitalidad.</es>
+							<en>#b-#DHEA:#/b-# It is involved in extrogen production and is an indicator to assess general levels of vitality.</en>
+							<de>#b-#DHEA:#/b-# Wirkt mit bei der Herstellung von Östrogen und ist ein Anhaltspunkt  für die Bewertung der allgemeinen Vitalität.</de>
+						</li>
+						<li>
+							<es>#b-#Tirotropina TSH:#/b-# Estimulante del tiroides y gran reguladora metabólica, sus niveles elevados podrían indicarnos hipotiroidismo clínico o subclínico, traduciéndose en una excesiva complicación para perder peso, caída del cabello, sensación de cansancio…</es>
+							<en>#b-#Thyroid-stimulating hormone (TSH):#/b-# High levels of this thyroid stimulant and significant metabolic regulator could indicate clinical or subclinical hypothyroidism, implying an excessive complication to lose weight, hair loss, feeling of tiredness, etc.</en>
+							<de>#b-#Thyreotropin TSH:#/b-# Stimuliert die Schilddrüse und ist ein guter Regulierer des Stoffwechsels. Bei hohen Mengen könnte es klinischen und subklinischen Hypothyroidismus andeuten, der Gewichtsverlust erschwert, Haarausfall, Müdigkeitsgefühl</de>
+						</li>
+						<li>
+							<es>#b-#Hormona Paratiroidea:#/b-# Control de la homeostasis del calcio y del fósforo, imprescindible su control en mujeres con menopausia.</es>
+							<en>#b-#Parathyroid Hormone:#/b-# Calcium and phosphate homeostasis control, which is essential for menopausal women.</en>
+							<de>#b-#Parathormon:#/b-# Kontrolle der Homöostase von Kalzium und Phosphat. Diese Kontrolle ist unentbehrlich bei Frauen im Klimakterium (Wechseljahren).</de>
+						</li>
+						<li>
+							<es>#b-#Renina:#/b-# Control del consumo proteico y reguladora de la homeostasis o temperatura corporal.</es>
+							<en>#b-#Renin:#/b-# Protein-intake control and regulator of homeostatis or body temperature.</en>
+							<de>#b-#Renin:#/b-# Kontrolliert den Verbrauch von Proteinen und reguliert zugleich die Homöostase oder Körpertemperatur.</de>
+						</li>
+					</ul>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Funciones Metabólicas</es>
+					<en>Metabolic Functions:</en>
+					<de>Stoffwechselfunktionen</de>
+				</title>
+				<text>
+					<es>Cruzando el análisis transversal del hígado, vesícula biliar, páncreas y niveles de masa grasa, el sistema nos ofrece indicadores de:</es>
+					<en>By cross-checking the transversal analyss of liver, gall bladder, pancreas and fat-mass levels, the system provides us with indicators of:</en>
+					<de>Mit dem Abgleich der Querschnittsanalyse von Nieren, Gallenblase, Bauchspeicheldrüse und der Menge der Fettmasse bietet uns das System folgende Indikatoren:</de>
+					<ul>
+						<li>
+							<es>#b-#Resistencia a la Insulina:#/b-# Como perfil fundamental de la glucosa, que podría marcarnos una tendencia a la Diabetes tipo II.</es>
+							<en>#b-#Insuline Resistance:#/b-# Fundamental profile of glucose, which might indicate a tendency to diabetes type II.</en>
+							<de>#b-#Insulinresistenz:#/b-#Als grundlegendes Profil der Glukose, das uns eine Tendenz zu Diabetes Typ II anzeigen könnte.</de>
+						</li>
+						<li>
+							<es>#b-#Leptina:#/b-# Hormona implicada en la sensación de saciedad y hambre.</es>
+							<en>#b-#Leptin:#/b-# Hormone involved in the sense of hunger and satiety.</en>
+							<de>>#b-#Leptin:#/b-# Hormon verbunden mit Sättigungsgefühl und Hunger.</de>
+						</li>
+						<li>
+							<es>#b-#Indicadores de colesterol:#/b-# LDL con posibilidad de hígado graso o ácido úrico elevado, a contrastar con analítica sanguínea.</es>
+							<en>#b-#Cholesterol Indicators:#/b-# LDL with possibility of fatty liver or high levels of uric acid, to be checked with blood tests.</en>
+							<de>#b-#Indikatoren für Cholesterin:#/b-# LDL mit möglicher Fettleber oder hohen Harnsäurespiegel, zum Vergleichen mit der Blutanalyse.</de>
+						</li>
+						<li>
+							<es>#b-#Indicadores de triglicéridos:#/b-# En el balance de lípidos como marcadores de riesgo cardiovasculares.</es>
+							<en>#b-#Triglyceride Indicators:#/b-# Cardiovascular-risk markers in fat balance.</en>
+							<de>#b-#Indikatoren für Triglyceride:#/b-# Im Ausgleich der Lipide als Anzeiger von kardiovaskulärem Risiko.</de>
+						</li>
+					</ul>
+				</text>
+			</card>
+			<card>
+				<title>
+					<es>Balance Cardio Respiratorio</es>
+					<en>Cardio-respiratory Balance</en>
+					<de>Gleichgewicht Atmung und Herz</de>
+				</title>
+				<text>
+					<es>Al evaluar en paralelo los indicadores del sistema respiratorio con el profundo estudio cardiovascular que realiza el Electro Intersticial Scan, podemos evaluar en el paciente:</es>
+					<en>When carrying out an parallel assessment of the respiratory system indicators and of the in-depth EIS cardiovascular study, we can determine the following elements of a patient:</en>
+					<de>Bei der parallelen Bewertung der Indikatoren des Atmungssystems mit der eingehenden Herz- Kreislaufstudie, die der elektro-interstitielle Scanner durchführt, können wir Folgendes beim Patienten bewerten:</de>
+					<ul>
+						<li>
+							<es>#b-#Balance de Oxigeno:#/b-# Y Dióxido de carbono, determinando en gran medida la oxigenación celular, cerebral y de los tejidos.</es>
+							<en>#b-#Oxygen Balance:#/b-# And carbone dioxide’s balance, mainly determined by cellular, cerebral and tissue oxygenation.</en>
+							<de>#b-#Ausgleich von Sauerstoffund#/b-# Kohlendioxid. Dabei können wir weitgehend die Sauerstoffzufuhr von Zellen, dem Gehirn und Gewebe feststellen.</de>
+						</li>
+						<li>
+							<es>#b-#Frecuencia respiratoria:#/b-# Determinando grados de ventilación y esfuerzo respiratorio y cardiovascular.</es>
+							<en>#b-#Breathing Rate:#/b-# Determining levels of ventilation, respiratory and cardiovascular effort. </en>
+							<de>#b-#Atemfrequenz:#/b-# Dabei werden die Lungenventilation, Atemantrieb und kardiovaskuläre Anstrengungen gemessen. </de>
+						</li>
+						<li>
+							<es>#b-#Indicadores de riesgo de aterosclerosis e isquemia:#/b-# Combinando los análisis de la resistencia vascular sistémica, la fracción de eyección y el gasto cardíaco.</es>
+							<en>#b-#Atherosclerosis and Isquemia Risk Indicators:#/b-# Combining analyses of systemic vascular resistance, ejection fration and cardiac output.</en>
+							<de>#b-#Indikatoren der Gefahr einer und Atherosklerose und Ischämie:#/b-# Kombination der Analysen von dem Gefäßwiderstand (Kreislaufwiderstand), Ejektionsfraktion (EF) und Herzzeitvolumens (HZV).</de>
+						</li>
+						<li>
+							<es>#b-#Indicadores de presión arterial:#/b-# Cruzando los datos de gasto cardíaco, volúmenes de eyección sistólica, índice cardiaco, volumen sanguíneo y valores de presión sistólica y diastólica.</es>
+							<en>#b-#Blood-pressure Indicators:#/b-# Cross-checking data of cardiac output, systolic ejection volumes, heart rate, blood volume, as well as systolic and diastolic blood-pressure values.</en>
+							<de>#b-#Indikatoren für den Blutdruck:#/b-# Die Abgleichung der Daten des Herzzeitvolumens (HZV), systolisches Volumen, Herzaktivität, Blutvolumen, Werte des systolischen und diastolischen Drucks</de>
+						</li>
+					</ul>
+				</text>
+			</card>
+		</cards>
+	</content>
+</page>
